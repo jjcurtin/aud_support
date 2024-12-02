@@ -1,0 +1,55 @@
+---
+title: "RP resources"
+format: html
+editor: visual
+---
+
+-   
+
+    ## Theory of RP
+
+    -   Substance use has become the predominant coping response to meeting life’s challenges. Consequently, individuals with a substance use disorder cannot stop using because they lack the skills needed to cope with these challenges. The key to initiating and sustaining abstinence – that is, preventing relapse – is to develop a range of skills to cope with anticipated and potentially unforeseen challenges.
+
+    -   As people accumulate successful recovery experiences, their confidence or self-efficacy in solving life’s problems without substances increases, thereby making it increasingly more likely that they will choose to avoid or be able to cope with high-risk situations.
+
+    -   One assumption in RP models is that individuals are already motivated for abstinence or to reduce their drinking. Thus some evidence-informed clinicians may also use Motivational Interviewing (MI) or Motivational Enhancement Therapy (MET) to address the varying levels of readiness to change that patients might possess when they present to treatment.
+
+    ## Skill Categories
+
+-   **Building awareness** around the potential negative consequences of encountering high-risk situations and thoughts that associate substance use with good outcomes (i.e., it challenges positive expectancies surrounding substance use
+
+-   **Helping the patient to develop and expand their repertoire of coping skills** that address specific high-risk situations for relapse (often called “triggers”), whether those situations lead to drug use-related thoughts, feelings, or bodily sensations
+
+    -   Skills range from techniques to communicate with others when in a risky situation (e.g., how to confidently and comfortably say “no” to a drink if it is offered, called “assertive drink and drug refusal”), to “urge surfing,” a technique to help individuals cope with the intense longings to consume the substance that occurs during cravings
+
+-   **Planning for “emergencies.”** That is, unexpected situations where the patient finds themselves suddenly struggling to abstain from drinking or using other drugs
+
+-   **Assessing and reinforcing the patient’s confidence** in his/her ability to abstain from substance use, even in the face of challenging situations (e.g., self-efficacy)
+
+-   Finding alternative ways of thinking about positive thoughts related to substance use, and negative thoughts related to abstinence, sometimes called “**cognitive restructuring.”** This activity includes discussing the thinking “traps” (sometimes called cognitive distortions, or unhelpful thinking styles) that can develop after years of drinking and using other drugs. See visuals below for examples of how this work might look
+
+    ## Sample Materials
+
+<https://smartrecovery.org/toolbox>
+
+<https://nowmattersnow.org/learn-skills/>
+
+<https://www.recoveryanswers.org/resource/relapse-prevention-rp/>
+
+[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://store.samhsa.gov/sites/default/files/sma15-4154.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://store.samhsa.gov/sites/default/files/sma15-4154.pdf)
+
+Apps – recovery path, sober, I am sober, SMART recovery
+
+## Notes
+
+From lab meeting 12/2
+
+Need to consider optimal size of activity
+
+Possible to break up worksheets into multiple messages
+
+Possible branching of base skills (e.g. relapse drift description) into smaller recommended activities
+
+No assumptions of have/have not completed any other modules
+
+Brainstorm acknowledgement of protective factors
