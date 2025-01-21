@@ -40,6 +40,14 @@ editor: visual
 
 Apps – recovery path, sober, I am sober, SMART recovery
 
+## Paid resources currently used in healthcare
+
+Atalan tech: clinican wellbeing prediction used in SSM health <https://www.atalantech.com/>
+
+Silvercloud/Amwell: <https://business.amwell.com/silvercloud-by-amwell?utm_source=silvercloud&utm_medium=website&utm_campaign=us_redirect>
+
+-   In use at Madison and MKE VAs, specific self guided aud module
+
 ## Notes
 
 From lab meeting 12/2
