@@ -1,0 +1,22 @@
+# Support Module Matrix
+
+
+This document will describe (in brief) the relevant support modules that could be recommended for each potentially important risk featured (at times sub-divided by lapse probability).   There will be a section for each risk feature. Start with risk features based on the EMA items and we can later add features from GPS as those models are trained.   Risk features can be organized as second level headings.   Third level  headings can be used for sub-categories based on lapse probability.   The content in each "cell" can be the name of a module and a link to a qmd in the /modules folder that either further describes the support or eventually contains the actual content that would be presented.
+
+
+## EMA item 1i (replace with descriptive name)
+
+
+### High lapse probability (only if needed to sub divide)
+
+### Moderate lapse probability
+
+### Low lapse probability
+
+
+
+## EMA item 2
+
+
+
+
