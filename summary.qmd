@@ -12,8 +12,13 @@ High low vs categorical levels of items?
 
 
 ### High lapse probability (only if needed to sub divide)
+* Relapse prevention plan
+* reach out to support team
+*Risk assessment
 
 ### Moderate lapse probability
+*Mt Change - normalization of slips
+
 
 ### Low lapse probability
 
@@ -41,7 +46,7 @@ A 0 - 12, mild, mod, strong
 ### Low lapse probability
 
 ## EMA item 3 Risky situation
-"...rate most instense"
+"...rate most intense"
 A 0 - 12, no risks, mild, mod, strong
 
 ### High lapse probability (only if needed to sub divide)
