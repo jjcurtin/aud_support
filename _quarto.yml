@@ -1,32 +1,21 @@
 project:
-  type: book
-  output-dir: docs
+  type: manuscript
+
+manuscript:
+  article: index.qmd
+
+format:
+  html:
+    comments:
+      hypothesis: true
+  docx: default
+  jats: default
+
+  # (other formats)
+  # pdf: default
 
 execute:
-  echo: true
-  warning: false
-  message: false
-
-toc: true
-toc-depth: 3
-# bibliography: references.bib
-
-book: 
-  title: Notebook of AUD support resources
-  author:
-  - Sarah Sant'ana, MS
-  site-url: https://github.io/jjcurtin/aud_support
-  repo-url: https://github.com/jjcurtin/aud_support
-  repo-branch: main
-  repo-actions: [edit]
-  sharing: [facebook, linkedin]
-  page-navigation: true
-  chapters:
-    - index.qmd
-    - relapse_prevention.qmd
-    - reference_materials.qmd
+  freeze: true
 
 
-    
 
-    
