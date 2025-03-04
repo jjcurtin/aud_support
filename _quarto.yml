@@ -1,21 +1,29 @@
 project:
-  type: manuscript
-
-manuscript:
-  article: index.qmd
-
-format:
-  html:
-    comments:
-      hypothesis: true
-  docx: default
-  jats: default
-
-  # (other formats)
-  # pdf: default
+  type: book
 
 execute:
-  freeze: true
+  echo: true
+  warning: true
+  message: true
+  freeze: auto
 
+toc: true
+toc-depth: 3
+css: book.css
+callout-icon: false
+code-fold: show
 
+book:
+  title: "AUD Recovery Activities"
+  author: Sarah Sant'ana
+  site-url: https://github.io/jjcurtin/aud_support
+  repo-url: https://github.com/jjcurtin/aud_support
+  repo-branch: main
+  repo-actions: [edit]
+  page-navigation: true
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - craving.qmd
+    - affect.qmd
 

@@ -1,12 +1,5 @@
----
-title: .
-authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
-    corresponding: true
-bibliography: references.bib
----
+## AUD Support.unnumbered}
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+This is the home page
+
+
