@@ -4,9 +4,299 @@
     "href": "index.html",
     "title": "AUD Recovery Activities",
     "section": "",
-    "text": "0.1 AUD Support.unnumbered}\nThis is the home page",
+    "text": "AUD Support\nThis is the home page",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>AUD Support.unnumbered}</span>"
+      "AUD Support"
+    ]
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "1  notes",
+    "section": "",
+    "text": "1.1 Current ideas:\nNotes for aud support meetings and ongoing questions/ideas",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#current-ideas",
+    "href": "notes.html#current-ideas",
+    "title": "1  notes",
+    "section": "",
+    "text": "Modules structured around predictor\n\nAddition of one extra module that is general well being focused to represent no important/predictive features\nNeed to look in data to confirm that no negative/positive direction features are important for lapse risk (modules structured around most predictive features are in expected direction for risk)\nNeed to GPS predictors to see if this still makes sense\nDiscuss pros and cons of predictor defined modules vs therapeudic class (e.g. mindfulness, motivation enhancement, urge surfing) defined modules\n\nFirst time getting a module, recommendation is read module landing page (psychoeducation)\nContinuing questions\n\nDifferent modules needed for high vs low levels of predictors?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-structure",
+    "href": "notes.html#ema-item-structure",
+    "title": "1  notes",
+    "section": "1.2 EMA item structure",
+    "text": "1.2 EMA item structure\nThis document will describe (in brief) the relevant support modules that could be recommended for each potentially important risk featured (at times sub-divided by lapse probability). There will be a section for each risk feature. Start with risk features based on the EMA items and we can later add features from GPS as those models are trained. Risk features can be organized as second level headings. Third level headings can be used for sub-categories based on lapse probability. The content in each “cell” can be the name of a module and a link to a qmd in the /modules folder that either further describes the support or eventually contains the actual content that would be presented.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-1-past-use",
+    "href": "notes.html#ema-item-1-past-use",
+    "title": "1  notes",
+    "section": "2.1 EMA item 1 Past Use",
+    "text": "2.1 EMA item 1 Past Use\n“Have you drank any alcohol that you have not yet reported)\n\n2.1.1 High lapse probability (only if needed to sub divide)\n\nRelapse prevention plan\nreach out to support team *Risk assessment\n\n\n\n2.1.2 Moderate lapse probability\n*Mt Change - normalization of slips\n\n\n2.1.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-1.5-abstinence",
+    "href": "notes.html#ema-item-1.5-abstinence",
+    "title": "1  notes",
+    "section": "2.2 EMA item 1.5 Abstinence",
+    "text": "2.2 EMA item 1.5 Abstinence\n“Is your goal still to remain abstinent in the future?” A: No, uncertain, yes\n\n2.2.1 High lapse probability (only if needed to sub divide)\n\n\n2.2.2 Moderate lapse probability\n\n\n2.2.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-2-urge",
+    "href": "notes.html#ema-item-2-urge",
+    "title": "1  notes",
+    "section": "2.3 EMA item 2 Urge",
+    "text": "2.3 EMA item 2 Urge\n“…How intense wa your greatest urge to drink alcohol” A 0 - 12, mild, mod, strong\n\n2.3.1 High lapse probability (only if needed to sub divide)\n\n\n2.3.2 Moderate lapse probability\n\n\n2.3.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-3-risky-situation",
+    "href": "notes.html#ema-item-3-risky-situation",
+    "title": "1  notes",
+    "section": "2.4 EMA item 3 Risky situation",
+    "text": "2.4 EMA item 3 Risky situation\n“…rate most intense” A 0 - 12, no risks, mild, mod, strong\n\n2.4.1 High lapse probability (only if needed to sub divide)\n\n\n2.4.2 Moderate lapse probability\n\n\n2.4.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-4-hasslestressful-event",
+    "href": "notes.html#ema-item-4-hasslestressful-event",
+    "title": "1  notes",
+    "section": "2.5 EMA item 4 Hassle/stressful event",
+    "text": "2.5 EMA item 4 Hassle/stressful event\n“…rate most intense” A 0 - 12, no events, mild, mod, strong\n\n2.5.1 High lapse probability (only if needed to sub divide)\n\n\n2.5.2 Moderate lapse probability\n\n\n2.5.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-5-pleasant-event",
+    "href": "notes.html#ema-item-5-pleasant-event",
+    "title": "1  notes",
+    "section": "2.6 EMA item 5 Pleasant event",
+    "text": "2.6 EMA item 5 Pleasant event\n“…rate most intense” A 0 - 12, no events, mild, mod, strong\n\n2.6.1 High lapse probability (only if needed to sub divide)\n\n\n2.6.2 Moderate lapse probability\n\n\n2.6.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-6-current-feeling-valance",
+    "href": "notes.html#ema-item-6-current-feeling-valance",
+    "title": "1  notes",
+    "section": "2.7 EMA item 6 Current feeling: Valance",
+    "text": "2.7 EMA item 6 Current feeling: Valance\nA: 1 unpleasant/unhappy - 11 pleasant/happy\n\n2.7.1 High lapse probability (only if needed to sub divide)\n\n\n2.7.2 Moderate lapse probability\n\n\n2.7.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-7-current-feeling-arousal",
+    "href": "notes.html#ema-item-7-current-feeling-arousal",
+    "title": "1  notes",
+    "section": "2.8 EMA item 7 Current feeling: Arousal",
+    "text": "2.8 EMA item 7 Current feeling: Arousal\nA: 1 calm/sleepy - 11 aroused/alert\n\n2.8.1 High lapse probability (only if needed to sub divide)\n\n\n2.8.2 Moderate lapse probability\n\n\n2.8.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
+    "href": "notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
+    "title": "1  notes",
+    "section": "2.9 EMA item 8 Future risky situation in the next week (morning survey only)",
+    "text": "2.9 EMA item 8 Future risky situation in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.9.1 High lapse probability (only if needed to sub divide)\n\n\n2.9.2 Moderate lapse probability\n\n\n2.9.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
+    "href": "notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
+    "title": "1  notes",
+    "section": "2.10 EMA item 9 Future stressfull event in the next week (morning survey only)",
+    "text": "2.10 EMA item 9 Future stressfull event in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.10.1 High lapse probability (only if needed to sub divide)\n\n\n2.10.2 Moderate lapse probability\n\n\n2.10.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
+    "href": "notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
+    "title": "1  notes",
+    "section": "2.11 EMA item 10 Future alcohol use in the next week (morning survey only)",
+    "text": "2.11 EMA item 10 Future alcohol use in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.11.1 High lapse probability (only if needed to sub divide)\n\n\n2.11.2 Moderate lapse probability\n\n\n2.11.3 Low lapse probability",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#skill-categories",
+    "href": "notes.html#skill-categories",
+    "title": "1  notes",
+    "section": "3.1 Skill Categories",
+    "text": "3.1 Skill Categories\n\nBuilding awareness around the potential negative consequences of encountering high-risk situations and thoughts that associate substance use with good outcomes (i.e., it challenges positive expectancies surrounding substance use\nHelping the patient to develop and expand their repertoire of coping skills that address specific high-risk situations for relapse (often called “triggers”), whether those situations lead to drug use-related thoughts, feelings, or bodily sensations\n\nSkills range from techniques to communicate with others when in a risky situation (e.g., how to confidently and comfortably say “no” to a drink if it is offered, called “assertive drink and drug refusal”), to “urge surfing,” a technique to help individuals cope with the intense longings to consume the substance that occurs during cravings\n\nPlanning for “emergencies.” That is, unexpected situations where the patient finds themselves suddenly struggling to abstain from drinking or using other drugs\nAssessing and reinforcing the patient’s confidence in his/her ability to abstain from substance use, even in the face of challenging situations (e.g., self-efficacy)\nFinding alternative ways of thinking about positive thoughts related to substance use, and negative thoughts related to abstinence, sometimes called “cognitive restructuring.” This activity includes discussing the thinking “traps” (sometimes called cognitive distortions, or unhelpful thinking styles) that can develop after years of drinking and using other drugs. See visuals below for examples of how this work might look\n3.2 Sample Materials\nhttps://stepaway.biz/\n\nhttps://smartrecovery.org/toolbox\nhttps://nowmattersnow.org/learn-skills/\nhttps://www.recoveryanswers.org/resource/relapse-prevention-rp/\nextension://efaidnbmnnnibpcajpcglclefindmkaj/https://store.samhsa.gov/sites/default/files/sma15-4154.pdf\nApps – recovery path, sober, I am sober, SMART recovery",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#paid-resources-currently-used-in-healthcare",
+    "href": "notes.html#paid-resources-currently-used-in-healthcare",
+    "title": "1  notes",
+    "section": "3.3 Paid resources currently used in healthcare",
+    "text": "3.3 Paid resources currently used in healthcare\nAtalan tech: clinican wellbeing prediction used in SSM health https://www.atalantech.com/\nSilvercloud/Amwell: https://business.amwell.com/silvercloud-by-amwell?utm_source=silvercloud&utm_medium=website&utm_campaign=us_redirect\n\nIn use at Madison and MKE VAs, specific self guided aud module",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "notes.html#notes",
+    "href": "notes.html#notes",
+    "title": "1  notes",
+    "section": "3.4 Notes",
+    "text": "3.4 Notes\nFrom lab meeting 12/2\nNeed to consider optimal size of activity\nPossible to break up worksheets into multiple messages\nPossible branching of base skills (e.g. relapse drift description) into smaller recommended activities\nNo assumptions of have/have not completed any other modules\nBrainstorm acknowledgement of protective factors",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "craving.html",
+    "href": "craving.html",
+    "title": "2  craving",
+    "section": "",
+    "text": "3 Craving\nAs you change your drinking, it’s normal and common to have urges or a craving for alcohol. The words “urge” and “craving” refer to a broad range of thoughts, physical sensations, or emotions that tempt you to drink, even though you have at least some desire not to. You may feel an uncomfortable pull in two directions or sense a loss of control.\nFortunately, urges to drink are short-lived, predictable, and controllable. With time, and by practicing new responses, you’ll find that your urges to drink will lose strength, and you’ll gain confidence in your ability to deal with urges that may still arise at times.\nHere are some important facts about craving to keep in mind as you begin to work with identifying and coping with urges during recovery:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+    ]
+  },
+  {
+    "objectID": "craving.html#what-are-cravings",
+    "href": "craving.html#what-are-cravings",
+    "title": "2  craving",
+    "section": "3.1 What are cravings?",
+    "text": "3.1 What are cravings?\nBroadly, craving refers to a strong desire to use alcohol or other drugs that, if unfulfilled, produces an often powerful degree of physical and/or mental suffering. Cravings are the result of long-term alcohol and/or other drug use and can continue for some time after the use has stopped. People with a history of heavier use might experience stronger or more frequent urges. Experiencing cravings is a normal part of recovery and is common across all stages of recovery.\nCravings and urges can show up in many ways, such as:\n\nPhysical sensations (e.g., sweating, heart racing, queasy stomach)\nThoughts (e.g., “A drink sounds good right now”, “I’d rather be with my friends getting drunk tonight”)\nPositive expectancies (e.g., “I would have more fun if I was drinking”)\nEmotions (e.g., anxiety, depression, irritability)\nBehaviors (e.g., pausing while passing the beer display in a store, hanging out in bars or with others who are drinking).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+    ]
+  },
+  {
+    "objectID": "craving.html#cravings-are-predictable",
+    "href": "craving.html#cravings-are-predictable",
+    "title": "2  craving",
+    "section": "3.2 Cravings are PREDICTABLE",
+    "text": "3.2 Cravings are PREDICTABLE\nCravings can occur in response to triggers (e.g. being around people or situations that remind someone of past alcohol use) or withdrawal (stopping regular use of alcohol).\nWithdrawal: Our brains begin to regulate themselves with alcohol. Without it, the brain makes chemical demands and requests for alcohol. You can expect cravings from withdrawal to be present at the beginning of recovery and diminish over time\nTriggers have to do with our memories of alcohol. Alcohol and other drugs flood our brain with reward chemicals like dopamine. Long after our last drink, our brains and memories still associate drinking with this flood of reward. When we’re exposed to a cue or stimulus that triggers those latent memories, our brains beg us for more reward chemicals. And thus a craving is born.\nCravings can be internal or external:\nInternal Situations:\n\nUnpleasant emotions (e.g., frustration, depression, anger, feeling “stressed out”)\nPleasant emotions (e.g., joy, excitement)\nPhysical feelings (e.g., sick, shaky, tense, in pain)\nThoughts about drinking (e.g., “I’ll feel better if I get drink”)\n\nExternal Situations\n\nExposure to alcohol (e.g. alcohol in the home)\nSmell, sight and sounds of other people drinking\nParticular times during the day when drinking used to occur (e.g., getting off work, weekends, payday)\nStimuli previously associated with drinking (e.g., wine glasses, bar, , ATM machine)\nStimuli previously associated with withdrawal (e.g., hospital, aspirin, morning)\n\nThe more we learn to better identify our cravings, the better we can predict them",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+    ]
+  },
+  {
+    "objectID": "craving.html#cravings-are-temporary",
+    "href": "craving.html#cravings-are-temporary",
+    "title": "2  craving",
+    "section": "3.3 Cravings are TEMPORARY",
+    "text": "3.3 Cravings are TEMPORARY\nThough the experience of cravings may be incredibly intense, it is important to remember that cravings are time-limited and WILL PASS. Most cravings last only a few minutes.\nA craving is just like a wave at the beach. Every wave in a set starts off small, builds up to its highest point, and then breaks and flows away to shore. Each individual wave never lasts more than a few minutes. A craving is just the same. It starts off small and then builds up. But it peaks, just like a wave, and will eventually break and disappear. This whole process usually doesn’t last more than minutes. Cravings are time-limited.\nCravings will lose their power if they are not reinforced by using or drinking in response. Even if use occurs only once in a while, it will still keep those cravings alive. Cravings are like stray animals – keep feeding them and they will keep coming back. So in a very real sense these cravings are controllable.\nCravings tend to be stronger earlier on, then weaken, and eventually fade over time.\nEach time a person does something other than drink and/or use others drugs, the craving loses power.\nStopping alcohol and other drug use completely is the quickest way to get rid of the cravings.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+    ]
+  },
+  {
+    "objectID": "affect_arousal.html",
+    "href": "affect_arousal.html",
+    "title": "3  affect_arousal",
+    "section": "",
+    "text": "3.1 Current feeling\n“How are you feeling right now?”\n2 questions: 1 unpleasant happy - 11 pleasant/happy and 1 calm/sleepy - 11 aroused/alert\nAssumed direction: probably most important if unpleasant/unhappy and calm/sleepy (depressed/low energy) or unplesant/unhappy and high arousal (anxiety)\nCan consider if we want to have depressed/low energy map with increasing positive events, separate module that is anxiety? Or one feelings module that provides psychoeducation about role of emotion, cognition, physiology in current experience",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>affect_arousal</span>"
+    ]
+  },
+  {
+    "objectID": "abstinence_goal.html",
+    "href": "abstinence_goal.html",
+    "title": "4  abstinence_goal",
+    "section": "",
+    "text": "5 Abstinence goal\n“Is your goal still to remain abstinent in the future?”\nAssumed direction: No or Uncertain\nLanding page - Patterns of motivation in AUD treatment, importance of maintaining motivation",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>abstinence_goal</span>"
+    ]
+  },
+  {
+    "objectID": "past_use.html",
+    "href": "past_use.html",
+    "title": "5  past_use",
+    "section": "",
+    "text": "6 Past Use\n\n“Have you drank any alcohol that you have not yet reported?”\nAssumed direction: Yes\nHomepage - psychoeducation about role of lapses in AUD treatment, common pitfalls",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>past_use</span>"
+    ]
+  },
+  {
+    "objectID": "future_use.html",
+    "href": "future_use.html",
+    "title": "6  future_use",
+    "section": "",
+    "text": "7 Future use\nFuture use\n“How likely are you to drink any alcohol within the next week”\nAssumed direction: Positive (1 very unlikely - 11 very likely)\nLanding page: Can consider using same landing page for importace of motivation in AUD treatment, or this landing page provides an overview of rationale behind relapse prevention",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>future_use</span>"
+    ]
+  },
+  {
+    "objectID": "risky_events.html",
+    "href": "risky_events.html",
+    "title": "7  risky_events",
+    "section": "",
+    "text": "8 Risky Events\nPast risky situations\n“Since your last survey, did you encounter any risky situations (people, places, or things)? If yes, rate the intensity of the situation. If you experienced more than one risky situation, rate the most intense one.”\nAssumed direction: non-zero (0 - 12)\n\nLanding page - Psychoeducation about linking risky situations to emotional, physiological, cognitive experience. Goal is to ground their experience and develop ability to reflect and recognize patterns (Learn to recognize triggers)\nFuture risky situations\n“How likely are you to encounter risky situations (people, places, or things) within the next week?\nAssumed direction: non-zero (1 - 11)\nLanding page - importance of planning for risky situations and common pitfalls (What to do when you recognize a trigger)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>risky_events</span>"
+    ]
+  },
+  {
+    "objectID": "stressful_events.html",
+    "href": "stressful_events.html",
+    "title": "8  stressful_events",
+    "section": "",
+    "text": "9 Stressful events\nPast stressful event\n“Since your last survey, has a hassle or stressful event occurred? If yes, rate the intensity of the event. If you experienced more than one hassle or stressful event, rate the most intense one.”\nAssumed direction: non-zero (0 - 12)\nLanding page - Psychoeducation about role of stress in recovery, importance of measuring and making time for stress reduction\nFuture stressful events\n“How likely are you to encounter a stressful event within the next week?\nAssumed direction: non-zero (1 - 11)\nLanding page - avoidable vs unavoidable stressor psychoeducation, normalization/reframing of stress, planning for stress reduction before/after",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>stressful_events</span>"
+    ]
+  },
+  {
+    "objectID": "positive_events.html",
+    "href": "positive_events.html",
+    "title": "9  positive_events",
+    "section": "",
+    "text": "10 Positive events\n“Since your last survey, has a pleasant or positive event occurred? If yes, rate the intensity of the event. If you experienced more than one pleasant or positive event, rate the most intense one.”\nAssumed direction: 0 or low (0 - 12) though also potential for pleasant events to increase use\nMight want to consider including a likelihood of future positive events?\nLanding page - Psychoeducation about common difficulty finding positive activities/people separate from past use patterns, role of behavioral activation, increase motivation for self care",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>positive_events</span>"
+    ]
+  },
+  {
+    "objectID": "general_wellness.html",
+    "href": "general_wellness.html",
+    "title": "10  general_wellness",
+    "section": "",
+    "text": "11 General wellness\nLow risk/no predictors\nLanding page: Importance of maintaining physical and mental health, reflection on past wins to keep motivation, common pitfalls when things are going well",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>general_wellness</span>"
     ]
   }
 ]
