@@ -1,0 +1,15 @@
+---
+title: "positive_events"
+format: html
+editor: visual
+---
+
+# Positive events
+
+"Since your last survey, has a pleasant or positive event occurred? If yes, rate the intensity of the event. If you experienced more than one pleasant or positive event, rate the most intense one."
+
+Assumed direction: 0 or low (0 - 12) though also potential for pleasant events to increase use
+
+Might want to consider including a likelihood of future positive events?
+
+Landing page - Psychoeducation about common difficulty finding positive activities/people separate from past use patterns, role of behavioral activation, increase motivation for self care

@@ -24,6 +24,14 @@ book:
   reader-mode: true
   chapters:
     - index.qmd
+    - notes.qmd
     - craving.qmd
-    - affect.qmd
+    - affect_arousal.qmd
+    - abstinence_goal.qmd
+    - past_use.qmd
+    - future_use.qmd
+    - risky_events.qmd
+    - stressful_events.qmd
+    - positive_events.qmd
+    - general_wellness.qmd
 

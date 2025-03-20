@@ -1,0 +1,15 @@
+---
+title: "affect_arousal"
+format: html
+editor: visual
+---
+
+## Current feeling
+
+"How are you feeling right now?"
+
+2 questions: 1 unpleasant happy - 11 pleasant/happy and 1 calm/sleepy - 11 aroused/alert
+
+Assumed direction: probably most important if unpleasant/unhappy and calm/sleepy (depressed/low energy) or unplesant/unhappy and high arousal (anxiety)
+
+Can consider if we want to have depressed/low energy map with increasing positive events, separate module that is anxiety? Or one feelings module that provides psychoeducation about role of emotion, cognition, physiology in current experience

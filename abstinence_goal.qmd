@@ -1,0 +1,13 @@
+---
+title: "abstinence_goal"
+format: html
+editor: visual
+---
+
+# **Abstinence goal**
+
+"Is your goal still to remain abstinent in the future?"
+
+Assumed direction: No or Uncertain
+
+Landing page - Patterns of motivation in AUD treatment, importance of maintaining motivation

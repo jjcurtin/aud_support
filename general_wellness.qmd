@@ -1,0 +1,11 @@
+---
+title: "general_wellness"
+format: html
+editor: visual
+---
+
+# General wellness
+
+**Low risk/no predictors**
+
+Landing page: Importance of maintaining physical and mental health, reflection on past wins to keep motivation, common pitfalls when things are going well

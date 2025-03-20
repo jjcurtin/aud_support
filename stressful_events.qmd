@@ -1,0 +1,23 @@
+---
+title: "stressful_events"
+format: html
+editor: visual
+---
+
+# Stressful events
+
+**Past stressful event**
+
+"Since your last survey, has a hassle or stressful event occurred? If yes, rate the intensity of the event. If you experienced more than one hassle or stressful event, rate the most intense one."
+
+Assumed direction: non-zero (0 - 12)
+
+Landing page - Psychoeducation about role of stress in recovery, importance of measuring and making time for stress reduction
+
+**Future stressful events**
+
+"How likely are you to encounter a stressful event within the next week?
+
+Assumed direction: non-zero (1 - 11)
+
+Landing page - avoidable vs unavoidable stressor psychoeducation, normalization/reframing of stress, planning for stress reduction before/after
