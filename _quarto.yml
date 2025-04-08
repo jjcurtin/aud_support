@@ -34,4 +34,8 @@ book:
     - stressful_events.qmd
     - positive_events.qmd
     - general_wellness.qmd
+    - part: "Craving"
+      chapters: 
+      - craving_psychoed.qmd
+      - urge_surfing.qmd
 
