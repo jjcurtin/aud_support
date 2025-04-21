@@ -6,8 +6,6 @@ editor: visual
 
 # 
 
-![](txt_manuals/urge-surfing-handout.pdf)
-
-![](images/clipboard-4231344222.png)
+![](images/urge_surfing.PNG)
 
 ![](images/clipboard-4231344222.png)

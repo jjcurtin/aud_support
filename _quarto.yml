@@ -34,8 +34,20 @@ book:
     - stressful_events.qmd
     - positive_events.qmd
     - general_wellness.qmd
+    - part: "Past Use"
+      chapters: 
+        - past_use_psychoed.qmd
+        - past_use_activities.qmd
     - part: "Craving"
       chapters: 
       - craving_psychoed.qmd
-      - urge_surfing.qmd
+      - craving_activities.qmd
+      chapters: 
+        - future_efficacy_psychoed.qmd
+        - future_efficacy_activities.qmd
+      - part: "Risky location"
+        chapters:
+        - risky_location_psychoed.qmd
+        - risky_location_activities.qmd
+
 
