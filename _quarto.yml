@@ -24,29 +24,27 @@ book:
   reader-mode: true
   chapters:
     - index.qmd
-    - notes.qmd
-    - craving.qmd
-    - affect_arousal.qmd
-    - abstinence_goal.qmd
-    - past_use.qmd
-    - future_use.qmd
-    - risky_events.qmd
-    - stressful_events.qmd
-    - positive_events.qmd
-    - general_wellness.qmd
+    - part: "Notes" 
+      chapters: 
+        - general_notes.qmd
+        - risky_situations.qmd
+        - soc_pressure_spec_occ.qmd
+        - craving.qmd
+        
     - part: "Past Use"
       chapters: 
         - past_use_psychoed.qmd
         - past_use_activities.qmd
     - part: "Craving"
       chapters: 
-      - craving_psychoed.qmd
-      - craving_activities.qmd
+        - craving_psychoed.qmd
+        - craving_activities.qmd
+    - part: "Future efficacy"
       chapters: 
         - future_efficacy_psychoed.qmd
         - future_efficacy_activities.qmd
-      - part: "Risky location"
-        chapters:
+    - part: "Risky location"
+      chapters:
         - risky_location_psychoed.qmd
         - risky_location_activities.qmd
 
