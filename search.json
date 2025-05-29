@@ -10,293 +10,399 @@
     ]
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
+    "objectID": "general_notes.html",
+    "href": "general_notes.html",
     "title": "1  notes",
     "section": "",
-    "text": "1.1 Current ideas:\nNotes for aud support meetings and ongoing questions/ideas",
+    "text": "1.0.1 Post meeting 5/20\nCurrent goal: map all available predictors from ema, gps, and monthly to txt categories\nDecide what warrants a separate txt category. E.G. does risky location need different txt than risky event? More general is probably best here.\nFocus only on assuming features that increase lapse risk, and that lapse risk is high\nIn general, if risk is low, suggest general wellness – do not worry about feature mapped treatments for low risk\nConsider context of certain predictor categories. For example, if location AA is increasing risk, likely due to them seeking out additional support during time of need. What would this look like in terms of txt? Maybe suggest increased utilization of AA? Is this separate from increased risk broadly?",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#current-ideas",
-    "href": "notes.html#current-ideas",
+    "objectID": "general_notes.html#support-modules",
+    "href": "general_notes.html#support-modules",
     "title": "1  notes",
-    "section": "",
-    "text": "Modules structured around predictor\n\nAddition of one extra module that is general well being focused to represent no important/predictive features\nNeed to look in data to confirm that no negative/positive direction features are important for lapse risk (modules structured around most predictive features are in expected direction for risk)\nNeed to GPS predictors to see if this still makes sense\nDiscuss pros and cons of predictor defined modules vs therapeudic class (e.g. mindfulness, motivation enhancement, urge surfing) defined modules\n\nFirst time getting a module, recommendation is read module landing page (psychoeducation)\nContinuing questions\n\nDifferent modules needed for high vs low levels of predictors?",
+    "section": "1.1 Support modules",
+    "text": "1.1 Support modules\n\n\n\n\n\n\n\n\n\nModule name\nNum features\nDescription\nExample\n\n\n\n\nManaging risk\n10\nFocus on increased awareness of triggers, self reflection of supportive/unsupportive actions\nMatrix ERS 2B external trigger chart\n\n\nSocial/celebratory/special events\n4\nIdentification of role of positive emotions/events on relapse risk, abstinence drift, refusal skills\n\n\n\nNegative emotions\n6\nIdentification and coping with anxiety, depression, anger\nRP 18 emotional triggers\n\n\nRoutine building\n13 (mostly location type)\nImportance of scheduling/staying on track, time management strategies, finding balance\nMatrix RP 2 Boredom\n\n\nSeeking Support\n7\nReflection of what supports have been useful, values based reflections\nImportance of sponsors ERA 4A\n\n\nManaging Relationships\n7\ncommunication skills, coping with guilt, identification of supportive vs non supportive relationships\nRP 26 repairing relationships\n\n\nPhysical health\n4\nMedication Check ins, reminders to schedule appointments, importance of physical health\nRP 17 taking care of yourself\n\n\nRelapse prevention planning\n3\nReview of recent lapse/future lapse situations, planning alternative action, stop and think cards\nERS 6a common challenges in early recovery\n\n\nMotivational enhancement\n5\nIncrease motivation for recovery, normalization of dips, exploring recovery definitions\nMatrix RP 7 motivation for recovery\n\n\nCraving\n3\nStrategies to reduce, cope, understand craving\nERC 1 C Thought stopping techniques\n\n\nStress management\n4\nRole of stress in lapse risk, stress reduction activies\nRP 20 recognizing stress\n\n\nGeneral wellness\nnegative shaps?\nGratitude reflection, growth charting, sleep hygiene, exercise\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisky situations",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-structure",
-    "href": "notes.html#ema-item-structure",
+    "objectID": "general_notes.html#motivational-enhancement",
+    "href": "general_notes.html#motivational-enhancement",
     "title": "1  notes",
-    "section": "1.2 EMA item structure",
-    "text": "1.2 EMA item structure\nThis document will describe (in brief) the relevant support modules that could be recommended for each potentially important risk featured (at times sub-divided by lapse probability). There will be a section for each risk feature. Start with risk features based on the EMA items and we can later add features from GPS as those models are trained. Risk features can be organized as second level headings. Third level headings can be used for sub-categories based on lapse probability. The content in each “cell” can be the name of a module and a link to a qmd in the /modules folder that either further describes the support or eventually contains the actual content that would be presented.",
+    "section": "1.2 Motivational enhancement",
+    "text": "1.2 Motivational enhancement",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-1-past-use",
-    "href": "notes.html#ema-item-1-past-use",
+    "objectID": "general_notes.html#section",
+    "href": "general_notes.html#section",
+    "title": "1  notes",
+    "section": "1.3 ",
+    "text": "1.3",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "general_notes.html#managing-relationships",
+    "href": "general_notes.html#managing-relationships",
+    "title": "1  notes",
+    "section": "1.4 Managing Relationships",
+    "text": "1.4 Managing Relationships\n\n\nScheduling/Routine\n\nNegative emotions\n\nRelapse prevention planning",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "general_notes.html#section-1",
+    "href": "general_notes.html#section-1",
+    "title": "1  notes",
+    "section": "1.5 ",
+    "text": "1.5 \nStress management\n\n\nSeeking support\n\nGeneral support/wellness\n\n\nPhysical Health\n\nCraving",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "general_notes.html#current-ideas",
+    "href": "general_notes.html#current-ideas",
+    "title": "1  notes",
+    "section": "1.6 Current ideas:",
+    "text": "1.6 Current ideas:\n\nModules structured around predictor\n\nAddition of one extra module that is general well being focused to represent no important/predictive features\nNeed to look in data to confirm that no negative/positive direction features are important for lapse risk (modules structured around most predictive features are in expected direction for risk)\nNeed to GPS predictors to see if this still makes sense\nDiscuss pros and cons of predictor defined modules vs therapeudic class (e.g. mindfulness, motivation enhancement, urge surfing) defined modules\n\nFirst time getting a module, recommendation is read module landing page (psychoeducation)\nContinuing questions\n\nDifferent modules needed for high vs low levels of predictors?",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "general_notes.html#ema-item-structure",
+    "href": "general_notes.html#ema-item-structure",
+    "title": "1  notes",
+    "section": "1.7 EMA item structure",
+    "text": "1.7 EMA item structure\nThis document will describe (in brief) the relevant support modules that could be recommended for each potentially important risk featured (at times sub-divided by lapse probability). There will be a section for each risk feature. Start with risk features based on the EMA items and we can later add features from GPS as those models are trained. Risk features can be organized as second level headings. Third level headings can be used for sub-categories based on lapse probability. The content in each “cell” can be the name of a module and a link to a qmd in the /modules folder that either further describes the support or eventually contains the actual content that would be presented.",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "general_notes.html#ema-item-1-past-use",
+    "href": "general_notes.html#ema-item-1-past-use",
     "title": "1  notes",
     "section": "2.1 EMA item 1 Past Use",
     "text": "2.1 EMA item 1 Past Use\n“Have you drank any alcohol that you have not yet reported)\n\n2.1.1 High lapse probability (only if needed to sub divide)\n\nRelapse prevention plan\nreach out to support team *Risk assessment\n\n\n\n2.1.2 Moderate lapse probability\n*Mt Change - normalization of slips\n\n\n2.1.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-1.5-abstinence",
-    "href": "notes.html#ema-item-1.5-abstinence",
+    "objectID": "general_notes.html#ema-item-1.5-abstinence",
+    "href": "general_notes.html#ema-item-1.5-abstinence",
     "title": "1  notes",
     "section": "2.2 EMA item 1.5 Abstinence",
     "text": "2.2 EMA item 1.5 Abstinence\n“Is your goal still to remain abstinent in the future?” A: No, uncertain, yes\n\n2.2.1 High lapse probability (only if needed to sub divide)\n\n\n2.2.2 Moderate lapse probability\n\n\n2.2.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-2-urge",
-    "href": "notes.html#ema-item-2-urge",
+    "objectID": "general_notes.html#ema-item-2-urge",
+    "href": "general_notes.html#ema-item-2-urge",
     "title": "1  notes",
     "section": "2.3 EMA item 2 Urge",
     "text": "2.3 EMA item 2 Urge\n“…How intense wa your greatest urge to drink alcohol” A 0 - 12, mild, mod, strong\n\n2.3.1 High lapse probability (only if needed to sub divide)\n\n\n2.3.2 Moderate lapse probability\n\n\n2.3.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-3-risky-situation",
-    "href": "notes.html#ema-item-3-risky-situation",
+    "objectID": "general_notes.html#ema-item-3-risky-situation",
+    "href": "general_notes.html#ema-item-3-risky-situation",
     "title": "1  notes",
     "section": "2.4 EMA item 3 Risky situation",
     "text": "2.4 EMA item 3 Risky situation\n“…rate most intense” A 0 - 12, no risks, mild, mod, strong\n\n2.4.1 High lapse probability (only if needed to sub divide)\n\n\n2.4.2 Moderate lapse probability\n\n\n2.4.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-4-hasslestressful-event",
-    "href": "notes.html#ema-item-4-hasslestressful-event",
+    "objectID": "general_notes.html#ema-item-4-hasslestressful-event",
+    "href": "general_notes.html#ema-item-4-hasslestressful-event",
     "title": "1  notes",
     "section": "2.5 EMA item 4 Hassle/stressful event",
     "text": "2.5 EMA item 4 Hassle/stressful event\n“…rate most intense” A 0 - 12, no events, mild, mod, strong\n\n2.5.1 High lapse probability (only if needed to sub divide)\n\n\n2.5.2 Moderate lapse probability\n\n\n2.5.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-5-pleasant-event",
-    "href": "notes.html#ema-item-5-pleasant-event",
+    "objectID": "general_notes.html#ema-item-5-pleasant-event",
+    "href": "general_notes.html#ema-item-5-pleasant-event",
     "title": "1  notes",
     "section": "2.6 EMA item 5 Pleasant event",
     "text": "2.6 EMA item 5 Pleasant event\n“…rate most intense” A 0 - 12, no events, mild, mod, strong\n\n2.6.1 High lapse probability (only if needed to sub divide)\n\n\n2.6.2 Moderate lapse probability\n\n\n2.6.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-6-current-feeling-valance",
-    "href": "notes.html#ema-item-6-current-feeling-valance",
+    "objectID": "general_notes.html#ema-item-6-current-feeling-valance",
+    "href": "general_notes.html#ema-item-6-current-feeling-valance",
     "title": "1  notes",
     "section": "2.7 EMA item 6 Current feeling: Valance",
     "text": "2.7 EMA item 6 Current feeling: Valance\nA: 1 unpleasant/unhappy - 11 pleasant/happy\n\n2.7.1 High lapse probability (only if needed to sub divide)\n\n\n2.7.2 Moderate lapse probability\n\n\n2.7.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-7-current-feeling-arousal",
-    "href": "notes.html#ema-item-7-current-feeling-arousal",
+    "objectID": "general_notes.html#ema-item-7-current-feeling-arousal",
+    "href": "general_notes.html#ema-item-7-current-feeling-arousal",
     "title": "1  notes",
     "section": "2.8 EMA item 7 Current feeling: Arousal",
     "text": "2.8 EMA item 7 Current feeling: Arousal\nA: 1 calm/sleepy - 11 aroused/alert\n\n2.8.1 High lapse probability (only if needed to sub divide)\n\n\n2.8.2 Moderate lapse probability\n\n\n2.8.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
-    "href": "notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
+    "objectID": "general_notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
+    "href": "general_notes.html#ema-item-8-future-risky-situation-in-the-next-week-morning-survey-only",
     "title": "1  notes",
     "section": "2.9 EMA item 8 Future risky situation in the next week (morning survey only)",
     "text": "2.9 EMA item 8 Future risky situation in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.9.1 High lapse probability (only if needed to sub divide)\n\n\n2.9.2 Moderate lapse probability\n\n\n2.9.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
-    "href": "notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
+    "objectID": "general_notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
+    "href": "general_notes.html#ema-item-9-future-stressfull-event-in-the-next-week-morning-survey-only",
     "title": "1  notes",
     "section": "2.10 EMA item 9 Future stressfull event in the next week (morning survey only)",
     "text": "2.10 EMA item 9 Future stressfull event in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.10.1 High lapse probability (only if needed to sub divide)\n\n\n2.10.2 Moderate lapse probability\n\n\n2.10.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
-    "href": "notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
+    "objectID": "general_notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
+    "href": "general_notes.html#ema-item-10-future-alcohol-use-in-the-next-week-morning-survey-only",
     "title": "1  notes",
     "section": "2.11 EMA item 10 Future alcohol use in the next week (morning survey only)",
     "text": "2.11 EMA item 10 Future alcohol use in the next week (morning survey only)\nA: 1 very unlikely - 11 very likely. very unlikely, unlikely, likely, very likely\n\n2.11.1 High lapse probability (only if needed to sub divide)\n\n\n2.11.2 Moderate lapse probability\n\n\n2.11.3 Low lapse probability",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#skill-categories",
-    "href": "notes.html#skill-categories",
+    "objectID": "general_notes.html#skill-categories",
+    "href": "general_notes.html#skill-categories",
     "title": "1  notes",
     "section": "3.1 Skill Categories",
     "text": "3.1 Skill Categories\n\nBuilding awareness around the potential negative consequences of encountering high-risk situations and thoughts that associate substance use with good outcomes (i.e., it challenges positive expectancies surrounding substance use\nHelping the patient to develop and expand their repertoire of coping skills that address specific high-risk situations for relapse (often called “triggers”), whether those situations lead to drug use-related thoughts, feelings, or bodily sensations\n\nSkills range from techniques to communicate with others when in a risky situation (e.g., how to confidently and comfortably say “no” to a drink if it is offered, called “assertive drink and drug refusal”), to “urge surfing,” a technique to help individuals cope with the intense longings to consume the substance that occurs during cravings\n\nPlanning for “emergencies.” That is, unexpected situations where the patient finds themselves suddenly struggling to abstain from drinking or using other drugs\nAssessing and reinforcing the patient’s confidence in his/her ability to abstain from substance use, even in the face of challenging situations (e.g., self-efficacy)\nFinding alternative ways of thinking about positive thoughts related to substance use, and negative thoughts related to abstinence, sometimes called “cognitive restructuring.” This activity includes discussing the thinking “traps” (sometimes called cognitive distortions, or unhelpful thinking styles) that can develop after years of drinking and using other drugs. See visuals below for examples of how this work might look\n3.2 Sample Materials\nhttps://stepaway.biz/\n\nhttps://smartrecovery.org/toolbox\nhttps://nowmattersnow.org/learn-skills/\nhttps://www.recoveryanswers.org/resource/relapse-prevention-rp/\nextension://efaidnbmnnnibpcajpcglclefindmkaj/https://store.samhsa.gov/sites/default/files/sma15-4154.pdf\nApps – recovery path, sober, I am sober, SMART recovery",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#paid-resources-currently-used-in-healthcare",
-    "href": "notes.html#paid-resources-currently-used-in-healthcare",
+    "objectID": "general_notes.html#paid-resources-currently-used-in-healthcare",
+    "href": "general_notes.html#paid-resources-currently-used-in-healthcare",
     "title": "1  notes",
     "section": "3.3 Paid resources currently used in healthcare",
     "text": "3.3 Paid resources currently used in healthcare\nAtalan tech: clinican wellbeing prediction used in SSM health https://www.atalantech.com/\nSilvercloud/Amwell: https://business.amwell.com/silvercloud-by-amwell?utm_source=silvercloud&utm_medium=website&utm_campaign=us_redirect\n\nIn use at Madison and MKE VAs, specific self guided aud module",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
     ]
   },
   {
-    "objectID": "notes.html#notes",
-    "href": "notes.html#notes",
+    "objectID": "general_notes.html#notes",
+    "href": "general_notes.html#notes",
     "title": "1  notes",
     "section": "3.4 Notes",
     "text": "3.4 Notes\nFrom lab meeting 12/2\nNeed to consider optimal size of activity\nPossible to break up worksheets into multiple messages\nPossible branching of base skills (e.g. relapse drift description) into smaller recommended activities\nNo assumptions of have/have not completed any other modules\nBrainstorm acknowledgement of protective factors",
     "crumbs": [
+      "Notes",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>notes</span>"
+    ]
+  },
+  {
+    "objectID": "risky_situations.html",
+    "href": "risky_situations.html",
+    "title": "2  future_efficacy_psychoed",
+    "section": "",
+    "text": "3 📍 Spending Time in Risky Situations\n\n3.0.1 Spending Time in Risky Places: What It Means for Recovery\nIf you’ve recently spent time in a place that felt risky for your recovery—like a bar, a party, a certain neighborhood, or even someone’s house—you’re not alone. Recovery doesn’t happen in a bubble. Sometimes you end up in places that remind you of drinking or make it harder to stay sober.\nThe good news is: just because you were in a risky place doesn’t mean you’ve failed. What matters most is what you learn from the experience and what you do next.\n\n\n3.0.2 What Makes a Place Risky?\nA risky location is any place that makes it more likely for you to drink or think about drinking. These might include:\n\nBars or liquor stores\nParties or events where people are drinking\nHomes or hangouts where you used to drink\nWorkplaces or social events that feel stressful\nPlaces tied to strong memories of alcohol use\n\nWhat’s risky for one person might not be risky for another. What matters is how you feel when you’re there.\n\n\n3.0.3 Why Does It Matter?\nBeing in risky places can:\n\nTrigger cravings or urges to drink\nBring back old memories or habits\nMake you feel out of place or left out\nLower your guard when it comes to saying “no”\n\nEven if you don’t drink, just being in a risky spot can make staying sober harder. That’s why it’s important to check in with yourself after being in one.\n\n\n3.0.4 Why Do People End Up in Risky Places?\nThere are lots of reasons why you might go to a risky place:\n\nYou didn’t realize it would feel triggering\nYou didn’t want to miss out or disappoint others\nYou thought you could handle it\nYou were caught off guard or didn’t plan ahead\nYou were feeling lonely, bored, or stressed\n\nAgain—this happens. The important part is recognizing it and taking steps to protect your recovery going forward.\n\n\n3.0.5 You Can Learn from the Experience\nSpending time in a risky place doesn’t undo your recovery. It’s a chance to learn more about your triggers and prepare better for the future.\nAsk yourself:\n\nWhat made this place feel risky for me?\nHow did I feel while I was there?\nWhat might I do differently next time?\n\nBeing honest about your experience helps you grow stronger and stay in control of your recovery.\n\n\n3.0.6 You’re Still in Charge\nJust because you were in a risky place doesn’t mean you have to stay there—or go back. You’re in control of your choices. You can:\n\nDecide not to return to that place\nMake a plan to bring support with you next time\nSet boundaries for where you go and for how long\nFocus on people and places that support your recovery\n\nRecovery is about making decisions that protect your well-being—one step, one choice at a time.\n\n\n3.0.7 Moving Forward from Here\nThe following tools and exercises can help you:\n\nReflect on what made the location feel risky\nStrengthen your boundaries\nBuild a plan for how to handle similar situations in the future\nRemind yourself why you’re committed to staying sober\n\nBeing in a risky place doesn’t mean you’ve failed—it’s a sign you’re learning, growing, and doing the hard work of recovery. You’ve got this.",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>future_efficacy_psychoed</span>"
+    ]
+  },
+  {
+    "objectID": "soc_pressure_spec_occ.html",
+    "href": "soc_pressure_spec_occ.html",
+    "title": "3  future_efficacy_psychoed",
+    "section": "",
+    "text": "4 Social pressure and Special occasions\n\n\n\n\n\n\nIdentification of role of positive emotions/events on relapse risk, abstinence drift, refusal skills",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>future_efficacy_psychoed</span>"
     ]
   },
   {
     "objectID": "craving.html",
     "href": "craving.html",
-    "title": "2  craving",
+    "title": "4  craving",
     "section": "",
-    "text": "3 Craving\nAs you change your drinking, it’s normal and common to have urges or a craving for alcohol. The words “urge” and “craving” refer to a broad range of thoughts, physical sensations, or emotions that tempt you to drink, even though you have at least some desire not to. You may feel an uncomfortable pull in two directions or sense a loss of control.\nFortunately, urges to drink are short-lived, predictable, and controllable. With time, and by practicing new responses, you’ll find that your urges to drink will lose strength, and you’ll gain confidence in your ability to deal with urges that may still arise at times.\nHere are some important facts about craving to keep in mind as you begin to work with identifying and coping with urges during recovery:",
+    "text": "5 🌊 Understanding Cravings\nAs you work on changing your drinking, it’s normal to have urges or cravings for alcohol. A craving is when you feel the strong urge to drink, even though you don’t want to. This can show up as thoughts, emotions, or physical sensations that pull you toward drinking, even if part of you wants to stay sober.\nGood news: Cravings are short-lived, predictable, and controllable. With practice, they will get weaker, and you’ll feel more confident in handling them when they pop up.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+      "Notes",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>craving</span>"
     ]
   },
   {
-    "objectID": "craving.html#what-are-cravings",
-    "href": "craving.html#what-are-cravings",
-    "title": "2  craving",
-    "section": "3.1 What are cravings?",
-    "text": "3.1 What are cravings?\nBroadly, craving refers to a strong desire to use alcohol or other drugs that, if unfulfilled, produces an often powerful degree of physical and/or mental suffering. Cravings are the result of long-term alcohol and/or other drug use and can continue for some time after the use has stopped. People with a history of heavier use might experience stronger or more frequent urges. Experiencing cravings is a normal part of recovery and is common across all stages of recovery.\nCravings and urges can show up in many ways, such as:\n\nPhysical sensations (e.g., sweating, heart racing, queasy stomach)\nThoughts (e.g., “A drink sounds good right now”, “I’d rather be with my friends getting drunk tonight”)\nPositive expectancies (e.g., “I would have more fun if I was drinking”)\nEmotions (e.g., anxiety, depression, irritability)\nBehaviors (e.g., pausing while passing the beer display in a store, hanging out in bars or with others who are drinking).",
+    "objectID": "craving.html#urge-surfing-",
+    "href": "craving.html#urge-surfing-",
+    "title": "4  craving",
+    "section": "5.1 Urge Surfing-",
+    "text": "5.1 Urge Surfing-\nUrge Surfing is a way to deal with alcohol cravings by noticing the feeling, not fighting it, and letting it pass like a wave. Remember that cravings are TEMPORARY. Like ocean waves, you can visualize the rise and fall of your cravings, allowing you to “ride the wave” until they go away on their own. Use the instructions below to practice urge surfing the next time you feel a craving:",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+      "Notes",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>craving</span>"
     ]
   },
   {
-    "objectID": "craving.html#cravings-are-predictable",
-    "href": "craving.html#cravings-are-predictable",
-    "title": "2  craving",
-    "section": "3.2 Cravings are PREDICTABLE",
-    "text": "3.2 Cravings are PREDICTABLE\nCravings can occur in response to triggers (e.g. being around people or situations that remind someone of past alcohol use) or withdrawal (stopping regular use of alcohol).\nWithdrawal: Our brains begin to regulate themselves with alcohol. Without it, the brain makes chemical demands and requests for alcohol. You can expect cravings from withdrawal to be present at the beginning of recovery and diminish over time\nTriggers have to do with our memories of alcohol. Alcohol and other drugs flood our brain with reward chemicals like dopamine. Long after our last drink, our brains and memories still associate drinking with this flood of reward. When we’re exposed to a cue or stimulus that triggers those latent memories, our brains beg us for more reward chemicals. And thus a craving is born.\nCravings can be internal or external:\nInternal Situations:\n\nUnpleasant emotions (e.g., frustration, depression, anger, feeling “stressed out”)\nPleasant emotions (e.g., joy, excitement)\nPhysical feelings (e.g., sick, shaky, tense, in pain)\nThoughts about drinking (e.g., “I’ll feel better if I get drink”)\n\nExternal Situations\n\nExposure to alcohol (e.g. alcohol in the home)\nSmell, sight and sounds of other people drinking\nParticular times during the day when drinking used to occur (e.g., getting off work, weekends, payday)\nStimuli previously associated with drinking (e.g., wine glasses, bar, , ATM machine)\nStimuli previously associated with withdrawal (e.g., hospital, aspirin, morning)\n\nThe more we learn to better identify our cravings, the better we can predict them",
+    "objectID": "craving.html#section",
+    "href": "craving.html#section",
+    "title": "4  craving",
+    "section": "5.2 ",
+    "text": "5.2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
+      "Notes",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>craving</span>"
     ]
   },
   {
-    "objectID": "craving.html#cravings-are-temporary",
-    "href": "craving.html#cravings-are-temporary",
-    "title": "2  craving",
-    "section": "3.3 Cravings are TEMPORARY",
-    "text": "3.3 Cravings are TEMPORARY\nThough the experience of cravings may be incredibly intense, it is important to remember that cravings are time-limited and WILL PASS. Most cravings last only a few minutes.\nA craving is just like a wave at the beach. Every wave in a set starts off small, builds up to its highest point, and then breaks and flows away to shore. Each individual wave never lasts more than a few minutes. A craving is just the same. It starts off small and then builds up. But it peaks, just like a wave, and will eventually break and disappear. This whole process usually doesn’t last more than minutes. Cravings are time-limited.\nCravings will lose their power if they are not reinforced by using or drinking in response. Even if use occurs only once in a while, it will still keep those cravings alive. Cravings are like stray animals – keep feeding them and they will keep coming back. So in a very real sense these cravings are controllable.\nCravings tend to be stronger earlier on, then weaken, and eventually fade over time.\nEach time a person does something other than drink and/or use others drugs, the craving loses power.\nStopping alcohol and other drug use completely is the quickest way to get rid of the cravings.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>craving</span>"
-    ]
-  },
-  {
-    "objectID": "affect_arousal.html",
-    "href": "affect_arousal.html",
-    "title": "3  affect_arousal",
+    "objectID": "past_use_psychoed.html",
+    "href": "past_use_psychoed.html",
+    "title": "5  past_use_psychoed",
     "section": "",
-    "text": "3.1 Current feeling\n“How are you feeling right now?”\n2 questions: 1 unpleasant happy - 11 pleasant/happy and 1 calm/sleepy - 11 aroused/alert\nAssumed direction: probably most important if unpleasant/unhappy and calm/sleepy (depressed/low energy) or unplesant/unhappy and high arousal (anxiety)\nCan consider if we want to have depressed/low energy map with increasing positive events, separate module that is anxiety? Or one feelings module that provides psychoeducation about role of emotion, cognition, physiology in current experience",
+    "text": "6 ⚠️ Alcohol Use During Recovery\n\n6.0.1 Understanding a Slip or Recent Alcohol Use\nIf you’ve recently had a drink or slipped in your recovery, you might be feeling a mix of emotions—guilt, frustration, sadness, or even fear. First, take a deep breath.\nA slip does not mean you’ve failed. It’s a sign that recovery is still in progress—and that’s okay.\n\n\n6.0.2 Slips Happen in Recovery\nA slip is when someone who is trying to stop drinking has a drink after a period of being sober. It can be one drink, or it can last longer. A slip does not mean you can’t stay sober—it means there’s more to learn about what makes you want to drink and how to handle those moments. Slips are a COMMON, NORMAL part of recovery and can actually serve as powerful learning moments if you explore them without judgment\n\n\n6.0.3 Why Do Slips Happen?\nSlips can happen for many reasons, such as:\n\nStress: When life feels overwhelming or too hard\nStrong cravings: When urges to drink feel too powerful to ignore\nEmotions: Feeling lonely, sad, angry, or even too happy\nTriggers: Being in a place, around certain people, or in a situation where you used to drink\nLow confidence: Thinking “I can’t do this,” or “It’s just one drink, it won’t matter”\n\nKnowing what led to the slip can help you avoid it in the future.\n\n\n6.0.4 What Can You Do After a Slip?\nWhat you do after a slip is what really matters. You don’t have to wait until next week, next month, or after “one last drink” to get back on track. You can restart right now. Some helpful actions after slips are:\n\nBe honest with yourself – Don’t pretend it didn’t happen. Admitting it helps you move forward.\nLet go of shame – You made a mistake, but you’re not a failure. Everyone makes mistakes.\nFigure out what led to the slip – Think about the situation, thoughts, or feelings that came before it.\nMake a plan for next time – Decide what you’ll do differently if a similar situation comes up again.\nReach out – Talk to someone who supports your recovery. You don’t have to go through this alone.\n\n\n\n6.0.5 What You Tell Yourself Matters\nAfter a slip, it’s easy to think:\n\n“I blew it.”\n“I have to start all over.”\n“I’ll never be able to stay sober.”\n\nBut these thoughts are not true—and they’re not helpful. Instead, try thinking:\n\n“I had a setback, but I’m still moving forward.”\n“I can learn from this.”\n“I’m still in recovery, and I’m not giving up.”\n\n\n\n6.0.6 A Slip Doesn’t Erase Your Progress\nAll the work you’ve done so far still counts. One slip doesn’t erase your growth, your effort, or your reasons for wanting to stay sober. You’ve already taken steps toward change—and those steps still matter.\nRecovery isn’t about being perfect. It’s about getting back up when things get hard. Every time you do that, you build strength.\n\n\n6.0.7 You Can Start Again—Right Now\nYou don’t have to wait for a perfect moment. You can restart right now, in this moment. Take a deep breath, and take the next small step.\nThe tools and exercises that follow are here to help you:\n\nUnderstand what happened\nReconnect to your recovery goals\nStrengthen your plan for staying sober\n\nYou’re not starting over. You’re continuing your journey—stronger, wiser, and more prepared than before.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>affect_arousal</span>"
+      "Past Use",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>past_use_psychoed</span>"
     ]
   },
   {
-    "objectID": "abstinence_goal.html",
-    "href": "abstinence_goal.html",
-    "title": "4  abstinence_goal",
+    "objectID": "past_use_activities.html",
+    "href": "past_use_activities.html",
+    "title": "6  future efficacy activities",
     "section": "",
-    "text": "5 Abstinence goal\n“Is your goal still to remain abstinent in the future?”\nAssumed direction: No or Uncertain\nLanding page - Patterns of motivation in AUD treatment, importance of maintaining motivation",
+    "text": "6.0.1 ✅ 1. Self-Compassion Pause\n🔍 Why? Everyone slips at times—being kind to yourself makes it easier to get back on track.\n🧭 Try This:\n💛 Mistakes don’t erase progress. You’re still moving forward.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>abstinence_goal</span>"
+      "Past Use",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>future efficacy activities</span>"
     ]
   },
   {
-    "objectID": "past_use.html",
-    "href": "past_use.html",
-    "title": "5  past_use",
-    "section": "",
-    "text": "6 Past Use\n\n“Have you drank any alcohol that you have not yet reported?”\nAssumed direction: Yes\nHomepage - psychoeducation about role of lapses in AUD treatment, common pitfalls",
+    "objectID": "past_use_activities.html#brief-self-guided-interventions-for-expected-future-stressful-events",
+    "href": "past_use_activities.html#brief-self-guided-interventions-for-expected-future-stressful-events",
+    "title": "6  future efficacy activities",
+    "section": "6.1 🔹 Brief Self-Guided Interventions for Expected Future Stressful Events",
+    "text": "6.1 🔹 Brief Self-Guided Interventions for Expected Future Stressful Events\n\n6.1.1 ✅ 1. Pre-Emptive Stress Coping Plan\n🔍 Why? Stress is inevitable, but having a plan makes it easier to navigate without alcohol.\n🧭 Try This:\n\n\nThink about an upcoming stressful event you anticipate this week.\n\nWrite down or say aloud 2–3 ways you can handle the stress without alcohol.\n\n\n“I’ll take a break to breathe when I feel overwhelmed.”\n\n“I’ll call a friend or family member to talk it through.”\n\n\n\n\n💡 You’ve already got the tools to handle stress—now, put them into action.\n\n\n6.1.2 ✅ 2. Stress Reduction Breathing\n🔍 Why? Deep breathing helps lower stress in the moment and creates space to choose better responses.\n🧭 Try This:\n\n\nClose your eyes and take a deep breath in for a count of 4.\n\nHold your breath for a count of 4.\n\nExhale slowly for a count of 4.\n\nRepeat this 3 times.\n\n\n🌬️ Just a few deep breaths can make a big difference.\n\n\n6.1.3 ✅ 3. Mindful Moment: Stress Detour\n🔍 Why? Mindfulness helps break the cycle of stress and reactiveness.\n🧭 Try This:\n\n\nFor the next 60 seconds, fully immerse yourself in what’s around you.\n\n\nFeel your feet on the ground.\n\nListen to the sounds in the room or outside.\n\nNotice how your body feels right now, without judgment.\n\n\n\nAfterward, take a moment to ask yourself: “What’s the next step I can take to stay on course today?”\n\n\n🌱 You can be mindful during stress, not just after it.\n\n\n6.1.4 ✅ 4. Stress-Free Zone Visualization\n🔍 Why? Visualization helps you prepare for future stressors by picturing yourself handling them calmly.\n🧭 Try This:\n\n\nClose your eyes and visualize a peaceful place—whether it’s a quiet room, a beautiful outdoor space, or somewhere you feel completely relaxed.\n\nImagine yourself there, calm and in control, as you navigate the upcoming stressor.\n\nRepeat the phrase: “I can handle whatever comes.”\n\n\n🧘‍♀️ Mental preparation makes future stressors more manageable.\n\n\n6.1.5 ✅ 5. “Just For Today” Focus\n🔍 Why? Focusing on one day at a time reduces the overwhelm of anticipating future stressors.\n🧭 Try This:\n\n\nSay or write: “Just for today, I will handle whatever comes without drinking.”\n\nRemind yourself that you don’t have to control everything—just today.\n\n\n📆 One day at a time. That’s all you need to focus on right now.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>past_use</span>"
+      "Past Use",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>future efficacy activities</span>"
     ]
   },
   {
-    "objectID": "future_use.html",
-    "href": "future_use.html",
-    "title": "6  future_use",
+    "objectID": "craving_psychoed.html",
+    "href": "craving_psychoed.html",
+    "title": "7  Craving psychoeducation",
     "section": "",
-    "text": "7 Future use\nFuture use\n“How likely are you to drink any alcohol within the next week”\nAssumed direction: Positive (1 very unlikely - 11 very likely)\nLanding page: Can consider using same landing page for importace of motivation in AUD treatment, or this landing page provides an overview of rationale behind relapse prevention",
+    "text": "8 🌊 Understanding Cravings\nAs you work on changing your drinking, it’s normal to have urges or cravings for alcohol. A craving is when you feel the strong urge to drink, even though you don’t want to. This can show up as thoughts, emotions, or physical sensations that pull you toward drinking, even if part of you wants to stay sober.\nGood news: Cravings are short-lived, predictable, and controllable. With practice, they will get weaker, and you’ll feel more confident in handling them when they pop up.\n\n8.0.1 What is a Craving?\nA craving is a powerful feeling that pushes you to drink alcohol, even when you don’t want to. It can feel like a strong mental or physical need to drink. Cravings happen because of the long-term use of alcohol, and they can last for some time after you stop drinking.\nIf you’ve had a lot of drinking in the past, cravings may come up more often or feel stronger. But don’t worry! Cravings are a normal part of recovery, and they happen at all stages of recovery.\n\n\n8.0.2 How Do Cravings Show Up?\nCravings can look different for everyone. Here are some ways cravings might show up for you:\n\nPhysical feelings: You might feel shaky, sweaty, or have a racing heart.\nThoughts: You might think, “I want a drink,” or “It would be fun to drink with my friends right now.”\nEmotions: Cravings can come with feelings like anxiety, frustration, or sadness.\nBehaviors: You might find yourself lingering near places where alcohol is sold, or spending time with others who are drinking.\n\n\n\n8.0.3 Cravings Are Predictable\nCravings don’t happen randomly. They can be triggered by certain situations or emotions. These triggers can be internal (how you’re feeling) or external (things around you).\n\nInternal triggers: These are feelings or thoughts that can bring on cravings, like stress, sadness, or even excitement. You might also feel physical discomfort, like being tired or in pain.\nExternal triggers: These are things in the environment that remind you of drinking, like seeing alcohol, being around people who drink, or even times of day when you used to drink.\n\nThe more you recognize what causes your cravings, the better you can plan for them. Understanding what triggers your cravings can help you avoid or manage them.\n\n\n8.0.4 Cravings Are Temporary\nCravings might feel intense, but here’s the important thing to remember: they don’t last long. Most cravings only last a few minutes. Think of a craving like a wave in the ocean. It starts small, gets bigger, and then crashes and disappears.\nEven though cravings can feel overwhelming at first, they are time-limited and will pass. The key is not giving in to the craving. The more you ignore the craving and choose not to drink, the weaker it becomes.\n\n\n8.0.5 Cravings Get Easier Over Time\nAt the start of your recovery, cravings may be stronger and more frequent. But over time, they will get weaker and less intense. Each time you resist the urge to drink, the craving loses power.\nStopping alcohol use completely is the fastest way to get rid of cravings. If you don’t reward craving with alcohol use, it will eventually go away. It’s like feeding a stray animal. If you stop feeding it, it will stop coming back.\n\n\n8.0.6 What Can You Do When a Craving Hits?\nWhen you feel a craving, remember: it’s temporary and you can control how you respond. Here are some ways to deal with cravings:\n\nPause and Breathe: Take a deep breath. Focus on the present moment.\nDistraction: Do something else to take your mind off the craving, like going for a walk, calling a friend, or reading a book.\nUrge Surfing: Imagine the craving is like a wave—let it build, but know it will crash and pass.\nReach Out: Talk to someone you trust, like a sponsor or a friend. Sometimes, just sharing how you feel can help.\n\n\n\n\n8.0.7 Remember: Cravings Don’t Last Forever\nIt’s completely normal to experience cravings in recovery. But the more you practice coping with them, the easier it will get. Cravings are like visitors—they come and go. With time and practice, you will get better at handling them.\nBy staying sober, even when cravings are strong, you’ll find that the cravings become less powerful and easier to ignore. You’ve got this!",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>future_use</span>"
+      "Craving",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Craving psychoeducation</span>"
     ]
   },
   {
-    "objectID": "risky_events.html",
-    "href": "risky_events.html",
-    "title": "7  risky_events",
+    "objectID": "craving_activities.html",
+    "href": "craving_activities.html",
+    "title": "8  craving",
     "section": "",
-    "text": "8 Risky Events\nPast risky situations\n“Since your last survey, did you encounter any risky situations (people, places, or things)? If yes, rate the intensity of the situation. If you experienced more than one risky situation, rate the most intense one.”\nAssumed direction: non-zero (0 - 12)\n\nLanding page - Psychoeducation about linking risky situations to emotional, physiological, cognitive experience. Goal is to ground their experience and develop ability to reflect and recognize patterns (Learn to recognize triggers)\nFuture risky situations\n“How likely are you to encounter risky situations (people, places, or things) within the next week?\nAssumed direction: non-zero (1 - 11)\nLanding page - importance of planning for risky situations and common pitfalls (What to do when you recognize a trigger)",
+    "text": "9 1. Urge Surfing Mini-Practice\nGoal: Ride the craving wave without acting on it\nHow: Sit still and notice the craving like a wave:\n\nWhere do you feel it in your body?\nWhat does it feel like (tight, warm, restless)?\nRemind yourself: “Waves rise and fall. This will pass.”\n\n\n🌊 Most cravings peak and fade within minutes if we don’t fuel them.\n\n2. 5-Senses Grounding\nGoal: Distract and anchor yourself in the present\nHow: Name:\n\n5 things you can see\n4 you can feel\n3 you can hear\n2 you can smell\n1 you can taste\n\n🧠 Pulls your brain out of craving and into now.\n3. Text-a-Friend Prompt\nGoal: Interrupt the craving with connection\nHow: Send one short message to someone in your support network. It can be:\n\n“Craving’s hitting me right now—just wanted to say it out loud.”\n“Hey, can you distract me for a second?”\n\n📱 Cravings feed on isolation. Connection weakens them.\n4. Change the Scene\nGoal: Break the craving’s pattern\nHow: Stand up and physically change locations. Go outside, into another room, or take a short walk—especially if you’re near a trigger (fridge, store, etc.).\n🚪Even 60 seconds away from the trigger can help reset your brain.\n5. “Craving = a Message” Reframe\nGoal: Understand instead of fear the craving\nHow: Ask:\n\nWhat is this craving trying to tell me I need right now?\nAm I tired? Lonely? Bored? Needing comfort or relief?\n\n🔍 Cravings often cover up unmet needs. Once we know the need, we can meet it in a better way.\n\n6. Delay + Distract Drill\nGoal: Create space between the craving and the urge to act\nHow: Set a timer for just 3 minutes. Do anything else until it goes off (walk, stretch, play a quick game, doodle).\nThen reassess: Do I still want it as much as I did before?\n⏱ Even a short pause can short-circuit the craving loop.\n\n7. “Play It Through” Visualization\nGoal: Interrupt “just one drink” thinking\nHow: Picture it:\n\nWhat happens if I give in?\nHow will I feel afterward—10 minutes later, tomorrow morning?\n\nNow picture the other path:\n\nHow will I feel if I ride it out?\n\n🔮 Cravings focus on short-term pleasure. This helps you see the full picture.\n\n8. Cold Water Reset\nGoal: Calm the nervous system and break the craving grip\nHow: Splash your face with cold water or hold a cold object (ice cube, chilled drink—non-alcoholic!).\nTake 3 deep breaths.\n❄️ Physical shock = emotional reset.\n9. Craving Log Quick Note\nGoal: Build insight and break the cycle\nHow: Jot down:\n\nWhat triggered this craving?\nHow intense was it (0–10)?\nWhat did I do instead of drinking?\n\nOver time, this log shows you patterns and progress.\n📓 Writing about it helps shift you from reacting to responding.\n\n10. Recovery Reminder Card\nGoal: Anchor in your why during a craving\nHow: Read or listen to a short note you wrote earlier (or we provide) that reminds you of:\n\nWhy you started\nWhat you’ve already survived\nWhat life looks like alcohol-free\n\n💡 In the heat of craving, memory gets foggy. Your card brings clarity back.\nOTHER FORMATTING OPTION:::\n\n9.0.1 1. Urge Surfing Mini-Practice\n\n“You’re having a craving right now—and that’s okay. Let’s take a moment to surf this urge instead of fighting it.\nClose your eyes or soften your gaze. Now, notice where you feel the craving in your body. Is it in your chest? Your stomach? Your jaw? Just observe, without judging.\nLike a wave, the craving will rise… peak… and fade. You don’t have to do anything—just stay with it. You’re riding it out, not giving in. Keep breathing. You’re doing great.\nThis will pass. It always does.”\n\n\n\n9.0.2 2. 5-Senses Grounding\n\n“Let’s bring you back to the here and now. Just follow along with your senses:\n\n\nName 5 things you can see.\n\nNow, 4 things you can feel—like your clothes, the floor, or your breath.\n\n3 things you can hear, even very faint sounds.\n\n2 things you can smell.\n\nAnd finally, 1 thing you can taste—or imagine tasting.\n\n\nTake a deep breath. You’re grounded. You’re in control. The craving doesn’t run the show—you do.”\n\n\n\n9.0.3 3. Text-a-Friend Prompt\n\n“Cravings love silence. Connection takes away their power.\nOpen your messages and send a quick text to someone who supports you. It could be as simple as:\n‘Hey, craving’s hitting me. Just needed to say it out loud.’\nOr: ‘I’m staying sober today, but it’s hard right now. Can you check in with me later?’\nYou don’t have to go through this alone. Reaching out is strength—not weakness.”\n\n\n\n9.0.4 4. Change the Scene\n\n“Sometimes, the quickest way to shift a craving is to shift your space.\nIf you can, stand up right now and walk into another room. Step outside. Open a window. Move your body for a minute.\nEven a short change of scenery tells your brain: this moment is changing. You’re taking back control.\nEvery step you take away from the craving is a step toward your goals.”\n\n\n\n9.0.5 5. Craving = A Message Reframe\n\n“What if this craving isn’t a threat—but a signal?\nAsk yourself gently: What do I really need right now?\nAm I tired? Hungry? Lonely? Sad? Just bored?\nYour craving might be trying to tell you something—something you can actually take care of without drinking.\nListen to the message… and take a small step to meet the real need underneath.”\n\n\n\n9.0.6 6. Delay + Distract Drill\n\n“You don’t have to say ‘no’ forever—just for the next few minutes.\nSet a mental timer for 3 minutes. While we wait, do anything else: walk around, count your breaths, scroll through photos that make you smile—anything.\nWhen the time’s up, ask yourself: Do I still want it as much?\nYou’ve just proven that you can pause a craving. And if you can pause it… you can outlast it.”\n\n\n\n9.0.7 7. Play It Through Visualization\n\n“Cravings love to whisper, ‘Just one won’t hurt.’ So let’s play it through.\nClose your eyes for a moment. Imagine giving in. What happens next? How do you feel 10 minutes later? What about tomorrow morning?\nNow, picture staying sober instead. Getting through it. Waking up clear-headed. Feeling proud.\nOne choice leads to regret. The other leads to freedom. You know which path is yours.”\n\n\n\n9.0.8 8. Cold Water Reset\n\n“Let’s hit the reset button—physically.\nGrab something cold. Splash water on your face or hold something chilled. Feel that shock? That’s your nervous system getting a jolt of calm.\nNow take 3 slow, deep breaths.\nSometimes your body just needs a signal that things are okay. This is that signal. You’ve got this.”\n\n\n\n9.0.9 9. Craving Log Quick Note\n\n“Let’s turn this craving into knowledge you can use.\nTake a few seconds to note: What triggered this craving? How intense was it, from 0 to 10? What did you do instead of drinking?\nEach craving you log helps you see your progress and understand your patterns. This isn’t just a craving—it’s a clue. And you’re learning how to outsmart it.”\n\n\n\n9.0.10 10. Recovery Reminder Card\n\n“Take a deep breath. This is your reminder:\nYou’ve come so far already. You’re doing this for a reason—and that reason still matters, even when it’s hard.\nPicture yourself one week from now, looking back at this moment. What will you be proud of?\nYou don’t need to be perfect. You just need to keep going. You’re strong. You’re not alone. And you’re doing something that matters.”",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>risky_events</span>"
+      "Craving",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>craving</span>"
     ]
   },
   {
-    "objectID": "stressful_events.html",
-    "href": "stressful_events.html",
-    "title": "8  stressful_events",
+    "objectID": "future_efficacy_psychoed.html",
+    "href": "future_efficacy_psychoed.html",
+    "title": "9  future_efficacy_psychoed",
     "section": "",
-    "text": "9 Stressful events\nPast stressful event\n“Since your last survey, has a hassle or stressful event occurred? If yes, rate the intensity of the event. If you experienced more than one hassle or stressful event, rate the most intense one.”\nAssumed direction: non-zero (0 - 12)\nLanding page - Psychoeducation about role of stress in recovery, importance of measuring and making time for stress reduction\nFuture stressful events\n“How likely are you to encounter a stressful event within the next week?\nAssumed direction: non-zero (1 - 11)\nLanding page - avoidable vs unavoidable stressor psychoeducation, normalization/reframing of stress, planning for stress reduction before/after",
+    "text": "10 💪 Understanding Motivation in Recovery\nWhen you are in recovery, there will be times when you feel less motivated or less confident about staying sober. This can happen for many reasons, and it’s important to know that it’s normal to feel this way sometimes.\nLow motivation means you might not feel like putting in the effort to stay sober. Low confidence means you might not believe that you have the ability to stay sober, even if you want to.\nThe good news is that both motivation and confidence to keep abstinent can be worked on and improved during recovery. By practicing some simple strategies, you can boost your confidence in your ability to stay sober and get back on track with your recovery.\n1. What is Motivation, Really?\n\nMotivation isn’t all or nothing — it’s fluid.\nIt often changes day-to-day or even moment-to-moment.\nFeeling unsure or unmotivated doesn’t mean failure — it’s actually a normal part of the change process.\n\n“You don’t need to be 100% motivated to start moving in the right direction.”\n2. Why Does Motivation Drop?\n\nYou might feel burned out, discouraged, or just disconnected from why you started.\nCravings, stress, or life stuff can make alcohol seem like a quick fix again.\nSometimes it’s hard to imagine life without drinking — especially if it’s been a big part of coping, social life, or routine.\nIf you don’t see quick results or progress in your recovery, it can sometimes make you feel like it’s not working, lowering your motivation\nWhen we are doing well in our recovery, sometimes our mind tries to trick us into thinking that we can handle a drink or two now. This slippery slope is called “Abstinence drift”\n\n3. What Actually Helps Motivation?\nMotivation grows when we:\n\nUnderstand our own reasons for change (not just what others want for us).\nExplore what matters to us — like health, family, freedom, or peace of mind.\nFeel heard, not judged — and have support that fits us, not a one-size-fits-all model.\n\n4. The Change Process Has Stages\nYou don’t have to be “ready to quit forever” to start growing. Most people move through these stages:\n\nNot yet thinking about change (Precontemplation)\nThinking about it (Contemplation)\nPreparing to try (Preparation)\nTaking action (Action)\nWorking to maintain it (Maintenance)\n\nInterventions are meant to meet you where you are — not push you where you’re not ready to go.\n5. How to increase motivation and confidence\n\nSet Small, Achievable Goals: Instead of focusing on big, overwhelming goals, set smaller, more manageable goals. For example, focus on staying sober for today, or for the next hour.\n\n\n\nCelebrate Your Successes: Each time you meet a small goal, celebrate it! Recognizing your successes, even the small ones, will boost your motivation and remind you that you can do this.\n\n\n\nRemind Yourself of Your Reasons: Keep a list of why you want to stay sober. When motivation is low, read through this list to remind yourself why recovery is important to you.\n\n\n\nVisualize Your Success: Imagine yourself succeeding in your recovery. Picture yourself feeling strong, confident, and sober. This positive mental image can help build your belief in yourself.\n\n\n\nUse Support Networks: Talk to people who support your recovery. Hearing encouraging words from a friend, sponsor, or counselor can help lift your spirits and boost your motivation.\n\n\n\nPractice Self-Compassion: If you make a mistake or slip, don’t be hard on yourself. Be kind and remind yourself that setbacks happen. What matters is getting back on track.\n\n6. Bottom Line\n\nIt’s okay to feel unsure. That’s a signal to get curious, not give up.\nMotivation can be built, just like a muscle.\nThe goal is progress, not perfection — and you don’t have to do it alone.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>stressful_events</span>"
+      "Future efficacy",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>future_efficacy_psychoed</span>"
     ]
   },
   {
-    "objectID": "positive_events.html",
-    "href": "positive_events.html",
-    "title": "9  positive_events",
+    "objectID": "future_efficacy_activities.html",
+    "href": "future_efficacy_activities.html",
+    "title": "10  future efficacy activities",
     "section": "",
-    "text": "10 Positive events\n“Since your last survey, has a pleasant or positive event occurred? If yes, rate the intensity of the event. If you experienced more than one pleasant or positive event, rate the most intense one.”\nAssumed direction: 0 or low (0 - 12) though also potential for pleasant events to increase use\nMight want to consider including a likelihood of future positive events?\nLanding page - Psychoeducation about common difficulty finding positive activities/people separate from past use patterns, role of behavioral activation, increase motivation for self care",
+    "text": "11 \n\n11.0.1 ✅ 1. “Why I’m Doing This” List\n🔍 Why? Reconnecting with your personal reasons for change helps reignite motivation when it feels low.\n🧭 Try This:\n\n\nPause for a moment and ask yourself: Why do I want to stay sober this week?\n\nNow write down or say out loud 3 reasons—big or small.\n\n\n“To feel proud of myself.”\n\n“So I wake up clear-headed.”\n\n“Because I deserve better.”\n\n\n\n\n📝 You just reminded yourself what matters to you—and that’s powerful.\n\n\n11.0.2 ✅ 2. Confidence Scaling + Boost\n🔍 Why? Even when confidence is low, noticing what’s working builds a foundation to grow from.\n🧭 Try This:\n\n\nOn a scale from 0 to 10, how confident do you feel about staying sober this week?\n\nWhatever your number is, ask yourself: Why isn’t it lower?\n\n\nMaybe you’ve made it through before, or you reached out for support.\n\n\n\nNow ask: What’s one small thing I could do to move that number up just one point?\n\n\n📈 Tiny shifts in mindset lead to big changes over time.\n\n\n11.0.3 ✅ 3. 1-Minute Mental Rehearsal\n🔍 Why? Imagining success helps the brain practice it—like a mental “recovery rehearsal.”\n🧭 Try This:\n\n\nClose your eyes and picture one challenging moment you expect this week.\n\nNow imagine yourself getting through it without drinking—calm, steady, and proud.\n\nVisualize the moment passing and how you’ll feel afterward.\n\n\n🎯 You’re practicing being the version of yourself you want to become.\n\n\n11.0.4 ✅ 4. Motivational Self-Talk Reframe\n🔍 Why? The way you talk to yourself affects your motivation—reframing helps shift doubt into determination.\n🧭 Try This:\n\n\nChoose one of these empowering phrases—or make your own:\n\n\n“This is hard, but I’ve done hard things before.”\n\n“I don’t have to believe every thought I think.”\n\n“I’m learning—not failing.”\n\n\n\nSay it to yourself now, or write it on a sticky note or phone reminder.\n\n\n🗣️ Talk to yourself like you would talk to a friend who’s trying something brave.\n\n\n11.0.5 ✅ 5. Past Success Reflection\n🔍 Why? Looking back on wins (even small ones) reminds you what you’re capable of—and builds belief for the next step.\n🧭 Try This:\n\n\nThink back to one time you resisted an urge or made a positive choice in your recovery.\n\nAsk: What helped me succeed in that moment?\n\nThen say or write: What does that success say about me?\n\n\n🏆 You’ve already done things you once thought were impossible. This is no different.\n\n\n11.0.6 ✅ 6. Quick Wins List\n🔍 Why? Motivation grows when you see that you are already taking positive action—even if it doesn’t feel big.\n🧭 Try This:\n\n\nWrite down 3 things you’ve done today that support your recovery.\n\n\nDrank water instead of alcohol\n\nOpened this app\n\nTook a deep breath before reacting\n\n\n\nRead the list out loud and take a moment to feel a sense of progress.\n\n\n✅ Small wins = real wins.\n\n\n11.0.7 ✅ 7. Future Gratitude Check-In\n🔍 Why? Connecting with how your future self will feel helps fuel present-day motivation.\n🧭 Try This:\n\n\nImagine it’s next week, and you stayed sober.\n\nPicture that version of you. How do they feel? What are they proud of? What do they get to enjoy because of your choice today?\n\nNow say or write one sentence: “Future Me will be grateful because…”\n\n\n🔮 Motivation flows when we connect with where we’re going—not just where we’ve been.\n\n\n11.0.8 ✅ 8. Ask for Support Challenge\n🔍 Why? Asking for help reinforces your commitment and increases follow-through—even if it’s just a text.\n🧭 Try This:\n\n\nSend a quick message to someone who supports you. It could be:\n\n\n“Just letting you know I’m focusing on sobriety this week.”\n\n“Can I check in with you later if things get tough?”\n\n\n\nDon’t overthink it. One sentence is enough.\n\n\n🤝 Accountability builds both confidence and momentum.\n\n\n11.0.9 ✅ 9. Anchor Phrase Practice\n🔍 Why? Having a go-to phrase in hard moments keeps you centered and focused.\n🧭 Try This:\n\n\nChoose one short phrase to repeat when your motivation wobbles:\n\n\n“Just for today.”\n\n“I don’t drink no matter what.”\n\n“This craving will pass.”\n\n\n\nSay it out loud now, and again later when you need it.\n\n\n🔐 Anchor phrases work like emotional life vests—quick, steady reminders of your truth.\n\n\n11.0.10 ✅ 10. Micro Goal Commitment\n🔍 Why? Accomplishing small, realistic goals builds self-trust—and that fuels motivation.\n🧭 Try This:\n\n\nThink of one tiny goal for today. Something that supports your recovery and feels 100% doable.\n\n\n“Drink a full glass of water after lunch.”\n\n“Open the app again tonight.”\n\n“Write down one reason I want to stay sober.”\n\n\n\nSay it out loud or text it to yourself.\n\n\n🎯 Showing up for even one small promise to yourself builds momentum.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>positive_events</span>"
+      "Future efficacy",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>future efficacy activities</span>"
     ]
   },
   {
-    "objectID": "general_wellness.html",
-    "href": "general_wellness.html",
-    "title": "10  general_wellness",
+    "objectID": "risky_location_psychoed.html",
+    "href": "risky_location_psychoed.html",
+    "title": "11  risky_locations_psychoed",
     "section": "",
-    "text": "11 General wellness\nLow risk/no predictors\nLanding page: Importance of maintaining physical and mental health, reflection on past wins to keep motivation, common pitfalls when things are going well",
+    "text": "12 📍 Spending Time in Risky Locations\n\n12.0.1 Spending Time in Risky Places: What It Means for Recovery\nIf you’ve recently spent time in a place that felt risky for your recovery—like a bar, a party, a certain neighborhood, or even someone’s house—you’re not alone. Recovery doesn’t happen in a bubble. Sometimes you end up in places that remind you of drinking or make it harder to stay sober.\nThe good news is: just because you were in a risky place doesn’t mean you’ve failed. What matters most is what you learn from the experience and what you do next.\n\n\n12.0.2 What Makes a Place Risky?\nA risky location is any place that makes it more likely for you to drink or think about drinking. These might include:\n\nBars or liquor stores\nParties or events where people are drinking\nHomes or hangouts where you used to drink\nWorkplaces or social events that feel stressful\nPlaces tied to strong memories of alcohol use\n\nWhat’s risky for one person might not be risky for another. What matters is how you feel when you’re there.\n\n\n12.0.3 Why Does It Matter?\nBeing in risky places can:\n\nTrigger cravings or urges to drink\nBring back old memories or habits\nMake you feel out of place or left out\nLower your guard when it comes to saying “no”\n\nEven if you don’t drink, just being in a risky spot can make staying sober harder. That’s why it’s important to check in with yourself after being in one.\n\n\n12.0.4 Why Do People End Up in Risky Places?\nThere are lots of reasons why you might go to a risky place:\n\nYou didn’t realize it would feel triggering\nYou didn’t want to miss out or disappoint others\nYou thought you could handle it\nYou were caught off guard or didn’t plan ahead\nYou were feeling lonely, bored, or stressed\n\nAgain—this happens. The important part is recognizing it and taking steps to protect your recovery going forward.\n\n\n12.0.5 You Can Learn from the Experience\nSpending time in a risky place doesn’t undo your recovery. It’s a chance to learn more about your triggers and prepare better for the future.\nAsk yourself:\n\nWhat made this place feel risky for me?\nHow did I feel while I was there?\nWhat might I do differently next time?\n\nBeing honest about your experience helps you grow stronger and stay in control of your recovery.\n\n\n12.0.6 You’re Still in Charge\nJust because you were in a risky place doesn’t mean you have to stay there—or go back. You’re in control of your choices. You can:\n\nDecide not to return to that place\nMake a plan to bring support with you next time\nSet boundaries for where you go and for how long\nFocus on people and places that support your recovery\n\nRecovery is about making decisions that protect your well-being—one step, one choice at a time.\n\n\n12.0.7 Moving Forward from Here\nThe following tools and exercises can help you:\n\nReflect on what made the location feel risky\nStrengthen your boundaries\nBuild a plan for how to handle similar situations in the future\nRemind yourself why you’re committed to staying sober\n\nBeing in a risky place doesn’t mean you’ve failed—it’s a sign you’re learning, growing, and doing the hard work of recovery. You’ve got this.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>general_wellness</span>"
+      "Risky location",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>risky_locations_psychoed</span>"
+    ]
+  },
+  {
+    "objectID": "risky_location_activities.html",
+    "href": "risky_location_activities.html",
+    "title": "12  risky location activities",
+    "section": "",
+    "text": "12.0.1 ✅ 1. Location Reflection\n🔍 Why? Reflecting on why a location felt risky can help you understand your triggers and prevent future exposure.\n🧭 Try This:\n\n\nThink about the last time you were in a risky location. Where was it, and what made it feel unsafe for your recovery?\n\nWrite down or say aloud 3 reasons why that location feels risky for you.\n\n\n“I associate this place with drinking.”\n\n“Being around certain people makes me feel pressured.”\n\n\n\n\n📝 Identifying these factors will help you avoid similar situations in the future.\n\n\n12.0.2 ✅ 2. Quick Reality Check\n🔍 Why? Reassessing whether being in a risky location aligns with your goals helps you stay focused on your recovery path.\n🧭 Try This:\n\n\nPause for a moment and ask yourself: “Does being here support my recovery?”\n\nIf the answer is “no,” consider what immediate action you can take to leave the situation, such as:\n\n\nExcusing yourself and leaving\n\nAsking someone for support (e.g., a friend or sponsor)\n\nCalling a hotline or trusted person for help\n\n\n\n\n🚶‍♂️ Taking control of your environment helps you take control of your recovery.\n\n\n12.0.3 ✅ 3. Boundary-Setting Script\n🔍 Why? Having clear boundaries protects your sobriety and helps you stay committed to your goals.\n🧭 Try This:\n\n\nWrite or say the following script aloud:\n“I am committed to my recovery. I don’t need to be in places that make it harder for me to stay sober.”\n\nPractice saying it confidently.\n\n\n“If I’m in a situation that feels unsafe, I can leave, and that’s okay.”\n\n\n\n\n🚧 Boundaries are there to protect your well-being, and they’re an essential part of your recovery.\n\n\n12.0.4 ✅ 4. Plan for Alternative Activities\n🔍 Why? Planning ahead for non-risky activities helps you have an immediate solution when you find yourself near a tempting environment.\n🧭 Try This:\n\n\nBrainstorm 2–3 activities you can do if you find yourself near a risky place. These could include:\n\n\nCalling a supportive person\n\nGoing to a park or taking a walk\n\nEngaging in a favorite hobby (e.g., reading, journaling, art)\n\n\n\nWrite these down and keep them handy.\n\n\n📅 Preparation makes it easier to shift gears when you’re faced with temptation.\n\n\n12.0.5 ✅ 5. Reaffirm Your Recovery Goals\n🔍 Why? Reinforcing your long-term recovery goals helps you see past immediate temptation and stay focused on what really matters.\n🧭 Try This:\n\n\nWrite or say aloud: “I am committed to staying sober because [insert personal reasons].”\n\nRevisit the list of reasons you’re working toward sobriety—whether it’s to improve your health, relationships, or career.\n\n\n🎯 By connecting with the bigger picture, you strengthen your resolve.\n\n\n12.0.6 ✅ 6. Post-Risk Location Check-In\n🔍 Why? After spending time in a risky location, reflecting on the experience helps you process and learn for the future.\n🧭 Try This:\n\n\nAfter leaving a risky place, take a moment to reflect:\n\n\nHow did I feel while I was there?\n\nWhat did I learn about myself in that situation?\n\nWhat would I do differently next time?\n\n\n\nWrite down any insights or action steps.\n\n\n🔄 Reflection transforms experiences into learning moments that help you grow stronger in your recovery.\n\n\n12.0.7 ✅ 7. Urgency Distraction\n🔍 Why? Creating a distraction when you’re near a risky location can help you avoid giving in to temptation.\n🧭 Try This:\n\n\nIf you find yourself in a risky location, distract yourself by doing something else, such as:\n\n\nListening to a podcast, audiobook, or music\n\nCounting backward from 100\n\nWalking to a different part of the area or stepping outside to get fresh air\n\n\n\nThis shift in focus can break the cycle of temptation.\n\n\n🚶‍♀️ A simple change of focus can shift your energy and mind away from the risk.\n\n\n12.0.8 ✅ 8. Support Check-In\n🔍 Why? Reaching out to a trusted person increases accountability and provides emotional support in a risky situation.\n🧭 Try This:\n\n\nCall or text someone you trust—this could be a sponsor, friend, or family member—and let them know where you are.\n\nSay: “I’m in a place that feels risky. Could we talk for a bit?”\n\n\n📱 A quick check-in with a support person can provide reassurance and strengthen your resolve.\n\n\n12.0.9 ✅ 9. “Not Today” Mindset\n🔍 Why? Committing to avoid risky situations for today reinforces your sense of control and empowers you to make healthier choices.\n🧭 Try This:\n\n\nSay aloud: “Not today. I’m not going to drink or use today, no matter what.”\n\nRepeat this affirmation a few times to anchor yourself in your decision.\n\n\n🗣️ Saying it out loud reinforces your commitment to staying sober, one day at a time.\n\n\n12.0.10 ✅ 10. Post-Slip Reflection\n🔍 Why? If you did spend time in a risky location and it led to a slip, reflecting helps you process and strengthen future choices.\n🧭 Try This:\n\n\nTake a moment to reflect on the situation that led to your slip. What about the location or environment contributed to the slip?\n\nAsk yourself: What can I do differently next time to avoid that situation or respond in a healthier way?\n\nWrite down 2–3 action steps for the future.\n\n\n📝 Reflection and learning help turn setbacks into opportunities for growth.\n\n\n12.0.11 ✅ 11. Future Planning: Avoiding Risky Locations\n🔍 Why? Being proactive about avoiding risky environments in the future empowers you to take control of your recovery.\n🧭 Try This:\n\n\nThink about upcoming events or places where you might be exposed to risky situations.\n\nMake a plan to either avoid those places or prepare how you’ll handle them if you must go.\n\n\nCan you bring a supportive friend?\n\nCan you create a quick exit plan?\n\n\n\n\n🔮 Preparation today leads to success tomorrow.",
+    "crumbs": [
+      "Risky location",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>risky location activities</span>"
     ]
   }
 ]
