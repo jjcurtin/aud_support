@@ -4,31 +4,19 @@ format: html
 editor: visual
 ---
 
-## Current feeling
-
-"How are you feeling right now?"
-
-2 questions: 1 unpleasant happy - 11 pleasant/happy and 1 calm/sleepy - 11 aroused/alert
-
-Assumed direction: probably most important if unpleasant/unhappy and calm/sleepy (depressed/low energy) or unplesant/unhappy and high arousal (anxiety)
-
-Can consider if we want to have depressed/low energy map with increasing positive events, separate module that is anxiety? Or one feelings module that provides psychoeducation about role of emotion, cognition, physiology in current experience
-
-MATRIX
-
-### Can You Recognize Your Feelings? 
+### Can You Recognize Your Feelings?
 
 Sometimes people don’t allow themselves to have certain emotions (for example, you tell yourself, “Feeling angry is not all right”). Sometimes people aren’t honest with themselves about their emotions (for example, saying, “I’m just having a bad day,” when the truth is they’re sad). When you mislabel emotions or deny them, you cannot address them and they build up inside you.
 
-### Are You Aware of Physical Signs of Certain Feelings? 
+### Are You Aware of Physical Signs of Certain Feelings?
 
 Maybe you get an upset stomach when you are anxious, bite your fingernails when you are stressed, or shake when you are angry. Think about the emotions that trouble you, and try to identify how they show physically.
 
-### How Do You Cope With Your Feelings Now? 
+### How Do You Cope With Your Feelings Now?
 
 How do you respond when you experience negative emotions? How do your feelings affect you and others around you? For instance, do your feelings interfere with your relationships with others? Do people avoid you, try to keep you from getting upset, or try to make you feel better? Focus on one or two emotions you need to cope with better.
 
-### How Do You Express Your Emotions? 
+### How Do You Express Your Emotions?
 
 It is important to find an appropriate way to express emotions. You can express feelings indirectly (to a trusted group, friend, or counselor), or you can express feelings directly to others about whom you have the feelings. You need to learn in which situations it is appropriate to express feelings directly. You also can change your thinking in ways that result in your feeling different. For example, instead of saying, “I am so angry she doesn’t agree with me, I feel like using,” you can frame your feelings as, “It’s all right for someone not to agree with me, and using will not make anything better.” Do not let out-of-control feelings drive you back to using. Learning to cope with emotions means allowing yourself to feel and balancing an honest response with intelligent behavior.
 
@@ -48,7 +36,9 @@ These are some symptoms that might indicate depression:
 
 -   Sleeping more than usual
 
--   Decreased sex drive □ Increased thoughts of drinking
+-   Decreased sex drive
+
+-   Increased thoughts of drinking
 
 -   Insomnia
 
@@ -60,7 +50,9 @@ These are some symptoms that might indicate depression:
 
 -   Feelings of boredom, irritability, or anger
 
--    Crying spells □ Suicidal thoughts or actions
+-   Crying spells
+
+-   Suicidal thoughts or actions
 
 -   Stopping normal activities such as work, cleaning house, buying groceries
 

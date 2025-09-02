@@ -4,10 +4,10 @@ format: html
 editor: visual
 ---
 
-#### It looks like craving has been impacting your recovery recently (link to craving introduction). To help manage craving, lets try an Urge Surfing activity - 
+#### It looks like craving has been impacting your recovery recently (link to craving introduction). To help manage craving, lets try an Urge Surfing activity -
 
 ## Urge Surfing-
 
 Urge Surfing is a way to deal with alcohol cravings by noticing the feeling, not fighting it, and letting it pass like a wave. Remember that cravings are TEMPORARY. Like ocean waves, you can visualize the rise and fall of your cravings, allowing you to "ride the wave" until they go away on their own. Use the instructions below to practice urge surfing the next time you feel a craving:
 
-## ![](images/urge_surfing.PNG)
+## ![](_images/urge_surfing.PNG)

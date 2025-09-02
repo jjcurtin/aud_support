@@ -1,18 +1,9 @@
 ---
 title: "abstinence_goal"
 format: html
-editor: visual
 ---
 
-# **Abstinence goal**
-
-"Is your goal still to remain abstinent in the future?"
-
-Assumed direction: No or Uncertain
-
-Landing page - Patterns of motivation in AUD treatment, importance of maintaining motivation
-
-From MATRIX
+# Abstinence goal
 
 Have you been able to stop using alcohol completely? At about 6 weeks into the recovery process, many people return to alcohol use. Has your addicted brain played with the idea? These are some of the most common arguments against stopping the use of alcohol and answers to the arguments. I came here to stop using speed, not to stop drinking. Part of stopping methamphetamine use is stopping all substance use, including alcohol use. I’ve had drinks and not used, so it doesn’t make any difference. Drinking over time greatly increases the risk of relapse. A single drink does not necessarily cause relapse any more than a single cigarette causes lung cancer. However, with continued drinking, the risks of relapse greatly increase. Drinking actually helps. When I have a craving, a drink calms me down, and the craving goes away. Alcohol interferes with the brain’s chemical healing process. Continued alcohol use eventually intensifies cravings, even if one drink seems to reduce cravings. I’m not an alcoholic, so why do I need to stop drinking? If you’re not an alcoholic, you should have no problem stopping alcohol use. If you can’t stop, maybe alcohol is more of a problem than you realize. I’m never going to use drugs again, but I’m not sure I’ll never drink again. Make a 6-month commitment to total abstinence. Give yourself the chance to make a decision about alcohol with a drug-free brain. If you reject alcohol abstinence because “forever” scares you, then you’re justifying drinking now and risking relapse to substance use.
 

@@ -1,2 +1,6 @@
-This folder will contain qmd files for each intervention or qmd files for overviews that are presented as intro to related interventions/supports/activities
+This directory consists of folders representing model features. In each folder stand alone recovery activities (including initial psychoeduction) will be included as qmd files.
+
+In some cases recovery activities may map to more than one feature. In these cases the recovery activity will be in one feature folder and readme place holders for this recovery activity will be added to the other feature folders.
+
+Finally, a csv file of all features and associated recovery activities will live in this home directory titled `activity_spreadsheet.csv`. 
 

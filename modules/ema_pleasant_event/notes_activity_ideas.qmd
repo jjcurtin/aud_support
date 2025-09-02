@@ -7,7 +7,7 @@ editor: visual
 # Social pressure and Special occasions
 
 |  |
-|------------------------------|
+|----|
 | Identification of role of positive emotions/events on relapse risk, abstinence drift, refusal skills |
 
 ![](images/clipboard-3347249840.png)
