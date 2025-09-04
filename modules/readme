@@ -1,4 +1,6 @@
-This directory consists of folders representing model features. In each folder stand alone recovery activities (including initial psychoeduction) will be included as qmd files.
+This directory consists of folders representing support categories. In each folder stand alone recovery activities (including initial psychoeduction) will be included as qmd files.
+
+A table of how features map onto these support categories is in features.qmd.
 
 In some cases recovery activities may map to more than one feature. In these cases the recovery activity will be in one feature folder and readme place holders for this recovery activity will be added to the other feature folders.
 

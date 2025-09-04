@@ -1,0 +1,51 @@
+---
+title: "Features and Support Categories"
+author: "Sarah and Kendra"
+format: html
+editor: visual
+---
+
+| Feature                           | Source | Support category         |
+|-----------------------------------|--------|--------------------------|
+| alcohol available at location     | GPS    | risky situation          |
+| location to avoid during recovery | GPS    | risky situation          |
+| location valence                  | GPS    | valence and arousal      |
+| location variance                 | GPS    | routine                  |
+| Evening out of home               | GPS    | routine                  |
+| previous drinking location        | GPS    | risky situation          |
+| risky location                    | GPS    | risky situation          |
+| transitory movement               | GPS    | routine                  |
+| AA                                | GPS    | support seeking          |
+| airport                           | GPS    | routine                  |
+| bar                               | GPS    | risky situation          |
+| cafe                              | GPS    | routine                  |
+| church                            | GPS    | support seeking          |
+| community                         | GPS    | support seeking          |
+| errands                           | GPS    | routine                  |
+| family                            | GPS    | relationships            |
+| fitness                           | GPS    | physical health          |
+| friends                           | GPS    | relationships            |
+| healthcare                        | GPS    | physical health          |
+| home                              | GPS    | routine                  |
+| library                           | GPS    | routine                  |
+| liquor store                      | GPS    | risky situation          |
+| other                             | GPS    | routine                  |
+| park                              | GPS    | routine                  |
+| public drinking space             | GPS    | risky situation          |
+| restaurant                        | GPS    | routine? pleasant event? |
+| school                            | GPS    | routine                  |
+| temporary home                    | GPS    | routine                  |
+| travel                            | GPS    | routine                  |
+| volunteer                         | GPS    | routine                  |
+| work                              | GPS    | routine                  |
+| past use                          | EMA    | past use                 |
+| goal still abstinent              | EMA    | abstinence goal          |
+| craving                           | EMA    | craving                  |
+| past risky location               | EMA    | risky situation          |
+| past stressor                     | EMA    | stressful event          |
+| past positive event               | EMA    | pleasant event           |
+| current feeling valence           | EMA    | valence and arousal      |
+| current feeling arousal           | EMA    | valence and arousal      |
+| future risky                      | EMA    | risky situation          |
+| future stressor                   | EMA    | stressful event          |
+| future efficacy                   | EMA    | future efficacy          |
