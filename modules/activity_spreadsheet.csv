@@ -1,41 +1,41 @@
-﻿activity,purpose,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,,,,psychoeducation_needed,format,source
-Recovery Checklist,Increase motivation for treatment,x,,x,x,,,,,,,,,,,,,worksheet,MATRIX
-Relapse analysis chart,Understand patterns that led to lapse,,,,x,,,,,,,,,,,,,worksheet,MATRIX
-Treatment evaluation,Checking in on goals,x,,x,,,,,,,,,,,,,,worksheet,matrix
-Continuting trteatment plan,goal setting,x,,,,,,,,,,,,,,,,writing prompt,matrix
-Importance of scheduling,describe importance of scheduling,,x,x,,,,,x,,x,,,,,,,reading,matrix
-Tracking progress,remind self of progress,,,x,,,,,,,,,,,,,,reading and calendar,matrix
-Triggers,describe importance of identifying triggers,,x,,x,,x,,x,,x,,x,,,,,reading + questions,matrix
-Thought stopping,explain thought stopping and suggest visualization/activities,,x,x,,,,,x,,x,,,,,,,reading + guided action,matrix
-External triggers,guided checklist to identify triggers,,x,x,x,,x,,x,,x,,,,,,,worksheet,matrix
-Internal triggers,guided checklist for internal triggers,,,,,,x,,,,x,,x,,,,,worksheet,matrix
-5 common challenges early recovery,help identify potential pitfalls,,,,,,x,,x,,x,,,,,,,reading + questions,matrix
-Alcohol arguments,help combat thoughts of returning to use,x,x,x,,,,,,,,,,,,,,reading + questions,matrix
-RP 1 (page 2) occasions,discuss pleasant situations associated with drinking,,,x,,,x,,,,,,,,,,,worksheet,matrix
-RP 2 boredom,encourage positive activities,,x,,,,,,,,x,,x,,,,,reading + worksheet,matrix
-RP 3 relapse drift,track helpful and unhelpful behaviors durig recovery,x,,x,,,,,x,,x,,,,,,,reading,matrix
-RP 6 Staying busy,schedule positive activities,,,x,,,,,x,,x,,x,,,,,worksheet,matrix
-RP 7 motivation for recovery,review reasons for stopping use,x,,x,,,,,,,,,,,,,,worksheet,matrix
-RP 11 emotional build up,identify signs of emotional buildup and potential actions,,,,,,x,,,,x,,x,,,,,worksheet,matrix
-RP 12 smart not strong,"review  txt supportive behaviors, increase motivation",x,,,,,x,,,,,,,,,,,worksheet,matrix
-RP 14 spirituality,self care guided purpose,,,,,,,,,,,,x,,,,,worksheet,matrix
-RP 17 self care,general self care check ins,,,,,,,,,,x,,x,,,,,guided checklist,matrix
-RP 18 emotional triggers,reflect on emotional triggers and release,,,,,,,,,,x,,x,,,,,writing prompt,matrix
-RP 22 reducing stress,reflection on stress and planning for handling them,,,,,,,,x,,x,,,,,,,guided prompts,matrix
-RP 25 making new friends,motivate good relationships,,,,x,,,,,,,,x,,,,,worksheet,matrix
-Urge suring desccription,explore how urges pass with time,,x,,,,,,,,,,,,,,,reading and reflection,cbt coping skills
-Abstinence motivation,"benefeits, consequences, and high risk situations that may impact abstinence",x,,x,,,,,x,,,,,,,,,worksheet,cbt coping skills
-High risk plan,identify actions for risky situations,,,,,,,,x,,x,,,,,,,worksheet,cbt coping skills
-Assertiveness,practice saying no/sticking to values,,,x,,,,,x,,x,,,,,,,reading and reflection,cbt coping skills
-Mindfulness as your anchor,explanation of why mindfulness is useful,,x,,,,x,,,,x,,x,,,,mindfulness,core reading? ,SST
-Three conscious breaths,manage momentary stress,,x,,,,,,x,,x,,x,,,,mindfulness,exercise,SST
-54321 grounding ,manage momentary stress,,x,,,,,,x,,x,,x,,,,mindfulness,exercise,SST
-Pros and cons,pros and cons to motivate treatment,x,,x,x,,,,x,,x,,,,,,,worksheet,SST
-Thought record,identify unhelpful cognitions,,,,,,,,,,x,,x,,,,,worksheet,SST
-roadblocks for relaxation,identify behaviors that prevent relaxing mind,,,,,,,,,,x,,x,,,,,checklist and reflection ,SST
-Body Scan,increase bodily awareness,,,,,,,,,,x,,x,,,,,exercise,SST
-progressive muscle relaxation,"increase awareness of tension, reduce stress",,,,,,,,,,x,,x,,,,,exercise,SST
-Noticing walk,"reduce stress, increase appreciation of moment",,,,,,,,,,x,,x,,,,,exercise,SST
-Mindful Meal,"reduce stress, increase appreciation of moment",,,,,,,,,,x,,x,,,,,exercise,SST
-Physical activity list,explain importance of and plan physical activities,,x,,,,,,x,,x,,x,,,,,worksheet,SST
-compassionate u turn,cope with guilt and stress,,,,x,,,,,,x,,x,,,,,exercise,SST
+﻿activity,purpose,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,psychoeducation_needed,format,source
+Recovery Checklist,Increase motivation for treatment,x,,,x,,,,,,,,,,worksheet,MATRIX
+Relapse analysis chart,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,MATRIX
+Treatment evaluation,Checking in on goals,x,,x,x,,,,,,,,,,worksheet,matrix
+Continuting treatment plan,goal setting,,,,x,,,,,,,,,,writing prompt,matrix
+Importance of scheduling,describe importance of scheduling,,,,,,,,x,x,,,,,reading,matrix
+Tracking progress,remind self of progress,,,x,,,,,x,,x,,x,,reading and calendar,matrix
+Triggers,describe importance of identifying triggers,,,x,,,,,,,,,,,reading + questions,matrix
+Thought stopping,explain thought stopping and suggest visualization/activities,,x,,,,,,,,,,,,reading + guided action,matrix
+External triggers,guided checklist to identify triggers,,,,,,,x,x,,x,,,,worksheet,matrix
+Internal triggers,guided checklist for internal triggers,,,,,,,,,,,,x,,worksheet,matrix
+5 common challenges early recovery,help identify potential pitfalls,,,x,x,,,,,,,,,,reading + questions,matrix
+Alcohol arguments,help combat thoughts of returning to use,,x,,,,,,,,,,,,reading + questions,matrix
+RP 1 (page 2) occasions,discuss pleasant situations associated with drinking,,,,,,x,,,x,,,,,worksheet,matrix
+RP 2 boredom,encourage positive activities,,,,,,x,,,,,,,,reading + worksheet,matrix
+RP 3 relapse drift,track helpful and unhelpful behaviors durig recovery,,,,x,,,,,,,,,,reading,matrix
+RP 6 Staying busy,schedule positive activities,,,x,,,x,,x,x,,,,,worksheet,matrix
+RP 7 motivation for recovery,review reasons for stopping use,x,,x,x,,,,,,,,,,worksheet,matrix
+RP 11 emotional build up,identify signs of emotional buildup and potential actions,,,,,,,,,,,,x,,worksheet,matrix
+RP 12 smart not strong,"review  txt supportive behaviors, increase motivation",x,,,,,,,,,,,,,worksheet,matrix
+RP 14 spirituality,self care guided purpose,,,,,,x,,,,,,,,worksheet,matrix
+RP 17 self care,general self care check ins,,,,,x,,,,,,,,,guided checklist,matrix
+RP 18 emotional triggers,reflect on emotional triggers and release,,,,,,,,,,,,x,,writing prompt,matrix
+RP 22 reducing stress,reflection on stress and planning for handling them,,,,,,,,,,x,,,,guided prompts,matrix
+RP 25 making new friends,motivate good relationships,,,,,,,,,,,x,,,worksheet,matrix
+Urge suring desccription,explore how urges pass with time,,x,,,,,,x,,,,,,reading and reflection,cbt coping skills
+Abstinence motivation,"benefeits, consequences, and high risk situations that may impact abstinence",x,,,x,,,,,,,,,,worksheet,cbt coping skills
+High risk plan,identify actions for risky situations,,,,,,,,x,,,,,,worksheet,cbt coping skills
+Assertiveness,practice saying no/sticking to values,,,,,,,x,,,,,,,reading and reflection,cbt coping skills
+Mindfulness as your anchor,explanation of why mindfulness is useful,,,,,,,,,,x,,,mindfulness,core reading? ,SST
+Three conscious breaths,manage momentary stress,,,,,,,,,,x,,x,mindfulness,exercise,SST
+54321 grounding ,manage momentary stress,,,,,,,,,,x,,x,mindfulness,exercise,SST
+Pros and cons,pros and cons to motivate treatment,x,,x,x,,,,,,,,,,worksheet,SST
+Thought record,identify unhelpful cognitions,,x,,,,,,,,,,,,worksheet,SST
+roadblocks for relaxation,identify behaviors that prevent relaxing mind,,x,,,,,,,,,,,,checklist and reflection ,SST
+Body Scan,increase bodily awareness,,x,,,,,,,,x,,x,,exercise,SST
+progressive muscle relaxation,"increase awareness of tension, reduce stress",,,,,,,,,,x,,,,exercise,SST
+Noticing walk,"reduce stress, increase appreciation of moment",,,,,,,,,,x,,,,exercise,SST
+Mindful Meal,"reduce stress, increase appreciation of moment",,,,,,,,,,x,,,,exercise,SST
+Physical activity list,explain importance of and plan physical activities,,,,,x,,,,,,,,,worksheet,SST
+compassionate u turn,cope with guilt and stress,,,,,,,,,,x,,,,exercise,SST
