@@ -2,7 +2,6 @@
 title: "Features and Support Categories"
 author: "Sarah and Kendra"
 format: html
-editor: visual
 ---
 
 | Feature                           | Source | Support category         |
@@ -16,9 +15,9 @@ editor: visual
 | risky location                    | GPS    | risky situation          |
 | transitory movement               | GPS    | routine                  |
 | AA                                | GPS    | support seeking          |
-| airport                           | GPS    | routine                  |
+| airport                           | GPS    | routine (consider risky, pleasant |
 | bar                               | GPS    | risky situation          |
-| cafe                              | GPS    | routine                  |
+| cafe                              | GPS    | routine (social support, pleasant? risky?)  |
 | church                            | GPS    | support seeking          |
 | community                         | GPS    | support seeking          |
 | errands                           | GPS    | routine                  |
@@ -27,16 +26,15 @@ editor: visual
 | friends                           | GPS    | relationships            |
 | healthcare                        | GPS    | physical health          |
 | home                              | GPS    | routine                  |
-| library                           | GPS    | routine                  |
+| library                           | GPS    | routine (??)             |
 | liquor store                      | GPS    | risky situation          |
-| other                             | GPS    | routine                  |
-| park                              | GPS    | routine                  |
+| park                              | GPS    | routine  (pleasant? ??)  |
 | public drinking space             | GPS    | risky situation          |
 | restaurant                        | GPS    | routine? pleasant event? |
 | school                            | GPS    | routine                  |
 | temporary home                    | GPS    | routine                  |
-| travel                            | GPS    | routine                  |
-| volunteer                         | GPS    | routine                  |
+| travel                            | GPS    | routine (risky? pleasant?) |
+| volunteer                         | GPS    | routine ??               |
 | work                              | GPS    | routine                  |
 | past use                          | EMA    | past use                 |
 | goal still abstinent              | EMA    | abstinence goal          |
