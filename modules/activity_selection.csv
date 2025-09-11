@@ -1,0 +1,60 @@
+﻿activity_name,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,notes
+psychoed_abstinence_goal.qmd,1,,,,,,,,,,,,
+psychoed_craving.qmd,,1,,,,,,,,,,,
+psychoed_future_efficacy.qmd,,,1,,,,,,,,,,
+psychoed_past_use.qmd,,,,1,,,,,,,,,
+psychoed_physical_health.qmd,,,,,1,,,,,,,,
+psychoed_pleasant_event.qmd,,,,,,1,,,,,,,
+psychoed_relationships.qmd,,,,,,,1,,,,,,
+psychoed_risky_situations.qmd,,,,,,,,1,,,,,
+psychoed_routine.qmd,,,,,,,,,1,,,,
+psychoed_stressful_event.qmd,,,,,,,,,,1,,,
+psychoed_support_seeking.qmd,,,,,,,,,,,1,,
+psychoed_valence_arousal.qmd,,,,,,,,,,,,1,
+recovery_checklist.qmd,2,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature)
+Relapse analysis chart,,,,x,,,,,,,,,
+Treatment evaluation,x,,x,,,,,,,,,,
+Continuting treatment plan,x,,x,,,,,,,,,,
+Importance of scheduling (reading),,,,,,,,3,x,,,,
+Importance of scheduling (worksheet),,,,,,,,4,x,,,,psychoed reading first
+Tracking progress,,,x,,,,,,,,,,
+Triggers,,x,,,,,,2,,,,,
+trigger-thought-craving-use,,x,,x,,,,,,,,,
+Thought stopping,,x,,x,,,,,,,,,psychoed reading first
+External triggers,,,,x,,,x,9,,,x,,
+Internal triggers,,,,x,,,,,,,,x,
+5 common challenges early recovery,,,x,x,,x,x,,,,,x,
+Alcohol arguments,,,,x,,,,,,,,,
+RP 1 (page 2) occasions,,,,,,x,,,x,,,,
+RP 2 boredom,,,,,,x,,,x,,,,
+RP 3 relapse drift (reading),x,,,x,,,,,,,,,
+RP 3 relapse drift (exercise),x,,,x,,,,,,,,,"psychoed reading first, could make 2 exercises"
+RP 6 Staying busy,,,x,,,,,8,x,,,,
+RP 7 motivation for recovery,x,,x,x,,,,,,,,,
+RP 11 emotional build up,,,,,,,,,,,,x,
+RP 12 smart not strong,,,x,,,,,5,,,,,
+RP 14 spirituality,,,,,,x,,,,,,,
+RP 17 self care,,,,,x,,,,,,,,
+RP 18 emotional triggers (p 1),,,,,,,,,,,,x,
+RP 18 emotional triggers (p2),,,,,,,,,,,,x,
+RP 22 reducing stress,,,,,,,,,,x,,,
+RP 25 making new friends,,,,,,,x,,,,x,,
+RP 32 one day at a time,,,x,,,,,,,,,,could be two worksheets
+Urge suring desccription,,x,,,,,,10,,,,,
+Abstinence motivation,x,,,x,,,,,,,,,
+High risk plan,,,,,,,,7,,,,,
+Assertiveness,,,,,,,x,6,,,,,
+Mindfulness as your anchor,,,,,,,,,,x,,x,
+Three conscious breaths,,,,,,,,,,x,,x,psychoed reading first
+54321 grounding ,,,,,,,,,,x,,x,psychoed reading first
+Pros and cons,x,,,x,,,,,,,,,
+Thought record,,x,,,,,,,,,,,
+roadblocks for relaxation,,x,,,,,,,,,,,
+Body Scan,,x,,,,,,,,x,,x,psychoed reading first
+progressive muscle relaxation,,,,,,,,,,x,,,
+Noticing walk,,x,,,,,,,,x,,,psychoed reading first
+Mindful Meal,,,,,,x,,,,x,,,psychoed reading first
+Physical activity list,,,,,x,,,,,,,,
+compassionate u turn,,,,,,,,,,x,,,
+psychoed on self-help groups,,,,,,,,,,,x,,
+HALT (ERS 8),,,,,,,,,,,,x,

@@ -1,8 +1,20 @@
-This directory consists of folders representing support categories. In each folder stand alone recovery activities (including initial psychoeduction) will be included as qmd files.
 
-A table of how features map onto these support categories is in features.qmd.
+1. `features.qmd` contains a table of how features map onto different support categories.
 
-In some cases recovery activities may map to more than one feature. In these cases the recovery activity will be in one feature folder and readme place holders for this recovery activity will be added to the other feature folders.
 
-Finally, a csv file of all features and associated recovery activities will live in this home directory titled `activity_spreadsheet.csv`. 
+2. The `complete` directory contains all recovery activities ready for deployment (including initial psychoed) as stand-alone qmd files.   
 
+	- This decision to have them in one folder is due to many recovery activities mapping to more than one support category. 
+	- activities currently being edited/created are in the `in_progress` directory. 
+	- activities that are complete pending review by JC will be put in the `pending_review` directory. 
+
+
+3. `recovery_activities.csv` contains a list of all recovery activities (including brief description, type of activity, and source of activity) and the support categories each activity maps to.    
+
+	- This file also indicates the activity's status - in progress, pending review, or complete
+
+4. `activity_selection.csv` can be used to select the recommended activity.   
+
+	- activities have a ranking within each support category (e.g., psychoed is 1). 
+	- These rankings are meant to have activities appropriately shuffled and ensure any required psychoed is shown prior to related-activity. 
+	- The selection algorithm should also check if the activity has recently been recommended (i.e., from another support category), if it has the activity should be skipped.
