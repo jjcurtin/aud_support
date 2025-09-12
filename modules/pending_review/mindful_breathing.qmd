@@ -5,7 +5,9 @@ format: html
 
 ## Mindful Breathing
 
-Here are three simple breathing exercises. Choose one that might be a good fit for you and try it today. Sit in a comfortable position in a chair or on a meditation cushion. Avoid slouching. In each case, if your mind starts generating a lot of thoughts, which it inevitably will, gently bring your attention back to your breath.
+Here are three simple breathing exercises. Choose one that might be a good fit for you and try it today. Sit in a comfortable position in a chair or on a meditation cushion. Avoid slouching. In each case, if your mind starts generating a lot of thoughts, which it inevitably will, gently bring your attention back to your breath.<!--reference mindfulness_reading.qmd-->
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mindful_breathing.png?raw=true)
 
 ### In-and-Out Breathing
 

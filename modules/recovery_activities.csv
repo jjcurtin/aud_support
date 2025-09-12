@@ -53,7 +53,7 @@ grounding,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,
 Pros and cons,pros and cons to motivate treatment,x,,,x,,,,,,,,,,worksheet,SST,in_progress
 trigger_behavior_record,"identify triggers, behaviors and outcomes",,x,,,,,,,,,,,,worksheet,cbt coping skills,pending_review
 roadblocks for relaxation,identify behaviors that prevent relaxing mind,,,,,,,,,,x,,x,,checklist and reflection ,SST,in_progress
-Body Scan,increase bodily awareness,,x,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
+Body Scan,increase bodily awareness,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
 progressive muscle relaxation,"increase awareness of tension, reduce stress",,,,,,,,,,x,,,,exercise,SST,in_progress
 Noticing walk,"reduce stress, increase appreciation of moment",,x,,,,,,,,x,,,psychoed reading first,exercise,SST,in_progress
 Mindful Meal,"reduce stress, increase appreciation of moment",,,,,,x,,,,x,,,psychoed reading first,exercise,SST,in_progress
@@ -62,3 +62,4 @@ compassionate u turn,cope with guilt and stress,,,,,,,,,,x,,,,exercise,SST,in_pr
 psychoed on self-help groups,information on what different groups are available and how to find more info,,,,,,,,,,,x,,,reading ,matrix,in_progress
 HALT (ERS 8),"Hungry, angry, lonely, tired - preventing vulnerable emotional states",,,,,,,,,,,,x,,reading + questions,matrix,in_progress
 Thought record,identify unhelpful cognitions,,x,,,,,,,,,,,,worksheet,SST,in_progress
+mindful_breathing,3 breathing exercises,,x,,,,,,,,x,,x,,exercise,SST,pending_review

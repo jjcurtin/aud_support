@@ -47,18 +47,19 @@ urge_surfing.qmd,,5,,,,,,x,,,,,yes,
 Abstinence motivation,x,,,x,,,,,,,,,yes,mindfulness_reading first
 High risk plan,,,,,,,,x,,,,,yes,
 Assertiveness,,,,,,,x,x,,,,,yes,
-mindfulness_reading,,4,,,,,,,,x,,x,no,
+mindfulness_reading.qmd,,4,,,,,,,,x,,x,no,
 Three conscious breaths,,,,,,,,,,x,,x,yes,mindfulness_reading given first
 grounding.qmd,,,,,,,,,,x,,x,yes,mindfulness_reading given first
 Pros and cons,x,,,x,,,,,,,,,yes,
 trigger_behavior_record.qmd,,3,,,,,,,,,,,yes,
 roadblocks for relaxation,,,,,,,,,,,,,yes,
-Body Scan,,9,,,,,,,,x,,x,yes,mindfulness_reading given first
+Body Scan,,,,,,,,,,x,,x,yes,mindfulness_reading given first
 progressive muscle relaxation,,,,,,,,,,x,,,yes,
-Noticing walk,,8,,,,,,,,x,,,yes,mindfulness_reading given first
+noticing_walk.qmd,,9,,,,,,,,x,,,yes,mindfulness_reading given first
 Mindful Meal,,,,,,x,,,,x,,,yes,mindfulness_reading given first
 Physical activity list,,,,,x,,,,,,,,yes,
 compassionate u turn,,,,,,,,,,x,,,yes,
 psychoed on self-help groups,,,,,,,,,,,x,,yes,
 HALT (ERS 8),,,,,,,,,,,,x,yes,
 Thought record,,11,,,,,,,,,,,yes,
+mindful_breathing.qmd,,8,,,,,,,,,,,,
