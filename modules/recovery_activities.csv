@@ -20,7 +20,8 @@ scheduling_worksheet,pracctice scheduling,,,,,,,,x,x,,,,psychoed reading first,w
 Tracking progress,remind self of progress,,,x,,,,,,,,,,,reading and calendar,matrix,in_progress
 Triggers,describe importance of identifying triggers,,x,,,,,,x,,,,,,reading + questions,matrix,in_progress
 trigger_thought_craving_reading,explain process of trigger-thought-craving-use ,,x,,x,,,,,,,,,,psychoed reading,matrix,pending_review
-Thought stopping,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
+thought_stopping_1,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
+thought_stopping_2,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,thought_stopping_1 first,worksheet,matrix,in_progress
 External triggers,guided checklist to identify triggers,,,,x,,,x,x,,,x,,,worksheet,matrix,in_progress
 Internal triggers,guided checklist for internal triggers,,,,x,,,,,,,,x,,worksheet,matrix,in_progress
 5 common challenges early recovery,help identify potential pitfalls,,,x,x,,x,x,,,,,x,,reading + questions,matrix,in_progress

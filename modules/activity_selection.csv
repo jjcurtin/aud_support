@@ -15,21 +15,22 @@ recovery_checklist.qmd,2,,,,,,,,,,,,Give earlier on (could be first activity reg
 Relapse analysis chart,,,,x,,,,,,,,,
 Treatment evaluation,x,,x,,,,,,,,,,
 Continuting treatment plan,x,,x,,,,,,,,,,
-scheduling_reading,,,,,,,,3,x,,,,
-scheduling_worksheet,,,,,,,,4,x,,,,scheduling_reading given first
+scheduling_reading.qmd,,,,,,,,3,x,,,,
+scheduling_worksheet.qmd,,,,,,,,4,x,,,,scheduling_reading given first
 Tracking progress,,,x,,,,,,,,,,
 Triggers,,x,,,,,,2,,,,,
-trigger_thought_craving_reading,,x,,x,,,,,,,,,
-Thought stopping,,x,,x,,,,,,,,,trigger_thought_craving_reading given first
+trigger_thought_craving_reading.qmd,,x,,x,,,,,,,,,
+thought_stopping_1.qmd,,x,,x,,,,,,,,,trigger_thought_craving_reading given first
+thought_stopping_2.qmd,,x,,x,,,,,,,,,thought_stopping_1.qmd first
 External triggers,,,,x,,,x,9,,,x,,
 Internal triggers,,,,x,,,,,,,,x,
 5 common challenges early recovery,,,x,x,,x,x,,,,,x,
 Alcohol arguments,,,,x,,,,,,,,,
 RP 1 (page 2) occasions,,,,,,x,,,x,,,,
 RP 2 boredom,,,,,,x,,,x,,,,
-relapse_drift_reading,x,,,x,,,,,,,,,
-relapse_drift_worksheet_1,x,,,x,,,,,,,,,relapse_drift_reading given first
-relapse_drift_worksheet_2,x,,,x,,,,,,,,,relapse_drift_reading given first
+relapse_drift_reading.qmd,x,,,x,,,,,,,,,
+relapse_drift_worksheet_1.qmd,x,,,x,,,,,,,,,relapse_drift_reading given first
+relapse_drift_worksheet_2.qmd,x,,,x,,,,,,,,,relapse_drift_reading given first
 RP 6 Staying busy,,,x,,,,,8,x,,,,
 RP 7 motivation for recovery,x,,x,x,,,,,,,,,
 RP 11 emotional build up,,,,,,,,,,,,x,
