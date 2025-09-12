@@ -18,19 +18,19 @@ Continuting treatment plan,goal setting,x,,x,,,,,,,,,,,writing prompt,matrix,in_
 scheduling_reading,describe importance of scheduling,,,,,,,,x,x,,,,,psychoed reading,matrix,pending_review
 scheduling_worksheet,pracctice scheduling,,,,,,,,x,x,,,,psychoed reading first,worksheet,matrix,in_progress
 Tracking progress,remind self of progress,,,x,,,,,,,,,,,reading and calendar,matrix,in_progress
-Triggers,describe importance of identifying triggers,,x,,,,,,x,,,,,,reading + questions,matrix,in_progress
+triggers,describe importance of identifying triggers,,x,,,,,,,,,,,,reading + questions,matrix,in_progress
 trigger_thought_craving_reading,explain process of trigger-thought-craving-use ,,x,,x,,,,,,,,,,psychoed reading,matrix,pending_review
-thought_stopping_1,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
-thought_stopping_2,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,thought_stopping_1 first,worksheet,matrix,in_progress
+thought_stopping_1,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,pending_review
+thought_stopping_2,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,thought_stopping_1 first,worksheet,matrix,pending_review
 External triggers,guided checklist to identify triggers,,,,x,,,x,x,,,x,,,worksheet,matrix,in_progress
 Internal triggers,guided checklist for internal triggers,,,,x,,,,,,,,x,,worksheet,matrix,in_progress
 5 common challenges early recovery,help identify potential pitfalls,,,x,x,,x,x,,,,,x,,reading + questions,matrix,in_progress
 Alcohol arguments,help combat thoughts of returning to use,,,,x,,,,,,,,,,reading + questions,matrix,in_progress
 RP 1 (page 2) occasions,discuss pleasant situations associated with drinking,,,,,,x,,,x,,,,,worksheet,matrix,in_progress
 RP 2 boredom,encourage positive activities,,,,,,x,,,x,,,,,reading + worksheet,matrix,in_progress
-relapse_drift_reading,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,,psychoed reading,matrix,in_progress
-relapse_drift_worksheet_1,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
-relapse_drift_worksheet_2,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
+relapse_drift_reading,track helpful and unhelpful behaviors durig recovery,x,,,x,,x,,,,,,,,psychoed reading,matrix,in_progress
+relapse_drift_worksheet_1,track helpful and unhelpful behaviors durig recovery,x,,,x,,x,,,,,,,psychoed reading first,worksheet,matrix,in_progress
+relapse_drift_worksheet_2,track helpful and unhelpful behaviors durig recovery,x,,,x,,x,,,,,,,psychoed reading first,worksheet,matrix,in_progress
 RP 6 Staying busy,schedule positive activities,,,x,,,,,x,x,,,,,worksheet,matrix,in_progress
 RP 7 motivation for recovery,review reasons for stopping use,x,,x,x,,,,,,,,,,worksheet,matrix,in_progress
 RP 11 emotional build up,identify signs of emotional buildup and potential actions,,,,,,,,,,,,x,,worksheet,matrix,in_progress
@@ -43,16 +43,16 @@ RP 22 reducing stress,reflection on stress and planning for handling them,,,,,,,
 RP 25 making new friends,motivate good relationships,,,,,,,x,,,,x,,,worksheet,matrix,in_progress
 RP 32 one day at a time1,"reframing, focussing on single problem today instead of fearing future",,,x,,,,,,,,,,,worklsheet,matrix,in_progress
 RP 32 one day at a time 2,"reframing, focussing on single problem today instead of fearing future",,,x,,,,,,,,,,,worklsheet,matrix,in_progress
-Urge suring desccription,explore how urges pass with time,,x,,,,,,x,,,,,,reading and reflection,cbt coping skills,in_progress
+Urge suring desccription,explore how urges pass with time,,x,,,,,,x,,,,,,reading and reflection,cbt coping skills,pending_review
 Abstinence motivation,"benefeits, consequences, and high risk situations that may impact abstinence",x,,,x,,,,,,,,,,worksheet,cbt coping skills,in_progress
 High risk plan,identify actions for risky situations,,,,,,,,x,,,,,,worksheet,cbt coping skills,in_progress
 Assertiveness,practice saying no/sticking to values,,,,,,,x,x,,,,,,reading and reflection,cbt coping skills,in_progress
-mindfulness_reading,explanation of why mindfulness is useful,,,,,,,,,,x,,x,,psychoed reading,SST,in_progress
-Three conscious breaths,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
-54321 grounding ,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
+mindfulness_reading,explanation of why mindfulness is useful,,x,,,,,,,,x,,x,,psychoed reading,SST,pending_review
+Three conscious breaths,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,pending_review
+grounding,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,pending_review
 Pros and cons,pros and cons to motivate treatment,x,,,x,,,,,,,,,,worksheet,SST,in_progress
-Thought record,identify unhelpful cognitions,,x,,,,,,,,,,,,worksheet,SST,in_progress
-roadblocks for relaxation,identify behaviors that prevent relaxing mind,,x,,,,,,,,,,,,checklist and reflection ,SST,in_progress
+trigger_behavior_record,"identify triggers, behaviors and outcomes",,x,,,,,,,,,,,,worksheet,cbt coping skills,pending_review
+roadblocks for relaxation,identify behaviors that prevent relaxing mind,,,,,,,,,,x,,x,,checklist and reflection ,SST,in_progress
 Body Scan,increase bodily awareness,,x,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
 progressive muscle relaxation,"increase awareness of tension, reduce stress",,,,,,,,,,x,,,,exercise,SST,in_progress
 Noticing walk,"reduce stress, increase appreciation of moment",,x,,,,,,,,x,,,psychoed reading first,exercise,SST,in_progress
@@ -61,3 +61,4 @@ Physical activity list,explain importance of and plan physical activities,,,,,x,
 compassionate u turn,cope with guilt and stress,,,,,,,,,,x,,,,exercise,SST,in_progress
 psychoed on self-help groups,information on what different groups are available and how to find more info,,,,,,,,,,,x,,,reading ,matrix,in_progress
 HALT (ERS 8),"Hungry, angry, lonely, tired - preventing vulnerable emotional states",,,,,,,,,,,,x,,reading + questions,matrix,in_progress
+Thought record,identify unhelpful cognitions,,x,,,,,,,,,,,,worksheet,SST,in_progress

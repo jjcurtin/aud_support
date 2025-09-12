@@ -1,63 +1,64 @@
-﻿activity_name,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,notes
-psychoed_abstinence_goal.qmd,1,,,,,,,,,,,,
-psychoed_craving.qmd,,1,,,,,,,,,,,
-psychoed_future_efficacy.qmd,,,1,,,,,,,,,,
-psychoed_past_use.qmd,,,,1,,,,,,,,,
-psychoed_physical_health.qmd,,,,,1,,,,,,,,
-psychoed_pleasant_event.qmd,,,,,,1,,,,,,,
-psychoed_relationships.qmd,,,,,,,1,,,,,,
-psychoed_risky_situations.qmd,,,,,,,,1,,,,,
-psychoed_routine.qmd,,,,,,,,,1,,,,
-psychoed_stressful_event.qmd,,,,,,,,,,1,,,
-psychoed_support_seeking.qmd,,,,,,,,,,,1,,
-psychoed_valence_arousal.qmd,,,,,,,,,,,,1,
-recovery_checklist.qmd,2,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature)
-Relapse analysis chart,,,,x,,,,,,,,,
-Treatment evaluation,x,,x,,,,,,,,,,
-Continuting treatment plan,x,,x,,,,,,,,,,
-scheduling_reading.qmd,,,,,,,,3,x,,,,
-scheduling_worksheet.qmd,,,,,,,,4,x,,,,scheduling_reading given first
-Tracking progress,,,x,,,,,,,,,,
-Triggers,,x,,,,,,2,,,,,
-trigger_thought_craving_reading.qmd,,x,,x,,,,,,,,,
-thought_stopping_1.qmd,,x,,x,,,,,,,,,trigger_thought_craving_reading given first
-thought_stopping_2.qmd,,x,,x,,,,,,,,,thought_stopping_1.qmd first
-External triggers,,,,x,,,x,9,,,x,,
-Internal triggers,,,,x,,,,,,,,x,
-5 common challenges early recovery,,,x,x,,x,x,,,,,x,
-Alcohol arguments,,,,x,,,,,,,,,
-RP 1 (page 2) occasions,,,,,,x,,,x,,,,
-RP 2 boredom,,,,,,x,,,x,,,,
-relapse_drift_reading.qmd,x,,,x,,,,,,,,,
-relapse_drift_worksheet_1.qmd,x,,,x,,,,,,,,,relapse_drift_reading given first
-relapse_drift_worksheet_2.qmd,x,,,x,,,,,,,,,relapse_drift_reading given first
-RP 6 Staying busy,,,x,,,,,8,x,,,,
-RP 7 motivation for recovery,x,,x,x,,,,,,,,,
-RP 11 emotional build up,,,,,,,,,,,,x,
-RP 12 smart not strong,,,x,,,,,5,,,,,
-RP 14 spirituality,,,,,,x,,,,,,,
-RP 17 self care,,,,,x,,,,,,,,
-RP 18 emotional triggers (p 1),,,,,,,,,,,,x,
-RP 18 emotional triggers (p2),,,,,,,,,,,,x,
-RP 22 reducing stress,,,,,,,,,,x,,,
-RP 25 making new friends,,,,,,,x,,,,x,,
-RP 32 one day at a time,,,x,,,,,,,,,,
-RP 32 one day at a time 2,,,x,,,,,,,,,,
-Urge suring desccription,,x,,,,,,10,,,,,
-Abstinence motivation,x,,,x,,,,,,,,,
-High risk plan,,,,,,,,7,,,,,
-Assertiveness,,,,,,,x,6,,,,,
-mindfulness_reading,,,,,,,,,,x,,x,
-Three conscious breaths,,,,,,,,,,x,,x,mindfulness_reading given first
-54321 grounding ,,,,,,,,,,x,,x,mindfulness_reading given first
-Pros and cons,x,,,x,,,,,,,,,
-Thought record,,x,,,,,,,,,,,
-roadblocks for relaxation,,x,,,,,,,,,,,
-Body Scan,,x,,,,,,,,x,,x,mindfulness_reading given first
-progressive muscle relaxation,,,,,,,,,,x,,,
-Noticing walk,,x,,,,,,,,x,,,mindfulness_reading given first
-Mindful Meal,,,,,,x,,,,x,,,mindfulness_reading given first
-Physical activity list,,,,,x,,,,,,,,
-compassionate u turn,,,,,,,,,,x,,,
-psychoed on self-help groups,,,,,,,,,,,x,,
-HALT (ERS 8),,,,,,,,,,,,x,
+﻿activity_name,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,can_repeat,notes
+psychoed_abstinence_goal.qmd,1,,,,,,,,,,,,no,
+psychoed_craving.qmd,,1,,,,,,,,,,,no,
+psychoed_future_efficacy.qmd,,,1,,,,,,,,,,no,
+psychoed_past_use.qmd,,,,1,,,,,,,,,no,
+psychoed_physical_health.qmd,,,,,1,,,,,,,,no,
+psychoed_pleasant_event.qmd,,,,,,1,,,,,,,no,
+psychoed_relationships.qmd,,,,,,,1,,,,,,no,
+psychoed_risky_situations.qmd,,,,,,,,1,,,,,no,
+psychoed_routine.qmd,,,,,,,,,1,,,,no,
+psychoed_stressful_event.qmd,,,,,,,,,,1,,,no,
+psychoed_support_seeking.qmd,,,,,,,,,,,1,,no,
+psychoed_valence_arousal.qmd,,,,,,,,,,,,1,no,
+recovery_checklist.qmd,x,,,,,,,,,,,,yes,Give earlier on (could be first activity regardless of top feature)
+Relapse analysis chart,,,,x,,,,,,,,,yes,
+Treatment evaluation,x,,x,,,,,,,,,,yes,
+Continuting treatment plan,x,,x,,,,,,,,,,yes,
+scheduling_reading.qmd,,,,,,,,x,x,,,,no,
+scheduling_worksheet.qmd,,,,,,,,x,x,,,,yes,scheduling_reading given first
+Tracking progress,,,x,,,,,,,,,,yes,
+triggers.qmd,,2,,,,,,,,,,,yes,
+trigger_thought_craving_reading.qmd,,6,,x,,,,,,,,,no,
+thought_stopping_1.qmd,,7,,x,,,,,,,,,yes,trigger_thought_craving_reading given first
+thought_stopping_2.qmd,,10,,x,,,,,,,,,yes,"Should be after, but not immediately after, thought_stopping_1.qmd "
+External triggers,,,,x,,,x,x,,,x,,yes,
+Internal triggers,,,,x,,,,,,,,x,yes,
+5 common challenges early recovery,,,x,x,,x,x,,,,,x,yes,
+Alcohol arguments,,,,x,,,,,,,,,yes,
+RP 1 (page 2) occasions,,,,,,x,,,x,,,,yes,
+RP 2 boredom,,,,,,x,,,x,,,,yes,
+relapse_drift_reading.qmd,x,,,x,,x,,,,,,,no,
+relapse_drift_worksheet_1.qmd,x,,,x,,x,,,,,,,yes,relapse_drift_reading given first
+relapse_drift_worksheet_2.qmd,x,,,x,,x,,,,,,,yes,relapse_drift_reading given first
+RP 6 Staying busy,,,x,,,,,x,x,,,,yes,
+RP 7 motivation for recovery,x,,x,x,,,,,,,,,yes,
+RP 11 emotional build up,,,,,,,,,,,,x,yes,
+RP 12 smart not strong,,,x,,,,,x,,,,,yes,
+RP 14 spirituality,,,,,,x,,,,,,,yes,
+RP 17 self care,,,,,x,,,,,,,,yes,
+RP 18 emotional triggers (p 1),,,,,,,,,,,,x,yes,
+RP 18 emotional triggers (p2),,,,,,,,,,,,x,yes,
+RP 22 reducing stress,,,,,,,,,,x,,,yes,
+RP 25 making new friends,,,,,,,x,,,,x,,yes,
+RP 32 one day at a time,,,x,,,,,,,,,,yes,
+RP 32 one day at a time 2,,,x,,,,,,,,,,yes,
+urge_surfing.qmd,,5,,,,,,x,,,,,yes,
+Abstinence motivation,x,,,x,,,,,,,,,yes,mindfulness_reading first
+High risk plan,,,,,,,,x,,,,,yes,
+Assertiveness,,,,,,,x,x,,,,,yes,
+mindfulness_reading,,4,,,,,,,,x,,x,no,
+Three conscious breaths,,,,,,,,,,x,,x,yes,mindfulness_reading given first
+grounding.qmd,,,,,,,,,,x,,x,yes,mindfulness_reading given first
+Pros and cons,x,,,x,,,,,,,,,yes,
+trigger_behavior_record.qmd,,3,,,,,,,,,,,yes,
+roadblocks for relaxation,,,,,,,,,,,,,yes,
+Body Scan,,9,,,,,,,,x,,x,yes,mindfulness_reading given first
+progressive muscle relaxation,,,,,,,,,,x,,,yes,
+Noticing walk,,8,,,,,,,,x,,,yes,mindfulness_reading given first
+Mindful Meal,,,,,,x,,,,x,,,yes,mindfulness_reading given first
+Physical activity list,,,,,x,,,,,,,,yes,
+compassionate u turn,,,,,,,,,,x,,,yes,
+psychoed on self-help groups,,,,,,,,,,,x,,yes,
+HALT (ERS 8),,,,,,,,,,,,x,yes,
+Thought record,,11,,,,,,,,,,,yes,
