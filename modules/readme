@@ -18,3 +18,9 @@
 	- activities have a ranking within each support category (e.g., psychoed is 1). 
 	- These rankings are meant to have activities appropriately shuffled and ensure any required psychoed is shown prior to related-activity. 
 	- The selection algorithm should also check if the activity has recently been recommended (i.e., from another support category), if it has the activity should be skipped.
+
+
+5. The `images` directory contains images that are embedded in certain recovery modules. 
+
+	- If this folder is moved, paths will need to be updated. 
+	- The image title maps on to the recovery module it is associated with. 

@@ -15,11 +15,11 @@ recovery_checklist,Increase motivation for treatment,x,,,,,,,,,,,,Give earlier o
 Relapse analysis chart,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,matrix,in_progress
 Treatment evaluation,Checking in on goals,x,,x,,,,,,,,,,,worksheet,matrix,in_progress
 Continuting treatment plan,goal setting,x,,x,,,,,,,,,,,writing prompt,matrix,in_progress
-Importance of scheduling (reading),describe importance of scheduling,,,,,,,,x,x,,,,,psychoed reading,matrix,in_progress
-Importance of scheduling (worksheet),describe importance of scheduling,,,,,,,,x,x,,,,psychoed reading first,worksheet,matrix,in_progress
+scheduling_reading,describe importance of scheduling,,,,,,,,x,x,,,,,psychoed reading,matrix,pending_review
+scheduling_worksheet,pracctice scheduling,,,,,,,,x,x,,,,psychoed reading first,worksheet,matrix,in_progress
 Tracking progress,remind self of progress,,,x,,,,,,,,,,,reading and calendar,matrix,in_progress
 Triggers,describe importance of identifying triggers,,x,,,,,,x,,,,,,reading + questions,matrix,in_progress
-trigger-thought-craving-use,explain process of trigger-thought-craving-use ,,x,,x,,,,,,,,,,psychoed reading,matrix,in_progress
+trigger_thought_craving_reading,explain process of trigger-thought-craving-use ,,x,,x,,,,,,,,,,psychoed reading,matrix,pending_review
 Thought stopping,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
 External triggers,guided checklist to identify triggers,,,,x,,,x,x,,,x,,,worksheet,matrix,in_progress
 Internal triggers,guided checklist for internal triggers,,,,x,,,,,,,,x,,worksheet,matrix,in_progress
@@ -27,8 +27,9 @@ Internal triggers,guided checklist for internal triggers,,,,x,,,,,,,,x,,workshee
 Alcohol arguments,help combat thoughts of returning to use,,,,x,,,,,,,,,,reading + questions,matrix,in_progress
 RP 1 (page 2) occasions,discuss pleasant situations associated with drinking,,,,,,x,,,x,,,,,worksheet,matrix,in_progress
 RP 2 boredom,encourage positive activities,,,,,,x,,,x,,,,,reading + worksheet,matrix,in_progress
-RP 3 relapse drift (reading),track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,,psychoed reading,matrix,in_progress
-RP 3 relapse drift (exercise),track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,"psychoed reading first, could make 2 exercises",worksheet,matrix,in_progress
+relapse_drift_reading,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,,psychoed reading,matrix,in_progress
+relapse_drift_worksheet_1,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
+relapse_drift_worksheet_2,track helpful and unhelpful behaviors durig recovery,x,,,x,,,,,,,,,psychoed reading first,worksheet,matrix,in_progress
 RP 6 Staying busy,schedule positive activities,,,x,,,,,x,x,,,,,worksheet,matrix,in_progress
 RP 7 motivation for recovery,review reasons for stopping use,x,,x,x,,,,,,,,,,worksheet,matrix,in_progress
 RP 11 emotional build up,identify signs of emotional buildup and potential actions,,,,,,,,,,,,x,,worksheet,matrix,in_progress
@@ -39,12 +40,13 @@ RP 18 emotional triggers (p 1),reflect on emotional triggers,,,,,,,,,,,,x,,readi
 RP 18 emotional triggers (p2),release emotions,,,,,,,,,,,,x,,writing prompt,matrix,in_progress
 RP 22 reducing stress,reflection on stress and planning for handling them,,,,,,,,,,x,,,,guided prompts,matrix,in_progress
 RP 25 making new friends,motivate good relationships,,,,,,,x,,,,x,,,worksheet,matrix,in_progress
-RP 32 one day at a time,"reframing, focussing on single problem today instead of fearing future",,,x,,,,,,,,,,could be two worksheets,worklsheet,matrix,in_progress
+RP 32 one day at a time1,"reframing, focussing on single problem today instead of fearing future",,,x,,,,,,,,,,,worklsheet,matrix,in_progress
+RP 32 one day at a time 2,"reframing, focussing on single problem today instead of fearing future",,,x,,,,,,,,,,,worklsheet,matrix,in_progress
 Urge suring desccription,explore how urges pass with time,,x,,,,,,x,,,,,,reading and reflection,cbt coping skills,in_progress
 Abstinence motivation,"benefeits, consequences, and high risk situations that may impact abstinence",x,,,x,,,,,,,,,,worksheet,cbt coping skills,in_progress
 High risk plan,identify actions for risky situations,,,,,,,,x,,,,,,worksheet,cbt coping skills,in_progress
 Assertiveness,practice saying no/sticking to values,,,,,,,x,x,,,,,,reading and reflection,cbt coping skills,in_progress
-Mindfulness as your anchor,explanation of why mindfulness is useful,,,,,,,,,,x,,x,,psychoed reading,SST,in_progress
+mindfulness_reading,explanation of why mindfulness is useful,,,,,,,,,,x,,x,,psychoed reading,SST,in_progress
 Three conscious breaths,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
 54321 grounding ,manage momentary stress,,,,,,,,,,x,,x,psychoed reading first,exercise,SST,in_progress
 Pros and cons,pros and cons to motivate treatment,x,,,x,,,,,,,,,,worksheet,SST,in_progress

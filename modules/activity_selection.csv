@@ -15,20 +15,21 @@ recovery_checklist.qmd,2,,,,,,,,,,,,Give earlier on (could be first activity reg
 Relapse analysis chart,,,,x,,,,,,,,,
 Treatment evaluation,x,,x,,,,,,,,,,
 Continuting treatment plan,x,,x,,,,,,,,,,
-Importance of scheduling (reading),,,,,,,,3,x,,,,
-Importance of scheduling (worksheet),,,,,,,,4,x,,,,psychoed reading first
+scheduling_reading,,,,,,,,3,x,,,,
+scheduling_worksheet,,,,,,,,4,x,,,,scheduling_reading given first
 Tracking progress,,,x,,,,,,,,,,
 Triggers,,x,,,,,,2,,,,,
-trigger-thought-craving-use,,x,,x,,,,,,,,,
-Thought stopping,,x,,x,,,,,,,,,psychoed reading first
+trigger_thought_craving_reading,,x,,x,,,,,,,,,
+Thought stopping,,x,,x,,,,,,,,,trigger_thought_craving_reading given first
 External triggers,,,,x,,,x,9,,,x,,
 Internal triggers,,,,x,,,,,,,,x,
 5 common challenges early recovery,,,x,x,,x,x,,,,,x,
 Alcohol arguments,,,,x,,,,,,,,,
 RP 1 (page 2) occasions,,,,,,x,,,x,,,,
 RP 2 boredom,,,,,,x,,,x,,,,
-RP 3 relapse drift (reading),x,,,x,,,,,,,,,
-RP 3 relapse drift (exercise),x,,,x,,,,,,,,,"psychoed reading first, could make 2 exercises"
+relapse_drift_reading,x,,,x,,,,,,,,,
+relapse_drift_worksheet_1,x,,,x,,,,,,,,,relapse_drift_reading given first
+relapse_drift_worksheet_2,x,,,x,,,,,,,,,relapse_drift_reading given first
 RP 6 Staying busy,,,x,,,,,8,x,,,,
 RP 7 motivation for recovery,x,,x,x,,,,,,,,,
 RP 11 emotional build up,,,,,,,,,,,,x,
@@ -39,21 +40,22 @@ RP 18 emotional triggers (p 1),,,,,,,,,,,,x,
 RP 18 emotional triggers (p2),,,,,,,,,,,,x,
 RP 22 reducing stress,,,,,,,,,,x,,,
 RP 25 making new friends,,,,,,,x,,,,x,,
-RP 32 one day at a time,,,x,,,,,,,,,,could be two worksheets
+RP 32 one day at a time,,,x,,,,,,,,,,
+RP 32 one day at a time 2,,,x,,,,,,,,,,
 Urge suring desccription,,x,,,,,,10,,,,,
 Abstinence motivation,x,,,x,,,,,,,,,
 High risk plan,,,,,,,,7,,,,,
 Assertiveness,,,,,,,x,6,,,,,
-Mindfulness as your anchor,,,,,,,,,,x,,x,
-Three conscious breaths,,,,,,,,,,x,,x,psychoed reading first
-54321 grounding ,,,,,,,,,,x,,x,psychoed reading first
+mindfulness_reading,,,,,,,,,,x,,x,
+Three conscious breaths,,,,,,,,,,x,,x,mindfulness_reading given first
+54321 grounding ,,,,,,,,,,x,,x,mindfulness_reading given first
 Pros and cons,x,,,x,,,,,,,,,
 Thought record,,x,,,,,,,,,,,
 roadblocks for relaxation,,x,,,,,,,,,,,
-Body Scan,,x,,,,,,,,x,,x,psychoed reading first
+Body Scan,,x,,,,,,,,x,,x,mindfulness_reading given first
 progressive muscle relaxation,,,,,,,,,,x,,,
-Noticing walk,,x,,,,,,,,x,,,psychoed reading first
-Mindful Meal,,,,,,x,,,,x,,,psychoed reading first
+Noticing walk,,x,,,,,,,,x,,,mindfulness_reading given first
+Mindful Meal,,,,,,x,,,,x,,,mindfulness_reading given first
 Physical activity list,,,,,x,,,,,,,,
 compassionate u turn,,,,,,,,,,x,,,
 psychoed on self-help groups,,,,,,,,,,,x,,
