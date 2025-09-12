@@ -1,7 +1,6 @@
 ---
 title: "affect_arousal"
 format: html
-editor: visual
 ---
 
 ### Can You Recognize Your Feelings?

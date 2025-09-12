@@ -1,17 +1,17 @@
 ﻿activity,purpose,abstinence_goal,craving,future_efficacy,past_use,physical_health,pleasant_event,relationships,risky_situation,routine,stressful_event,support_seeking,valence_arousal,notes,format,source,activity_status
-psychoed_abstinence_goal,,x,,,,,,,,,,,,,psychoed reading,,in_progress
-psychoed_craving,,,x,,,,,,,,,,,,psychoed reading,,in_progress
-psychoed_future_efficacy,,,,x,,,,,,,,,,,psychoed reading,,in_progress
-psychoed_past_use,,,,,x,,,,,,,,,,psychoed reading,,in_progress
-psychoed_physical_health,,,,,,x,,,,,,,,,psychoed reading,,in_progress
-psychoed_pleasant_event,,,,,,,x,,,,,,,,psychoed reading,,in_progress
-psychoed_relationships,,,,,,,,x,,,,,,,psychoed reading,,in_progress
-psychoed_risky_situations,,,,,,,,,x,,,,,,psychoed reading,,in_progress
-psychoed_routine,,,,,,,,,,x,,,,,psychoed reading,,in_progress
-psychoed_stressful_event,,,,,,,,,,,x,,,,psychoed reading,,in_progress
-psychoed_support_seeking,,,,,,,,,,,,x,,,psychoed reading,,in_progress
-psychoed_valence_arousal,,,,,,,,,,,,,x,,psychoed reading,,in_progress
-recovery_checklist,Increase motivation for treatment,x,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature),worksheet,matrix,in_progress
+psychoed_abstinence_goal,,x,,,,,,,,,,,,,psychoed reading,,pending_review
+psychoed_craving,,,x,,,,,,,,,,,,psychoed reading,,pending_review
+psychoed_future_efficacy,,,,x,,,,,,,,,,,psychoed reading,,pending_review
+psychoed_past_use,,,,,x,,,,,,,,,,psychoed reading,,pending_review
+psychoed_physical_health,,,,,,x,,,,,,,,,psychoed reading,,pending_review
+psychoed_pleasant_event,,,,,,,x,,,,,,,,psychoed reading,,pending_review
+psychoed_relationships,,,,,,,,x,,,,,,,psychoed reading,,pending_review
+psychoed_risky_situation,,,,,,,,,x,,,,,,psychoed reading,,pending_review
+psychoed_routine,,,,,,,,,,x,,,,,psychoed reading,,pending_review
+psychoed_stressful_event,,,,,,,,,,,x,,,,psychoed reading,,pending_review
+psychoed_support_seeking,,,,,,,,,,,,x,,,psychoed reading,,pending_review
+psychoed_valence_arousal,,,,,,,,,,,,,x,,psychoed reading,,pending_review
+recovery_checklist,Increase motivation for treatment,x,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature),worksheet,matrix,pending_review
 Relapse analysis chart,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,matrix,in_progress
 Treatment evaluation,Checking in on goals,x,,x,,,,,,,,,,,worksheet,matrix,in_progress
 Continuting treatment plan,goal setting,x,,x,,,,,,,,,,,writing prompt,matrix,in_progress

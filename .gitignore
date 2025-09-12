@@ -1,3 +1,4 @@
 /.quarto/
 .Rproj.user
 aud_support.Rproj
+.DS_Store

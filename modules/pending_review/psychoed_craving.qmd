@@ -1,7 +1,6 @@
 ---
 title: "Craving psychoeducation"
 format: html
-editor: visual
 ---
 
 # 🌊 **Understanding Cravings**
