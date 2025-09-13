@@ -7,6 +7,8 @@ format: html
 
 This activity gives you a chance to notice the changes you’ve already made in your recovery. By checking the behaviors you practice and thinking about new actions you might try, you can celebrate your progress and identify areas to focus on next. Use this worksheet as a guide to reflect on what’s working well and where you might want to grow.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/recovery_checklist.png?raw=true){fig-align="center"}
+
 #### Check all the things that you do regularly or have done since choosing to stop drinking:
 
 □ Schedule activities daily\
