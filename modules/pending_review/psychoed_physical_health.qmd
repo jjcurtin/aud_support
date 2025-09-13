@@ -3,7 +3,7 @@ title: "physical health psychoeducation"
 format: html
 ---
 
-## 🩺 Physical Health
+## 🩺 Physical Health and Recovery
 
 Recovery isn’t just about changing your drinking, it’s also about taking care of your body. When your physical health is neglected, you’re more vulnerable to stress, low mood, and cravings—all of which can increase the risk of a lapse.
 
@@ -45,6 +45,8 @@ Sleep plays a critical role in preventing lapses:
 
 -   **Check in with Professionals:** Regular medical care can help address lingering issues that could otherwise wear you down and trigger lapses.
 
+::: callout
 ## Remember
 
 Protecting your physical health is more than self-care and relapse prevention. By keeping your body strong, rested, and nourished, you make it harder for stress, fatigue, and cravings to pull you back toward alcohol. Each healthy choice is another layer of defense that supports long-term recovery.
+:::

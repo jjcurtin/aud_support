@@ -3,7 +3,7 @@ title: "support seeking psychoeducation"
 format: html
 ---
 
-## 🤗 Support Seeking
+## 🤗 Support Seeking in Recovery
 
 Recovery is not something you have to do alone. Seeking support from friends, family, peers, or professionals is a critical part of maintaining sobriety. Support provides guidance, encouragement, and accountability, and it can help you cope with cravings, stress, and challenging situations. Understanding the role of support in recovery can help you build a network that strengthens your resilience.
 
@@ -41,6 +41,8 @@ Strong support systems act as a buffer against cravings and lapses, while lack o
 
 - **Reciprocate Support:** Supporting others in recovery strengthens relationships, reinforces your own skills, and builds a sense of community.
 
+::: {.callout}
 ## Remember
 
 Seeking support is a sign of strength, not weakness. No one recovers in isolation. By leaning on others, you gain encouragement, guidance, and accountability that help protect your sobriety. Each time you reach out, you reinforce your ability to navigate challenges and maintain a fulfilling, alcohol-free life.
+:::

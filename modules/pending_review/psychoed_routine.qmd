@@ -3,7 +3,7 @@ title: "routine psychoeducation"
 format: html
 ---
 
-## 📅 Routine
+## 📅 Routine and Recovery
 
 A daily routine, including your regular patterns of sleep, work, meals, exercise, and leisure, plays a central role in recovery. Stable routines create structure, reduce stress, and make it easier to avoid situations that trigger cravings or lapses. Without routine, it’s easy to feel overwhelmed, bored, or unprepared, which can increase the risk of returning to old drinking habits.
 
@@ -43,6 +43,8 @@ Building a recovery-friendly routine isn’t about rigidity—it’s about creat
 
 - **Prepare for Changes:** Anticipate routine disruptions—holidays, travel, or social events—and plan strategies to stay on track.
 
+::: {.callout}
 ## Remember
 
 A consistent routine is like a safety net for recovery. It supports your physical health, strengthens coping skills, and reduces exposure to triggers. Each day you maintain structure, even small habits, you reinforce your ability to stay sober, manage cravings, and navigate life with confidence.
+:::

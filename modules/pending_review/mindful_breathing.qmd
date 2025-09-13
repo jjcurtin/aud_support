@@ -7,21 +7,21 @@ format: html
 
 Here are three simple breathing exercises. Choose one that might be a good fit for you and try it today. Sit in a comfortable position in a chair or on a meditation cushion. Avoid slouching. In each case, if your mind starts generating a lot of thoughts, which it inevitably will, gently bring your attention back to your breath.
 
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mindful_breathing.png?raw=true)
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mindful_breathing.png?raw=true){fig-align="center"}
 
-::: {.callout}
+::: callout
 ### In-and-Out Breathing
 
 Set a timer for two minutes (at first, then gradually work up to four or five minutes per sitting). Quiet your mind as best as you can and simply notice your breath going in and out. Don’t push or strain or try to control your breathing in any way. Notice: Does the air enter through your nose? Your mouth? Just notice. Inhale. Exhale. Slow. Easy. No effort. Notice your chest or your belly rising and falling as you discover the rhythm and pace of your breathing.
 :::
 
-::: {.callout}
+::: callout
 ### Counting Breaths
 
 Sit comfortably and eliminate any distractions. Inhale slowly, counting up to five. One, two, three, four, five. Exhale slowly, counting down from five. Five, four, three, two, one. You may wish to hold the breath for one or two counts before exhaling. Whatever counting pattern you choose, be sure not to strain or force your breathing. Easy, steady, in and out.
 :::
 
-:::{.callout}
+::: callout
 ### Belly Breathing
 
 Sit comfortably or lie down on a mat or soft carpet (avoid the bed, as you might fall asleep). Put one hand on your belly and the other hand on your chest. Close your mouth and breathe in through your nose, deeply inhaling but not straining. Notice your belly rising but keep your chest still. Exhale the air through your mouth, noticing your belly contracting slightly. Repeat up to ten times.
