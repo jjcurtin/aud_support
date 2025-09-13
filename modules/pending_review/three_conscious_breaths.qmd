@@ -5,8 +5,12 @@ format: html
 
 ### Take Three Conscious Breaths
 
-This exercise uses principles of mindfulness to pause, calm the nervous system, and create a moment of mindful presence to manage stress, anxiety, and overwhelm<!--refer to mindfulness_reading.qmd-->.
+This exercise uses principles of mindfulness to pause, calm the nervous system, and create a moment of mindful presence to manage stress, anxiety, and overwhelm.
 
+::: callout
 Sit comfortably in a chair and take an easy breath. Read this paragraph through, then close your eyes. Notice what you’re feeling in your body and mind. Let go of any tension you’re aware of. And breathe—three slow, easy, deep, conscious breaths, expanding your lungs fully, holding for a second or two, then exhaling slowly. Notice any physical sensations, any thoughts or judgments, and see if you can let them go, too.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/three_conscious_breaths.png?raw=true){fig-align="center"}
+
 **What did you notice?**
+:::

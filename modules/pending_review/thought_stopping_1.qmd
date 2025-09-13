@@ -5,7 +5,7 @@ format: html
 
 ## Thought Stopping
 
-To sustain recovery, it is necessary to interrupt the trigger–thought–craving–use sequence<!--refer to trigger_thought_craving_reading.qmd-->. **Thought stopping** provides a tool for disrupting the process.
+To sustain recovery, it is necessary to interrupt the trigger–thought–craving–use sequence. **Thought stopping** provides a tool for disrupting the process.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/thought_stopping_1.png?raw=true)
 
@@ -31,6 +31,8 @@ Feelings of hollowness, heaviness, and cramping in the stomach are cravings. The
 
 Talking to another person provides an outlet for your feelings and allows you to hear your thinking process. Have phone numbers of supportive, available people with you always, so you can use them when you need them.
 
-### *Tip*
+::: callout
+### Tip
 
 Thought-stopping is a skill that improves with practice. The earlier you catch a thought, the easier it is to stop before it grows into a craving. Make these exercises part of your daily routine to strengthen your ability to respond to triggers and maintain control over your recovery.
+:::
