@@ -3,9 +3,11 @@ title: "mindfulness reading"
 format: html
 ---
 
-## 🧘 Introduction to Mindfulness
+## Introduction to Mindfulness
 
 Mindfulness is the practice of paying attention to the present moment with awareness, curiosity, and acceptance—without judging yourself or your experiences. While it may seem like a new trend, mindfulness is more than 2,500 years old, originating from ancient Buddhist traditions.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mindfulness_reading.png?raw=true)
 
 ### Why Mindfulness Matters
 
@@ -13,13 +15,15 @@ In everyday life, many of us go through our days on automatic pilot, distracted 
 
 Mindfulness is about noticing what’s happening right now, including your thoughts, feelings, sensations, and surroundings. It allows you to be present and respond intentionally, rather than reacting automatically.
 
-### Common Misunderstandings
+::: callout
+### A Common Misunderstanding
 
 Some people believe:
 
 *“I don’t want to pay attention to what’s happening right now—it’s too stressful, painful, or scary.”*
 
 This is a normal reaction. Mindfulness does not mean ignoring difficult experiences, but rather observing them with acceptance. Over time, this practice can reduce reactivity, stress, and emotional overwhelm.
+:::
 
 ### Benefits of Mindfulness
 
@@ -47,16 +51,9 @@ Research shows that mindfulness offers a wide range of benefits:
 
 -   Improves learning, creativity, and problem-solving
 
-### Key Takeaways
+*Remember, mindfulness is a practice, not something you perfect!*
 
--   Mindfulness is about being present without judgment.
-
--   It is a practice, not a perfect state—you will notice when your mind wanders.
-
--   Regular mindfulness helps improve mental, emotional, and physical health.
-
--   It is a tool anyone can use to stay grounded, calm, and aware.
-
+::: callout
 ### Pause to Reflect
 
 -   When I notice my thoughts wandering, what kinds of things do I most often think about?
@@ -64,3 +61,4 @@ Research shows that mindfulness offers a wide range of benefits:
 -   How aware am I of my body and physical sensations throughout the day?
 
 -   Are there times I notice myself on “autopilot” or going through the day without really paying attention?
+:::

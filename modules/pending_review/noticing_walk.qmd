@@ -5,7 +5,9 @@ format: html
 
 ## Noticing Walk
 
-Mindfulness means paying attention to the present moment with openness and curiosity. A mindful walk is a simple way to practice this skill. By focusing on your senses, you can gently bring your awareness back to the here and now, calm your mind, and connect with your body.<!--reference mindfulness_reading.qmd-->
+Mindfulness means paying attention to the present moment with openness and curiosity. A mindful walk is a simple way to practice this skill. By focusing on your senses, you can gently bring your awareness back to the here and now, calm your mind, and connect with your body.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/noticing_walk.png?raw=true)
 
 ### Instructions
 
@@ -17,6 +19,7 @@ Go for a walk outside by yourself for 15–20 minutes.
 
 -   Focus on noticing with all your senses, paying attention to what you hear, smell, and see.
 
+::: callout
 #### Step 1: Choose Your Focus
 
 ☐ Sounds (noticing near, medium, and far away sounds)\
@@ -44,5 +47,6 @@ You may choose one focus area or explore all three during your walk.
 4.  What I felt in my body during the walk:
 
 5.  Overall experience (what it was like for me):
+:::
 
 **Congratulate yourself for trying. Be creative and adapt this practice in ways that feel good for you.**
