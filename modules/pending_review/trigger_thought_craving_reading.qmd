@@ -13,6 +13,7 @@ If you decide to stop drinking but find yourself moving toward alcohol, your bra
 
 Craving does not always occur in a straightforward, easily recognized form. Often the thought of drinking passes through your head with little or no effect. But it’s important to identify these thoughts and try to eliminate them. It takes effort to identify and stop a thought. However, allowing yourself to continue thinking about drinking is choosing to relapse. The further the thoughts are allowed to go, the more likely you are to relapse.
 
+::: callout
 ### The “Automatic” Process
 
 During addiction, triggers, thoughts, cravings, and use seem to run together. However, the usual sequence goes like this:
@@ -20,6 +21,7 @@ During addiction, triggers, thoughts, cravings, and use seem to run together. Ho
 **TRIGGER → THOUGHT → CRAVING → USE**
 
 Understanding this sequence helps you intervene early, before cravings take hold.
+:::
 
 ### Thought Stopping
 
