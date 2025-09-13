@@ -5,7 +5,9 @@ format: html
 
 ## 5-4-3-2-1 Grounding Exercise
 
-This mindfulness practice engages all five senses to help you notice your immediate environment. By focusing outward you can ground your mind and body in the present moment. This exercise can be done anytime, anywhere. You don’t have to wait for stress or anxiety to practice; it can be used as a pleasant, neutral way to stay aware and present.<!--refer to mindfulness_reading.qmd-->
+This mindfulness practice engages all five senses to help you notice your immediate environment. By focusing outward you can ground your mind and body in the present moment. This exercise can be done anytime, anywhere. You don’t have to wait for stress or anxiety to practice; it can be used as a pleasant, neutral way to stay aware and present.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/grounding.png?raw=true)
 
 ### How to Practice
 
