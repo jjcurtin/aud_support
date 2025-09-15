@@ -1,0 +1,32 @@
+---
+title: "Recovery Planning"
+format: html
+---
+
+### Recovery Planning Worksheet
+
+Recovery requires specific actions and behavioral changes in many areas of life. Even after treatment, it is important to continue to set new goals and plan for a different lifestyle.
+
+This guide will help you develop a plan and identify the steps necessary for reaching your goals. Use the table below to write your current status and your goals for each area of life, along with the steps you will take and when you plan to take them.
+
+| **Subject** | **Where are you now?** | **Where would you like to be?** | **What steps do you need to take?** | **When?** |
+|----|----|----|----|----|
+| Work / Career |  |  |  |  |
+| Friendships |  |  |  |  |
+| Financial / Legal Obligations |  |  |  |  |
+| Education |  |  |  |  |
+| Exercise |  |  |  |  |
+| Leisure Activities |  |  |  |  |
+| 12-Step or Mutual-Help Meetings |  |  |  |  |
+
+::: callout
+### Reflection Prompts
+
+**1. Which of these areas feels most important for you right now?**
+
+**2. What obstacles might make your goals harder to reach, and how can you prepare for them?**
+
+**3. Who can support you in making these changes?**
+
+**4. How will you celebrate small successes along the way?**
+:::

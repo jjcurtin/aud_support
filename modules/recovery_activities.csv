@@ -12,13 +12,13 @@ psychoed_stressful_event,,,,,,,,,,,x,,,,psychoed reading,,pending_review
 psychoed_support_seeking,,,,,,,,,,,,x,,,psychoed reading,,pending_review
 psychoed_valence_arousal,,,,,,,,,,,,,x,,psychoed reading,,pending_review
 recovery_checklist,Increase motivation for treatment,x,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature),worksheet,matrix,pending_review
-Relapse analysis chart,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,matrix,in_progress
-Treatment evaluation,Checking in on goals,x,,x,,,,,,,,,,,worksheet,matrix,in_progress
-Continuting treatment plan,goal setting,x,,x,,,,,,,,,,,writing prompt,matrix,in_progress
+relapse_analysis_1,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,matrix,pending_review
+relapse_analysis_2,Understand patterns that led to lapse,,,,x,,,,,,,,,,worksheet,matrix,pending_review
+recovery_planning,Checking in on goals,x,,x,,,,,,,,,,,worksheet,matrix,pending_review
 scheduling_reading,describe importance of scheduling,,,,,,,,x,x,,,,,psychoed reading,matrix,pending_review
-scheduling_worksheet,pracctice scheduling,,,,,,,,x,x,,,,psychoed reading first,worksheet,matrix,in_progress
-Tracking progress,remind self of progress,,,x,,,,,,,,,,,reading and calendar,matrix,in_progress
-triggers,describe importance of identifying triggers,,x,,,,,,,,,,,,reading + questions,matrix,in_progress
+scheduling_worksheet,pracctice scheduling,,,,,,,,x,x,,,,psychoed reading first,worksheet,matrix,pending_review
+tracking_progress,remind self of progress,,,x,,,,,,,,,,,reading and calendar,matrix,pending_review
+triggers,describe importance of identifying triggers,,x,,,,,,,,,,,,reading + questions,matrix,pending_review
 trigger_thought_craving_reading,explain process of trigger-thought-craving-use ,,x,,x,,,,,,,,,,psychoed reading,matrix,pending_review
 thought_stopping_1,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,psychoed reading first,worksheet,matrix,pending_review
 thought_stopping_2,explain thought stopping and suggest visualization/activities,,x,,x,,,,,,,,,thought_stopping_1 first,worksheet,matrix,pending_review

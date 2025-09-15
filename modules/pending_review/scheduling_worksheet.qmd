@@ -1,0 +1,52 @@
+---
+title: "Scheduling Worksheet"
+format: html
+---
+
+## Scheduling Worksheet
+
+::: callout
+### Instructions
+
+This worksheet is designed to help you plan and track your day. Use it to build structure, balance responsibilities, and make time for recovery activities.
+
+1.  Start with sleep. Write down the hours you plan to sleep (from \_\_\_ to \_\_\_). Make sure you are getting enough rest.
+
+2.  Fill in each hour. Write what you plan to do during each time block (work, appointments, meals, exercise, recovery activities, relaxation, etc.).
+
+3.  Be realistic. Don’t overload your schedule. Include time for self-care and breaks.
+
+4.  Use the Notes section. Add anything you need to remember about the day, such as special tasks or reflections.
+
+5.  Use the Reminders section. Write important things you want to carry with you (affirmations, goals, triggers to avoid, support contacts).
+:::
+
+### Sleep Planning
+
+How many hours will you sleep? \_\_\_\_\_\_\_
+
+From \_\_\_\_\_\_\_ To \_\_\_\_\_\_\_
+
+| Time     | Activity / Plan |
+|----------|-----------------|
+| 7:00 AM  |                 |
+| 8:00 AM  |                 |
+| 9:00 AM  |                 |
+| 10:00 AM |                 |
+| 11:00 AM |                 |
+| 12:00 PM |                 |
+| 1:00 PM  |                 |
+| 2:00 PM  |                 |
+| 3:00 PM  |                 |
+| 4:00 PM  |                 |
+| 5:00 PM  |                 |
+| 6:00 PM  |                 |
+| 7:00 PM  |                 |
+| 8:00 PM  |                 |
+| 9:00 PM  |                 |
+| 10:00 PM |                 |
+| 11:00 PM |                 |
+
+### Notes:
+
+### Reminders:

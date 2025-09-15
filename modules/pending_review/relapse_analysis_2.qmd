@@ -1,0 +1,46 @@
+---
+title: "Relapse Analysis"
+format: html
+---
+
+## Relapse Analysis Activity
+
+A lapse back to alcohol use does not begin when you take a drink of alcohol. Often, things that happen before you drink indicate the beginning of a lapse. Identifying your patterns of behavior will help you recognize and interrupt the lapse.
+
+::: callout
+### Instructions
+
+-   Think back to the week leading up to your last lapse.
+
+-   Fill in each category with the events, behaviors, and thoughts you experienced.
+
+-   Reflect on your feelings about each event.
+:::
+
+| **Category** | **Events** | **Patterns of Behavior** | Feelings About the Events |
+|----|----|----|----|
+| Subject / Career Events |  |  |  |
+| Personal Events |  |  |  |
+| Treatment Events |  |  |  |
+| Drug-Related Behaviors |  |  |  |
+| Behavioral Patterns |  |  |  |
+| Relapse Thoughts |  |  |  |
+| Health Status |  |  |  |
+
+::: callout
+### Looking Back and Learning More
+
+It looks like this may not be your first relapse analysis activity. That’s okay! Each time you reflect, you gain new insights into your patterns and strengths.
+
+#### Reflection Questions
+
+**1. What did you notice this time that you didn’t see before?**
+
+**2. Do any patterns keep showing up across different lapses?**
+
+**3. Were there warning signs you recognized earlier this time?**
+
+**4. What strategies did you try to interrupt the lapse before it happened? How well did they work?**
+
+**5. What could you do differently next time to strengthen your recovery?**
+:::
