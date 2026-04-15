@@ -9,7 +9,7 @@ Use this worksheet to track the people, places, feelings, and situations that pr
 
 ::: callout
 | Triggers | Thoughts and Feelings | Behavior | Positive Consequences | Negative Consequences |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | *What sets me up to use?* | *What was I thinking? What was I feeling?* | *What did I do then?* | *What positive things happened?* | *What negative things happened?* |
 |  |  |  |  |  |
 |  |  |  |  |  |
