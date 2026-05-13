@@ -1,0 +1,71 @@
+activity,locs_alcohol,locs_avoid,locs_drank,locs_emotion_mixed,locs_emotion_pleas,locs_emotion_unpleas,locs_risk,locs_aa,locs_friends,locs_healthcare,locs_home,locs_restaurant,locs_work,efficacy_motivation,abstinence_goal,craving,past_risky,future_risky,past_stressors,future_stressors,pleasant_events_high,pleasant_events_avg,past_use,activated_na,deactivated_na,evenings_out,day_of_week,location_variance,,notes,type,source,repeat
+craving_log.qmd,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,worksheet,cbt coping skills,
+craving_plan.qmd,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,exercise,cbt coping skills,
+craving_triggers.qmd,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,exercise,cbt coping skills,
+grounding.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after mindfulness_reading.qmd,exercise,SST,
+mindful_breathing.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after mindfulness_reading.qmd,exercise,SST,
+mindfulness_reading.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,SST,
+noticing_walk.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after mindfulness_reading.qmd,exercise,SST,
+psychoed_abstinence_goal.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_craving.qmd,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_future_efficacy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_past_use.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_physical_health.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_pleasant_event.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_relationships.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_risky_situation.qmd,x,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_loc_variance.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_stressful_event.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_support_seeking.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_valence_arousal.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+recovery_checklist.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature),worksheet,matrix,
+recovery_planning.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
+relapse_analysis_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
+relapse_analysis_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after relapse_analysis_1.qmd,worksheet,matrix,
+scheduling_reading.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,
+scheduling_worksheet.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after scheduling_reading.qmd,worksheet,matrix,
+self_talk.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,exercise,cbt coping skills,
+thought_stopping_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after trigger_thought_craving_reading.qmd,worksheet,matrix,
+thought_stopping_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after thought_stopping_1.qmd,worksheet,matrix,
+three_conscious_breaths.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after mindfulness_reading.qmd,exercise,SST,
+tracking_progress.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
+trigger_behavior_record.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,cbt coping skills,
+trigger_thought_craving_reading.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,
+triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,exercise,matrix,
+urge_surfing.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reading and reflection,cbt coping skills,
+urge_surfing_practice.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,after urge_surfing.qmd,exercise,cbt coping skills,
+reasons_for_abstinence.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,cbt coping skills,
+emergency_plan.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,cbt coping skills,
+weekend_plans.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,exercise,cbt coping skills,
+boredom.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
+alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,
+body_scan.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+common_challenges_early_recovery.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+compassionate_u_turn.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+emotional_buildup.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+emotional_triggers_part_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+emotional_triggers_part_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+external_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+halt.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+internal_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+making_new_friends.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+mindful_meal.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+motivation_for_recovery.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+occasions.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+one_day_at_a_time_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+one_day_at_a_time_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+physical_activity.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+pros_and_cons.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+psychoed_self_help_groups.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,SST,
+reducing_stress.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+relapse_drift_reading.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,
+relapse_drift_worksheet_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,first relapse_drift_reading.qmd,worksheet,matrix,
+relapse_drift_worksheet_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
+roadblocks_for_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
+self_care.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+smart_not_strong.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+spirituality.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
+thought_record.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,

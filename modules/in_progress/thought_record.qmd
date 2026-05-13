@@ -1,0 +1,27 @@
+---
+title: "Thought Record for Craving and Mood"
+format: html
+---
+# Thought Record for Craving and Mood
+
+A thought record is a CBT (cognitive behavioral therapy) tool for identifying and reworking unhelpful thinking patterns. In recovery, automatic thoughts can intensify craving and negative mood ("I can't handle this," "one drink won't matter," "I already failed"). Writing thoughts down slows the process and improves accuracy.
+
+You are not trying to force positive thinking. You are building balanced thinking grounded in evidence.
+
+Thought records reduce relapse risk by challenging unhelpful thought patterns before they drive behavior. This process strengthens balanced thinking and supports values-consistent choices under stress.
+
+## Thought Record
+| Situation | Automatic thought | Emotion (0-10) | Evidence for/against | Balanced thought | New emotion (0-10) |
+|---|---|---:|---|---|---:|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+::: {.callout-tip}
+### Try this this week
+
+Use the steps below as a practical experiment and notice what shifts.
+
+Complete at least three thought records this week, including one during a craving moment.
+
+Briefly record what worked best so you can keep the strongest strategy.
+:::

@@ -1,0 +1,29 @@
+---
+title: "HALT (ERS 8): Hungry, Angry, Lonely, Tired"
+format: html
+---
+# HALT (ERS 8): Hungry, Angry, Lonely, Tired
+
+HALT is a quick risk check used when trying to stay alcohol-free. Hunger, anger, loneliness, and fatigue each lower coping capacity and increase impulsive risk. When two or more HALT states are active, risk often rises sharply.
+
+HALT is most useful when used preventively, not only during crisis.
+
+HALT works as a preventive scan for high-risk states. Catching these states early allows quick corrective action before urges escalate or clear thinking gets harder.
+
+## HALT Check-In
+| State | Current level (0-10) | Immediate corrective action |
+|---|---:|---|
+| Hungry |  |  |
+| Angry |  |  |
+| Lonely |  |  |
+| Tired |  |  |
+
+::: {.callout-important}
+### Practice plan
+
+Work through this in real-life situations rather than only reading it.
+
+Do a HALT check twice daily for one week.
+
+If something feels hard, simplify the step and repeat it consistently.
+:::

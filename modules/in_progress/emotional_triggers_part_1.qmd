@@ -1,0 +1,28 @@
+---
+title: "RP 18 Part 1: Identifying Emotional Triggers"
+format: html
+---
+# RP 18 Part 1: Identifying Emotional Triggers
+
+Emotions do not cause relapse by themselves, but they can increase vulnerability when combined with old coping habits and easy alcohol access. Common emotional triggers include anger, anxiety, shame, sadness, loneliness, and even excitement.
+
+The first prevention step is awareness. If you can identify emotional patterns earlier, you can intervene before urges become urgent.
+
+Emotional triggers are most manageable when tracked as patterns over time. Frequency, intensity, and context data help identify which emotional states need the strongest prevention plan.
+
+## Emotional Trigger Log
+| Emotion | Situation that triggered it | Urge level (0-10) | Helpful response |
+|---|---|---:|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+::: {.callout-tip}
+### Skill rehearsal
+
+Treat this as a rehearsal for moments when motivation is low and pressure is high.
+
+Complete three entries this week and identify your most frequent emotional trigger.
+
+Repetition builds confidence and makes healthy responses easier to access.
+:::

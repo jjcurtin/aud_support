@@ -5,13 +5,24 @@ format: html
 
 ## Feature categories
 
+<!--JC still needs to update his script to separate locs_emotion feats and combine locs_risk-->
+
+<!--combining recs for efficacy motivation recent and week-->
+
+
 1.  Locations with alcohol
+
+    -   drink refusal rehearsal
+    -   external triggers
+    -   assertiveness (cbt)
 
 2.  Locations to avoid
 
 3.  Locations with past drinking
 
-4.  Locations with mixed emotions
+4.  Locations with mixed emotions (still currently mixed with next two loc emotion feats)
+
+    -   RP 18 (emotional triggers)
 
 5.  Locations with pleasant emotions (not going to pleasant is risk)
 
@@ -21,9 +32,17 @@ format: html
 
 8.  AA (protective)
 
+    -   12 step program info (matrix rp 30)
+
 9.  Friends (protective)
 
+    -   rp25 (making new friends)
+    -   rp26 (repairing relationships)
+
 10. Healthcare (protective)
+
+    -   matrix rp17 (taking care of yourself)
+    -   rp19 (illness)
 
 11. Time at home (protective)
 
@@ -31,7 +50,12 @@ format: html
 
 13. Time at work
 
+    -   alcohol scripts ("it helps me relax")
+    -   work stressors as triggers
+
 14. Future efficacy/motivation
+
+    -   RP 32 (one day at a time)
 
 15. Abstinence goal
 
@@ -41,19 +65,33 @@ format: html
 
 18. Future risky situations
 
-19. Past stressos or hassles
+19. Past stressors or hassles
+
+    -   rp20 (recognizing stress)
 
 20. Future stressors or hassles
 
+    -   rp22 (reducing stress)
+
 21. Highly pleasant events (risk factor)
 
+    -   alcohol scripts (related to celebration)
+
 22. Average pleasant events (protective)
+
+    -   increase positive activities
+    -   re-engaging in pro-abstinent activities/things liked before drinking
 
 23. Past use
 
 24. Activated negative affect (angry)
 
+    -   rp 23 (managing anger)
+
 25. Deactivated negative affect (depressed)
+
+    -   rp 29 (coping with feelings and depression)
+    -   cbt depression module
 
 26. Evenings out
 

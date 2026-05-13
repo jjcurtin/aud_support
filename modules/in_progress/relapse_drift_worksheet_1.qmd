@@ -1,0 +1,29 @@
+---
+title: "Relapse Drift Worksheet 1: Early Warning Signs"
+format: html
+---
+# Relapse Drift Worksheet 1: Early Warning Signs
+
+Early warning signs are patterns that show your risk is increasing before alcohol use occurs. The goal is to identify your personal pattern quickly and intervene earlier.
+
+Warning signs become most useful when they are concrete and observable. Instead of vague cues like 'I feel off,' use measurable signs such as skipped meals, missed meetings, disrupted sleep, or increased time in risky contexts.
+
+## Personal Warning Sign Inventory
+| Possible warning sign | Yes/No for me | My first response step |
+|---|---|---|
+| Skipping recovery routines |  |  |
+| Increased isolation |  |  |
+| Romanticizing past drinking |  |  |
+| Increased irritability |  |  |
+| Sleep disruption |  |  |
+| Hiding stress from others |  |  |
+
+::: {.callout-tip}
+### Skill rehearsal
+
+Treat this as a rehearsal for moments when motivation is low and pressure is high.
+
+Circle your top three warning signs and place this list where you can review it daily.
+
+Repetition builds confidence and makes healthy responses easier to access.
+:::

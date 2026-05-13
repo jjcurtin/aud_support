@@ -1,0 +1,29 @@
+---
+title: "RP 17: Self-Care as Relapse Prevention"
+format: html
+---
+# RP 17: Self-Care as Relapse Prevention
+
+Self-care is not indulgence; it is risk management. Sleep loss, poor nutrition, inactivity, and chronic stress increase emotional reactivity and cravings. When baseline health drops, relapse risk rises.
+
+A strong self-care plan includes basic body care, emotional care, and practical care. The most useful plans are simple enough to repeat even on hard days.
+
+Self-care practices improve relapse resistance by stabilizing sleep, stress response, and emotional regulation. These baseline factors strongly influence craving intensity and decision quality under pressure.
+
+## Self-Care Baseline Checklist
+- [ ] I get enough sleep most nights.
+- [ ] I eat regular meals.
+- [ ] I hydrate throughout the day.
+- [ ] I move my body most days.
+- [ ] I have at least one stress-down skill.
+- [ ] I ask for support before crisis.
+
+::: {.callout-caution}
+### When risk is higher
+
+If urges or stress rise quickly, use this sequence early rather than waiting.
+
+Choose the two boxes you left unchecked and turn them into this week's goals.
+
+Early action usually prevents the cycle from becoming harder to interrupt.
+:::
