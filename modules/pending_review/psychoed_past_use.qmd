@@ -7,7 +7,7 @@ format: html
 
 Recovery is rarely a straight line. Many people imagine that once they decide to stop drinking, they’ll never touch alcohol again. But the reality is that **slips** or **lapses** are common experiences. They are moments when someone drinks again after a period of abstinence, even if they had committed to sobriety.
 
-Lapses can feel discouraging—you may feel frustrated, ashamed, or afraid that you’ve “blown it.” But here’s the important truth: a lapse does not erase your progress. It doesn’t mean you’ve failed, and it doesn’t mean you can’t continue building a sober life. In fact, many people who maintain long-term recovery had lapses along the way.
+Lapses can feel discouraging. You may feel frustrated, ashamed, or afraid that you’ve “blown it.” But here’s the important truth: a lapse does not erase your progress. It doesn’t mean you’ve failed, and it doesn’t mean you can’t continue building a sober life. In fact, many people who maintain long-term recovery had lapses along the way.
 
 Instead of seeing lapses as the end of recovery, it can help to see them as learning opportunities. Each lapse is a chance to understand your triggers more deeply, strengthen your coping strategies, and recommit to your goals with even more determination.
 
@@ -54,3 +54,6 @@ Lapses happen to many people in recovery—they are not the end of your journey.
 
 Every time you pick yourself back up, you prove your resilience. Recovery is about progress, not perfection.
 :::
+
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/forward.jpg?raw=true){fig-align="center"}
