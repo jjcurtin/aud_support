@@ -63,15 +63,9 @@ get_activity <- function(subid, dttm_obs, top_feature, path_data) {
   }
   
   # add activity to running df log of activities
-  past_activities <- past_activities |> 
-    add_row(subid = subid, dttm_obs = dttm_obs, activity = activity) 
-  
-  # check past_activities has correct number of rows and save out
-  if (nrow(past_activities) == (nrow_activities + 1)) {
-    write_csv(here::here(path_data, "past_activities.csv")) 
-  } else {
-    stop("ERROR!!! past_activities df does not have correct number of rows. File not saved out.")
-  }
+  # this method will only append the line and not overwrite the entire df
+  tibble_row(subid = subid, dttm_obs = dttm_obs, activity = activity) |> 
+    write_csv(here::here(path_data, "past_activities.csv"), append = TRUE) 
     
   
   return(activity)
