@@ -7,6 +7,8 @@ format: html
 
 As you work on changing your drinking, it’s normal to have urges or cravings for alcohol. A craving is when you feel the strong urge to drink, even though you don’t want to. This can show up as thoughts, emotions, or physical sensations that pull you toward drinking, even if part of you wants to stay sober.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/underwater.png?raw=true){fig-align="center"}
+
 **Good news:** Cravings are short-lived, predictable, and controllable. With practice, they will get weaker, and you'll feel more confident in handling them when they pop up.
 
 ### What is a Craving?
