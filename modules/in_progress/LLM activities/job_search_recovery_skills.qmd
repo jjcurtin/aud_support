@@ -1,0 +1,33 @@
+---
+title: "job search recovery skills"
+format: html
+---
+
+## Job Search Recovery Skills
+
+Employment stress can increase urges if not structured well. A planned routine can turn job search into a stabilizing activity rather than a trigger.
+
+Key principles:
+
+- Keep a daily schedule.
+- Break large tasks into short blocks.
+- Practice for predictable stress points (rejection, uncertainty, waiting).
+- Use support after difficult interactions.
+
+Meaningful direction protects recovery. Stressful transitions or role demands can increase risk if goals are unclear or daily actions drift away from personal values.
+
+Clarifying values and translating them into concrete steps improves focus, persistence, and self-respect. This creates a stronger foundation for long-term behavior change.
+
+::: callout
+### Instructions
+Build a one-week job search plan that protects recovery.
+:::
+
+| Task | Day/Time | Duration | Support step after task |
+|---|---|---|---|
+| Resume update | | | |
+| Applications | | | |
+| Outreach/networking | | | |
+| Interview practice | | | |
+
+

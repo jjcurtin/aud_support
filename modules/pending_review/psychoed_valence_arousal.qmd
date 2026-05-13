@@ -3,7 +3,7 @@ title: "affect_arousal"
 format: html
 ---
 
-## 🎭 Emotions and Recovery
+## Emotions and Recovery
 
 Emotions play a central role in recovery because they can influence cravings, decision-making, and the risk of slips or lapses. Negative emotions, such as sadness, anxiety, anger, frustration, or loneliness, are especially important to recognize because they can increase the desire to drink as a way to cope or feel better.
 

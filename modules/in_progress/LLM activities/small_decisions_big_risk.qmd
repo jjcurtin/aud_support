@@ -1,0 +1,28 @@
+---
+title: "small decisions big risk"
+format: html
+---
+
+## Small Decisions, Big Risk
+
+Many high-risk moments are built by small choices that seem harmless at first: skipping meals, isolating, passing a triggering location, avoiding support calls, or telling yourself "I can handle it."
+
+Tracking these choices helps you interrupt risk earlier and choose safer alternatives.
+
+Recovery is strengthened by planning ahead, not relying on willpower alone in high-pressure moments. Many setbacks follow predictable patterns: rising stress, narrowing options, and automatic decisions that increase risk.
+
+Structured planning interrupts that chain. By identifying risk earlier and choosing concrete responses, you reduce decision fatigue and increase the chance of staying aligned with your goals.
+
+::: callout
+### Instructions
+List recent small decisions that moved you closer to risk.
+:::
+
+| Small decision | How it increased risk | Better decision next time |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+
+
