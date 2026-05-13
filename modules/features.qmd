@@ -1,49 +1,62 @@
 ---
-title: "Features and Support Categories"
-author: "Sarah and Kendra"
+title: "features"
 format: html
 ---
 
-| Feature                           | Source | Support category         |
-|-----------------------------------|--------|--------------------------|
-| alcohol available at location     | GPS    | risky situation          |
-| location to avoid during recovery | GPS    | risky situation          |
-| location valence                  | GPS    | valence and arousal      |
-| location variance                 | GPS    | routine                  |
-| Evening out of home               | GPS    | routine                  |
-| previous drinking location        | GPS    | risky situation          |
-| risky location                    | GPS    | risky situation          |
-| transitory movement               | GPS    | routine                  |
-| AA                                | GPS    | support seeking          |
-| airport                           | GPS    | routine (consider risky, pleasant |
-| bar                               | GPS    | risky situation          |
-| cafe                              | GPS    | routine (social support, pleasant? risky?)  |
-| church                            | GPS    | support seeking          |
-| community                         | GPS    | support seeking          |
-| errands                           | GPS    | routine                  |
-| family                            | GPS    | relationships            |
-| fitness                           | GPS    | physical health          |
-| friends                           | GPS    | relationships            |
-| healthcare                        | GPS    | physical health          |
-| home                              | GPS    | routine                  |
-| library                           | GPS    | routine (??)             |
-| liquor store                      | GPS    | risky situation          |
-| park                              | GPS    | routine  (pleasant? ??)  |
-| public drinking space             | GPS    | risky situation          |
-| restaurant                        | GPS    | routine? pleasant event? |
-| school                            | GPS    | routine                  |
-| temporary home                    | GPS    | routine                  |
-| travel                            | GPS    | routine (risky? pleasant?) |
-| volunteer                         | GPS    | routine ??               |
-| work                              | GPS    | routine                  |
-| past use                          | EMA    | past use                 |
-| goal still abstinent              | EMA    | abstinence goal          |
-| craving                           | EMA    | craving                  |
-| past risky location               | EMA    | risky situation          |
-| past stressor                     | EMA    | stressful event          |
-| past positive event               | EMA    | pleasant event           |
-| current feeling valence           | EMA    | valence and arousal      |
-| current feeling arousal           | EMA    | valence and arousal      |
-| future risky                      | EMA    | risky situation          |
-| future stressor                   | EMA    | stressful event          |
-| future efficacy                   | EMA    | future efficacy          |
+## Feature categories
+
+1.  Locations with alcohol
+
+2.  Locations to avoid
+
+3.  Locations with past drinking
+
+4.  Locations with mixed emotions
+
+5.  Locations with pleasant emotions (not going to pleasant is risk)
+
+6.  Locations with unpleasant emotions (NOTgoing to unpleasant is risk)
+
+7.  Locations that are risky
+
+8.  AA (protective)
+
+9.  Friends (protective)
+
+10. Healthcare (protective)
+
+11. Time at home (protective)
+
+12. Restaurants
+
+13. Time at work
+
+14. Future efficacy/motivation
+
+15. Abstinence goal
+
+16. Craving
+
+17. Past risky situations
+
+18. Future risky situations
+
+19. Past stressos or hassles
+
+20. Future stressors or hassles
+
+21. Highly pleasant events (risk factor)
+
+22. Average pleasant events (protective)
+
+23. Past use
+
+24. Activated negative affect (angry)
+
+25. Deactivated negative affect (depressed)
+
+26. Evenings out
+
+27. Day of week
+
+28. Location variance (risk)
