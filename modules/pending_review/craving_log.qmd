@@ -3,7 +3,7 @@ title: "cravings log"
 format: html
 ---
 
-## Cravings Log
+## Urges Log
 
 ::: callout
 ### Remember
@@ -15,6 +15,8 @@ format: html
 3.  You win every time you defeat an urge by not using. Urges only get stronger if you give in and feed them. An urge will eventually weaken and die if you do not feed it.
 :::
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/redlight.png?raw=true){fig-align="center"}
+
 Today, make a record of urges to drink. Use the template below to track the:
 
 -   **Date**
@@ -25,7 +27,7 @@ Today, make a record of urges to drink. Use the template below to track the:
 ### Example Log Entries
 
 | Date | Situation (thoughts, feelings, triggers) | Intensity (1–100) | Coping Behaviors Used |
-|------------------|--------------------|------------------|------------------|
+|------------------|-------------------|------------------|------------------|
 | 4/16/26 | Feeling stressed after disagreement with boss | 75 | Shut myself in office and relaxed. Felt better after 20 minutes. |
 | 4/17/26 | Antsy at bedtime, trouble getting ready to sleep | 60 | Took a hot shower and listened to a relaxation tape. Shower worked better. |
 | 4/18/26 | Went to Andy’s Diner where I used to drink | 80 | Ordered tonic with lime. Close call—should have prepared in advance. |
@@ -34,7 +36,7 @@ Today, make a record of urges to drink. Use the template below to track the:
 ### Daily Record Template
 
 | Date | Situation (thoughts and feelings) | Intensity (1–100) | Coping Behaviors Used |
-|------------------|--------------------|------------------|------------------|
+|------------------|-------------------|------------------|------------------|
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
