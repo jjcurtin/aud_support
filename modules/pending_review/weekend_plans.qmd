@@ -1,0 +1,22 @@
+---
+title: "Weekend Plans"
+format: html
+---
+
+## Reflecting on Decisions
+
+By paying more attention to the decision making process, you will have a greater chance to interrupt the chain of decisions that could lead to a relapse. This is important because it is much easier to stop the process early, before you wind up in a high-risk situation, than later when you are in a situation that is harder to handle and may expose you to a number of triggers.
+
+::: callout
+
+### Reflect on the following questions:
+
+1. What plans have you made for this weekend? 
+
+2. If none, why? Is this a seemingly irrelevant decision? 
+
+3. Sometimes not planning means planning to drink. What plans could you make for this weekend that would reduce the risk of winding up in a risky situation?
+
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sunshine.jpg?raw=true){fig-align="center"}
