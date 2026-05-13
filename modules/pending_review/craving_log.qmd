@@ -1,0 +1,42 @@
+---
+title: "cravings log"
+format: html
+---
+
+## Cravings Log
+
+::: callout
+### Remember
+
+1.  Urges are common in the recovery process. They are not a sign of failure. Instead, try to learn from them about what your craving triggers are.
+
+2.  Urges are like ocean waves. They get stronger only to a point, then they start to go away.
+
+3.  You win every time you defeat an urge by not using. Urges only get stronger if you give in and feed them. An urge will eventually weaken and die if you do not feed it.
+:::
+
+For next week, make a daily record of urges to use drugs or drink, the intensity of those urges, and the coping behaviors you used.
+
+1.  Use the template below to track the:
+    -   **Date**
+    -   **Situation**: Include anything about the situation or your thoughts or feelings that seemed to trigger the urge to drink.
+    -   **Intensity of craving**: Rate your urge, where 1 = none at all and 100 = worst ever.
+    -   **Coping behavior**: Note how you attempted to cope with the urge. You may also record how effective it was.
+
+### Example Log Entries
+
+| Date | Situation (thoughts, feelings, triggers) | Intensity (1–100) | Coping Behaviors Used |
+|----------------|-------------------------|----------------|----------------|
+| 4/16/26 | Feeling stressed after disagreement with boss | 75 | Shut myself in office and relaxed. Felt better after 20 minutes. |
+| 4/17/26 | Antsy at bedtime, trouble getting ready to sleep | 60 | Took a hot shower and listened to a relaxation tape. Shower worked better. |
+| 4/18/26 | Went to Andy’s Diner where I used to drink | 80 | Ordered tonic with lime. Close call—should have prepared in advance. |
+| 4/19/26 | Payday, coworker suggested partying | 68 | Suggested going for coffee instead. Coworker agreed. |
+
+### Daily Record Template
+
+| Date | Situation (thoughts and feelings) | Intensity (1–100) | Coping Behaviors Used |
+|----------------|------------------------|----------------|----------------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
