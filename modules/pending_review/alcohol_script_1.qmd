@@ -1,0 +1,69 @@
+---
+title: "Noticing Alcohol Scripts"
+format: html
+---
+
+# Noticing Alcohol Scripts
+
+An *alcohol script* is an automatic set of thoughts, expectations, or beliefs about drinking in a specific situation. These scripts develop over time through repetition, social influence, and past experiences.
+
+In high-risk environments (like bars or parties), scripts can activate quickly and feel “true” without being consciously examined. Increasing awareness of these scripts is the first step toward changing behavior.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/script.png?raw=true){fig-align="center"}
+
+## Work through this worksheet to identify the automatic thoughts and expectations that show up in risky environments.
+
+### 1. Identify the Situation
+
+-   **Risky environment:**\
+    \>
+
+-   **When do you go there?**\
+    \>
+
+-   **Who are you usually with?**\
+    \>
+
+------------------------------------------------------------------------
+
+### 2. Recognize the Script
+
+What thoughts or expectations come up automatically?
+
+Check any that apply:
+
+-   [ ] “Drinking is expected here.”\
+-   [ ] “It won’t be fun if I don’t drink.”\
+-   [ ] “Everyone else is drinking.”\
+-   [ ] “I’ll feel more comfortable if I drink.”\
+-   [ ] “Just one won’t hurt.”\
+-   [ ] “I deserve this.”\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+### 3. Write Your Script
+
+Put your typical thought into one sentence:
+
+> 
+
+------------------------------------------------------------------------
+
+### 4. Notice the Impact
+
+-   When this thought shows up, what do you tend to do?\
+    \>
+
+-   How strong is the urge that follows (0–10)? **\_\_\_\_\_**
+
+------------------------------------------------------------------------
+
+::: callout
+### Quick Reflection
+
+-   Does this script feel automatic?\
+-   Does it feel true in the moment?
+:::
+
+### Remember: Awareness creates a pause. That pause creates choice.

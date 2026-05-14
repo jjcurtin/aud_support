@@ -1,29 +1,38 @@
 ---
-title: "RP 17: Self-Care as Relapse Prevention"
+title: "Self Care"
 format: html
 ---
-# RP 17: Self-Care as Relapse Prevention
+
+# Self-Care as Relapse Prevention
 
 Self-care is not indulgence; it is risk management. Sleep loss, poor nutrition, inactivity, and chronic stress increase emotional reactivity and cravings. When baseline health drops, relapse risk rises.
 
 A strong self-care plan includes basic body care, emotional care, and practical care. The most useful plans are simple enough to repeat even on hard days.
 
-Self-care practices improve relapse resistance by stabilizing sleep, stress response, and emotional regulation. These baseline factors strongly influence craving intensity and decision quality under pressure.
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sleep.jpeg?raw=true){fig-align="center"}
 
 ## Self-Care Baseline Checklist
-- [ ] I get enough sleep most nights.
-- [ ] I eat regular meals.
-- [ ] I hydrate throughout the day.
-- [ ] I move my body most days.
-- [ ] I have at least one stress-down skill.
-- [ ] I ask for support before crisis.
 
-::: {.callout-caution}
-### When risk is higher
+-   [ ] I get enough sleep most nights (7–9 hours).
+-   [ ] I go to bed and wake up at consistent times.
+-   [ ] I eat regular meals (not skipping breakfast, lunch, or dinner).
+-   [ ] I include balanced nutrients (protein, carbs, fats, fruits/vegetables).
+-   [ ] I hydrate throughout the day (water or non-caffeinated drinks).
+-   [ ] I limit excessive caffeine or sugary drinks.
+-   [ ] I move my body most days (walking, stretching, or exercise).
+-   [ ] I spend some time outside or get natural light daily.
+-   [ ] I take breaks to rest when I feel physically tired.
+-   [ ] I pay attention to hunger, fullness, and body signals.
+-   [ ] I maintain basic hygiene (showering, brushing teeth, clean clothes).
+-   [ ] I take medications or supplements as prescribed.
+-   [ ] I limit exposure to environments that increase physical stress (e.g., loud, crowded, or high-risk settings).
+-   [ ] I reduce screen time before bed to support sleep quality.
+-   [ ] I practice at least one physical calming skill (deep breathing, stretching, grounding).
+-   [ ] I allow my body time to recover after stressful events.
+-   [ ] I ask for support before I reach physical or emotional exhaustion.
 
-If urges or stress rise quickly, use this sequence early rather than waiting.
+::: callout-caution
+### Try This
 
-Choose the two boxes you left unchecked and turn them into this week's goals.
-
-Early action usually prevents the cycle from becoming harder to interrupt.
+Choose a box you left unchecked and turn them into this today's goal.
 :::
