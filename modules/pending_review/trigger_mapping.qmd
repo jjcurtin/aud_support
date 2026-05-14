@@ -9,7 +9,6 @@ Use this worksheet to identify possible triggers at a place you expect to encoun
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/map.jpg?raw=true){fig-align="center"}
 
-
 ## 1. Situation / Context
 
 Describe where you were and what was happening.
