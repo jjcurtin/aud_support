@@ -55,5 +55,4 @@ Lapses happen to many people in recovery—they are not the end of your journey.
 Every time you pick yourself back up, you prove your resilience. Recovery is about progress, not perfection.
 :::
 
-
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/forward.jpg?raw=true){fig-align="center"}
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/speedbump.jpg?raw=true){fig-align="center"}

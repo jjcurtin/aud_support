@@ -5,7 +5,9 @@ format: html
 
 ## Relationships
 
-Relationships—whether with family, friends, coworkers, or romantic partners—play a powerful role in recovery. Supportive relationships can strengthen your commitment to sobriety, provide guidance, and help you cope with stress. At the same time, unhealthy or complicated relationships can increase the risk of cravings, slips, or emotional setbacks. Understanding how relationships affect your recovery is essential for building a strong, lasting sober life.
+Relationships, whether with family, friends, coworkers, or romantic partners, play a powerful role in recovery. Supportive relationships can strengthen your commitment to sobriety, provide guidance, and help you cope with stress. At the same time, unhealthy or complicated relationships can increase the risk of cravings, slips, or emotional setbacks. Understanding how relationships affect your recovery is essential for building a strong, lasting sober life.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/relationships.jpg?raw=true){fig-align="center"}
 
 ## Why Relationships Matter in Recovery
 

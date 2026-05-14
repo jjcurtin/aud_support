@@ -11,7 +11,6 @@ Even everyday events, like going out to dinner, attending a concert, celebrating
 
 Pleasant events are powerful because they activate the brain’s reward system. If alcohol was part of these rewards in the past, your brain may still associate fun, excitement, or relaxation with drinking. This is why enjoyable experiences can sometimes unexpectedly increase risk for a lapse.
 
-
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/birthday.png?raw=true){fig-align="center"}
 
 ## How Pleasant Events Can Trigger Risk
