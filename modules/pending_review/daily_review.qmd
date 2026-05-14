@@ -1,0 +1,44 @@
+---
+title: "Daily Review and Reset"
+format: html
+---
+
+# Daily Review and Reset
+
+Recovery strengthens when daily planning is paired with daily review. Review helps you learn from real situations and prevents small slips from turning into larger setbacks.
+
+Use review as feedback, not self-criticism. Ask: *"What did I learn?"* rather than *"What's wrong with me?"*
+
+The goal of review is not to judge your day—it is to find out useful information. Small adjustments made daily prevent setbacks from becoming larger patterns. Even partial success is valuable data.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/reflection.png?raw=true){fig-align="center"}
+
+## Use this daily review exercise to identify what worked, what didn’t, and what to adjust for tomorrow.
+
+| Question                                            | My Reflection |
+|-----------------------------------------------------|---------------|
+| What recovery action did I take today (even small)? |               |
+| What challenge or trigger showed up?                |               |
+| How did I respond in the moment?                    |               |
+| What did I learn from that response?                |               |
+| What is one specific adjustment for tomorrow?       |               |
+
+-   **Has this challenge showed up before?**
+
+-   **What response tends to work best?**
+
+### Reset for Tomorrow
+
+**Complete this sentence:**
+
+> “Tomorrow, when \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ happens, I will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”
+
+::: callout
+### If today didn’t go as planned:
+
+-   [ ] I still showed up and reflected\
+-   [ ] I identified at least one learning\
+-   [ ] I made a plan for tomorrow
+
+**That counts as progress.**
+:::

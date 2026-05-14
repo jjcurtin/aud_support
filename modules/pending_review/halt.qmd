@@ -1,0 +1,51 @@
+---
+title: "HALT"
+format: html
+---
+
+# HALT: Hungry, Angry, Lonely, Tired
+
+HALT is a quick risk check used when trying to stay alcohol-free. Hunger, anger, loneliness, and tiredness each lower coping capacity and increase impulsive risk. When two or more HALT states are active, risk often rises quickly.
+
+HALT works as a preventive scan for high-risk states. Catching these states early allows quick corrective action before urges escalate or clear thinking gets harder.
+
+**HALT is MOST useful when used preventively, not only during crisis.**
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/HALT.png?raw=true){fig-align="center"}
+
+## How to Use This Tool
+
+-   Use in under 2 minutes\
+-   Check at predictable times (before events, after work, evenings)\
+-   Act **before urges escalate**
+
+## Take a moment to check-in
+
+| State  | Level (0–10) | Body Signs | Immediate Action |
+|--------|-------------:|------------|------------------|
+| Hungry |              |            |                  |
+| Angry  |              |            |                  |
+| Lonely |              |            |                  |
+| Tired  |              |            |                  |
+
+::: callout
+## Examples of Immediate Action
+
+-   **Hungry** → Eat a snack with protein/carbs\
+-   **Angry** → Pause, breathe, step away, write thoughts\
+-   **Lonely** → Text/call someone, sit near others\
+-   **Tired** → Rest, hydrate, reduce stimulation\
+:::
+
+## Quick re-check
+
+After taking action:
+
+-   New levels (0–10):
+    -   Hungry: \_\_\_\_\_
+    -   Angry: \_\_\_\_\_
+    -   Lonely: \_\_\_\_\_
+    -   Tired: \_\_\_\_\_
+-   What changed?
+
+**Remember: You don’t need to feel “bad enough” to act. Early action prevents bigger problems.**
