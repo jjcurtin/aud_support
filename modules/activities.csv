@@ -1,4 +1,4 @@
-activity,locs_alcohol,locs_avoid,locs_drank,locs_emotion_mixed,locs_emotion_pleas,locs_emotion_unpleas,locs_risk,locs_aa,locs_friends,locs_healthcare,locs_home,locs_restaurant,locs_work,efficacy_motivation,abstinence_goal,craving,past_risky,future_risky,past_stressors,future_stressors,pleasant_events_high,pleasant_events_avg,past_use,activated_na,deactivated_na,evenings_out,day_of_week,location_variance,notes,type,source,repeat
+activity,locs_alcohol,locs_avoid,locs_drank,locs_emotion_mixed,locs_emotion_pleas,locs_emotion_unpleas,locs_risk,locs_aa,locs_friends,locs_healthcare,locs_home,locs_restaurant,locs_work,efficacy_motivation,abstinence_goal,craving,past_risky,future_risky,past_stressors,future_stressors,pleasant_events_high,pleasant_events_avg,past_use,activated_na,deactivated_na,evenings_out,day_of_week,location_variance,notes,type,source,can_repeat
 craving_log.qmd,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,worksheet,cbt coping skills,TRUE
 craving_plan.qmd,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
 craving_triggers.qmd,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
