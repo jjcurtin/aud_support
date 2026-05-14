@@ -17,10 +17,12 @@
 get_activity <- function(subid, dttm_obs, top_feature, path_data) {
   
   # read in reference activity csv file from github
-  ref_activities <- read_csv("https://raw.githubusercontent.com/jjcurtin/aud_support/refs/heads/main/modules/activities.csv")
+  ref_activities <- read_csv("https://raw.githubusercontent.com/jjcurtin/aud_support/refs/heads/main/modules/activities.csv",
+                             show_col_types = FALSE)
   
   # read in past activities and save number of rows for check later 
-  past_activities <- read_csv(here::here(path_data, "past_activities.csv"))
+  past_activities <- read_csv(here::here(path_data, "past_activities.csv"),
+                              show_col_types = FALSE)
   nrow_activities <- nrow(past_activities)
   
   # filter past_activities to subid and pull past activities
