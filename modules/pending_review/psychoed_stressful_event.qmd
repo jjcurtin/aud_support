@@ -33,6 +33,8 @@ Learning to manage stress in healthy ways through coping skills, planning, suppo
 
 Even everyday stressors—traffic, deadlines, conflicts, or minor frustrations—can increase relapse risk if not managed effectively.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/stress.jpg?raw=true){fig-align="center"}
+
 ## Strategies to Manage Stress in Recovery
 
 - **Identify Your Triggers:** Recognize situations, people, or thoughts that consistently cause stress and plan ahead.

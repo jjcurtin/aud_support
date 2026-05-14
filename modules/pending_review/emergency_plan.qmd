@@ -3,21 +3,16 @@ title: "Personal Emergency Plan: High-Risk Situation Reminder Sheet"
 format: html
 ---
 
-## Instructions
+## Personal Emergency Plan
 
 Use this worksheet to prepare for high-risk situations. Review it regularly and use it during moments of craving or stress.
 
-
-
 ::: callout
-## High-Risk Situation Plan
-
-**If I encounter a life event that puts me in a high-risk situation:**
+### If I encounter a life event that puts me in a high-risk situation:
 
 1.  I will leave or change the situation or environment.
 
-2.  I will put off the decision to drink for **15 minutes**.\
-    I will remember that most cravings are time-limited and I can wait it out—not drink.
+2.  I will put off the decision to drink for **15 minutes**. I will remember that most cravings are time-limited and I can wait it out.
 
 3.  I will challenge my thoughts about drinking.
 
@@ -29,23 +24,21 @@ Use this worksheet to prepare for high-risk situations. Review it regularly and 
 5.  I will remind myself of my successes to this point.
 :::
 
-
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/ambulance.png?raw=true){fig-align="center"}
 
 ## Emergency Contact List
 
 | \# | Name | Phone Number |
 |------------------------|------------------------|------------------------|
-| 1 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| 2 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| 3 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| 4 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| 5 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| 6 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 1 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 2 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 3 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 4 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 5 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| 6 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 
 ------------------------------------------------------------------------
 
-## Reminder
-
-**GOOD LUCK!**
+**You got this!**
 
 **REMEMBER:** Riding out this crisis will strengthen your recovery.

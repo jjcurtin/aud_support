@@ -19,6 +19,8 @@ Strong negative emotions can make cravings feel intense and difficult to resist.
 
 Being aware of your emotions and how they influence cravings can help you anticipate high-risk moments and respond proactively. Recognizing patterns in your emotional triggers allows you to plan strategies to cope in healthy ways.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/emotion.jpg?raw=true){fig-align="center"}
+
 ## How Negative Emotions Show Up
 
 -   **Thoughts:** “I can’t handle this,” or “I need a drink to feel better.”

@@ -5,13 +5,13 @@ format: html
 
 ## Introduction to Mindfulness
 
-Mindfulness is the practice of paying attention to the present moment with awareness, curiosity, and acceptance—without judging yourself or your experiences. While it may seem like a new trend, mindfulness is more than 2,500 years old, originating from ancient Buddhist traditions.
+Mindfulness is the practice of paying attention to the present moment with awareness, curiosity, and acceptance, without judging yourself or your experiences. While it may seem like a new trend, mindfulness is more than 2,500 years old, originating from ancient Buddhist traditions.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mindfulness_reading.png?raw=true){fig-align="center"}
 
 ### Why Mindfulness Matters
 
-In everyday life, many of us go through our days on automatic pilot, distracted by past regrets, future worries, or constant stimulation from phones, TV, or other activities. When we are on autopilot, we are mindless—not fully aware of what is happening in the present moment.
+In everyday life, many of us go through our days on automatic pilot, distracted by past regrets, future worries, or constant stimulation from phones, TV, or other activities. When we are on autopilot, we are mindless and not fully aware of what is happening in the present moment.
 
 Mindfulness is about noticing what’s happening right now, including your thoughts, feelings, sensations, and surroundings. It allows you to be present and respond intentionally, rather than reacting automatically.
 

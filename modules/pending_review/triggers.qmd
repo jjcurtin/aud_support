@@ -7,6 +7,8 @@ format: html
 
 Triggers are people, places, objects, feelings, and times that can cause cravings. Everyone has triggers. Some are obvious, some are subtle. Being aware of your triggers is an important step in maintaining control over your recovery.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sparks.jpg?raw=true){fig-align="center"}
+
 ::: callout
 ### An Example
 
