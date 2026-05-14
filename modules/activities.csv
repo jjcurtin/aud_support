@@ -40,11 +40,11 @@ irrelevant_decisions.qmd,4,4,4,7,2,2,4,,,,,3,,,,,,4,,6,3,,,,,4,2,3,,psyched read
 weekend_plans.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,exercise,cbt coping skills,TRUE
 risky_locations.qmd,5,5,5,8,,,5,,,,,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
 boredom.qmd,,,,,3,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
-trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,
-prep_plan.qmd,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,,6,,,,,,
-smart_not_strong.qmd,10,8,9,,,,8,,,,,,,,,,3,8,,,,,,,,7,,7,,,matrix,
+trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,TRUE
+prep_plan.qmd,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,,6,,,,,,TRUE
+smart_not_strong.qmd,10,8,9,,,,8,,,,,,,,,,3,8,,,,,,,,7,,7,,,matrix,TRUE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,

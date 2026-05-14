@@ -20,7 +20,7 @@ get_activity <- function(subid, dttm_obs, top_feature, path_data) {
   ref_activities <- read_csv("https://raw.githubusercontent.com/jjcurtin/aud_support/refs/heads/main/modules/activities.csv",
                              show_col_types = FALSE)
   
-  # read in past activities and save number of rows for check later 
+  # read in past activities
   past_activities <- read_csv(here::here(path_data, "past_activities.csv"),
                               show_col_types = FALSE)
   
