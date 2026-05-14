@@ -10,6 +10,9 @@ format: html
 <!--combining recs for efficacy motivation recent and week-->
 
 
+**Add seemingly irrelevant decisions reflection questions to all categories that get the reading.** 
+
+
 1.  Locations with alcohol
 
     -   drink refusal rehearsal
