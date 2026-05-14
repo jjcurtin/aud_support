@@ -31,15 +31,20 @@ three_conscious_breaths.qmd,,,,9,,,,,,,,,,,,,,,5,5,,,,4,,,,,after mindfulness_re
 tracking_progress.qmd,,,,,,,,,,,,,,5,,,,,,,,,3,,,,,,,worksheet,matrix,TRUE
 trigger_behavior_record.qmd,,,,,,,,,,,,,,7,,,,,,,,,7,,,,,,,worksheet,cbt coping skills,TRUE
 trigger_thought_craving_reading.qmd,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-triggers.qmd,2,2,2,3,,,2,,,,,2,2,,,11,2,2,4,4,2,,4,5,2,2,4,6,,exercise,matrix,TRUE
+triggers.qmd,6,2,2,3,,,2,,,,,2,2,,,11,2,2,4,4,2,,4,5,2,2,4,6,,exercise,matrix,TRUE
 urge_surfing.qmd,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,reading and reflection,cbt coping skills,FALSE
 urge_surfing_practice.qmd,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,after urge_surfing.qmd,exercise,cbt coping skills,TRUE
 reasons_for_abstinence.qmd,,,,,,,,,,,,,,4,2,,,,,,,,5,,,,,,,worksheet,cbt coping skills,TRUE
-emergency_plan.qmd,3,3,3,,,,3,,,,,,,,,,,3,,,,,,,,3,,,,worksheet,cbt coping skills,TRUE
+emergency_plan.qmd,7,3,3,,,,3,,,,,,,,,,,3,,,,,,,,3,,,,worksheet,cbt coping skills,TRUE
 irrelevant_decisions.qmd,4,4,4,7,2,2,4,,,,,3,,,,,,4,,6,3,,,,,4,2,3,,psyched reading,cbt coping skills,FALSE
 weekend_plans.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,exercise,cbt coping skills,TRUE
 risky_locations.qmd,5,5,5,8,,,5,,,,,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
 boredom.qmd,,,,,3,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
+trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,
+prep_plan.qmd,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,,6,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,
 body_scan.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,

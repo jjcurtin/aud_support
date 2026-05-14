@@ -1,0 +1,94 @@
+---
+title: "Exit Plan"
+format: html
+---
+
+# Exit Plan
+
+This worksheet helps you define *clear exit thresholds* and *automatic actions* so you can leave quickly without overthinking in a high-risk moment.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/exit.jpg?raw=true){fig-align="center"}
+
+## 1. My Personal Warning Scale
+
+Define your early warning system:
+
+| Level | What I Feel/Notice | What It Means     |
+|-------|--------------------|-------------------|
+| 1–3   |                    | Calm / Safe       |
+| 4–6   |                    | Caution           |
+| 7–8   |                    | High Risk         |
+| 9–10  |                    | Leave Immediately |
+
+------------------------------------------------------------------------
+
+## 2. My Exit Threshold
+
+I will leave when I reach:
+
+-   [ ] Level 5\
+-   [ ] Level 6\
+-   [ ] Level 7\
+-   [ ] Other: \_\_\_\_\_\_\_
+
+**Why this level:** \>
+
+------------------------------------------------------------------------
+
+## 3. Non-Negotiable Rule
+
+Complete this sentence:
+
+> “If I notice \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, I will leave immediately.”
+
+------------------------------------------------------------------------
+
+## 4. 3-Step Exit Script (Automatic Action)
+
+When I hit my threshold:
+
+### Step 1 — Internal Decision (no debate)
+
+> I remind myself:
+
+### Step 2 — Quick Exit Behavior
+
+Choose your default action:
+
+-   [ ] Stand up and gather belongings\
+-   [ ] Walk directly to exit\
+-   [ ] Text ride / call ride\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+### Step 3 — Minimal Explanation
+
+Pick ONE simple phrase you will always use:
+
+-   [ ] “I’ve got to head out.”\
+-   [ ] “Early morning tomorrow.”\
+-   [ ] “Not feeling great — I’m leaving.”\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## 5. Decision Traps to Avoid
+
+Check any that apply to you:
+
+-   [ ] “I’ll stay 5 more minutes”\
+-   [ ] “I don’t want to be rude”\
+-   [ ] “I can handle it”\
+-   [ ] Waiting for a ‘perfect’ moment\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+::: callout
+## Exit Rehearsal
+
+Visualize the moment:
+
+-   Where are you standing?\
+-   What triggers the decision?\
+-   What do you physically do next?\
+:::

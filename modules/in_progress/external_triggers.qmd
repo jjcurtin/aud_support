@@ -2,6 +2,7 @@
 title: "External Triggers"
 format: html
 ---
+
 # External Triggers
 
 External triggers are people, places, objects, and situations that become linked with alcohol use over time. In simple terms, this means your brain has learned to connect certain cues with drinking. Even after you decide to stop drinking, your brain can still react quickly when it sees old cues (for example, a favorite bar, a certain friend group, payday, or a route home that passes a liquor store). That fast reaction is not a character flaw; it is a learned habit loop.
@@ -11,21 +12,22 @@ The good news is that external triggers can be managed. Research shows that risk
 External triggers are highest risk when they are unexpected and combined with low structure. Planning your response in advance makes decision-making easier in the moment and makes it easier to follow through under pressure.
 
 ## Trigger Mapping Worksheet
-| External trigger | Where/when it happens | Risk (0-10) | My prevention step |
-|---|---|---:|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
-::: {.callout-tip}
+| External trigger | Where/when it happens | Risk (0-10) | My prevention step |
+|------------------|-----------------------|------------:|--------------------|
+|                  |                       |             |                    |
+|                  |                       |             |                    |
+|                  |                       |             |                    |
+|                  |                       |             |                    |
+
+::: callout-tip
 ### Skill rehearsal
 
 Treat this as a rehearsal for moments when motivation is low and pressure is high.
 
-1. Choose your top two high-risk external triggers.
-2. Write one **avoidance plan** and one **exit plan** for each.
-3. Practice your plan this week and record what helped.
+1.  Choose your top two high-risk external triggers.
+2.  Write one **avoidance plan** and one **exit plan** for each.
+3.  Practice your plan this week and record what helped.
 
 Repetition builds confidence and makes healthy responses easier to access.
 :::

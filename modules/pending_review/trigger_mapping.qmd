@@ -1,0 +1,135 @@
+---
+title: "Trigger Mapping"
+format: html
+---
+
+# Trigger Mapping
+
+Use this worksheet to identify possible triggers at a place you expect to encounter alcohol (such as a bar, restaurant, party, or social gathering). It will help you recognize patterns in your thoughts, feelings, and behaviors so you can prepare effective coping strategies and reduce your risk of relapse.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/map.jpg?raw=true){fig-align="center"}
+
+
+## 1. Situation / Context
+
+Describe where you were and what was happening.
+
+-   **Date & Time:**\
+-   **Location:**\
+-   **Who were you with:**\
+-   **What was happening:**
+
+------------------------------------------------------------------------
+
+## 2. Trigger Type
+
+Select all that apply:
+
+-   [ ] Social (friends, parties, bars)\
+-   [ ] Emotional (stress, anxiety, boredom, sadness)\
+-   [ ] Environmental (smell, music, location)\
+-   [ ] Routine/Habit (after work, weekends, celebrations)\
+-   [ ] Thought-based (e.g., “I deserve a drink”)\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## 3. Thoughts in the Moment
+
+What went through your mind?
+
+> 
+
+------------------------------------------------------------------------
+
+## 4. Feelings (Rate 0–10)
+
+| Emotion | Rating (0–10) |
+|---------|---------------|
+|         |               |
+|         |               |
+|         |               |
+
+------------------------------------------------------------------------
+
+## 5. Urge Level
+
+-   Rate your urge to drink (0–10): **\_\_\_\_\_**
+
+------------------------------------------------------------------------
+
+## 6. What You Did
+
+Select one or more:
+
+-   [ ] Drank alcohol\
+-   [ ] Did not drink\
+-   [ ] Left situation\
+-   [ ] Used coping skill\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Describe briefly:
+
+> 
+
+------------------------------------------------------------------------
+
+## 7. Coping Strategies Used
+
+Select any that apply:
+
+-   [ ] Called/texted someone\
+
+-   [ ] Had a non-alcoholic drink\
+
+-   [ ] Left early\
+
+-   [ ] Distracted myself\
+
+-   [ ] Urge surfing\
+
+-   [ ] Deep breathing\
+
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+-   **Effectiveness (0–10):** \_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## 8. Outcome
+
+-   **How did you feel afterward?**
+
+> 
+
+-   **Any consequences (positive or negative)?**
+
+> 
+
+------------------------------------------------------------------------
+
+## 9. What Helped / What Didn’t
+
+### What helped:
+
+> 
+
+### What didn’t help:
+
+> 
+
+------------------------------------------------------------------------
+
+::: callout
+## 10. Plan for Next Time
+
+```         
+1.  
+
+
+2.  
+
+
+3.  
+```
+:::
