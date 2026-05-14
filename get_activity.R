@@ -23,14 +23,13 @@ get_activity <- function(subid, dttm_obs, top_feature, path_data) {
   # read in past activities and save number of rows for check later 
   past_activities <- read_csv(here::here(path_data, "past_activities.csv"),
                               show_col_types = FALSE)
-  nrow_activities <- nrow(past_activities)
   
   # filter past_activities to subid and pull past activities
   # This will result in vector of qmd files for activities subid has seen
   # It includes all activities across features because some can be in more than
   # one category
   past_activities_subid <- past_activities |> 
-    filter(subid == subid) |> 
+    filter(.data$subid == subid) |> 
     pull(activity)
   
   # rename top_features that are combined for recommendation
@@ -53,20 +52,28 @@ get_activity <- function(subid, dttm_obs, top_feature, path_data) {
   activity <-  rec |> 
     filter(!activity %in% past_activities_subid) |> 
     slice(1) 
-  
+
   if (nrow(activity) == 0) {
-    activity <- rec |> 
-      filter(can_repeat) |> 
+    # revisit all activities for a category. 
+    # Filter out ones that cannot be retained
+    # take first sequential activity and update counter
+    final_activity <- enframe(past_activities_subid, value = "activity") |>
+      group_by(activity) |> 
+      count() |> 
+      ungroup() |> 
+      right_join(rec |> 
+                  filter(can_repeat), by = "activity") |>
+      arrange(n, .data[[top_feature]]) |> 
       slice(1) |> 
       pull(activity)
   } else {
-    activity <- activity |> 
+    final_activity <- activity |> 
       pull(activity)
   }
   
   # add activity to running df log of activities
   # this method will only append the line and not overwrite the entire df
-  tibble_row(subid = subid, dttm_obs = dttm_obs, activity = activity) |> 
+  tibble(subid = subid, dttm_obs = dttm_obs, top_feature = top_feature, activity = final_activity) |> 
     write_csv(here::here(path_data, "past_activities.csv"), append = TRUE) 
     
   
