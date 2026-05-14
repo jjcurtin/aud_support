@@ -9,6 +9,8 @@ format: html
 
 If you decide to stop drinking but find yourself moving toward alcohol, your brain may be giving you permission through a process called **relapse justification**. Thoughts about drinking spark an internal argument—your rational self versus your alcohol-dependent self. You may feel like you’re in a fight, trying to generate reasons to stay abstinent. Meanwhile, your mind is searching for an excuse to drink again. This internal argument is often the first step in a chain of events that can lead to relapse. Think back: how often in the past has your alcohol dependence “won” this argument?
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/fight.png?raw=true){fig-align="center"}
+
 ### Thoughts Become Cravings
 
 Craving does not always occur in a straightforward, easily recognized form. Often the thought of drinking passes through your head with little or no effect. But it’s important to identify these thoughts and try to eliminate them. It takes effort to identify and stop a thought. However, allowing yourself to continue thinking about drinking is choosing to relapse. The further the thoughts are allowed to go, the more likely you are to relapse.

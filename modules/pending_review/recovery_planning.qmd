@@ -10,7 +10,7 @@ Recovery requires specific actions and behavioral changes in many areas of life.
 This guide will help you develop a plan and identify the steps necessary for reaching your goals. Use the table below to write your current status and your goals for each area of life, along with the steps you will take and when you plan to take them.
 
 | **Subject** | **Where are you now?** | **Where would you like to be?** | **What steps do you need to take?** | **When?** |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Work / Career |  |  |  |  |
 | Friendships |  |  |  |  |
 | Financial / Legal Obligations |  |  |  |  |
@@ -30,3 +30,5 @@ This guide will help you develop a plan and identify the steps necessary for rea
 
 **4. How will you celebrate small successes along the way?**
 :::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/goals.png?raw=true){fig-align="center"}

@@ -7,6 +7,8 @@ format: html
 
 A lapse back to alcohol use does not begin when you take a drink of alcohol. Often, things that happen before you drink indicate the beginning of a lapse. Identifying your patterns of behavior will help you recognize and interrupt the lapse.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/footprints_2.jpg?raw=true){fig-align="center"}
+
 ::: callout
 ### Instructions
 

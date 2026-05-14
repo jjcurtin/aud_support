@@ -21,6 +21,8 @@ This worksheet is designed to help you plan and track your day. Use it to build 
 5.  Use the Reminders section. Write important things you want to carry with you (affirmations, goals, triggers to avoid, support contacts).
 :::
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/planner.jpg?raw=true){fig-align="center"}
+
 ### Sleep Planning
 
 How many hours will you sleep? \_\_\_\_\_\_\_
