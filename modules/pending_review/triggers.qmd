@@ -7,6 +7,8 @@ format: html
 
 Triggers are people, places, objects, feelings, and times that can cause cravings. Everyone has triggers. Some are obvious, some are subtle. Being aware of your triggers is an important step in maintaining control over your recovery.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sparks.jpg?raw=true){fig-align="center"}
+
 ::: callout
 ### An Example
 
@@ -40,9 +42,6 @@ Stopping the craving process is an important part of treatment. The best way to 
 *Example: Schedule exercise or a 12-Step/mutual-help meeting for Friday nights.*
 
 **Remember:** Triggers affect your brain and cause cravings even if you’ve decided to stop drinking. Your intentions must translate into behavior changes that help you avoid triggers.
-
-
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sparks.jpg?raw=true){fig-align="center"}
 
 ::: callout
 ### Reflection
