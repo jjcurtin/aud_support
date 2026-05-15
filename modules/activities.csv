@@ -60,8 +60,9 @@ work,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,TRUE
 emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
 restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
-relapse_drift_reading.qmd,13,11,12,10,,,11,,,,,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+relapse_drift_reading.qmd,13,11,12,10,,,11,,,,,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,FALSE
+relapse_drift_worksheet_1.qmd,14,12,13,11,,,12,,,,,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,,7,7,12,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
@@ -82,9 +83,6 @@ progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 pros_and_cons.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 psychoed_self_help_groups.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,SST,
 reducing_stress.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-relapse_drift_worksheet_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,first relapse_drift_reading.qmd,worksheet,matrix,
-relapse_drift_worksheet_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
 roadblocks_for_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 spirituality.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,

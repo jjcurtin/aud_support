@@ -1,0 +1,64 @@
+---
+title: "Recovery Re-engagement"
+format: html
+---
+
+# Recovery Re-Engagement Plan
+
+When relapse drift begins<!--reference relapse_drift_reading.qmd-->, the most effective response is quick, deliberate re-engagement with structure and support. Waiting to feel motivated often increases risk. In recovery, action comes first — motivation usually follows.
+
+A strong re-engagement plan is:
+
+- **Time-bound** (has clear deadlines)
+- **Behavior-specific** (focuses on observable actions)
+- **Realistic and immediate** (can be started within 24–48 hours)
+
+
+
+## Use this worksheet to develop a re-engagement plan using the following steps.
+
+- **Step 1: Identify the Drift**. Look honestly at where structure has weakened. Small shifts matter.
+
+- **Step 2: Take Corrective Action**. Choose specific behaviors that restore stability quickly.
+
+- **Step 3: Commit to a Timeline**. Set deadlines within the next **24–72 hours** whenever possible.
+
+
+### Re-Engagement Plan
+
+| Area | What has drifted? | My corrective action (specific & measurable) | Deadline | Completed|
+|------|------------------|--------------------------------------------|----------|-------------|
+| Daily schedule |  |  |  |  |
+| Support network |  |  |  |  |
+| Stress management |  |  |  |  |
+| Sleep / physical health |  |  |  |  |
+
+
+::: callout
+
+## High-Risk Signals to Watch For
+
+- Skipping routines or appointments  
+- Isolating from support people  
+- Increased stress without coping strategies  
+- Changes in sleep, eating, or physical health  
+
+If you notice two or more signals, increase support immediately.
+
+:::
+
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mooring2.jpeg?raw=true){fig-align="center"}
+
+
+::: callout
+### Try This
+
+Treat this as an experiment in regaining control:
+
+- Complete at least 2 corrective actions today
+- Notice how your motivation changes *after* taking action
+- Write down what worked best so you can reuse it
+
+:::
+

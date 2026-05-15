@@ -1,0 +1,57 @@
+---
+title: "Interrupting Relapse Drift"
+format: html
+---
+
+## Interrupting Relapse Drift
+
+During recovery, people do specific things that help keep them abstinent. In the relapse drift analogy,<!--reference relapse_drift_reading.qmd--> these activities can be called *"mooring lines."*
+
+It is important to understand what you are doing to stay abstinent. These mooring lines should be listed in a specific, clear, and measurable way.
+
+These activities act like the “ropes” that hold recovery in place and prevent relapse drift from happening unnoticed.
+
+Complete this chart to list and track the behaviors that support your recovery.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mooring.jpg?raw=true){fig-align="center"}
+
+### Guidelines for Completing the Chart
+
+-   Identify four or five specific behaviors that help you stay abstinent (e.g., working out for 20 minutes, three times a week)
+
+-   Include measurable activities such as:
+
+    -   Exercise\
+    -   Therapist and group appointments\
+    -   Scheduling structured activities\
+    -   12-Step meetings\
+    -   Eating patterns
+
+-   Do not list attitudes — they are harder to measure than behaviors
+
+-   Note specific people or places that are known triggers and should be avoided
+
+-   Place a checkmark next to each mooring line that is secure
+
+-   Record the date for each check
+
+**If two or more items cannot be checked, it indicates that relapse drift may be occurring.**
+
+### Mooring Line Behaviors
+
+| Behavior | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 |
+|----------|--------|--------|--------|--------|--------|
+|          |        |        |        |        |        |
+|          |        |        |        |        |        |
+|          |        |        |        |        |        |
+|          |        |        |        |        |        |
+|          |        |        |        |        |        |
+
+------------------------------------------------------------------------
+
+### I Am Avoiding
+
+| Trigger | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 |
+|---------|--------|--------|--------|--------|--------|
+|         |        |        |        |        |        |
+|         |        |        |        |        |        |
