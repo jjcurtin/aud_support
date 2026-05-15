@@ -48,7 +48,7 @@ smart_not_strong.qmd,10,8,9,,,,8,,,,,,,,,,3,8,,,,,,,,7,,7,,,matrix,TRUE
 self_care.qmd,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 alcohol_script_1.qmd,6,9,10,,,,9,,,,,,,,,,4,9,,,,,,,,,,,,,,TRUE
 alcohol_script_2.qmd,12,10,11,,,,10,,,,,,,,,,5,10,,,,,,,,,,,,,,TRUE
-halt.qmd,,,,,,,,,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
+halt.qmd,,,,,,,,5,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
 emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 making_new_friends.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
@@ -69,26 +69,3 @@ recreation.qmd,,,,,,,,,,,,,,,,,,,,,,4,,,7,,,,,,matrix,TRUE
 12_step_intro.qmd,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
 12_step_sponsor.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
 12_step_alternative.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,
-body_scan.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-common_challenges_early_recovery.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-compassionate_u_turn.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-emotional_buildup.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-emotional_triggers_part_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-emotional_triggers_part_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-external_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-internal_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-mindful_meal.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-motivation_for_recovery.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-physical_activity.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-pros_and_cons.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-psychoed_self_help_groups.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,SST,
-reducing_stress.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-roadblocks_for_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
-spirituality.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-thought_record.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,

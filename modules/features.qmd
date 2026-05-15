@@ -28,8 +28,6 @@ format: html
 
 8.  AA (protective)
 
-    -   12 step program info (matrix rp 30)
-
 9.  Friends (protective)
 
     -   rp26 (repairing relationships)
