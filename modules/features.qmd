@@ -68,12 +68,9 @@ format: html
 
 21. Highly pleasant events (risk factor)
 
-    -   alcohol scripts (related to celebration)
 
 22. Average pleasant events (protective)
 
-    -   increase positive activities
-    -   re-engaging in pro-abstinent activities/things liked before drinking
 
 23. Past use
 

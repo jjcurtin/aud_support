@@ -63,6 +63,12 @@ restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
 relapse_drift_reading.qmd,13,11,12,10,,,11,,,,,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,FALSE
 relapse_drift_worksheet_1.qmd,14,12,13,11,,,12,,,,,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
 relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,,7,7,12,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+occasions_1.qmd,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,matrix,TRUE
+occasions_2.qmd,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,matrix,TRUE
+recreation.qmd,,,,,,,,,,,,,,,,,,,,,,4,,,7,,,,,,matrix,TRUE
+12_step_intro.qmd,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_sponsor.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_alternative.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
@@ -77,7 +83,6 @@ external_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 internal_triggers.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 mindful_meal.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 motivation_for_recovery.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-occasions.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 physical_activity.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 pros_and_cons.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
