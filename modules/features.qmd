@@ -9,14 +9,9 @@ format: html
 
 <!--combining recs for efficacy motivation recent and week-->
 
-
-**Add seemingly irrelevant decisions reflection questions to all categories that get the reading.** 
-
+**Add seemingly irrelevant decisions reflection questions to all categories that get the reading.**
 
 1.  Locations with alcohol
-
-    -   external triggers
-    -   assertiveness (cbt)
 
 2.  Locations to avoid
 
@@ -38,7 +33,6 @@ format: html
 
 9.  Friends (protective)
 
-    -   rp25 (making new friends)
     -   rp26 (repairing relationships)
 
 10. Healthcare (protective)
@@ -56,8 +50,6 @@ format: html
     -   work stressors as triggers
 
 14. Future efficacy/motivation
-
-    -   RP 32 (one day at a time)
 
 15. Abstinence goal
 
@@ -92,7 +84,6 @@ format: html
 
 25. Deactivated negative affect (depressed)
 
-    -   rp 29 (coping with feelings and depression)
     -   cbt depression module
 
 26. Evenings out

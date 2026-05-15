@@ -2,6 +2,7 @@
 title: "Relapse Drift: Reading and Self-Assessment"
 format: html
 ---
+
 # Relapse Drift: Reading and Self-Assessment
 
 Relapse is usually a process, not a single event. Many people notice a gradual "drift" first: less structure, fewer recovery contacts, more secrecy, more risky environments, and more permission-giving thoughts. Catching drift early is one of the most effective prevention skills.
@@ -10,15 +11,18 @@ A useful mindset is: **small changes matter**. Protective habits (sleep routine,
 
 Relapse drift usually unfolds across multiple domains at once: thinking, routine, emotional regulation, and social support. Tracking these domains helps you intervene at the earliest point, when course correction is still relatively easy.
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/boat.jpg?raw=true){fig-align="center"}
+
 ## Read and Reflect
+
 Consider each statement and mark **Often / Sometimes / Rarely**:
 
-1. I have reduced recovery-supportive activities in the last two weeks.
-2. I have been "testing myself" in risky settings.
-3. I am minimizing warning signs instead of responding to them.
-4. I feel less accountable to people who support my recovery.
+1.  I have reduced recovery-supportive activities in the last two weeks.
+2.  I have been "testing myself" in risky settings.
+3.  I am minimizing warning signs instead of responding to them.
+4.  I feel less accountable to people who support my recovery.
 
-::: {.callout-caution}
+::: callout
 ### When risk is higher
 
 If urges or stress rise quickly, use this sequence early rather than waiting.

@@ -59,6 +59,10 @@ emotions.qmd,,,,9,,,,,,,,,,,,,,,,,,,,7,6,,,,,,matrix,TRUE
 work,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,TRUE
 emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
+restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
+relapse_drift_reading.qmd,13,11,12,10,,,11,,,,,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,
@@ -78,7 +82,7 @@ progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 pros_and_cons.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
 psychoed_self_help_groups.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,SST,
 reducing_stress.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
-relapse_drift_reading.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 relapse_drift_worksheet_1.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,first relapse_drift_reading.qmd,worksheet,matrix,
 relapse_drift_worksheet_2.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,worksheet,matrix,
 roadblocks_for_relaxation.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SST,
