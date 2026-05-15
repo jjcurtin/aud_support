@@ -1,0 +1,27 @@
+---
+title: "Restaurants"
+format: html
+---
+
+## Reflecting on Decisions: Restaurants
+
+By paying more attention to the decision making process, you will have a greater chance to interrupt the chain of decisions that could lead to a relapse. This is important because it is much easier to stop the process early, before you wind up in a high-risk situation, than later when you are in a situation that is harder to handle and may expose you to a number of triggers. Some times these decisions do not seem directly relevant to drinking, but nonetheless move one closer to drinking. <!--reference irrelevant_decisions.qmd-->
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/restaurant.png?raw=true){fig-align="center"}
+
+
+::: callout
+### Reflect on the following questions:
+
+- What thoughts, feelings, or cravings tend to come up when you go to restaurants?
+
+- Are there certain types of restaurants, people, or situations that make it harder to stick to your recovery goals?
+
+- Have you noticed any seemingly irrelevant decisions that increase the likelihood of ending up in a risky situation while dining out?
+
+- What warning signs tell you that you may be becoming uncomfortable, triggered, or tempted in these environments?
+
+- What strategies could help you feel more prepared and confident when going to restaurants (e.g., choosing the location ahead of time, reviewing the menu, bringing support, planning an exit strategy)?
+:::
+
+

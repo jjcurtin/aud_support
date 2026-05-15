@@ -1,0 +1,25 @@
+---
+title: "Emotional places"
+format: html
+---
+
+## Reflecting on Decisions: Emotional Places
+
+By paying more attention to the decision making process, you will have a greater chance to interrupt the chain of decisions that could lead to a relapse. This is important because it is much easier to stop the process early, before you wind up in a high-risk situation, than later when you are in a situation that is harder to handle and may expose you to a number of triggers. Some times these decisions do not seem directly relevant to drinking, but nonetheless move one closer to drinking. <!--reference irrelevant_decisions.qmd-->
+
+
+::: callout
+### Reflect on the following questions:
+
+- Are there places that bring up mixed emotions for you, such as comfort and sadness, excitement and anxiety, or connection and loneliness?
+
+- What thoughts, memories, or feelings tend to come up when you go to these places?
+
+- Have you noticed any seemingly irrelevant decisions that increase the chances of ending up in emotionally difficult or risky situations?
+
+- What warning signs tell you that being in these environments may be affecting your mood, cravings, or recovery?
+
+- What steps could you take before, during, or after visiting these places to better support your emotional well-being and recovery goals?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/emotions3.png?raw=true){fig-align="center"}

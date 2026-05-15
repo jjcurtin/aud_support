@@ -36,10 +36,10 @@ urge_surfing.qmd,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,reading and reflection,cbt copin
 urge_surfing_practice.qmd,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,after urge_surfing.qmd,exercise,cbt coping skills,TRUE
 reasons_for_abstinence.qmd,,,,,,,,,,,,,,4,4,,,,,,,,5,,,,,,,worksheet,cbt coping skills,TRUE
 emergency_plan.qmd,7,3,3,,,,3,,,,,,,,,,,3,,,,,,,,3,,,,worksheet,cbt coping skills,TRUE
-irrelevant_decisions.qmd,4,4,4,7,2,2,4,,,,,3,,,,,,4,,6,3,,,,,4,2,3,,psyched reading,cbt coping skills,FALSE
+irrelevant_decisions.qmd,4,4,4,7,2,2,4,,3,,,3,3,,,,,4,,6,3,,,,,4,2,3,,psyched reading,cbt coping skills,FALSE
 weekend_plans.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,exercise,cbt coping skills,TRUE
-risky_locations.qmd,5,5,5,8,,,5,,,,,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
-boredom.qmd,,,,,3,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
+risky_locations.qmd,5,5,5,,,,5,,,,,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
+boredom.qmd,,,,,5,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
 trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,TRUE
@@ -49,13 +49,16 @@ self_care.qmd,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 alcohol_script_1.qmd,6,9,10,,,,9,,,,,,,,,,4,9,,,,,,,,,,,,,,TRUE
 alcohol_script_2.qmd,12,10,11,,,,10,,,,,,,,,,5,10,,,,,,,,,,,,,,TRUE
 halt.qmd,,,,,,,,,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
-emotional_avoidance_1.qmd,,,,,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-emotional_avoidance_2.qmd,,,,,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 making_new_friends.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
 one_day_at_a_time_1.qmd,,,,,,,,,,,,,,3,3,,,,,,,,8,,,,,,,,matrix,TRUE
 daily_review.qmd,,,,,,,,,,,,,,9,5,,,,,,,,,,,,,,,,matrix,TRUE
 depression.qmd,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,matrix,TRUE
 emotions.qmd,,,,9,,,,,,,,,,,,,,,,,,,,7,6,,,,,,matrix,TRUE
+work,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,TRUE
+emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 alcohol_arguments.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matrix,
 assertiveness.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cbt coping skills,

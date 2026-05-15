@@ -3,7 +3,7 @@ title: "Risky locations"
 format: html
 ---
 
-## Reflecting on Decisions
+## Reflecting on Decisions: Risky Locations
 
 By paying more attention to the decision making process, you will have a greater chance to interrupt the chain of decisions that could lead to a relapse. This is important because it is much easier to stop the process early, before you wind up in a high-risk situation, than later when you are in a situation that is harder to handle and may expose you to a number of triggers. Some times these decisions do not seem directly relevant to drinking, but nonetheless move one closer to drinking. <!--reference irrelevant_decisions.qmd-->
 

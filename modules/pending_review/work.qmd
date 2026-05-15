@@ -1,0 +1,25 @@
+---
+title: "Work"
+format: html
+---
+
+## Reflecting on Decisions: Work
+
+By paying more attention to the decision making process, you will have a greater chance to interrupt the chain of decisions that could lead to a relapse. This is important because it is much easier to stop the process early, before you wind up in a high-risk situation, than later when you are in a situation that is harder to handle and may expose you to a number of triggers. Some times these decisions do not seem directly relevant to drinking, but nonetheless move one closer to drinking. <!--reference irrelevant_decisions.qmd-->
+
+
+::: callout
+### Reflect on the following questions:
+
+- What situations at work tend to increase your stress, frustration, or urge to drink?
+
+- Are there any work-related decisions or habits that may unintentionally put you at greater risk (e.g., skipping breaks, working late, isolating from coworkers, going to happy hours)?
+
+- What warning signs tell you that work stress may be building toward a risky situation?
+
+- What coping strategies could you use during or after work instead of drinking?
+
+- What changes could you make to your work routine or schedule that would better support your recovery goals?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/workers.jpg?raw=true){fig-align="center"}
