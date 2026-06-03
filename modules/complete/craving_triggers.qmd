@@ -14,13 +14,15 @@ It is important to learn how to recognize urge “triggers” so you can reduce 
 ::: callout
 **Common triggers include:**
 
--   Exposure to alcohol itself.
--   Seeing other people drinking.
--   Contact with people, places, times of day, and situations commonly associated with drinking (such as drinking bud- dies, parties and bars, getting home from work, weekends.
--   Particular types of emotions (such as frustration, fatigue, feeling stressed out). Even positive emotions (elation, excitement, feelings of accomplishment) can be triggers.
--   Physical feelings (feeling sick, shaky, tense).
+- Exposure to alcohol itself.
+- Seeing other people drinking.
+- Contact with people, places, times of day, and situations commonly associated with drinking (such as drinking bud- dies, parties and bars, getting home from work, weekends.
+- Particular types of emotions (such as frustration, fatigue, feeling stressed out). Even positive emotions (elation, excitement, feelings of accomplishment) can be triggers.
+- Physical feelings (feeling sick, shaky, tense).
 :::
 
-### Make a list of craving triggers. Circle the triggers that you can avoid or to which you can reduce your exposure (like not having alcohol in your home).
+### Make a list of craving triggers. 
+
+### Circle the triggers that you can avoid or to which you can reduce your exposure (like not having alcohol in your home).
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/journaling.png?raw=true){fig-align="center"}

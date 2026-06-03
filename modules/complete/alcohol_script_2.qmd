@@ -5,7 +5,7 @@ format: html
 
 # Rewriting Alcohol Scripts
 
-Once alcohol scripts are identified<!--reference alcohol_script_1.qmd-->, they can be *challenged and rewritten*. Not all thoughts are facts. Many are learned patterns.
+Once \[alcohol scripts\](alcohol_script_1.html) are identified, they can be *challenged and rewritten*. Not all thoughts are facts. Many are learned patterns.
 
 By consciously replacing unhelpful scripts with realistic, recovery-supportive ones, you can change both your emotional response and your behavior in high-risk situations.
 
@@ -21,21 +21,21 @@ Write one alcohol script you’ve noticed:
 
 ### 2. Reality Check
 
--   What evidence supports this thought?
+- What evidence supports this thought?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
--   What evidence does **not** support it?
+- What evidence does **not** support it?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### 3. Cost vs. Benefit
 
--   Short-term effect of following this script:
+- Short-term effect of following this script:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
--   Longer-term consequences:
+- Longer-term consequences:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -48,9 +48,9 @@ Create a new, more helpful thought:
 ::: callout
 Examples:
 
--   “I can enjoy this without drinking.”
--   “I don’t have to do what others are doing.”
--   “I care more about how I feel tomorrow.”
+- “I can enjoy this without drinking.”
+- “I don’t have to do what others are doing.”
+- “I care more about how I feel tomorrow.”
 :::
 
 ### 5. Make It Actionable
@@ -67,6 +67,6 @@ When the old script shows up, I will:
 
 Imagine yourself in the situation:
 
--   What happens first?
--   What do you say to yourself?
--   What do you do differently?
+- What happens first?
+- What do you say to yourself?
+- What do you do differently?
