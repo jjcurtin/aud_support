@@ -16,13 +16,10 @@ In high-risk environments (like bars or parties), scripts can activate quickly a
 ### 1. Identify the Situation
 
 -   **Risky environment:**\
-    \>
 
 -   **When do you go there?**\
-    \>
 
 -   **Who are you usually with?**\
-    \>
 
 ------------------------------------------------------------------------
 
@@ -46,14 +43,11 @@ Check any that apply:
 
 Put your typical thought into one sentence:
 
-> 
-
 ------------------------------------------------------------------------
 
 ### 4. Notice the Impact
 
 -   When this thought shows up, what do you tend to do?\
-    \>
 
 -   How strong is the urge that follows (0–10)? **\_\_\_\_\_**
 

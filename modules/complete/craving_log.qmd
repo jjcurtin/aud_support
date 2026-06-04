@@ -26,7 +26,7 @@ Today, make a record of urges to drink. Use the template below to track the:
 
 ### Example Log Entries
 
-| Date | Situation (thoughts, feelings, triggers) | Intensity (1–100) | Coping Behaviors Used |
+| Date | Situation/Trigger (thoughts and feelings) | Urge Intensity (1–100) | Coping Behaviors |
 |------------------|-------------------|------------------|------------------|
 | 4/16/26 | Feeling stressed after disagreement with boss | 75 | Shut myself in office and relaxed. Felt better after 20 minutes. |
 | 4/17/26 | Antsy at bedtime, trouble getting ready to sleep | 60 | Took a hot shower and listened to a relaxation tape. Shower worked better. |
@@ -35,7 +35,7 @@ Today, make a record of urges to drink. Use the template below to track the:
 
 ### Daily Record Template
 
-| Date | Situation (thoughts and feelings) | Intensity (1–100) | Coping Behaviors Used |
+| Date | Situation/Trigger (thoughts and feelings) | Urge Intensity (1–100) | Coping Behaviors |
 |------------------|-------------------|------------------|------------------|
 |  |  |  |  |
 |  |  |  |  |

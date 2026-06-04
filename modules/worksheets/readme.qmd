@@ -1,1 +1,3 @@
 This folder contained pdf and doc versions of worksheets and handouts that are referenced and linked in the recovery activities
+
+KW: Worksheets are named after the corresponding .qmd recovery activity

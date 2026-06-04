@@ -9,7 +9,7 @@ Recovery strengthens when daily planning is paired with daily review. Review hel
 
 Use review as feedback, not self-criticism. Ask: *"What did I learn?"* rather than *"What's wrong with me?"*
 
-The goal of review is not to judge your day—it is to find out useful information. Small adjustments made daily prevent setbacks from becoming larger patterns. Even partial success is valuable data.
+The goal of review is not to judge your day, but to find out useful information. Small adjustments made daily prevent setbacks from becoming larger patterns. Even partial success is valuable data.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/reflection.png?raw=true){fig-align="center"}
 
@@ -37,7 +37,7 @@ The goal of review is not to judge your day—it is to find out useful informati
 ### If today didn’t go as planned:
 
 -   [ ] I still showed up and reflected\
--   [ ] I identified at least one learning\
+-   [ ] I identified at least one thing I learned\
 -   [ ] I made a plan for tomorrow
 
 **That counts as progress.**
