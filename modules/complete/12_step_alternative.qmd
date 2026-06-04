@@ -7,7 +7,7 @@ format: html
 
 While 12-Step programs help many people, there are other options that focus on different approaches.
 
-These programs still provide support, structure, and community.
+These programs still provide [support](psychoed_support_seeking.html), structure, and community.
 
 ::: callout
 ### Examples include:

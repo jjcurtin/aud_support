@@ -6,7 +6,7 @@ format: html
 # Coping With Depression in Recovery
 
 ::: callout
-Depression can be part of recovery, especially as the brain adjusts after alcohol use. Temporary low mood is common, but ongoing or intense symptoms can increase relapse risk.
+[Depression](psychoed_valence_arousal.html) can be part of recovery, especially as the brain adjusts after alcohol use. Temporary low mood is common, but ongoing or intense symptoms can increase relapse risk.
 
 Recognizing early signs allows you to respond before depression deepens.
 

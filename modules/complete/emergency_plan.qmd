@@ -5,7 +5,7 @@ format: html
 
 ## Personal Emergency Plan
 
-Use this worksheet to prepare for high-risk situations. Review it regularly and use it during moments of craving or stress.
+Use this worksheet to prepare for [high-risk situations](psychoed_risky_situation.html). Review it regularly and use it during moments of craving or stress.
 
 ::: callout
 ### If I encounter a life event that puts me in a high-risk situation:
