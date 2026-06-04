@@ -5,7 +5,7 @@ format: html
 
 ## Thought Stopping Continued
 
-You now know how **Thought stopping** provides a tool for disrupting the trigger → thought → craving → use process.
+You now know how [thought stopping](thought_stopping_2.html) provides a tool for disrupting the [trigger → thought → craving → use](trigger_thought_craving.html) process.
 
 Try the additional techniques below, and use the ones that work best for you:
 

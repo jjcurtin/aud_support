@@ -3,11 +3,6 @@ title: "One Day at a Time"
 format: html
 ---
 
----
-title: "One Day at a Time"
-format: html
----
-
 # One Day at a Time
 
 Thinking too far into the future can trigger overwhelm (“I can’t do this forever”).The one day at a time approach reduces that pressure by narrowing your focus to **what you can control right now**.
@@ -43,9 +38,7 @@ Today, I will:
 
 **5. Complete this sentence:**
 
-- “Today, I only need to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”
+-   “Today, I only need to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”
 :::
-
-
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sunrise.jpg?raw=true){fig-align="center"}

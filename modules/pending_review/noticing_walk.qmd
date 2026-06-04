@@ -5,7 +5,7 @@ format: html
 
 ## Noticing Walk
 
-Mindfulness means paying attention to the present moment with openness and curiosity. A mindful walk is a simple way to practice this skill. By focusing on your senses, you can gently bring your awareness back to the here and now, calm your mind, and connect with your body.
+[mindfulness](mindfulness_reading.html) means paying attention to the present moment with openness and curiosity. A mindful walk is a simple way to practice this skill. By focusing on your senses, you can gently bring your awareness back to the here and now, calm your mind, and connect with your body.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/noticing_walk.png?raw=true){fig-align="center"}
 

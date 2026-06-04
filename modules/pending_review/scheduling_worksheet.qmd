@@ -8,7 +8,7 @@ format: html
 ::: callout
 ### Instructions
 
-This worksheet is designed to help you plan and track your day. Use it to build structure, balance responsibilities, and make time for recovery activities.
+This worksheet is designed to help you [plan and track your day](scheduling_reading.html). Use it to build [structure](psychoed_routine.html), balance responsibilities, and make time for recovery activities.
 
 1.  Start with sleep. Write down the hours you plan to sleep (from \_\_\_ to \_\_\_). Make sure you are getting enough rest.
 

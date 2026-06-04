@@ -5,7 +5,7 @@ format: html
 
 ## Thought Stopping
 
-To sustain recovery, it is necessary to interrupt the trigger–thought–craving–use sequence. **Thought stopping** provides a tool for disrupting the process.
+To sustain recovery, it is necessary to interrupt the [trigger → thought → craving → use](trigger_thought_craving_reading.html) sequence. **Thought stopping** provides a tool for disrupting the process.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/thought_stopping_1.png?raw=true)
 

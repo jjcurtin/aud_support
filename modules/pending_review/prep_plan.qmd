@@ -3,113 +3,127 @@ title: "Creating a plan"
 format: html
 ---
 
-
 # Planning for Risky Situations
 
-Use this worksheet before entering a risky environment to reduce risk and increase control.
+Use this worksheet before entering a [risky situation](psychoed_risky_situation.html) to reduce risk and increase control.
 
----
+------------------------------------------------------------------------
 
 ## 1. Event Details
 
-- **Event:**  
-- **Date & Time:**  
-- **Location:**  
-- **Who will be there:**  
+-   **Event:**\
+-   **Date & Time:**\
+-   **Location:**\
+-   **Who will be there:**
 
----
+------------------------------------------------------------------------
 
 ## 2. Risk Level
 
-- How risky does this feel (0–10)? **_____**
+-   How risky does this feel (0–10)? **\_\_\_\_\_**
 
 Why?
 
->  
+> 
 
----
+------------------------------------------------------------------------
 
 ## 3. Identified Triggers
 
 Check all that apply:
 
-- [ ] Certain people  
-- [ ] Specific emotions  
-- [ ] Time of day  
-- [ ] Alcohol availability  
-- [ ] Social pressure  
-- [ ] Other: _____________  
+-   [ ] Certain people\
+-   [ ] Specific emotions\
+-   [ ] Time of day\
+-   [ ] Alcohol availability\
+-   [ ] Social pressure\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
+------------------------------------------------------------------------
 
 ## 4. Intention for the Event
 
 My goal is:
 
-- [ ] Stay sober  
-- [ ] Limit time  
-- [ ] Practice coping skills  
-- [ ] Other: _____________  
+-   [ ] Stay sober\
+-   [ ] Limit time\
+-   [ ] Practice coping skills\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
+------------------------------------------------------------------------
 
 ## 5. Coping Strategies Plan
 
 What will you do if urges arise?
 
-- 1. __________________________________  
-- 2. __________________________________  
-- 3. __________________________________  
+-   
 
----
+    1.  
+
+        ------------------------------------------------------------------------
+
+-   
+
+    2.  
+
+        ------------------------------------------------------------------------
+
+-   
+
+    3.  
+
+        ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## 6. Drink Plan
 
-- What will you drink instead?  
->  
+-   What will you drink instead?\
+    \>
 
-- How will you decline alcohol?  
->  
+-   How will you decline alcohol?\
+    \>
 
----
+------------------------------------------------------------------------
 
 ## 7. Support System
 
-- Who can you contact if needed?  
->  
+-   Who can you contact if needed?\
+    \>
 
-- Will someone attend with you?  
-- [ ] Yes  
-- [ ] No  
+-   Will someone attend with you?\
 
----
+-   [ ] Yes\
+
+-   [ ] No
+
+------------------------------------------------------------------------
 
 ## 8. Time Limit
 
-- Planned arrival: __________  
-- Planned departure: __________  
+-   Planned arrival: \_\_\_\_\_\_\_\_\_\_\
+-   Planned departure: \_\_\_\_\_\_\_\_\_\_
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/timer.png?raw=true){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 ## 9. Early Warning Signs
 
 What will signal it’s time to leave?
 
-- [ ] Increased cravings  
-- [ ] Stress or anxiety  
-- [ ] Social pressure  
-- [ ] Fatigue  
-- [ ] Other: _____________  
+-   [ ] Increased cravings\
+-   [ ] Stress or anxiety\
+-   [ ] Social pressure\
+-   [ ] Fatigue\
+-   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
+------------------------------------------------------------------------
 
 ## 10. Commitment
 
 I commit to prioritizing my recovery by:
 
->  
+> 
 
----
-
+------------------------------------------------------------------------
