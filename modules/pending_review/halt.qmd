@@ -1,6 +1,6 @@
 ---
-title: "HALT"
 format: html
+embed-resources: TRUE
 ---
 
 # HALT: Hungry, Angry, Lonely, Tired
@@ -9,7 +9,7 @@ HALT is a quick risk check used when trying to stay alcohol-free. Hunger, anger,
 
 HALT works as a preventive scan for high-risk states. Catching these states early allows quick corrective action before urges escalate or clear thinking gets harder.
 
-**HALT is MOST useful when used preventively, not only during crisis.**
+**HALT is MOST useful when used preventatively, not only during crisis.**
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/HALT.png?raw=true){fig-align="center"}
 
@@ -22,7 +22,7 @@ HALT works as a preventive scan for high-risk states. Catching these states earl
 ## Take a moment to check-in
 
 | State  | Level (0–10) | Body Signs | Immediate Action |
-|--------|-------------:|------------|------------------|
+|--------|--------------|------------|------------------|
 | Hungry |              |            |                  |
 | Angry  |              |            |                  |
 | Lonely |              |            |                  |

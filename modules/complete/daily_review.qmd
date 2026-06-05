@@ -1,6 +1,6 @@
 ---
-title: "Daily Review and Reset"
 format: html
+embed-resources: TRUE
 ---
 
 # Daily Reflection

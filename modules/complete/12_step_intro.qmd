@@ -1,6 +1,6 @@
 ---
-title: "12 step intro"
 format: html
+embed-resources: TRUE
 ---
 
 # Introduction to 12-Step Progams

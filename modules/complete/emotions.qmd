@@ -1,6 +1,6 @@
 ---
-title: "Understanding Your Feelings"
 format: html
+embed-resources: TRUE
 ---
 
 # Understanding Your Feelings

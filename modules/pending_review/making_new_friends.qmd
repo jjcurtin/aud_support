@@ -1,6 +1,6 @@
 ---
-title: "Making New Friends in Recovery"
 format: html
+embed-resources: TRUE
 ---
 
 # Making New Friends in Recovery
@@ -16,7 +16,7 @@ Social network change is a high-impact recovery intervention. Increasing contact
 ### Who do you currently spend the most time with?
 
 | Person | Supports recovery? (Y/N) | How I feel after spending time with them |
-|--------|--------------------------|------------------------------------------|
+|-----------------|--------------------|----------------------------------|
 |        |                          |                                          |
 |        |                          |                                          |
 |        |                          |                                          |

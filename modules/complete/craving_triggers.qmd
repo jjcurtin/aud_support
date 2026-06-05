@@ -1,6 +1,6 @@
 ---
-title: "cravings reading and log"
 format: html
+embed-resources: TRUE
 ---
 
 ## Craving Triggers

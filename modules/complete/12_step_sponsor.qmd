@@ -1,6 +1,6 @@
 ---
-title: "12 step sponsers"
 format: html
+embed-resources: TRUE
 ---
 
 # Introduction to Sponsors

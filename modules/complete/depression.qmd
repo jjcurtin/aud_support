@@ -1,6 +1,6 @@
 ---
-title: "Coping with depression"
 format: html
+embed-resources: TRUE
 ---
 
 # Coping With Depression in Recovery

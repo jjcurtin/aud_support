@@ -1,6 +1,6 @@
 ---
-title: "Noticing Alcohol Scripts"
 format: html
+embed-resources: TRUE
 ---
 
 # Rewriting Alcohol Scripts

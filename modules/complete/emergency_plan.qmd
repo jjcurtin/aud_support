@@ -1,6 +1,6 @@
 ---
-title: "Personal Emergency Plan: High-Risk Situation Reminder Sheet"
 format: html
+embed-resources: TRUE
 ---
 
 ## Personal Emergency Plan

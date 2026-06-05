@@ -1,6 +1,6 @@
 ---
-title: "12 step alternatives"
 format: html
+embed-resources: TRUE
 ---
 
 # Alternatives to 12-Step Programs

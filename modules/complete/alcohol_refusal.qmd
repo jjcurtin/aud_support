@@ -1,6 +1,6 @@
 ---
-title: "Alcohol refusal"
 format: html
+embed-resources: TRUE
 ---
 
 # Refusal Skills Practice
@@ -8,7 +8,6 @@ format: html
 Use this worksheet to practice how you will respond when offered alcohol. Building and rehearsing these skills can increase confidence and reduce pressure in high-risk situations.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/no.jpg?raw=true){fig-align="center"}
-
 
 ------------------------------------------------------------------------
 
@@ -110,7 +109,6 @@ What will you do immediately after refusing?
 ------------------------------------------------------------------------
 
 ::: callout
-
 ## Practice Goal
 
 Next time I’m offered a drink, I will try:

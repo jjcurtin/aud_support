@@ -1,6 +1,6 @@
 ---
-title: "cravings log"
 format: html
+embed-resources: TRUE
 ---
 
 ## Urges Log

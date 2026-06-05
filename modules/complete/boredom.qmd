@@ -1,6 +1,6 @@
 ---
-title: "Boredom in Recovery Worksheet"
 format: html
+embed-resources: TRUE
 ---
 
 ## Understanding Boredom in Recovery

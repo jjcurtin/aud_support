@@ -1,6 +1,6 @@
 ---
-title: "Exit Plan"
 format: html
+embed-resources: TRUE
 ---
 
 # Exit Plan
@@ -26,12 +26,17 @@ Define your early warning system:
 
 I will leave when I reach:
 
+-   [ ] Level 4\
+
 -   [ ] Level 5\
+
 -   [ ] Level 6\
+
 -   [ ] Level 7\
+
 -   [ ] Other: \_\_\_\_\_\_\_
 
-**Why this level:** \>
+**Why this level?**
 
 ------------------------------------------------------------------------
 
@@ -39,7 +44,7 @@ I will leave when I reach:
 
 Complete this sentence:
 
-> “If I notice \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, I will leave immediately.”
+“If I notice \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, I will leave immediately.”
 
 ------------------------------------------------------------------------
 
@@ -47,28 +52,28 @@ Complete this sentence:
 
 When I hit my threshold:
 
-### Step 1 — Internal Decision (no debate)
+### Step 1: Internal Decision (no debate)
 
-> I remind myself:
+I remind myself: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Step 2 — Quick Exit Behavior
+### Step 2: Quick Exit Behavior
 
 Choose your default action:
 
 -   [ ] Stand up and gather belongings\
 -   [ ] Walk directly to exit\
--   [ ] Text ride / call ride\
+-   [ ] Text/call ride\
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ------------------------------------------------------------------------
 
-### Step 3 — Minimal Explanation
+### Step 3: Minimal Explanation
 
 Pick ONE simple phrase you will always use:
 
 -   [ ] “I’ve got to head out.”\
 -   [ ] “Early morning tomorrow.”\
--   [ ] “Not feeling great — I’m leaving.”\
+-   [ ] “Not feeling great, I’m leaving.”\
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ------------------------------------------------------------------------
@@ -77,10 +82,10 @@ Pick ONE simple phrase you will always use:
 
 Check any that apply to you:
 
--   [ ] “I’ll stay 5 more minutes”\
--   [ ] “I don’t want to be rude”\
--   [ ] “I can handle it”\
--   [ ] Waiting for a ‘perfect’ moment\
+-   [ ] “I’ll stay 5 more minutes.”\
+-   [ ] “I don’t want to be rude.”\
+-   [ ] “I can handle it.”\
+-   [ ] Waiting for a ‘perfect’ moment.\
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ::: callout
