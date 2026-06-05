@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Trigger Mapping
 
-Use this worksheet to identify possible triggers at a place you expect to encounter alcohol (such as a bar, restaurant, party, or social gathering). It will help you recognize patterns in your thoughts, feelings, and behaviors so you can prepare effective coping strategies and reduce your risk of relapse.
+Use this worksheet to identify triggers at a place where you recently experienced urges to drink alcohol. It will help you recognize patterns in your thoughts, feelings, and behaviors so you can prepare effective coping strategies and reduce your risk of lapse.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/map.jpg?raw=true){fig-align="center"}
 
@@ -37,11 +37,11 @@ Select all that apply:
 
 What went through your mind?
 
-> 
-
 ------------------------------------------------------------------------
 
-## 4. Feelings (Rate 0–10)
+## 4. Feelings 
+
+What were you feeling? Rate the intensity (0-10).
 
 | Emotion | Rating (0–10) |
 |---------|---------------|
@@ -68,8 +68,6 @@ Select one or more:
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Describe briefly:
-
-> 
 
 ------------------------------------------------------------------------
 
@@ -99,11 +97,7 @@ Select any that apply:
 
 -   **How did you feel afterward?**
 
-> 
-
 -   **Any consequences (positive or negative)?**
-
-> 
 
 ------------------------------------------------------------------------
 
@@ -111,11 +105,7 @@ Select any that apply:
 
 ### What helped:
 
-> 
-
 ### What didn’t help:
-
-> 
 
 ------------------------------------------------------------------------
 

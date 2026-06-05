@@ -8,7 +8,7 @@ embed-resources: TRUE
 ::: callout
 ### Instructions
 
-This worksheet is designed to help you [plan and track your day](scheduling_reading.html). Use it to build [structure](psychoed_routine.html), balance responsibilities, and make time for recovery activities.
+This worksheet is designed to help you [plan and track your day](scheduling_reading.html). Use it to build [structure](psychoed_routine.html), balance responsibilities, and make time for recovery activities. Schedule your day for today or tomorrow.
 
 1.  Start with sleep. Write down the hours you plan to sleep (from \_\_\_ to \_\_\_). Make sure you are getting enough rest.
 
@@ -27,10 +27,13 @@ This worksheet is designed to help you [plan and track your day](scheduling_read
 
 How many hours will you sleep? \_\_\_\_\_\_\_
 
-From \_\_\_\_\_\_\_ To \_\_\_\_\_\_\_
+I will sleep from \_\_\_\_\_\_\_ to \_\_\_\_\_\_\_
+
+### Schedule
 
 | Time     | Activity / Plan |
 |----------|-----------------|
+| 6:00 AM  |                 |
 | 7:00 AM  |                 |
 | 8:00 AM  |                 |
 | 9:00 AM  |                 |
@@ -48,6 +51,7 @@ From \_\_\_\_\_\_\_ To \_\_\_\_\_\_\_
 | 9:00 PM  |                 |
 | 10:00 PM |                 |
 | 11:00 PM |                 |
+| 12:00 AM |                 |
 
 ### Notes:
 

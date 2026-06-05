@@ -44,7 +44,7 @@ Check all that apply:
 My goal is:
 
 -   [ ] Stay sober\
--   [ ] Limit time\
+-   [ ] Limit time there\
 -   [ ] Practice coping skills\
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -86,11 +86,7 @@ What will you do if urges arise?
 
 -   Who can you contact if needed? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
--   Will someone attend with you?\
-
--   [ ] Yes\
-
--   [ ] No
+-   Will someone attend with you? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ------------------------------------------------------------------------
 

@@ -24,11 +24,12 @@ A strong re-engagement plan is:
 ### Re-Engagement Plan
 
 | Area | What has drifted? | My corrective action (specific & measurable) | Deadline | Completed |
-|------------|------------|---------------------------|------------|------------|
+|-------------|-------------|--------------------|-------------|-------------|
 | Daily schedule |  |  |  |  |
 | Support network |  |  |  |  |
 | Stress management |  |  |  |  |
 | Sleep / physical health |  |  |  |  |
+| Other |  |  |  |  |
 
 ::: callout
 ## High-Risk Signals to Watch For
