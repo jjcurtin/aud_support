@@ -1,9 +1,9 @@
 ---
-title: "self talk"
 format: html
+embed-resources: TRUE
 ---
 
-## Self-Talk
+# Self-Talk
 
 People constantly appraise and think about things that happen to them and the things that they do. The way that you feel and act can be highly influenced by these subjective facts or appraisals as well as objective facts. What you tell yourself about your urges to drink will affect how you experience and handle them. Your self-talk can be put to use to strengthen or weaken your urges. The process of making self-statements becomes so automatic by the time you are an adult, you may not notice that you do this; it simply does not require any attention now. A self-statement that has become automatic for you is, “The big hand is on the 7, so it is 35 minutes after. The little hand is between the 2 and 3, so it is 2 o’clock. That means that the time is 2:35.” Instead, you automatically read the clock to tell time.
 

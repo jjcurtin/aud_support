@@ -1,9 +1,9 @@
 ---
-title: "Recovery Planning"
 format: html
+embed-resources: TRUE
 ---
 
-### Recovery Planning Worksheet
+# Recovery Planning Worksheet
 
 Recovery requires specific actions and behavioral changes in many areas of life. Even after treatment, it is important to continue to set new goals and plan for a different lifestyle.
 

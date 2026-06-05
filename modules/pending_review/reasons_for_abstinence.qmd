@@ -1,9 +1,9 @@
 ---
-title: "Reasons for not drinking"
 format: html
+embed-resources: TRUE
 ---
 
-## Reasons for Not Drinking
+# Reasons for Not Drinking
 
 Use this worksheet to reflect on:
 

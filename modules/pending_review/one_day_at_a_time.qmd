@@ -1,6 +1,6 @@
 ---
-title: "One Day at a Time"
 format: html
+embed-resources: TRUE
 ---
 
 # One Day at a Time

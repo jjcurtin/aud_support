@@ -1,6 +1,6 @@
 ---
-title: "Craving psychoeducation"
 format: html
+embed-resources: TRUE
 ---
 
 # Understanding Cravings

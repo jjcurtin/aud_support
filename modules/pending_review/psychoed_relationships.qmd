@@ -1,6 +1,6 @@
 ---
-title: "relationships psychoeducation"
 format: html
+embed-resources: TRUE
 ---
 
 ## Relationships

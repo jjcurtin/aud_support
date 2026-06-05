@@ -1,6 +1,6 @@
 ---
-title: "Special occasions"
 format: html
+embed-resources: TRUE
 ---
 
 # Special Occasions and Recovery

@@ -1,6 +1,6 @@
 ---
-title: "Trigger Mapping"
 format: html
+embed-resources: TRUE
 ---
 
 # Trigger Mapping

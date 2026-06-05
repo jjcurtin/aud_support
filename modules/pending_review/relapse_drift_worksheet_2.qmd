@@ -1,6 +1,6 @@
 ---
-title: "Recovery Re-engagement"
 format: html
+embed-resources: TRUE
 ---
 
 # Recovery Re-Engagement Plan

@@ -1,9 +1,9 @@
 ---
-title: "scheduling reading"
 format: html
+embed-resources: TRUE
 ---
 
-## The Importance of Scheduling
+# The Importance of Scheduling
 
 Scheduling your time may feel difficult, repetitive, or even boring at first, but it’s one of the most important tools for maintaining recovery from alcohol use. People with alcohol use disorder often struggle to structure their day, and this lack of structure can make it easier to slip back into old habits. By [intentionally planning your day](psychoed_routine.html), you create a framework that supports your choices and helps you stay on track.
 

@@ -1,9 +1,8 @@
 ---
-title: "thought stopping 1"
 format: html
 ---
 
-## Thought Stopping
+# Thought Stopping
 
 To sustain recovery, it is necessary to interrupt the [trigger → thought → craving → use](trigger_thought_craving_reading.html) sequence. **Thought stopping** provides a tool for disrupting the process.
 

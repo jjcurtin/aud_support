@@ -1,5 +1,4 @@
 ---
-title: "Special Occasions and Drinking Associations"
 format: html
 ---
 

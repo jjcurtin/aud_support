@@ -1,9 +1,9 @@
 ---
-title: "Scheduling Worksheet"
 format: html
+embed-resources: TRUE
 ---
 
-## Scheduling Worksheet
+# Scheduling Worksheet
 
 ::: callout
 ### Instructions

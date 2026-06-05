@@ -1,9 +1,9 @@
 ---
-title: "thought stopping 2"
 format: html
+embed-resources: TRUE
 ---
 
-## Thought Stopping Continued
+# Thought Stopping Continued
 
 You now know how [thought stopping](thought_stopping_2.html) provides a tool for disrupting the [trigger → thought → craving → use](trigger_thought_craving.html) process.
 

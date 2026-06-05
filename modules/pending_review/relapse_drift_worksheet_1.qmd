@@ -1,9 +1,9 @@
 ---
-title: "Interrupting Relapse Drift"
 format: html
+embed-resources: TRUE
 ---
 
-## Interrupting Relapse Drift
+# Interrupting Relapse Drift
 
 During recovery, people do specific things that help keep them abstinent. In the [relapse drift analogy](relapse_drift_reading.html), these activities can be called *"mooring lines."*
 

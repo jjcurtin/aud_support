@@ -1,6 +1,6 @@
 ---
-title: "Recreational activities"
 format: html
+embed-resources: TRUE
 ---
 
 # Recreational Activities

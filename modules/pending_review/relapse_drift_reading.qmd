@@ -1,6 +1,6 @@
 ---
-title: "Relapse Drift: Reading and Self-Assessment"
 format: html
+embed-resources: TRUE
 ---
 
 # Relapse Drift: Reading and Self-Assessment

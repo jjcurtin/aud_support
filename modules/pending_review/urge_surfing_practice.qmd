@@ -1,15 +1,15 @@
 ---
-title: "urge surfing practice"
 format: html
+embed-resources: TRUE
 ---
 
-## Urge Surfing Practice
+# Urge Surfing Practice
 
 [Urge surfing](urge_surfing.html) is a [mindfulness-based](mindfulness_reading.html) practice for staying present during cravings without acting on them. Instead of fighting the urge or obeying it, you observe it as a changing experience.
 
 This works because urges shift over time. When you stop reinforcing urges with drinking, they lose strength across repeated episodes. The strongest part of an urge is usually brief; what changes outcomes is how you respond during that window!
 
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/wave.jpg?raw=true)
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/wave.jpg?raw=true){fig-align="center"}
 
 ::: callout
 ### Instructions

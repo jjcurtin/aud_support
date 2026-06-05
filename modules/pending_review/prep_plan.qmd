@@ -1,6 +1,6 @@
 ---
-title: "Creating a plan"
 format: html
+embed-resources: TRUE
 ---
 
 # Planning for Risky Situations

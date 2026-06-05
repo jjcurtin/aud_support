@@ -1,9 +1,9 @@
 ---
-title: "trigger-thought-craving reading"
 format: html
+embed-resources: TRUE
 ---
 
-## Trigger-Thought-Craving-Use
+# Trigger-Thought-Craving-Use
 
 ### The Losing Argument
 

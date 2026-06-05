@@ -1,9 +1,9 @@
 ---
-title: "Tracking Progress"
 format: html
+embed-resources: TRUE
 ---
 
-## Tracking Progress
+# Tracking Progress
 
 It is important for both you and your counselor to know where you are in the recovery process at all times. Marking progress helps in several ways:
 

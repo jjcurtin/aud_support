@@ -1,6 +1,6 @@
 ---
-title: "Self Care"
 format: html
+embed-resources: TRUE
 ---
 
 # Self-Care as Relapse Prevention

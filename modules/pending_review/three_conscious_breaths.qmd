@@ -1,9 +1,9 @@
 ---
-title: "3 conscious breaths"
 format: html
+embed-resources: TRUE
 ---
 
-### Take Three Conscious Breaths
+# Take Three Conscious Breaths
 
 This exercise uses principles of [mindfulness](mindfulness_reading.html) to pause, calm the nervous system, and create a moment of mindful presence to manage stress, anxiety, and overwhelm.
 
