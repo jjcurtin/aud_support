@@ -1,0 +1,61 @@
+---
+title: "Self-Help Groups: What They Offer and How to Use Them"
+format: html
+---
+
+# Self-Help Groups
+
+Self-help groups (such as AA, SMART Recovery, Refuge Recovery, LifeRing, and Women for Sobriety) provide ongoing support outside formal treatment.
+
+While each group has a different approach, most offer:
+
+-   Shared experience (“people who get it”)
+-   Accountability and consistency
+-   Practical coping strategies
+-   Structure and routine
+-   Opportunities for connection
+
+You do not need to feel fully comfortable at first to benefit. Early meetings often feel awkward or unfamiliar. This is normal! Benefits typically increase with repetition and fit.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/support_group.jpeg?raw=true){fig-align="center"}
+
+::: callout
+## Take a Minute
+
+**Click on the links for these 5 self-help groups and consider the following:**
+
+-   What appeals to me?
+-   What concerns or questions do I have?
+-   Are there groups near me? *Note that some organizations offer online meetings.*
+-   What next step do I want to take?
+
+1.  **Alcoholics Anonymous (AA)** - <https://www.aa.org/>
+
+    Approach: 12-step, spiritual (Higher Power concept)\
+    Focus: Abstinence, surrender, peer support\
+    Structure: Highly structured, widespread meetings
+
+2.  **SMART Recovery** - <https://smartrecovery.org/>
+
+    Approach: Science-based (CBT + motivational tools)\
+    Focus: Self-management, changing thoughts and behaviors\
+    Structure: More discussion-based and educational
+
+3.  **Refuge Recovery** - <https://www.refugerecovery.org/>
+
+    Approach: Buddhist-inspired\
+    Focus: Mindfulness, meditation, reducing suffering\
+    Structure: Meditation + group reflection
+
+4.  **LifeRing** - <https://lifering.org/>
+
+    Approach: Secular, peer-led\
+    Focus: Personal responsibility and self-direction\
+    Structure: Open discussion, no steps or sponsors
+
+5.  **Women for Sobriety** - <https://womenforsobriety.org/>
+
+    Approach: Gender-specific, empowerment-based\
+    Focus: Self-esteem, emotional growth, positive thinking\
+    Structure: Guided by affirmations (“13 Statements”)
+:::
