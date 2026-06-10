@@ -1,0 +1,40 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Alcohol Scripts in Nighttime Settings
+
+Nighttime social settings, like bars, parties, concerts, or late dinners, often carry strong, learned alcohol scripts, such as:
+
+- “Nighttime going out = drinking”
+- “I need alcohol to relax or have fun”
+- *“This is how people socialize in the evenings”
+
+These scripts form because:
+
+- Repetition builds a habit loop (night → environment → drinking)
+- Alcohol is linked to confidence, relaxation, or belonging
+- Social norms make drinking feel expected or necessary
+
+Over time, the brain begins to anticipate alcohol automatically in these settings, even if you’ve chosen not to drink.
+
+
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/nightlights.png?raw=true){fig-align="center"}
+
+::: callout
+### Reflection
+
+Take some time to reflect on the following prompts. It may be helpful to spend a few minutes responding in a journal.
+
+1.  What does “going out at night” mean to you? What do you associate with it? What do you hope to feel or get out of these experiences?
+
+2.  What thoughts about drinking come up when you are getting ready to go out at night? Are there specific environments where the scripts feel strongest?
+
+3.  What feelings come up when you imagine going out at night without alcohol? *Examples: anxiety, awkwardness, boredom, FOMO, relief* What are you concerned might happen?
+
+4.  What helps you feel comfortable or like yourself at night without alcohol? Are there types of "going out" that are more aligned with your goals?
+
+5.  What old beliefs about nighttime and drinking no longer serve you? What new belief supports your decision not to drink? *Examples: “I can enjoy going out at night without alcohol” “I don’t need to change myself to belong” “It’s okay if this feels uncomfortable at first” “I choose environments that support me.”*
+:::

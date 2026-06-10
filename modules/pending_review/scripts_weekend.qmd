@@ -17,7 +17,6 @@ Over time, the brain links: **Weekend → downtime → urge to drink**
 
 Even for people choosing abstinence, these associations can trigger urges automatically, even if drinking no longer aligns with their goals.
 
-
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/happyweekend.png?raw=true){fig-align="center"}
 
 ::: callout
