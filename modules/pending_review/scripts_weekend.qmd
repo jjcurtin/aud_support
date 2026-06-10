@@ -1,0 +1,37 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Alcohol Scripts about the Weekend
+
+Weekends often carry strong “alcohol scripts.” These are unwritten rules or expectations like *“It’s the weekend, so I should drink,”* or *“This is my time to unwind.”*
+
+These scripts develop through:
+
+-   Routine (“Friday = drinks”)
+-   Cultural messaging (weekends = celebration/reward)
+-   Relief from work stress or boredom
+
+Over time, the brain links: **Weekend → downtime → urge to drink**
+
+Even for people choosing abstinence, these associations can trigger urges automatically, even if drinking no longer aligns with their goals.
+
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/happyweekend.png?raw=true){fig-align="center"}
+
+::: callout
+### Reflection
+
+Take some time to reflect on the following prompts. It may be helpful to spend a few minutes responding in a journal.
+
+1.  What does “the weekend” mean to me emotionally or mentally? What expectations do I notice about how weekends should look or feel? When I imagine a “good weekend,” what do I picture?
+
+2.  What thoughts about drinking come up as the weekend approaches? Are there specific times (Friday night, Saturday afternoon, Sunday evening) that feel linked to alcohol?
+
+3.  When I think about drinking on the weekend, what am I really wanting? Relief? Celebration? Disconnection? Comfort? Routine? What feelings tend to show up if I don’t drink?
+
+4.  In my past experience, what has drinking on the weekend actually given me? What has it taken away or interfered with? How do I typically feel by the end of the weekend?
+
+5.  If alcohol weren’t part of the picture, what would I want my weekends to feel like? What activities, environments, or people help create that feeling? What does rest or enjoyment actually look like for me?
+:::

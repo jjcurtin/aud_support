@@ -1,0 +1,101 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+## Alcohol Scripts in the Workplace
+
+::: {callout}
+“Alcohol scripts” are automatic beliefs and habits about when, why, and how we drink. In work contexts, they’re often shaped by:
+
+-   Workplace culture (happy hours, client events)
+-   Social expectations (“this is how we network”)
+-   Stress and emotional fatigue
+
+A common pattern is: **Trigger (stress) → Thought (“I need a drink”) → Behavior (drinking) → Short-term relief**
+
+This pattern is powerful because:
+
+-   Alcohol provides temporary relief, reinforcing the cycle
+-   The brain learns to link stress or work events = urge to drink
+-   Over time, this becomes an automatic habit loop, not a conscious choice
+
+For people choosing abstinence:
+
+-   The goal is to interrupt this loop
+-   Build awareness of triggers and scripts
+-   Replace drinking with healthier coping strategies
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/workstress.png?raw=true){fig-align="center"}
+:::
+
+### 1. Identify a High-Risk Work Situation
+
+Think of a specific moment where you feel the urge to drink. *Examples: after a long day, difficult meeting, happy hour, travel*
+
+Write your scenario: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### 2. Notice the Alcohol Script
+
+What automatic thought shows up? Check or add your own:
+
+☐ “I deserve a drink after today”\
+☐ “This is how I unwind”\
+☐ “I can’t relax without it”\
+☐ “It would be awkward not to drink”\
+☐ “Just one won’t hurt”\
+☐ “Everyone else is doing it”\
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### 3. Identify the Underlying Need
+
+Pause and separate the urge from the need.
+
+☐ Stress relief\
+☐ Emotional release\
+☐ Rest\
+☐ Connection\
+☐ Reward\
+☐ Escape\
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### 4. Understand the Cycle
+
+Reflect honestly:
+
+-   What happens when I follow this script and drink?
+
+-   What are the short-term vs. longer-term effects?
+
+### 5. Challenge the Script
+
+-   Is drinking actually solving the problem?
+-   What does past experience show?
+-   What would support my goal of not drinking?
+
+### 6. Create an Abstinence-Supporting Script
+
+Replace the old thought with one aligned to your goal. *Examples: “Drinking won’t actually fix this—I need real rest” “This urge will pass, even if it’s uncomfortable” “I don’t drink, especially when I’m stressed” “I can unwind without alcohol”*
+
+My new script: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### 7. Plan a Replacement Action
+
+Choose a specific, go-to alternative for that situation.
+
+After work stress:
+
+☐ Take a 10–15 minute decompression break (walk, music, silence)\
+☐ Shower or change environments to signal “work is done”
+
+Social/work events:
+
+☐ Bring/order a non-alcoholic drink immediately\
+☐ Prepare a simple response (“I don’t drink”)
+
+Emotional overload:
+
+☐ Call/text someone\
+☐ Journal or vent briefly
+
+My replacement action: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
