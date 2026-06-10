@@ -1,0 +1,31 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Pros and Cons of Alcohol Use vs. Recovery
+
+Ambivalence is normal in behavior change. You may genuinely want recovery and still feel pulled toward alcohol in difficult moments. A structured pros-and-cons exercise helps you examine both sides honestly so choices are based on full information, not just immediate urge.
+
+This tool is most effective when you compare **short-term and long-term** benefits and costs.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/ambivalence2.jpg?raw=true){fig-align="center"}
+
+## Decisional Balance Worksheet
+
+|                 | Benefits / Pros | Costs / Cons |
+|-----------------|-----------------|--------------|
+| **Recovery**    |                 |              |
+|                 |                 |              |
+| **Alcohol Use** |                 |              |
+|                 |                 |              |
+
+::: callout-important
+### Tips
+
+-   Work through this in real-life situations rather than only reading it.
+
+-   Review your worksheet when bargaining thoughts appear (*Just one drink won't hurt. I can stop tomorrow.*).
+
+-   If something feels hard, simplify the step and repeat it consistently.
+:::

@@ -52,7 +52,7 @@ halt.qmd,,,,,,,,5,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
 emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 making_new_friends.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
-one_day_at_a_time.qmd,,,,,,,,,,,,,,3,3,,,,,,,,8,,,,,,,,matrix,TRUE
+one_day_at_a_time.qmd,,,,,,,,,,,,,,3,2,,,,,,,,8,,,,,,,,matrix,TRUE
 daily_review.qmd,,,,,,,,,,,,,,9,5,,,,,,,,,,,,,,,,matrix,TRUE
 depression.qmd,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,matrix,TRUE
 emotions.qmd,,,,9,,,,,,,,,,,,,,,,,,,,7,6,,,,,,matrix,TRUE
@@ -61,11 +61,21 @@ emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
 restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
 relapse_drift_reading.qmd,13,11,12,10,,,11,,,,,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,FALSE
-relapse_drift_worksheet_1.qmd,14,12,13,11,,,12,,,,,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
-relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,,7,7,12,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+relapse_drift_worksheet_1.qmd,16,12,15,11,,,12,,,,,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,,7,7,14,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
 occasions_1.qmd,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,matrix,TRUE
 occasions_2.qmd,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,matrix,TRUE
 recreation.qmd,,,,,,,,,,,,,,,,,,,,,,4,,,7,,,,,,matrix,TRUE
 12_step_intro.qmd,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-12_step_sponsor.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-12_step_alternative.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_sponsor.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_alternative.qmd,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+decisional_balance.qmd,14,,13,,,,,,,,,,,12,6,,,,,,,,9,,,,,,,,matrix,TRUE
+motivation_for_recovery.qmd,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,,matrix,TRUE
+physical_health.qmd,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
+considering_self_help_groups.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
+body_scan.qmd,,,,13,,,,,,,,,,,,16,,,,,,,,8,,,,,,,matrix,TRUE
+assertiveness.qmd,17,,16,,,,14,,5,,,,,,,,,14,,,,,,,,,,,,,matrix,TRUE
+reducing_stress.qmd,,,,,,,,,,,,,,,,,,,10,11,,,,,,,,,,,matrix,TRUE
+staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,8,,4,,,,matrix,TRUE
+spirituality.qmd,,,,,,,,,,,,,,14,,,,,,,,,,,,,,,,,matrix,TRUE
+emotional_buildup.qmd,,,,14,,,,,,,,,,,,,,,11,,,,,9,9,,,,,,matrix,TRUE
