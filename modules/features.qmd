@@ -18,8 +18,6 @@ format: html
 
 4.  Locations with mixed emotions (still currently mixed with next two loc emotion feats)
 
-    -   RP 18 (emotional triggers)
-
 5.  Locations with pleasant emotions (not going to pleasant is risk)
 
 6.  Locations with unpleasant emotions (NOTgoing to unpleasant is risk)
@@ -34,7 +32,6 @@ format: html
 
 10. Healthcare (protective)
 
-    -   matrix rp17 (taking care of yourself)
     -   rp19 (illness)
 
 11. Time at home (protective)
@@ -58,11 +55,8 @@ format: html
 
 19. Past stressors or hassles
 
-    -   rp20 (recognizing stress)
-
 20. Future stressors or hassles
 
-    -   rp22 (reducing stress)
 
 21. Highly pleasant events (risk factor)
 

@@ -1,0 +1,32 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Emotional Triggers
+
+For many people, certain emotional states are closely connected to drinking, almost as if the emotion itself causes the urge to drink. In recovery, it may feel like avoiding these emotions entirely would prevent relapse. However, these feelings are a normal part of life. Instead of avoiding them, it is important to recognize them as warning signs or “red flags.”
+
+## Common Emotional Triggers
+
+### Loneliness
+
+It is difficult to give up friends and activities that are part of a drinking lifestyle. Being separated from friends and family leaves people feeling lonely. Often friends and family members who do not drink are not ready to risk getting back into a relationship that didn’t work earlier. The person in recovery is stranded between groups of friends. The feeling of loneliness can drive the person back toward drinking.
+
+### Anger
+
+The intense irritability experienced in the early stages of recovery can result in floods of anger that act as instant triggers. A person in that frame of mind is only a few steps from drinking. Once a person drinks, it can be a long trip back to a rational state of mind.
+
+### Feeling Deprived
+
+Maintaining abstinence is a real accomplishment. Usually people in recovery feel justifiably good and proud about what they have been able to achieve. Sometimes people in recovery feel as if they have to give up good times and good things. Recovery seems like a jail sentence, something to be endured. This reverses the actual state of recovery: drinking begins to look good and recovery seems bad. This upside-down situation quickly leads to relapse.
+
+::: callout
+**It is important to be aware of these red flag emotions. Allowing yourself to be flooded with these powerful negative emotions is allowing yourself to be swept rapidly toward relapse.**
+
+-   Have some of these emotional states been a trigger for you in the past?
+
+-   Which ones?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/emotional.jpeg?raw=true){fig-align="center"}

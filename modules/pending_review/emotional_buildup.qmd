@@ -39,8 +39,6 @@ Check-in with your pressure level today.
 
 3.  What is one release action I can take?
 
-
-
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/pressure.png?raw=true){fig-align="center"}
 
 ::: callout

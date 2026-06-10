@@ -1,0 +1,39 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Illness
+
+Getting sick often predicts a relapse. This might seem strange, even unfair. After all, you can’t really do anything about getting sick, right? Many people get a few colds a year. Although you may not be able to prevent yourself from getting sick, you can be aware of the added relapse risk that comes with illness, and you can take precautions to avoid getting sick.
+
+## Sickness as Relapse Justification
+Illness can be a powerful relapse justification. When you are sick, you make a lot of exceptions to your regular routine. You stay home from work; you sleep more than usual; you eat different foods. You may feel justified in pampering yourself (for example, *“I’m sick, so it’s OK if I watch TV and lie around most of the day”*; *“I don’t feel good. I deserve a few extra cookies”*). Because people feel that getting sick is out of their control, it seems OK to take a break from their regular behaviors. You need to be careful that, while you are taking a break from other routines, you don’t allow sickness to be an excuse for using.
+
+## Relapse Risks During Illness
+When you are sick, you are physically weaker. You also may have less mental energy to maintain your recovery. In addition to lacking the energy to fight your alcohol use disorder, you may face the following relapse risks when you are sick:
+
+- Missing treatment sessions
+- Missing mutual-help meetings
+- Not exercising
+
+The following relapse risks also can act as triggers when you’re sick:
+
+- Spending a lot of time alone
+- Recovering in bed (which reminds some people of recovering from using)
+- Having a lot of unstructured time
+
+## Healthful Behaviors
+Although you can’t always prevent yourself from getting sick, you can do things to minimize your chances of getting sick. The following behaviors help support your recovery in general and help keep you healthy:
+
+- Exercise regularly (even when you feel as if you’re getting sick, light exercise can be good for you).
+- Eat healthful meals.
+- Get adequate sleep.
+- Minimize stress.
+
+Early in recovery from substance use, you also should avoid activities that put your health at risk or require recovery time. Elective surgery, serious dental work, and extended exertion may leave you fatigued and make you susceptible to illness.
+
+## Recognize When You’re at Risk
+Because you may be more likely to relapse when you’re sick, you should be alert for the signs of illness. Soreness, tiredness, headaches, congestion, or a scratchy throat can signal the onset of illness. Even something like premenstrual syndrome (PMS) can weaken you physically and make relapse more likely. If you do get sick, try to keep the negative effects of illness from interfering with your recovery by getting well as quickly as possible. Get proper rest and medical attention so that you can return to your regular recovery routine as soon as possible. You will feel stronger, and your recovery will be stronger.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sick.jpg?raw=true){fig-align="center"}

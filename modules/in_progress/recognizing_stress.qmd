@@ -1,0 +1,45 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Recognizing Stress
+
+## What Is Stress?
+
+[Stress](psychoed_stressful_event.qmd) is a physical and emotional response to difficult or upsetting events, especially those that continue over time.
+
+Stress occurs when the demands you place on yourself (or those placed on you) begin to disrupt your life. Sometimes, you may not notice stress until it causes physical or emotional symptoms.
+
+## Self-Check
+
+Place a ✔ next to any of the symptoms you have experienced in the past 30 days.
+
+☐ Sleep problems (difficulty falling asleep, waking during the night, nightmares, waking too early)\
+☐ Headaches\
+☐ Stomach problems\
+☐ Chronic illness\
+☐ Fatigue (feeling very tired)\
+☐ Moodiness\
+☐ Irritability\
+☐ Difficulty concentrating\
+☐ General dissatisfaction with life\
+☐ Feeling overwhelmed
+
+Total number of items checked: \_\_\_\_\_\_\_
+
+If you checked two or more items, you may need to make changes in your life to reduce your stress level. Becoming aware of stress is the first step toward managing it.
+
+You may have developed habits, such as using alcohol, to cope with stress in the past. Learning healthier coping strategies is an important part of recovery.
+
+::: callout
+## Reflection Questions
+
+-   What situations seem to cause you the most stress?
+
+-   How do you usually respond to stress?
+
+-   What is one healthy way you could begin managing stress?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/stressball.jpeg?raw=true){fig-align="center"}

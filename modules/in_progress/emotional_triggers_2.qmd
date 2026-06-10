@@ -1,0 +1,24 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Understanding Emotions
+
+One of the goals during the recovery process is learning to separate thoughts, behaviors, and emotions so that you can control what you think and how you behave. It is important to recognize and understand your emotions so that your actions are not always dictated by your feelings.
+
+Many people find that writing about their feelings is a good way to recognize and understand their emotions. You don’t need to be a good writer to use this tool. People who do not like to write and who have never written much in the past still can learn valuable things about themselves by putting their feelings into words.
+
+::: callout
+**Follow the instructions and try a new way of getting to know yourself:**
+
+1.  Find a private, comfortable, quiet place and a time just for writing today. It can be helpful even if you only dedicate a few minutes to it.
+
+2.  Begin by taking several deep breaths and relaxing.
+
+3.  Write in a response to a question that you have asked yourself about your feelings (for example, *“What am I feeling right now?”* *“Why am I angry?”* *“Why am I sad?”*).
+
+4.  Forget spelling and punctuation; just let the words flow. Writing about your feelings makes them clearer to you. It also can help you avoid the emotional buildup that often leads to relapse.
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/diary.png?raw=true){fig-align="center"}
