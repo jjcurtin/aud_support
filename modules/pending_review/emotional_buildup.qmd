@@ -1,0 +1,57 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Emotional Buildup
+
+Emotional buildup happens when stress, resentment, fear, or sadness accumulates without release. People often do not notice buildup until urges or conflict spike. By the time emotions feel overwhelming, choices narrow and relapse risk rises.
+
+## Why Buildup Happens
+
+Emotional pressure often grows when:
+
+-   Stress is repeatedly postponed (“I’ll deal with it later”)
+-   Feelings are ignored or pushed down
+-   Problems are avoided instead of addressed
+
+Over time, this creates a pressure buildup that seeks quick relief (often in unhealthy ways).
+
+## Preventing Buildup
+
+The goal is consistent, small releases, not waiting for a crisis.
+
+Effective daily strategies:
+
+-   Talking with someone you trust
+-   Writing or journaling
+-   Physical movement (walking, exercise)
+-   Breathing or grounding exercises
+-   Taking one small step to solve a problem
+
+## Emotional Pressure Gauge
+
+Check-in with your pressure level today.
+
+1.  My pressure level (0-10): \_\_\_\_\_
+
+2.  What is driving it?
+
+3.  What is one release action I can take?
+
+
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/pressure.png?raw=true){fig-align="center"}
+
+::: callout
+## Quick Reset Strategy
+
+When pressure spikes:
+
+-   Pause
+-   Name the feeling (“This is stress building up”)
+-   Choose one small release action
+-   Repeat if needed
+
+**You don’t have to eliminate pressure. Just reduce it.**
+:::

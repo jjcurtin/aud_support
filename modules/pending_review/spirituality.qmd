@@ -2,6 +2,7 @@
 format: html
 embed-resources: TRUE
 ---
+
 # Spirituality and Meaning
 
 Spirituality in recovery does not require a specific religion. It can mean connection to values, purpose, nature, community, service, gratitude, or a sense of something larger than immediate urges. Meaning-based coping helps during moments when motivation feels thin.
@@ -10,11 +11,12 @@ When people reconnect with meaning, they often report less hopelessness and more
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/service.jpeg?raw=true){fig-align="center"}
 
-
-:::{.callout}
+::: callout
 ## Reflection Practice
+
 Write one short paragraph for each prompt:
-1. What gives your life meaning right now?
-2. What kind of person do you want to be in recovery?
-3. What daily action reflects that identity?
+
+1.  What gives your life meaning right now?\
+2.  What kind of person do you want to be in recovery?\
+3.  What daily action reflects that identity?
 :::
