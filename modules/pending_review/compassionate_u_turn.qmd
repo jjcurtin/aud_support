@@ -1,0 +1,27 @@
+---
+title: "Compassionate U-Turn"
+format: html
+---
+
+# Compassionate U-Turn
+
+A lapse doesn’t mean you’ve failed, it means you need to reset quickly and skillfully. A compassionate U-turn is the ability to change direction after a setback in thinking, mood, or behavior. Harsh self-talk (*“I ruined everything”*) increases relapse risk. Compassionate accountability (*“I slipped, now I reset”*) helps you get back on track.
+
+Self-compassion is not letting yourself off the hook. It means responding in a way that supports responsible action and forward movement.
+
+## U-Turn Script
+
+1.  **Notice:** "I am off track right now."
+2.  **Normalize:** "Setbacks happen in recovery."
+3.  **Refocus:** "What is my next right action in the next 10 minutes?"
+4.  **Reconnect:** Contact one support person or tool.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/uturn.jpeg?raw=true){fig-align="center"}
+
+::: callout
+### When risk is higher
+
+If urges or stress rise quickly, use this sequence early rather than waiting. A fast, non-judgmental reset helps you regain control and continue forward.
+
+Try using this script the next time you feel discouraged or self-critical. Early action makes recovery easier.
+:::

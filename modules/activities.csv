@@ -31,7 +31,7 @@ three_conscious_breaths.qmd,,,,9,,,,,,,,,,,,,,,5,5,,,,4,,,,,after mindfulness_re
 tracking_progress.qmd,,,,,,,,,,,,,,5,,,,,,,,,3,,,,,,,worksheet,matrix,TRUE
 trigger_behavior_record.qmd,,,,,,,,,,,,,,7,,,,,,,,,7,,,,,,,worksheet,cbt coping skills,TRUE
 trigger_thought_craving_reading.qmd,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-triggers.qmd,11,2,2,3,,,2,,,,,2,2,,,11,2,2,12,4,2,,4,5,2,2,4,6,,exercise,matrix,TRUE
+triggers.qmd,11,2,2,3,,,2,,,,,2,2,,,11,2,2,12,4,2,,10,5,2,2,4,6,,exercise,matrix,TRUE
 urge_surfing.qmd,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,reading and reflection,cbt coping skills,FALSE
 urge_surfing_practice.qmd,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,after urge_surfing.qmd,exercise,cbt coping skills,TRUE
 reasons_for_abstinence.qmd,,,,,,,,,,,,,,4,4,,,,,,,,5,,,,,,,worksheet,cbt coping skills,TRUE
@@ -51,7 +51,7 @@ alcohol_script_2.qmd,12,10,11,,,,10,,,,,,,,,,5,10,,,,,,,,,,,,,,TRUE
 halt.qmd,,,,,,,,5,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
 emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-making_new_friends.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
+making_new_friends_1.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
 one_day_at_a_time.qmd,,,,,,,,,,,,,,3,2,,,,,,,,8,,,,,,,,matrix,TRUE
 daily_review.qmd,,,,,,,,,,,,,,9,5,,,,,,,,,,,,,,,,matrix,TRUE
 depression.qmd,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,matrix,TRUE
@@ -90,4 +90,7 @@ justification_reading.qmd,18,14,17,17,,,15,,,,,,,,,,,,,,10,,,13,12,11,,,,,matrix
 justification_celebration.qmd,,,,,,,,,,,,,,,,,9,,,,11,,,,,,,,,,matrix,TRUE
 justification_emotions.qmd,,,,18,,,,,,,,,,,,,,,,,,,,14,13,,,,,,matrix,TRUE
 justification_testing.qmd,19,15,18,,,,16,,,,,,,,,,10,,,,,,,,,12,,,,,matrix,TRUE
-making_new_friends.qmd,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,
+making_new_friends_2.qmd,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,TRUE
+compassionate_u_turn.qmd,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,TRUE
+progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,18,,,14,12,,,,,,,,,,,,TRUE
+internal_triggers.qmd,,,,19,,,,,,,,,,,,17,,,,,,,,15,14,,,,,,,TRUE

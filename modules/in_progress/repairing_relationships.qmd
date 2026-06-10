@@ -3,6 +3,25 @@ format: html
 embed-resources: TRUE
 ---
 
+## Repairing Relationships
 
+Friends and family of people who are substance dependent often get hurt as a result
+of the substance abuse. People who are substance dependent often cannot take care
+of themselves and certainly cannot take care of others.
+As part of your recovery, you should think about whom you have hurt. You should also
+think about whether you need to do anything to repair the relationships that are most
+important to you. In 12-Step programs this process is called “making amends.”
+What are some of the past behaviors you might want to amend?
+Are there things you neglected to do or say when you were using that
+should be addressed now?
+How are you planning to make amends?
+Do you feel that being in recovery and stopping the use of drugs is enough?
+Making amends does not have to be complicated. Acknowledging the hurt you caused
+while you were using substances will probably help reduce conflict in your relationships.
+Not everyone will be ready to forgive you, but an important part of this process
+is beginning to forgive yourself. Another aspect of repairing relationships involves your
+forgiving others for things that they did when you were using substances.
+Whom do you need to forgive?
+What resentments do you need to let go of?
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/stressball.jpeg?raw=true){fig-align="center"}

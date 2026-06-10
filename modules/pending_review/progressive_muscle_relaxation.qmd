@@ -2,6 +2,7 @@
 title: "Progressive Muscle Relaxation"
 format: html
 ---
+
 # Progressive Muscle Relaxation
 
 Progressive muscle relaxation (PMR) works by intentionally tensing and releasing muscle groups. This contrast teaches your nervous system the difference between tension and relaxation. PMR is especially useful when stress, anxiety, or craving creates physical agitation.
@@ -10,20 +11,8 @@ Regular PMR can improve sleep quality and lower stress reactivity, both importan
 
 PMR is a body-based calming tool that can reduce the body's stress mode (fight-or-flight response). Lower bodily tension supports clearer thinking and better use of coping skills during high-risk periods.
 
-## PMR Sequence (10 minutes)
-Tense each area for about 5 seconds, then release for 10-15 seconds:
-- Hands and forearms
-- Shoulders and neck
-- Face and jaw
-- Chest and abdomen
-- Legs and feet
+**Practice with this seven-minute [guided PMR video](https://www.youtube.com/watch?v=rJ-i1BVLawc) by headspace.**
 
-::: {.callout-tip}
-### Try this this week
+*Pay attention to how your body feels before and after. Even a small drop in tension is progress.*
 
-Use the steps below as a practical experiment and notice what shifts.
-
-Use PMR in the evening for five days and track sleep/stress changes.
-
-Briefly record what worked best so you can keep the strongest strategy.
-:::
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/relaxation.jpg?raw=true){fig-align="center"}

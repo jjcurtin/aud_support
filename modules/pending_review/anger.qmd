@@ -13,6 +13,8 @@ Often a sense of victimization accompanies the anger. Do the following questions
 -   How come she doesn’t understand my needs?
 -   Why won’t he just do what I want him to do?
 
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/anger.png?raw=true){fig-align="center"}
+
 ## Reflect on these questions
 
 1.  How do you recognize when you are angry? Does your behavior change? Do you notice physical changes (for example, pacing, clenching your jaw, feeling restless or “keyed up”)?
@@ -34,5 +36,3 @@ Often a sense of victimization accompanies the anger. Do the following questions
 -   Take deep breaths.
 -   Exercise.
 :::
-
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/anger.png?raw=true){fig-align="center"}

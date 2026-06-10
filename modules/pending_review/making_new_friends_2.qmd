@@ -1,0 +1,28 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Making New Friends
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/quote.jpg?raw=true){fig-align="center"}
+
+Relationships are very important to the recovery process. Friends and family can offer strength and help us understand who we are. The relationships you establish can support or weaken recovery. It has been said, *“You will become like those people with whom you spend your time.”*
+
+::: callout
+### Reflection
+
+**Use the following questions to help you think about your friendships.**
+
+1.  Do you have any friends like the one described in the poem above? If yes, who are they?
+
+2.  Have you become like the people around you? In what ways?
+
+3.  What is the difference between a friend and an acquaintance?
+
+4.  Where can you make some new acquaintances who might become friends?
+
+5.  To whom are you a friend?
+
+6.  What behaviors do you need to change to be better able to have honest relationships?
+:::
