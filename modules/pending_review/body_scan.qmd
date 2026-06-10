@@ -1,0 +1,24 @@
+---
+format: html
+embed-resources: TRUE
+---
+# Noticing Physical Sensations
+
+A body scan is a [mindfulness](mindfulness_reading.html) practice that trains you to notice physical sensations without immediate reaction. In recovery, this helps because urges, stress, and emotions often show up in the body first (tight chest, jaw tension, restlessness, stomach discomfort).
+
+When you detect early body signals, you can intervene sooner with coping skills. Over time, body awareness improves emotional regulation and reduces automatic behavior.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/body_scan.jpg?raw=true){fig-align="center"}
+
+:::{.callout}
+## Body Scan Practice 
+
+Spend 5-10 minutes going through these steps. If this your first time we encourage you to find a recorded body scan meditation to guide you through it. Here is [an example we like](https://www.youtube.com/watch?v=uqtIqCKjkuc).
+
+1. Sit or lie down comfortably.
+2. Bring attention to your breathing for one minute.
+3. Slowly scan from feet to head, noticing sensation without judging it.
+4. If your mind wanders, gently return to the current body area.
+5. End by naming one thing your body needs today.
+
+:::
