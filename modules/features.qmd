@@ -37,8 +37,6 @@ format: html
 
 13. Time at work
 
-    -   alcohol scripts ("it helps me relax")
-    -   work stressors as triggers
 
 14. Future efficacy/motivation
 
@@ -66,8 +64,6 @@ format: html
 24. Activated negative affect (angry)
 
 25. Deactivated negative affect (depressed)
-
-    -   cbt depression module
 
 26. Evenings out
 

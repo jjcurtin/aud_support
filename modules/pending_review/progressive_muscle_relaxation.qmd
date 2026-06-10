@@ -1,6 +1,6 @@
 ---
-title: "Progressive Muscle Relaxation"
 format: html
+embed-resources: TRUE
 ---
 
 # Progressive Muscle Relaxation
