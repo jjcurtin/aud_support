@@ -1,0 +1,50 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Relapse Justification
+
+Once a person decides not to drink alcohol anymore, how do they end up drinking again? Do relapses happen completely by accident? Or are there warning signs and ways to avoid relapse?
+
+Relapse justification is a process that happens in people’s minds. A person may have decided to stop using, but the person’s brain is still healing and still feels the need for alcohol. The addicted brain invents excuses that allow the person in recovery to edge close enough to relapse situations that accidents can happen. You may remember a time when you intended to stay alcohol free but you invented a justification for drinking (*“I can handle it now.”* *“I made it through something hard.”* *“Nothing bad will happen this time.”*). Then, before you knew it, you had used again.
+
+## Why Justifications Are Dangerous
+
+Relapse justification works in small steps:
+
+-   A thought appears (*“Maybe just one time…”*)
+-   The thought is entertained instead of challenged
+-   The person moves closer to risky situations
+-   The “line” gradually shifts
+-   Drinking becomes more likely and then happens
+
+By the time alcohol use occurs, the relapse has already been developing internally.
+
+## Warning Signs to Watch For
+
+You may be entering relapse justification if you notice:
+
+-   Increased bargaining (*“only if…”*)
+-   Thinking about people/places linked to past alcohol use
+-   Downplaying past consequences
+-   Feeling restless, irritable, or disconnected
+-   Avoiding recovery supports (meetings, therapy, check-ins)
+-   Keeping thoughts about drinking secret
+
+::: callout
+## How to Interrupt the Process
+
+**The good news: Justifications can be challenged and stopped.**
+
+Helpful strategies:
+
+-   Name the thought: *“This is a relapse justification.”*
+-   Play the tape forward: What happens after the first use?
+-   Reality check: Compare the thought to your past experiences
+-   Delay the urge: Give yourself time (even 30 minutes helps)
+-   Reach out: Talk to someone before acting
+-   Reconnect with your “why” for recovery
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/angeldevil.png?raw=true){fig-align="center"}

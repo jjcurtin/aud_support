@@ -1,0 +1,29 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Exploring Relapse Justifications: Negative Emotions
+
+Relapse doesn’t begin with drinking, it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
+
+Use the questions below to help you identify justifications invented by your addicted brain. Identifying and anticipating the justifications will help you interrupt the process.
+
+::: callout
+### Does feeling depressed, angry, lonely, or afraid ever make drinking seem like the answer?
+
+Read the statements below and check any that feel familiar:
+
+☐ “I’m depressed. What difference does it make whether I use?”  
+☐ “When I get mad enough, I can’t control what I do.”  
+☐ “I’m scared. I know if I use, the feeling will go away.”  
+☐ “If my partner thinks I’ve used, I might as well use.”  
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### What emotions put you at risk of justifying drinking?
+
+### Who can you reach out to when these thoughts show up?
+
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mood.png?raw=true){fig-align="center"}

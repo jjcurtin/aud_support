@@ -28,11 +28,8 @@ format: html
 
 9.  Friends (protective)
 
-    -   rp26 (repairing relationships)
 
 10. Healthcare (protective)
-
-    -   rp19 (illness)
 
 11. Time at home (protective)
 
@@ -67,8 +64,6 @@ format: html
 23. Past use
 
 24. Activated negative affect (angry)
-
-    -   rp 23 (managing anger)
 
 25. Deactivated negative affect (depressed)
 

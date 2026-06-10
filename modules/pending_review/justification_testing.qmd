@@ -1,0 +1,26 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Exploring Relapse Justifications: Testing
+
+Relapse doesn’t begin with drinking, it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
+
+Use the questions below to help you identify justifications invented by your addicted brain. Identifying and anticipating the justifications will help you interrupt the process.
+
+::: callout
+### It’s very easy to forget that being smart, not being strong, is the key to staying abstinent.
+
+Have you ever wanted to prove you could be stronger than alcohol? For example, have you said any of the following?
+
+☐ I’m strong enough to be around it now.   
+☐ I want to see whether I can say “No” to drinking and using.   
+☐ I want to see whether I can be around my old friends.   
+☐ I want to see how drinking feels now that I’ve stopped.   
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### What might you do when your addicted brain suggests these excuses to use?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/donotpush.jpeg?raw=true){fig-align="center"}

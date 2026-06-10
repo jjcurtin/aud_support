@@ -1,0 +1,26 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Exploring Relapse Justifications: Celebrating
+
+Relapse doesn’t begin with drinking, it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
+
+Use the questions below to help you identify justifications invented by your addicted brain. Identifying and anticipating the justifications will help you interrupt the process.
+
+::: callout
+### When celebrating, you may be encouraged by other people or your addicted brain to make an exception to your abstinence. 
+
+Have you ever tried to justify drinking with the following thoughts?
+
+☐ I’m feeling really good. One time won’t hurt.   
+☐ I’m on vacation. I’ll go back to not drinking when I get home.   
+☐ I’m doing so well. Things are going great. I owe myself a reward.  
+☐ This is such a special event that I want to celebrate.  
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### What might you do when your addicted brain suggests these excuses to use?
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/balloons.jpeg?raw=true){fig-align="center"}
