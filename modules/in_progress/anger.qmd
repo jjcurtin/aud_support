@@ -5,4 +5,34 @@ embed-resources: TRUE
 
 # Managing Anger
 
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/stressball.jpeg?raw=true){fig-align="center"}
+Anger is an emotion that leads many people to relapse. This is particularly true early in treatment. Frequently, anger slowly builds on itself as you constantly think about things that make you angry. Sometimes it seems that the issue causing the anger is the only important thing in life.
+
+Often a sense of victimization accompanies the anger. Do the following questions seem familiar to you?
+
+-   Why do I get all the bad breaks?
+-   How come she doesn’t understand my needs?
+-   Why won’t he just do what I want him to do?
+
+## Reflect on these questions
+
+1.  How do you recognize when you are angry? Does your behavior change? Do you notice physical changes (for example, pacing, clenching your jaw, feeling restless or “keyed up”)?
+
+2.  How do you express anger? Do you hold it in and eventually explode? Do you become sarcastic and passive–aggressive?
+
+3.  What positive ways do you know to cope with anger?
+
+::: callout
+**Here are some alternative ways to cope with anger. Which of the following will work for you?**
+
+-   Talk to the person you are angry with.
+-   Talk to a counselor, a 12-Step sponsor, or another person who can give you guidance.
+-   Talk about the anger in an outside support group meeting.
+-   Write about your feelings of anger.
+-   Step away from the situation.
+-   Listen to music.
+-   Clean or organize.
+-   Take deep breaths.
+-   Exercise.
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/anger.png?raw=true){fig-align="center"}
