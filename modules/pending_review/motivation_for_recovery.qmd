@@ -1,0 +1,36 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Motivation for Recovery
+
+Motivation naturally rises and falls during recovery. It is not a permanent feeling. Long-term recovery relies less on waiting to "feel ready" and more on reconnecting with values and consequences regularly. Motivation becomes more stable when you keep your reasons visible and specific.
+
+A practical strategy is to separate short-term urges from long-term goals. Urges ask, *"How do I feel right now?"* Recovery asks, *"What life am I building?"*
+
+## Values-to-Action Exercise
+
+Use this exercise to connect what matters most to one concrete step.
+
+1.  **What I want to protect.** *Examples: health, family, stability, career, self-respect.*
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+2.  **How alcohol harms this.** Be specific about the impact.
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+3.  **One recovery action this week.** Keep it small, clear, and doable. *Examples: attend one meeting, remove alcohol from home, call a support person, leave early from a risky situation.*
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+::: callout
+### Make It Stick
+
+-   Write your answer to #1 somewhere visible (phone, notes, wallet)
+-   Review it when urges show up
+-   Focus on action, not feeling
+:::
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/candle.jpg?raw=true){fig-align="center"}

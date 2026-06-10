@@ -1,6 +1,6 @@
 ---
-title: "Self-Help Groups: What They Offer and How to Use Them"
 format: html
+embed-resources: TRUE
 ---
 
 # Self-Help Groups
