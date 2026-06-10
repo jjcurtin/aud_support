@@ -7,19 +7,17 @@ embed-resources: TRUE
 
 Nighttime social settings, like bars, parties, concerts, or late dinners, often carry strong, learned alcohol scripts, such as:
 
-- “Nighttime going out = drinking”
-- “I need alcohol to relax or have fun”
-- *“This is how people socialize in the evenings”
+-   “Nighttime going out = drinking”
+-   “I need alcohol to relax or have fun”
+-   “This is how people socialize in the evenings”
 
 These scripts form because:
 
-- Repetition builds a habit loop (night → environment → drinking)
-- Alcohol is linked to confidence, relaxation, or belonging
-- Social norms make drinking feel expected or necessary
+-   Repetition builds a habit loop (night → environment → drinking)
+-   Alcohol is linked to confidence, relaxation, or belonging
+-   Social norms make drinking feel expected or necessary
 
 Over time, the brain begins to anticipate alcohol automatically in these settings, even if you’ve chosen not to drink.
-
-
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/nightlights.png?raw=true){fig-align="center"}
 
