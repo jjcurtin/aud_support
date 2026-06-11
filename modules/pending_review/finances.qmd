@@ -1,0 +1,43 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Finances and Recovery
+
+Financial stress is a common but often overlooked trigger in recovery. Situations like debt, unexpected expenses, or income instability can create:
+
+- Anxiety and pressure
+- Shame or self-criticism
+- Overwhelm and avoidance
+- Urges to escape or “check out”
+
+For some, money can also increase risk in the opposite direction: Having extra cash may trigger thoughts like *“I can afford to drink”* or *“I deserve to enjoy this.”*
+
+**This creates two common pathways:**
+
+1. Financial stress → urge to escape → craving
+2. Financial freedom → lowered caution → risky decisions
+
+Alcohol may feel like a quick way to cope, but it often worsens financial strain and emotional stress, creating a cycle.
+
+In recovery, the goal is to:
+
+- Notice financial triggers early
+- Respond with structure and problem-solving when possible
+- Use coping strategies instead of avoidance
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/finances.png?raw=true){fig-align="center"}
+
+:::{callout}
+
+### Reflect on the Following
+1. How do I typically feel about my financial situation? What kinds of financial situations tend to stress me the most?
+
+2. Have money-related stress or situations ever increased my urge to drink? What thoughts show up in those moments? *Examples: “I can’t deal with this” “I need a break” “I deserve something.”*
+
+3. How has alcohol affected my finances in the past? Did it reduce stress, or add to it over time?
+
+4. What helps me cope with financial stress in a healthier way? What is one small, realistic step I can take when money stress comes up?
+
+:::
