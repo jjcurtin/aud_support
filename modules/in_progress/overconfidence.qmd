@@ -3,3 +3,44 @@ format: html
 embed-resources: TRUE
 ---
 
+# Overconfidence and Recovery
+
+Overconfidence is a common and often subtle risk in recovery from alcohol use disorder. It typically appears as thoughts like: *“I’ve got this under control now” “Just one wouldn’t be a big deal” “I’m not like I used to be”*
+
+After a period of stability, it’s natural to feel stronger and more capable. Progress is real, but overconfidence can lead to underestimating risk.
+
+Alcohol use disorder affects brain systems related to reward, memory, and decision-making. Even after time without drinking, these pathways can remain sensitive.
+
+This means:
+
+-   Old patterns can be reactivated quickly
+-   The brain may recall the perceived benefits of drinking while minimizing past consequences
+-   Risky situations may feel less risky than they actually are
+
+## A Common Pattern
+
+Overconfidence often follows a predictable shift:
+
+“I need to be careful” → “I’m doing well” → “I’ll be fine” → increased risk
+
+The danger is not confidence itself, but the loss of caution and structure that supports recovery. Which can lead to:
+
+-   Entering high-risk environments without a plan
+-   Letting go of protective habits (meetings, routines, supports)
+-   Testing limits (*“just one,” “just this once”*)
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/overconfidence.png?raw=true){fig-align="center"}
+
+::: {callout}
+## A More Helpful Mindset
+
+Recovery is strongest when confidence is balanced with awareness:
+
+-   Confidence: *“I have tools and progress.”*
+-   Awareness: *“I still need to protect my recovery.”*
+
+A helpful reframe:
+
+***“I’m doing well because I’m staying consistent, not because I no longer need the structure.”***
+
+:::
