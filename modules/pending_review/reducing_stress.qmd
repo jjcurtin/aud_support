@@ -22,7 +22,7 @@ Stress reduction alone is not enough. Daily recovery is essential. Brief, consis
 Use this table to sort stressors into what you can and cannot control and respond accordingly.
 
 | Current stressor | Can I change it? (Y/N) | If yes: one action | If no: one coping skill |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
