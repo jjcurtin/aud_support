@@ -1,0 +1,53 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Physical Activity for Recovery Stability
+
+Physical activity is a key support for recovery. It helps regulate the body and mind by:
+
+-   Lowering stress hormones
+-   Improving sleep quality
+-   Lifting mood and energy
+-   Reducing craving intensity for many people
+
+Importantly, you do **not** need intense or time-consuming workouts. Consistency is more important than intensity.
+
+Even brief movement can help interrupt urge cycles by:
+
+-   Shifting your attention
+-   Changing your physical state
+-   Creating distance from automatic reactions
+
+Over time, regular activity builds resilience, routine, and a reliable alternative to using alcohol.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/bike.jpg?raw=true){fig-align="center"}
+
+## Build Your Activity Menu
+
+Create a range of options so you have something to match your energy and situation.
+
+| Low-effort options (5-15 min) | Moderate options (20-40 min) | Social options |
+|------------------------|------------------------|------------------------|
+|                               |                              |                |
+|                               |                              |                |
+|                               |                              |                |
+
+*Tip: Include options you can do at home, outside, and in different weather or moods.*
+
+::: callout-tip
+### Skill rehearsal
+
+Think of this as practice for real-life moments when motivation is low and urges are high.
+
+-   Schedule three activity sessions this week (At least one from each column).
+
+-   Treat each session as a planned response, not just exercise
+
+-   Focus on showing up, not doing it perfectly
+
+-   If motivation is low, start smaller (even 5 minutes). Starting is the most important step.
+
+**Remember: Repetition builds confidence and makes healthy responses easier to access under stress.**
+:::

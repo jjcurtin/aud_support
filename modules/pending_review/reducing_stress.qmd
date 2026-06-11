@@ -1,0 +1,39 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Reducing Stress
+
+[Stress](psychoed_stressful_event.html) is one of the most common pathways to relapse. While alcohol may provide short-term relief, it typically worsens stress over time by disrupting sleep, increasing conflict in relationships, and reducing the ability to think clearly and solve problems.
+
+Sustained recovery improves when stress is noticed early and addressed directly, rather than avoided or numbed. A practical framework is: **Reduce avoidable stress, tolerate unavoidable stress, and recover daily.**
+
+-   Reduce avoidable stress by changing what you can (boundaries, time use, workload, environment)
+-   Tolerate unavoidable stress by building skills to stay grounded without reacting impulsively
+-   Recover daily by intentionally resetting your mind and body, even in small ways
+
+Stress reduction alone is not enough. Daily recovery is essential. Brief, consistent recovery practices help regulate the nervous system, improve self-control, and reduce vulnerability to high-risk decisions.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/stressreduction.jpeg?raw=true){fig-align="center"}
+
+## Stress Plan
+
+Use this table to sort stressors into what you can and cannot control and respond accordingly.
+
+| Current stressor | Can I change it? (Y/N) | If yes: one action | If no: one coping skill |
+|------------------|------------------|------------------|------------------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+::: callout-important
+### Practice Plan
+
+-   Apply this in real situations, not just on paper.
+-   Choose one stressor you can change and take a small, specific action
+-   Choose one stressor you cannot change and practice a coping skill
+-   Keep the steps simple and repeatable
+
+**If something feels overwhelming, scale it down rather than avoiding it. Consistency matters more than intensity.**
+:::
