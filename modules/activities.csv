@@ -1,11 +1,55 @@
 activity,locs_alcohol,locs_avoid,locs_drank,locs_emotion_mixed,locs_emotion_pleas,locs_emotion_unpleas,locs_risk,locs_aa,locs_friends,locs_healthcare,locs_home,locs_restaurant,locs_work,efficacy_motivation,abstinence_goal,craving,past_risky,future_risky,past_stressors,future_stressors,pleasant_events_high,pleasant_events_avg,past_use,activated_na,deactivated_na,evenings_out,day_of_week,location_variance,notes,type,source,can_repeat
+12_step_alternative.qmd,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_intro.qmd,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+12_step_sponsor.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
+alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+alcohol_script_1.qmd,6,9,10,,,,9,,,,,,,,,,4,9,,,,,,,,,,,,,,TRUE
+alcohol_script_2.qmd,12,10,11,,,,10,,,,,,,,,,5,10,,,,,,,,,,,,,,TRUE
+anger.qmd,,,,,,,,,,,,,,,,,,,,,,,,12,,,,,,,matrix,TRUE
+assertiveness.qmd,17,,16,,,,14,,6,,,,,,,,,14,,,,,,,,,,,,,matrix,TRUE
+body_scan.qmd,,,,13,,,,,,,,,,,,16,,,,,,,,8,,,,,,,matrix,TRUE
+boredom.qmd,,,,,5,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
+compassionate_u_turn.qmd,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,TRUE
+considering_self_help_groups.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 craving_log.qmd,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,worksheet,cbt coping skills,TRUE
 craving_plan.qmd,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
 craving_triggers.qmd,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
+daily_review.qmd,,,,,,,,,,,,,,9,5,,,,,,,,,,,,,,,,matrix,TRUE
+decisional_balance.qmd,14,,13,,,,,,,,,,,12,6,,,,,,,,9,,,,,,,,matrix,TRUE
+depression.qmd,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,matrix,TRUE
+emergency_plan.qmd,7,3,3,,,,3,,,,,,,,,,,3,,,,,,,,3,,,,worksheet,cbt coping skills,TRUE
+emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+emotional_buildup.qmd,,,,14,,,,,,,,,,,,,,,11,,,,,9,9,,,,,,matrix,TRUE
+emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+emotional_triggers_1.qmd,,,,15,,,,,,,,,,,,,,,12,,,,,10,10,,,,,,matrix,TRUE
+emotional_triggers_2.qmd,,,,16,,,,,,,,,,,,,,,13,,,,,11,11,,,,,,matrix,TRUE
+emotions.qmd,,,,9,,,,,,,,,,,,,,,,,,,,7,6,,,,,,matrix,TRUE
+exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,TRUE
+finances.qmd,,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,,,TRUE
+friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
 grounding.qmd,,,,6,,,,,,,,,,,,,,,7,7,,,,7,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
+halt.qmd,,,,,,,,5,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
+illness.qmd,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
+internal_triggers.qmd,,,,19,,,,,,,,,,,,17,,,,,,,,15,14,,,,,,,TRUE
+irrelevant_decisions.qmd,4,4,4,7,2,2,4,,3,,3,3,3,,,,,4,,6,3,,,,,4,2,3,,psyched reading,cbt coping skills,FALSE
+justification_celebration.qmd,,,,,,,,,,,,,,,,,9,,,,11,,,,,,,,,,matrix,TRUE
+justification_emotions.qmd,,,,18,,,,,,,,,,,,,,,,,,,,14,13,,,,,,matrix,TRUE
+justification_reading.qmd,18,14,17,17,,,15,,,,,,,,,,,,,,10,,,13,12,11,,,,,matrix,FALSE
+justification_testing.qmd,19,15,18,,,,16,,,,,,,,,,10,,,,,,,,,12,,,,,matrix,TRUE
+making_new_friends_1.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
+making_new_friends_2.qmd,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,TRUE
 mindful_breathing.qmd,,,,5,,,,,,,,,,,,,,,3,3,,,,6,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
 mindfulness_reading.qmd,,,,2,,,,,,,,,,,,,,,2,2,,,,2,,,,,,psychoed reading,SST,FALSE
+motivation_for_recovery.qmd,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,,matrix,TRUE
 noticing_walk.qmd,,,,4,,,,,,,,,,,,,,,6,6,,,,3,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
+occasions_1.qmd,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,matrix,TRUE
+occasions_2.qmd,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,matrix,TRUE
+one_day_at_a_time.qmd,,,,,,,,,,,,,,3,2,,,,,,,,8,,,,,,,,matrix,TRUE
+overconfidence.qmd,20,16,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
+physical_activity.qmd,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
+prep_plan.qmd,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,,6,,,,,,TRUE
+progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,18,,,14,12,,,,,,,,,,,,TRUE
 psychoed_abstinence_goal.qmd,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_craving.qmd,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_future_efficacy.qmd,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
@@ -14,88 +58,44 @@ psychoed_physical_health.qmd,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-
 psychoed_pleasant_event.qmd,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_relationships.qmd,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_risky_situation.qmd,1,1,1,,,,1,,,,,1,,,,,1,1,,,,,,,,1,1,,,psychoed reading,LLM-assisted,FALSE
-psychoed_loc_variance.qmd,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,psychoed reading,LLM-assisted,FALSE
+psychoed_routine.qmd,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,psychoed reading,LLM-assisted,FALSE
 psychoed_stressful_event.qmd,,,,,,,,,,,,,1,,,,,,1,1,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_support_seeking.qmd,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_valence_arousal.qmd,,,,1,1,1,,,,,,,,,,,,,,,,,,1,1,,,,,psychoed reading,LLM-assisted,FALSE
+reasons_for_abstinence.qmd,,,,,,,,,,,,,,4,4,,,,,,,,5,,,,,,,worksheet,cbt coping skills,TRUE
+recognizing_stress.qmd,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,matrix,TRUE
 recovery_checklist.qmd,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,Give earlier on (could be first activity regardless of top feature),worksheet,matrix,TRUE
 recovery_planning.qmd,,,,,,,,,,,,,,6,3,,,,,,,,,,,,,,,worksheet,matrix,TRUE
+recreation.qmd,,,,,,,,,,,,,,,,,,,,,,4,,,7,,,,,,matrix,TRUE
+reducing_stress.qmd,,,,,,,,,,,,,,,,,,,10,11,,,,,,,,,,,matrix,TRUE
 relapse_analysis_1.qmd,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,worksheet,matrix,FALSE
 relapse_analysis_2.qmd,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,after relapse_analysis_1.qmd,worksheet,matrix,TRUE
+relapse_drift_reading.qmd,13,11,12,10,,,11,,,,8,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,FALSE
+relapse_drift_worksheet_1.qmd,16,12,15,11,,,12,,,,9,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,10,7,7,14,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
+repairing_relationships.qmd,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
+restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
+risky_locations.qmd,5,5,5,,,,5,,,,4,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
 scheduling_reading.qmd,,,,,,,,,,,2,,,,,,,,,,,,,,,,3,2,,psychoed reading,matrix,FALSE
 scheduling_worksheet.qmd,,,,,,,,,,,5,,,,,,,,,,,,,,,,5,5,after scheduling_reading.qmd,worksheet,matrix,TRUE
+scripts_evening_out.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,TRUE
+scripts_weekend.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,TRUE
+scripts_work.qmd,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,,TRUE
+self_care.qmd,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 self_talk.qmd,,,,,,,,,,,,,,8,,3,,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
+smart_not_strong.qmd,10,8,9,,,,8,,,,7,,,,,,3,8,,,,,,,,7,,7,,,matrix,TRUE
+spirituality.qmd,,,,,,,,,,,,,,14,,,,,,,,,,,,,,,,,matrix,TRUE
+staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,8,,4,,,,matrix,TRUE
+taking_care_of_self.qmd,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 thought_stopping_1.qmd,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,after trigger_thought_craving_reading.qmd,worksheet,matrix,TRUE
 thought_stopping_2.qmd,,,,,,,,,,,,,,,,9,,,,,,,,,,,,,after thought_stopping_1.qmd,worksheet,matrix,TRUE
 three_conscious_breaths.qmd,,,,9,,,,,,,,,,,,,,,5,5,,,,4,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
 tracking_progress.qmd,,,,,,,,,,,,,,5,,,,,,,,,3,,,,,,,worksheet,matrix,TRUE
 trigger_behavior_record.qmd,,,,,,,,,,,,,,7,,,,,,,,,7,,,,,,,worksheet,cbt coping skills,TRUE
+trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 trigger_thought_craving_reading.qmd,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
 triggers.qmd,11,2,2,3,,,2,,,,6,2,2,,,11,2,2,12,4,2,,10,5,2,2,4,6,,exercise,matrix,TRUE
 urge_surfing.qmd,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,reading and reflection,cbt coping skills,FALSE
 urge_surfing_practice.qmd,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,after urge_surfing.qmd,exercise,cbt coping skills,TRUE
-reasons_for_abstinence.qmd,,,,,,,,,,,,,,4,4,,,,,,,,5,,,,,,,worksheet,cbt coping skills,TRUE
-emergency_plan.qmd,7,3,3,,,,3,,,,,,,,,,,3,,,,,,,,3,,,,worksheet,cbt coping skills,TRUE
-irrelevant_decisions.qmd,4,4,4,7,2,2,4,,3,,3,3,3,,,,,4,,6,3,,,,,4,2,3,,psyched reading,cbt coping skills,FALSE
 weekend_plans.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,exercise,cbt coping skills,TRUE
-risky_locations.qmd,5,5,5,,,,5,,,,4,,,,,,,5,,7,4,,,,,5,,4,,exercise,based on cbt coping,TRUE
-boredom.qmd,,,,,5,,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
-trigger_mapping_1.qmd,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-alcohol_refusal.qmd,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-exit_plan.qmd,9,7,8,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,TRUE
-prep_plan.qmd,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,,6,,,,,,TRUE
-smart_not_strong.qmd,10,8,9,,,,8,,,,7,,,,,,3,8,,,,,,,,7,,7,,,matrix,TRUE
-self_care.qmd,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-alcohol_script_1.qmd,6,9,10,,,,9,,,,,,,,,,4,9,,,,,,,,,,,,,,TRUE
-alcohol_script_2.qmd,12,10,11,,,,10,,,,,,,,,,5,10,,,,,,,,,,,,,,TRUE
-halt.qmd,,,,,,,,5,,,,,,,,,,,6,,,,,6,4,,,,,,matrix,TRUE
-emotional_avoidance_1.qmd,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-emotional_avoidance_2.qmd,,,,,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-making_new_friends_1.qmd,,,,,,,,,2,,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
-one_day_at_a_time.qmd,,,,,,,,,,,,,,3,2,,,,,,,,8,,,,,,,,matrix,TRUE
-daily_review.qmd,,,,,,,,,,,,,,9,5,,,,,,,,,,,,,,,,matrix,TRUE
-depression.qmd,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,matrix,TRUE
-emotions.qmd,,,,9,,,,,,,,,,,,,,,,,,,,7,6,,,,,,matrix,TRUE
 work,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,TRUE
-emotional_locs.qmd,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-friends.qmd,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,TRUE
-restaurants.qmd,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,TRUE
-relapse_drift_reading.qmd,13,11,12,10,,,11,,,,8,5,5,10,,,6,11,7,8,5,,,,,8,,8,,psychoed reading,matrix,FALSE
-relapse_drift_worksheet_1.qmd,16,12,15,11,,,12,,,,9,6,6,11,,,7,12,8,9,6,,,,,9,,9,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
-relapse_drift_worksheet_2.qmd,15,13,14,12,,,13,,,,10,7,7,14,,,8,13,9,10,7,,,,,10,,10,first relapse_drift_reading.qmd,worksheet,matrix,TRUE
-occasions_1.qmd,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,matrix,TRUE
-occasions_2.qmd,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,matrix,TRUE
-recreation.qmd,,,,,,,,,,,,,,,,,,,,,,4,,,7,,,,,,matrix,TRUE
-12_step_intro.qmd,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-12_step_sponsor.qmd,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-12_step_alternative.qmd,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,psychoed reading,matrix,FALSE
-decisional_balance.qmd,14,,13,,,,,,,,,,,12,6,,,,,,,,9,,,,,,,,matrix,TRUE
-motivation_for_recovery.qmd,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,,matrix,TRUE
-physical_health.qmd,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-considering_self_help_groups.qmd,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-body_scan.qmd,,,,13,,,,,,,,,,,,16,,,,,,,,8,,,,,,,matrix,TRUE
-assertiveness.qmd,17,,16,,,,14,,6,,,,,,,,,14,,,,,,,,,,,,,matrix,TRUE
-reducing_stress.qmd,,,,,,,,,,,,,,,,,,,10,11,,,,,,,,,,,matrix,TRUE
-staying_busy.qmd,,,,,,,,,,,,,,,,,,,,,,,,,8,,4,,,,matrix,TRUE
-spirituality.qmd,,,,,,,,,,,,,,14,,,,,,,,,,,,,,,,,matrix,TRUE
-emotional_buildup.qmd,,,,14,,,,,,,,,,,,,,,11,,,,,9,9,,,,,,matrix,TRUE
-recognizing_stress.qmd,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,matrix,TRUE
-illness.qmd,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-taking_care_of_self.qmd,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-repairing_relationships.qmd,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
-emotional_triggers_1.qmd,,,,15,,,,,,,,,,,,,,,12,,,,,10,10,,,,,,matrix,TRUE
-emotional_triggers_2.qmd,,,,16,,,,,,,,,,,,,,,13,,,,,11,11,,,,,,matrix,TRUE
-anger.qmd,,,,,,,,,,,,,,,,,,,,,,,,12,,,,,,,matrix,TRUE
-justification_reading.qmd,18,14,17,17,,,15,,,,,,,,,,,,,,10,,,13,12,11,,,,,matrix,FALSE
-justification_celebration.qmd,,,,,,,,,,,,,,,,,9,,,,11,,,,,,,,,,matrix,TRUE
-justification_emotions.qmd,,,,18,,,,,,,,,,,,,,,,,,,,14,13,,,,,,matrix,TRUE
-justification_testing.qmd,19,15,18,,,,16,,,,,,,,,,10,,,,,,,,,12,,,,,matrix,TRUE
-making_new_friends_2.qmd,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,TRUE
-compassionate_u_turn.qmd,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,TRUE
-progressive_muscle_relaxation.qmd,,,,,,,,,,,,,,,,18,,,14,12,,,,,,,,,,,,TRUE
-internal_triggers.qmd,,,,19,,,,,,,,,,,,17,,,,,,,,15,14,,,,,,,TRUE
-finances.qmd,,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,,,TRUE
-overconfidence.qmd,20,16,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
-scripts_evening_out.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,TRUE
-scripts_weekend.qmd,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,TRUE
-scripts_work.qmd,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,,TRUE
