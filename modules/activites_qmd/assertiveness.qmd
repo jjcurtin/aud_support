@@ -41,7 +41,7 @@ Examples:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-::: callut
+::: callout
 **Tips for effective scripts:**
 
 -   Keep it short (1 sentence)

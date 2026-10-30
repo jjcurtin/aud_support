@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 ## Alcohol Scripts in the Workplace
 
-::: {callout}
+::: callout
 “Alcohol scripts” are automatic beliefs and habits about when, why, and how we drink. In work contexts, they’re often shaped by:
 
 -   Workplace culture (happy hours, client events)

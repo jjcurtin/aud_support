@@ -31,7 +31,7 @@ The danger is not confidence itself, but the loss of caution and structure that 
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/overconfidence.png?raw=true){fig-align="center"}
 
-::: {callout}
+::: callout
 ## A More Helpful Mindset
 
 Recovery is strongest when confidence is balanced with awareness:

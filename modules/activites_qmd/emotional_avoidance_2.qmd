@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Choosing Your Next Step
 
-::: {calloiut}
+::: {callout}
 Recovery is not about forcing yourself into difficult situations. It’s about making intentional choices.
 
 You can either:

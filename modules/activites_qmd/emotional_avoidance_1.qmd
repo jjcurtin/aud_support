@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Understanding Emotional Avoidance
 
-::: {callout}
+::: callout
 Avoiding places that bring up strong emotions is common in recovery. It can protect you in the short term by reducing overwhelm and lowering risk.
 
 However, over time, avoidance can:

@@ -29,7 +29,7 @@ In recovery, the goal is to:
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/finances.png?raw=true){fig-align="center"}
 
-:::{callout}
+::: callout
 
 ### Reflect on the Following
 1. How do I typically feel about my financial situation? What kinds of financial situations tend to stress me the most?
