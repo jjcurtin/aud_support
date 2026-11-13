@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Tracking Triggers, Thoughts, and Behaviors
 
-Use this worksheet to track the people, places, feelings, and situations that prompt cravings today. Record what you thought, how you felt, what you did, and the outcomes. Reflecting on these patterns can help you make healthier choices and strengthen your recovery.
+Use this worksheet to track the people, places, feelings, and situations that prompt cravings today. Record what you thought, how you felt, what you did, and the outcomes. Reflecting on these patterns can help you make healthier choices and strengthen your recovery. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/trigger_behavior_record.pdf?raw=true)
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/seashell.png?raw=true){fig-align="center"}
 

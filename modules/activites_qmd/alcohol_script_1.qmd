@@ -5,21 +5,24 @@ embed-resources: TRUE
 
 # Noticing Alcohol Scripts
 
-An *alcohol script* is an automatic set of thoughts, expectations, or beliefs about drinking in a specific situation. These scripts develop over time through repetition, social influence, and past experiences.
+An *alcohol script* is an automatic set of thoughts, expectations, or beliefs about drinking in a specific situation. These scripts develop over time through repetition, social influence, and past experiences. 
 
 In high-risk environments (like bars or parties), scripts can activate quickly and feel “true” without being consciously examined. Increasing awareness of these scripts is the first step toward changing behavior.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/script.png?raw=true){fig-align="center"}
 
-## Work through this worksheet to identify the automatic thoughts and expectations that show up in risky environments.
+## Work through this worksheet to identify the automatic thoughts and expectations that show up in risky environments.  
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/alcohol_script_1.pdf?raw=true)
+
 
 ### 1. Identify the Situation
 
--   **Risky environment:**\
+-   **Risky environment:**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
--   **When do you go there?**\
+-   **When do you go there?**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
--   **Who are you usually with?**\
+-   **Who are you usually with?**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 ------------------------------------------------------------------------
 
@@ -53,11 +56,11 @@ Put your typical thought into one sentence:
 
 ------------------------------------------------------------------------
 
-::: callout
 ### Quick Reflection
 
 -   Does this script feel automatic?\
 -   Does it feel true in the moment?
-:::
 
-### Remember: Awareness creates a pause. That pause creates choice.
+::: {.callout-note title="Remember"}
+Awareness creates a pause. That pause creates choice.
+:::

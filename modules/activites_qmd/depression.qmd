@@ -5,9 +5,9 @@ embed-resources: TRUE
 
 # Coping With Depression in Recovery
 
-::: callout
 [Depression](psychoed_valence_arousal.html) can be part of recovery, especially as the brain adjusts after alcohol use. Temporary low mood is common, but ongoing or intense symptoms can increase relapse risk.
 
+::: {.callout-note appearance="simple"}
 Recognizing early signs allows you to respond before depression deepens.
 
 **Work through these steps to identify signs of depression and create a coping plan.**
@@ -31,9 +31,15 @@ In the past week, I’ve experienced:
 
 ## 2. What are your early signs of depression?
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## 3. How does depression affect your behavior?
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## 4. How does it affect your recovery?
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## 5. Coping Actions
 
@@ -63,4 +69,6 @@ If symptoms continue or worsen:
 
 ------------------------------------------------------------------------
 
-**Remember: Depression is a signal to respond, not something to ignore or face alone**
+::: {.callout-note title="Remember"}
+Depression is a signal to respond, not something to ignore or face alone
+:::

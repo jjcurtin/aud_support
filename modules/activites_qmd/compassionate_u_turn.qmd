@@ -5,7 +5,7 @@ format: html
 
 # Compassionate U-Turn
 
-A lapse doesn’t mean you’ve failed, it means you need to reset quickly and skillfully. A compassionate U-turn is the ability to change direction after a setback in thinking, mood, or behavior. Harsh self-talk (*“I ruined everything”*) increases relapse risk. Compassionate accountability (*“I slipped, now I reset”*) helps you get back on track.
+A lapse doesn’t mean you’ve failed—it means you need to reset quickly and skillfully. A compassionate U-turn is the ability to change direction after a setback in thinking, mood, or behavior. Harsh self-talk (*“I ruined everything”*) increases relapse risk. Compassionate accountability (*“I slipped, now I reset”*) helps you get back on track.
 
 Self-compassion is not letting yourself off the hook. It means responding in a way that supports responsible action and forward movement.
 

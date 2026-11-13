@@ -7,9 +7,9 @@ embed-resources: TRUE
 
 When you’re working toward sobriety, one of the biggest factors in your success is **believing that you can do it**. This belief is called **self-efficacy**: your confidence in your ability to stay sober now and in the future.
 
-The stronger your confidence, the more likely you are to handle challenges, bounce back from setbacks, and keep moving forward. The good news is confidence isn’t something you’re born with, it’s something you build over time.
+The stronger your confidence, the more likely you are to handle challenges, bounce back from setbacks, and keep moving forward. The good news is confidence isn’t something you’re born with—it’s something you build over time.
 
-## What is Self-Efficacy?
+## What Is Self-Efficacy?
 
 Self-efficacy is your inner sense of **“I can do this.”** In recovery, it means trusting that you can stay sober even when you face cravings, stress, or difficult situations.
 
@@ -59,7 +59,7 @@ Confidence doesn’t mean you never doubt yourself—it means you trust that you
 
 5.  **Lean on Support:** Confidence grows when others remind you of your strengths. Talk with supportive friends, peers, or mentors.
 
-::: callout
+::: {.callout-note}
 ## Remember
 
 Confidence is not about being perfect or never doubting yourself—it’s about trusting your ability to keep trying. Each day you stay sober, use a coping skill, or get back up after a stumble, you’re proving to yourself that you can do this.

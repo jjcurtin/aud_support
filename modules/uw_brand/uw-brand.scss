@@ -1,0 +1,516 @@
+/*-- scss:defaults --*/
+// ---------------------------------------------------------------------------
+// UW–Madison brand theme for Quarto HTML
+// Tokens taken from UW Theme 2.0 (uwtheme.brand.wisc.edu, theme.json custom
+// properties) and the STAR Study WiscWeb site.
+// ---------------------------------------------------------------------------
+
+// Brand palette (UW Theme 2.0 --wp--custom--color--*)
+$uw-red:             #C5050C;  // primary (Badger red)
+$uw-red-dark:        #9B0000;  // primary-dark
+$uw-red-light:       #F3CDCE;  // primary-light
+$uw-blue:            #036796;  // secondary (link blue)
+$uw-blue-dark:       #023D54;  // secondary-dark
+$uw-blue-light:      #D5E9F1;  // secondary-light
+$uw-text:            #121212;
+$uw-text-medium:     #585758;
+$uw-text-light:      #ADADAD;
+$uw-contrast:        #282728;  // footer / dark surfaces
+$uw-contrast-light:  #F3F3F3;
+$uw-contrast-medium: #E1E5E7;
+$uw-border:          #CFCFCF;
+
+$uw-font-text:    "Red Hat Text", "Helvetica Neue", Arial, sans-serif;
+$uw-font-heading: "Red Hat Display", "Helvetica Neue", Arial, sans-serif;
+
+// Bootstrap / Quarto variables
+$primary:   $uw-red;
+$secondary: $uw-blue;
+$body-bg:   #fff;
+$body-color: $uw-text;
+$link-color: $uw-blue;
+$link-hover-color: $uw-blue-dark;
+$font-family-sans-serif: $uw-font-text;
+$headings-font-family: $uw-font-heading;
+$headings-font-weight: 700;
+$headings-color: $uw-text;
+$font-size-root: 16px;            // rem = 16px, as in UW Theme 2.0
+$font-size-base: 1.125rem;        // UW body copy is 18px
+$line-height-base: 1.5;
+$border-color: $uw-border;
+$table-border-color: $uw-border;
+$hr-border-color: $uw-border;
+$code-color: $uw-red-dark;
+$border-radius: .25rem;
+
+// Quarto callout colors (drive border + icon color)
+$callout-color-note:      $uw-blue;
+$callout-color-tip:       #1F7A44;
+$callout-color-important: $uw-red;
+$callout-color-warning:   #D99A00;
+$callout-color-caution:   #D2550A;
+
+
+/*-- scss:rules --*/
+
+// ---- Base ------------------------------------------------------------------
+body {
+  font-family: $uw-font-text;
+  color: $uw-text;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: $uw-blue;
+  text-decoration: underline;
+  text-decoration-thickness: .05em;
+  text-underline-offset: 2px;
+  &:hover, &:focus { color: $uw-blue-dark; text-decoration-thickness: .1em; }
+}
+
+:focus-visible { outline: 3px solid $uw-blue; outline-offset: 2px; }
+
+#quarto-content { padding-top: 2.25rem; padding-bottom: 3rem; }
+
+// ---- Headings --------------------------------------------------------------
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .title {
+  font-family: $uw-font-heading;
+  color: $uw-text;
+  font-weight: 700;
+  border-bottom: 0;
+  letter-spacing: -.005em;
+}
+
+// Page title: large Display weight with the UW red "mini bar" underneath
+h1, h1.title {
+  font-size: clamp(2rem, 1.4rem + 2.2vw, 2.875rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  &::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: .25rem;
+    margin-top: .75rem;
+    background: $uw-red;
+  }
+}
+#title-block-header { margin-bottom: 0; }
+#title-block-header + section > h1:first-child { display: none; } // avoid doubled title
+
+h2 {
+  font-size: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  line-height: 1.2;
+  margin-top: 2.25rem;
+  margin-bottom: .75rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+h3 { font-size: 1.375rem; line-height: 1.3; margin-top: 1.75rem; margin-bottom: .5rem; }
+h4 { font-size: 1.125rem; margin-top: 1.5rem; }
+
+// First heading in the document acts as page title even if it's an h2
+main.content > section:first-of-type > h2:first-child,
+main.content > section.level2:first-child > h2 {
+  font-size: clamp(2rem, 1.4rem + 2.2vw, 2.875rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  &::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: .25rem;
+    margin-top: .75rem;
+    background: $uw-red;
+  }
+}
+
+p, li { max-width: 50rem; }
+strong, b { font-weight: 640; }
+ol, ul { padding-left: 1.5rem; }
+li + li { margin-top: .35rem; }
+li::marker { color: $uw-text-medium; }
+
+// A sub-list that ends a list item: leave the same gap before the next item
+// as the items themselves have (loose lists) instead of butting up against it
+li:has(> p) > ul:last-child,
+li:has(> p) > ol:last-child { margin-bottom: 1rem; }
+
+// `------` used as a write-in line: plain gray rule
+hr {
+  border: 0;
+  border-top: 1px solid $uw-border;
+  opacity: 1;
+  margin: 2rem 0;
+}
+// `------` as the only content of a list item (e.g. "1.  ------"): draw it as
+// a writing line that sits under the number/bullet instead of above it
+li > hr:only-child {
+  height: 1.9rem;                 // ~ one line of text
+  margin: 0;
+  border-top: 0;
+  border-bottom: 1px solid $uw-border;
+}
+// "-  1.  ------" (bullet wrapping a numbered item): hide the extra bullet
+ul > li:has(> ol:only-child) { list-style: none; }
+ul > li > ol:only-child { padding-left: 0; }
+
+// `------` used between sections (tagged by uw-dividers.lua): UW red
+hr.uw-divider {
+  border-top: 2px solid $uw-red;
+  margin: 2.5rem 0;
+}
+
+blockquote, .blockquote {
+  border-left: .25rem solid $uw-red;
+  padding: .25rem 0 .25rem 1.25rem;
+  color: $uw-text-medium;
+  font-size: 1.125rem;
+}
+
+// ---- Images ----------------------------------------------------------------
+main img, .figure-img { max-width: 100%; height: auto; border-radius: .5rem; }
+.quarto-figure { margin: 1.75rem 0; }
+figcaption, .figure-caption { color: $uw-text-medium; font-size: .875rem; }
+
+// ---- Tables (UW Theme table block, tuned for fill-in worksheets) -----------
+main table, main .table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0 2rem;
+  font-size: .9375rem;
+  background: #fff;
+  border: 1px solid $uw-border;
+  caption-side: top;
+}
+main table thead, main .table > thead { background: $uw-contrast-light; border-bottom: 2px solid $uw-text; }
+main table th {
+  font-family: $uw-font-heading;
+  font-weight: 700;
+  text-align: left;
+  vertical-align: bottom;
+  padding: .65rem .75rem;
+  border: 1px solid $uw-border;
+  color: $uw-text;
+}
+main table td {
+  padding: .65rem .75rem;
+  border: 1px solid $uw-border;
+  vertical-align: top;
+  height: 2.75rem;               // room to write on printed worksheets
+}
+main .table > :not(caption) > * > * { box-shadow: none; background-color: transparent; }
+main .table-striped > tbody > tr:nth-of-type(odd) > * { --bs-table-accent-bg: transparent; }
+.table-responsive, main div.cell-output-display { overflow-x: auto; }
+
+// Worksheet grid with tall write-in cells and the first column used as row
+// labels (e.g. decisional balance). In the qmd, add under the table:
+//   : {.tall-cells tbl-colwidths="[20,40,40]"}
+main table.tall-cells {
+  td { height: 12rem; }
+  td:first-child {
+    background: $uw-contrast-light;
+    font-family: $uw-font-heading;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+  }
+  th { text-align: center; }
+}
+@media (max-width: 575.98px) {
+  main table.tall-cells td { height: 9rem; }
+  main table.tall-cells td:first-child { font-size: .8125rem; padding: .5rem .25rem; }
+}
+
+// ---- Callouts --------------------------------------------------------------
+// Each type gets: --uw-co-accent (left bar + icon), --uw-co-bg, --uw-co-title
+div.callout {
+  --uw-co-accent: #{$uw-red};
+  --uw-co-bg: #{$uw-contrast-light};
+  --uw-co-title: #{$uw-text};
+  margin: 1.75rem 0;
+  border: 0 !important;
+  border-left: .375rem solid var(--uw-co-accent) !important;
+  border-radius: .5rem;
+  background: var(--uw-co-bg);
+  box-shadow: none;
+  overflow: hidden;
+  font-size: 1rem;
+
+  &.callout-note      { --uw-co-accent: #{$uw-blue};  --uw-co-bg: #EEF6F9; --uw-co-title: #{$uw-blue-dark}; }
+  &.callout-tip       { --uw-co-accent: #1F7A44;      --uw-co-bg: #EDF6F0; --uw-co-title: #14532D; }
+  &.callout-important { --uw-co-accent: #{$uw-red};   --uw-co-bg: #FCEDEE; --uw-co-title: #{$uw-red-dark}; }
+  &.callout-warning   { --uw-co-accent: #D99A00;      --uw-co-bg: #FFF7E0; --uw-co-title: #5F4500; }
+  &.callout-caution   { --uw-co-accent: #D2550A;      --uw-co-bg: #FDF0E8; --uw-co-title: #8A3205; }
+
+  .callout-header {
+    background: transparent !important;
+    border: 0 !important;
+    padding: 1rem 1.25rem 0 1.25rem !important;
+    margin: 0 !important;
+    align-items: center !important;
+    opacity: 1 !important;
+  }
+  .callout-title-container {
+    font-family: $uw-font-heading;
+    font-weight: 700;
+    font-size: 1.1875rem;
+    line-height: 1.3;
+    color: var(--uw-co-title);
+    opacity: 1 !important;
+  }
+  .callout-icon-container { margin-right: .5rem; }
+  .callout-icon::before { width: 1.15rem !important; height: 1.15rem !important; background-size: 1.15rem 1.15rem !important; }
+  .callout-icon.no-icon, .callout-icon-container:has(.no-icon) { display: none; }
+
+  .callout-body-container, .callout-body {
+    background: transparent;
+    margin: 0 !important;
+  }
+  // titled: header row + body container
+  &.callout-titled > .callout-body-container {
+    padding: .5rem 1.25rem 1.1rem 1.25rem !important;
+  }
+  // untitled: .callout-body (flex) > icon + .callout-body-container
+  &:not(.callout-titled) > .callout-body {
+    padding: 1.1rem 1.25rem !important;
+    align-items: flex-start;
+    > .callout-icon-container { padding-top: .2rem; margin-right: .6rem; }
+    > .callout-body-container { padding: 0 !important; }
+  }
+
+  .callout-body-container > :first-child { margin-top: 0; }
+  .callout-body-container > :last-child  { margin-bottom: 0; }
+  p, li { max-width: none; }
+  ol, ul { margin-bottom: 1rem; }   // same gap below a list as below a paragraph
+  table td { background: #fff; }
+
+  // collapsible callouts
+  .callout-header[data-bs-toggle] { cursor: pointer; }
+  .callout-btn-toggle .bi::before { color: var(--uw-co-accent); }
+}
+
+
+// ---- Code ------------------------------------------------------------------
+code { color: $uw-red-dark; background: $uw-contrast-light; padding: .1em .3em; border-radius: .25rem; }
+pre code { background: transparent; padding: 0; }
+div.sourceCode { background: $uw-contrast-light; border: 1px solid $uw-contrast-medium; border-radius: .5rem; }
+
+// ---- Header ----------------------------------------------------------------
+.uw-skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 2000;
+  background: $uw-contrast; color: #fff; padding: .75rem 1rem; font-weight: 640;
+  &:focus { left: .5rem; top: .5rem; color: #fff; }
+}
+
+.uw-wide { max-width: 75rem; margin: 0 auto; padding: 0 1.35rem; }
+
+.uw-header { background: #fff; border-bottom: 1px solid $uw-contrast-medium; }
+
+.uw-global-bar {
+  border-bottom: 1px solid $uw-contrast-light;
+  padding: .5rem 0;
+  .uw-global-name-link {
+    font-family: $uw-font-text;
+    font-size: .8125rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: .01em;
+    color: $uw-text;
+    text-decoration: none;
+    white-space: nowrap;
+    &:hover { text-decoration: underline; }
+  }
+  .uw-of { text-transform: none; }
+}
+
+.uw-site-title-wrapper { padding: 1rem 0 .75rem; }
+.uw-logo-title { display: flex; align-items: center; gap: 1rem; }
+.uw-crest-logo { display: block; flex: none; line-height: 0; }
+.uw-crest-logo svg { width: 40px; height: auto; }
+.uw-title-tagline p { margin: 0; max-width: none; }
+.uw-site-title {
+  font-family: $uw-font-heading;
+  font-weight: 800;
+  font-size: clamp(1.4rem, 1.2rem + .8vw, 1.6875rem);
+  line-height: 1.05;
+  a { color: $uw-red; font-weight: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; text-decoration-thickness: .08em; }
+}
+.uw-site-tagline {
+  font-family: $uw-font-heading;
+  font-weight: 600;
+  font-size: .9375rem;
+  line-height: 1.4;
+  margin-top: .25rem !important;
+  color: $uw-text;
+}
+
+// Site menu: red bar with white links, as on starstudy.wisc.edu
+.uw-header { border-bottom: 0; }
+.uw-nav {
+  background: $uw-red;
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { margin: 0 !important; max-width: none; }
+  li::marker { content: none; }
+  svg { flex: none; }
+}
+.uw-nav-list { display: flex; flex-wrap: wrap; gap: 0 1.6rem; }
+.uw-nav-list > li { position: relative; }
+
+.uw-nav-list > li > a,
+.uw-sub-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: 1.05rem 0 .1rem;
+  margin: 0 0 .8rem;
+  background: none;
+  border: 0;
+  border-bottom: .2rem solid transparent;
+  border-radius: 0;
+  color: #fff;
+  font-family: $uw-font-heading;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover, &:focus-visible { color: #fff; border-bottom-color: #fff; text-decoration: none; }
+  &:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+}
+.uw-caret { width: .7rem; height: .7rem; transition: transform .15s ease; }
+.uw-sub-toggle[aria-expanded="true"] .uw-caret { transform: rotate(180deg); }
+
+.uw-sub-menu {
+  display: none;
+  position: absolute;
+  left: -1rem;
+  top: 100%;
+  z-index: 1050;
+  min-width: 17rem;
+  padding: .25rem 1rem .75rem !important;
+  background: $uw-red;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
+  &.is-open { display: block; }
+  a {
+    display: inline-block;
+    padding: .45rem 0 .2rem;
+    border-bottom: .2rem solid transparent;
+    color: #fff;
+    font-family: $uw-font-heading;
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 1.25;
+    text-decoration: none;
+    &:hover, &:focus-visible { color: #fff; border-bottom-color: #fff; }
+    &:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+  }
+}
+@media (min-width: 768px) and (hover: hover) {
+  .uw-has-sub:hover > .uw-sub-menu { display: block; }
+}
+
+.uw-nav-toggle {
+  display: none;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  padding: 1rem;
+  background: $uw-red;
+  border: 0;
+  color: #fff;
+  font-family: $uw-font-heading;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  cursor: pointer;
+  .uw-icon-menu { width: 1.1rem; height: 1.1rem; }
+  &:focus-visible { outline: 2px solid #fff; outline-offset: -4px; }
+}
+
+@media (max-width: 767.98px) {
+  .uw-nav .uw-wide { padding: 0; }
+  .uw-nav-toggle { display: flex; }
+  .uw-nav-list {
+    display: none;
+    flex-direction: column;
+    gap: 0;
+    padding: 0 1.35rem .75rem !important;
+    &.is-open { display: flex; }
+  }
+  .uw-nav-list > li { border-top: 1px solid rgba(255, 255, 255, .3); }
+  .uw-nav-list > li > a, .uw-sub-toggle {
+    width: 100%;
+    justify-content: space-between;
+    padding: .8rem 0;
+    margin: 0;
+    border-bottom: 0;
+    &:hover { text-decoration: underline; }
+  }
+  .uw-sub-menu {
+    position: static;
+    min-width: 0;
+    box-shadow: none;
+    padding: 0 0 .5rem 1rem !important;
+  }
+}
+
+// ---- Footer ----------------------------------------------------------------
+.uw-footer {
+  background: $uw-contrast;
+  color: $uw-text-light;
+  font-size: .9375rem;
+  line-height: 1.5;
+  padding: 2.5rem 0 1.5rem;
+  margin-top: 2rem;
+  a { color: $uw-text-light; text-decoration: underline; text-underline-offset: 2px; }
+  a:hover, a:focus { color: #fff; }
+  p { max-width: none; margin: 0 0 .5rem; }
+}
+.uw-footer-logo {
+  display: flex; flex-direction: column; align-items: flex-start; gap: .5rem;
+  padding-bottom: 1.5rem;
+  svg { width: 200px; height: auto; fill: #fff; display: block; }
+  a { text-decoration: none; }
+  .uw-footer-stand-out-link { color: $uw-text-light; font-size: .9375rem; text-decoration: underline; }
+}
+.uw-no-break { white-space: nowrap; }
+.uw-copyright { border-top: 1px solid $uw-text-medium; padding-top: 1.25rem; font-size: .875rem; }
+
+// Quarto chrome we don't want in standalone pages
+#quarto-margin-sidebar:empty, .quarto-alternate-formats { display: none; }
+
+// ---- Small screens ---------------------------------------------------------
+@media (max-width: 575.98px) {
+  .uw-crest-logo svg { width: 34px; }
+  #quarto-content { padding-top: 1.5rem; }
+  div.callout .callout-header { padding: .875rem 1rem 0 1rem !important; }
+  div.callout .callout-body-container { padding: .5rem 1rem 1rem 1rem !important; }
+  main table { font-size: .875rem; }
+}
+
+// ---- Print (worksheets) ----------------------------------------------------
+@media print {
+  @page { margin: .6in; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-size: 11pt; }
+  .uw-skip-link, .uw-nav, .uw-global-bar { display: none !important; }
+  .uw-site-title-wrapper { padding: 0 0 .5rem; }
+  .uw-footer { background: #fff; color: $uw-text-medium; padding: 1rem 0 0; border-top: 1px solid $uw-border; }
+  .uw-footer-logo { display: none; }
+  .uw-footer a { color: $uw-text-medium; }
+  .uw-copyright { border-top: 0; padding-top: 0; }
+  #quarto-content { padding-top: 1rem; }
+  main img, .figure-img { max-height: 3.25in; width: auto; }
+  div.callout, table, tr, figure, img { break-inside: avoid; }
+  h1, h2, h3 { break-after: avoid; }
+  a[href^="http"]::after { content: ""; }
+}

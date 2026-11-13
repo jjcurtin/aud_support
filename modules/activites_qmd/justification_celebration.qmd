@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Exploring Relapse Justifications: Celebrating
 
-Relapse doesn’t begin with drinking, it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
+Relapse doesn’t begin with drinking—it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
 
 Use the questions below to help you identify justifications invented by your addicted brain. Identifying and anticipating the justifications will help you interrupt the process.
 

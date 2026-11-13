@@ -41,9 +41,7 @@ Examples:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-::: callout
-**Tips for effective scripts:**
-
+::: {.callout-tip title="Tips for Effective Scripts"}
 -   Keep it short (1 sentence)
 -   Avoid over-explaining
 -   Use a calm, steady tone
@@ -61,5 +59,7 @@ Example responses:
 -   “I’m not drinking tonight.”
 
 ### Your response to pushback:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

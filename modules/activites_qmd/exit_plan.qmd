@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Exit Plan
 
-This worksheet helps you define *clear exit thresholds* and *automatic actions* so you can leave quickly without overthinking in a high-risk moment.
+This worksheet helps you define *clear exit thresholds* and *automatic actions* so you can leave quickly without overthinking in a high-risk moment. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/exit_plan.pdf?raw=true)
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/exit.jpg?raw=true){fig-align="center"}
 

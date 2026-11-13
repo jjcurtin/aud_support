@@ -11,7 +11,7 @@ As you work on changing your drinking, it’s normal to have urges or cravings f
 
 **Good news:** Cravings are short-lived, predictable, and controllable. With practice, they will get weaker, and you'll feel more confident in handling them when they pop up.
 
-### What is a Craving?
+### What Is a Craving?
 
 A craving is a powerful feeling that pushes you to drink alcohol, even when you don’t want to. It can feel like a strong mental or physical need to drink. Cravings happen because of the long-term use of alcohol, and they can last for some time after you stop drinking.
 
@@ -63,7 +63,7 @@ When you feel a craving, remember: it’s temporary and you can control how you 
 
 4.  **Reach Out**: Talk to someone you trust, like a sponsor or a friend. Sometimes, just sharing how you feel can help.
 
-::: callout
+::: {.callout-note}
 ### Remember
 
 It’s completely normal to experience cravings in recovery. But the more you practice coping with them, the easier it will get. Cravings are like visitors—they come and go. With time and practice, you will get better at handling them.

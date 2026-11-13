@@ -45,8 +45,8 @@ Even everyday stressors—traffic, deadlines, conflicts, or minor frustrations�
 
 -   **Seek Support:** Talk with friends, family, or a counselor. Sharing challenges helps reduce stress and prevents isolation.
 
-::: callout
+::: {.callout-note}
 ## Remember
 
-Stress is inevitable and it doesn’t have to derail recovery. By recognizing your personal stress triggers, practicing coping strategies, and relying on support systems, you can manage stress effectively without turning to alcohol. Each time you navigate stress successfully, you strengthen both your confidence and your recovery.
+Stress is inevitable, but it doesn’t have to derail recovery. By recognizing your personal stress triggers, practicing coping strategies, and relying on support systems, you can manage stress effectively without turning to alcohol. Each time you navigate stress successfully, you strengthen both your confidence and your recovery.
 :::

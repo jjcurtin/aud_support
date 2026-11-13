@@ -15,7 +15,7 @@ In everyday life, many of us go through our days on automatic pilot, distracted 
 
 Mindfulness is about noticing what’s happening right now, including your thoughts, feelings, sensations, and surroundings. It allows you to be present and respond intentionally, rather than reacting automatically.
 
-::: callout
+::: {.callout-note}
 ### A Common Misunderstanding
 
 Some people believe:
@@ -51,7 +51,9 @@ Research shows that mindfulness offers a wide range of benefits:
 
 -   Improves learning, creativity, and problem-solving
 
-*Remember, mindfulness is a practice, not something you perfect!*
+::: {.callout-note title="Remember"}
+Mindfulness is a practice, not something you perfect!
+:::
 
 ::: callout
 ### Pause to Reflect

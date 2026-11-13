@@ -7,7 +7,7 @@ embed-resources: TRUE
 
 [Emotions](psychoed_valence_arousal.html) are a normal part of recovery. When feelings are ignored, minimized, or mislabeled, they tend to build up and become harder to manage. Learning to recognize and respond to emotions early reduces stress and lowers relapse risk.
 
-You don’t need to eliminate emotions, and its important to understand and respond to them effectively.
+You don’t need to eliminate emotions, but it’s important to understand and respond to them effectively.
 
 ::: callout
 ## Reflect on these Questions

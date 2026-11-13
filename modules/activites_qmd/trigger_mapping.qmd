@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Trigger Mapping
 
-Use this worksheet to identify triggers at a place where you recently experienced urges to drink alcohol. It will help you recognize patterns in your thoughts, feelings, and behaviors so you can prepare effective coping strategies and reduce your risk of lapse.
+Use this worksheet to identify triggers at a place where you recently experienced urges to drink alcohol. It will help you recognize patterns in your thoughts, feelings, and behaviors so you can prepare effective coping strategies and reduce your risk of lapse. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/trigger_mapping.pdf?raw=true)
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/map.jpg?raw=true){fig-align="center"}
 
@@ -112,13 +112,15 @@ Select any that apply:
 ::: callout
 ## 10. Plan for Next Time
 
-```         
 1.  
 
+    ------------------------------------------------------------------------
 
 2.  
 
+    ------------------------------------------------------------------------
 
 3.  
-```
+
+    ------------------------------------------------------------------------
 :::

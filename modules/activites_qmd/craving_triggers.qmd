@@ -11,12 +11,10 @@ Cravings can be triggered by things you see in the *environment* that remind you
 
 It is important to learn how to recognize urge “triggers” so you can reduce your exposure to them.
 
-::: callout
-**Common triggers include:**
-
+::: {.callout-warning title="Common Triggers"}
 - Exposure to alcohol itself.
 - Seeing other people drinking.
-- Contact with people, places, times of day, and situations commonly associated with drinking (such as drinking bud- dies, parties and bars, getting home from work, weekends.
+- Contact with people, places, times of day, and situations commonly associated with drinking (such as drinking buddies, parties and bars, getting home from work, weekends).
 - Particular types of emotions (such as frustration, fatigue, feeling stressed out). Even positive emotions (elation, excitement, feelings of accomplishment) can be triggers.
 - Physical feelings (feeling sick, shaky, tense).
 :::

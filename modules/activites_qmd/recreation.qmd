@@ -70,7 +70,7 @@ You can also:
 
     ------------------------------------------------------------------------
 
-::: callout
+::: {.callout-tip}
 ## Building Consistency
 
 Not all activities will feel enjoyable right away.

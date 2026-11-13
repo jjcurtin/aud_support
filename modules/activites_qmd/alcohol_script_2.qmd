@@ -5,13 +5,15 @@ embed-resources: TRUE
 
 # Rewriting Alcohol Scripts
 
-Once [alcohol scripts](alcohol_script_1.html) are identified, they can be *challenged and rewritten*. Not all thoughts are facts. Many are learned patterns.
+Once [alcohol scripts](alcohol_script_1.html) are identified, they can be *challenged and rewritten*. Not all thoughts are facts. Many are learned patterns. 
 
 By consciously replacing unhelpful scripts with realistic, recovery-supportive ones, you can change both your emotional response and your behavior in high-risk situations.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/quill.jpg?raw=true){fig-align="center"}
 
 ## Evaluate an alcohol-related thought and create a healthier alternative below
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/alcohol_script_2.pdf?raw=true)
 
 ### 1. Original Script
 

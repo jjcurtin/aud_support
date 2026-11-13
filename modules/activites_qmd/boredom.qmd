@@ -42,12 +42,12 @@ People who have been abstinent for a long time rarely complain of continual bore
 -   Have you started doing things that you enjoyed before using drugs?
 -   Have you begun any new activities that interest you?
 
-::: callout
+::: {.callout-tip}
 ### Here are some tips to reduce feelings of boredom:
 
 -   Recognize that a structured, routine life feels different from a lifestyle built around substance use.
 -   Make sure you are scheduling activities. Forcing yourself to write down daily activities helps you fit in more interesting experiences.
 -   Try not to become complacent in recovery. Do something that will further your growth. Sometimes boredom results from not challenging yourself enough in your daily living.
-:::
 
 ***Which of the suggestions listed above might work for you?***
+:::

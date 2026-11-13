@@ -49,7 +49,7 @@ You choose a sponsor by simply asking, but it’s important to choose carefully.
 - Is someone you respect and relate to  
 
 
-::: callout
+::: {.callout-important}
 
 ### Getting Started
 

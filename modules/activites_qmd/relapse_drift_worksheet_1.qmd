@@ -5,13 +5,13 @@ embed-resources: TRUE
 
 # Interrupting Relapse Drift
 
-During recovery, people do specific things that help keep them abstinent. In the [relapse drift analogy](relapse_drift_reading.html), these activities can be called *"mooring lines."*
+During recovery, people do specific things that help keep them abstinent. In the [relapse drift analogy](relapse_drift_reading.html), these activities can be called *"mooring lines."* 
 
 It is important to understand what you are doing to stay abstinent. These mooring lines should be listed in a specific, clear, and measurable way.
 
 These activities act like the “ropes” that hold recovery in place and prevent relapse drift from happening unnoticed.
 
-Complete this chart to list and track the behaviors that support your recovery.
+Complete this chart to list and track the behaviors that support your recovery. 
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mooring.jpg?raw=true){fig-align="center"}
 
@@ -27,7 +27,7 @@ Complete this chart to list and track the behaviors that support your recovery.
     -   12-Step meetings\
     -   Eating patterns
 
--   Do not list attitudes, they are harder to measure than behaviors
+-   Do not list attitudes; they are harder to measure than behaviors
 
 -   Note specific people or places that are known triggers and should be avoided
 
@@ -38,6 +38,8 @@ Complete this chart to list and track the behaviors that support your recovery.
 **If two or more items cannot be checked, it indicates that relapse drift may be occurring.**
 
 ### Mooring Line Behaviors
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/relapse_drift_1.pdf?raw=true)
 
 | Behavior | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 |
 |----------|--------|--------|--------|--------|--------|

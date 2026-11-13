@@ -32,7 +32,7 @@ You may be entering relapse justification if you notice:
 -   Avoiding recovery supports (meetings, therapy, check-ins)
 -   Keeping thoughts about drinking secret
 
-::: callout
+::: {.callout-tip}
 ## How to Interrupt the Process
 
 **The good news: Justifications can be challenged and stopped.**

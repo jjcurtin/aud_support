@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Daily Reflection
 
-Recovery strengthens when daily planning is paired with daily review. Review helps you learn from real situations and prevents small slips from turning into larger setbacks.
+Recovery strengthens when daily planning is paired with daily review. Review helps you learn from real situations and prevents small slips from turning into larger setbacks. 
 
 Use review as feedback, not self-criticism. Ask: *"What did I learn?"* rather than *"What's wrong with me?"*
 
@@ -15,6 +15,8 @@ The goal of review is not to judge your day, but to find out useful information.
 
 ## Use this daily review exercise to identify what worked, what didn’t, and what to adjust for tomorrow.
 
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/daily_review.pdf?raw=true)
+
 | Question                                            | My Reflection |
 |-----------------------------------------------------|---------------|
 | What recovery action did I take today (even small)? |               |
@@ -23,7 +25,9 @@ The goal of review is not to judge your day, but to find out useful information.
 | What did I learn from that response?                |               |
 | What is one specific adjustment for tomorrow?       |               |
 
--   **Has this challenge showed up before?**
+: {tbl-colwidths="[40,60]"}
+
+-   **Has this challenge shown up before?**
 
 -   **What response tends to work best?**
 

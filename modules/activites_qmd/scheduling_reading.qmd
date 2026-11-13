@@ -25,7 +25,7 @@ It’s okay if organization isn’t your natural strength—this is a skill you 
 
 You do. Your schedule is for you, though you may include guidance from a counselor, sponsor, or supportive family member. The key is that you commit to what you write down. Following your schedule consistently—even when you don’t feel like it—helps you regain control of your life and strengthens your recovery.
 
-::: callout
+::: {.callout-tip}
 ### Starting Small and Building Up
 
 Most people can plan their 24-hour day and follow it. If you can do this consistently, you are already building control and stability. If it feels too difficult at first, consider starting with just a portion of your day and gradually adding more structure. For some, additional support—such as outpatient programs or a higher level of care—may be helpful as a foundation for building effective scheduling habits.

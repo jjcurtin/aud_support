@@ -31,8 +31,8 @@ A strong self-care plan includes basic body care, emotional care, and practical 
 -   [ ] I allow my body time to recover after stressful events.
 -   [ ] I ask for support before I reach physical or emotional exhaustion.
 
-::: callout-caution
+::: {.callout-tip}
 ### Try This
 
-Choose a box you left unchecked and turn them into this today's goal.
+Choose a box you left unchecked and turn it into today's goal.
 :::

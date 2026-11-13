@@ -19,7 +19,9 @@ HALT works as a preventive scan for high-risk states. Catching these states earl
 -   Check at predictable times (before events, after work, evenings)\
 -   Act **before urges escalate**
 
-## Take a moment to check-in
+## Take a moment to check in
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/halt.pdf?raw=true)
 
 | State  | Level (0–10) | Body Signs | Immediate Action |
 |--------|--------------|------------|------------------|
@@ -28,7 +30,7 @@ HALT works as a preventive scan for high-risk states. Catching these states earl
 | Lonely |              |            |                  |
 | Tired  |              |            |                  |
 
-::: callout
+::: {.callout-tip}
 ## Examples of Immediate Action
 
 -   **Hungry** → Eat a snack with protein/carbs\
@@ -48,4 +50,6 @@ After taking action:
     -   Tired: \_\_\_\_\_
 -   What changed?
 
-**Remember: You don’t need to feel “bad enough” to act. Early action prevents bigger problems.**
+::: {.callout-note title="Remember"}
+You don’t need to feel “bad enough” to act. Early action prevents bigger problems.
+:::

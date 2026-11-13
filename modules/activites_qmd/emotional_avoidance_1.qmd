@@ -5,8 +5,8 @@ embed-resources: TRUE
 
 # Understanding Emotional Avoidance
 
-::: callout
-Avoiding places that bring up strong emotions is common in recovery. It can protect you in the short term by reducing overwhelm and lowering risk.
+::: {.callout-note appearance="simple"}
+Avoiding places that bring up strong emotions is common in recovery. It can protect you in the short term by reducing overwhelm and lowering risk. 
 
 However, over time, avoidance can:
 
@@ -18,6 +18,8 @@ The goal is to understand when avoidance is helpful—and when it might be holdi
 :::
 
 ## Use this worksheet to explore a place you avoid and understand the role avoidance is playing in your recovery.
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/emotional_avoidance_1.pdf?raw=true)
 
 ### 1. The Place
 
@@ -56,4 +58,6 @@ The goal is to understand when avoidance is helpful—and when it might be holdi
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/window.jpg?raw=true){fig-align="center"}
 
-**Remember: Avoidance can be protective, but it works best when it is a conscious choice, not an automatic habit.**
+::: {.callout-note title="Remember"}
+Avoidance can be protective, but it works best when it is a conscious choice, not an automatic habit.
+:::

@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Refusal Skills Practice
 
-Use this worksheet to practice how you will respond when offered alcohol. Building and rehearsing these skills can increase confidence and reduce pressure in high-risk situations.
+Use this worksheet to practice how you will respond when offered alcohol. Building and rehearsing these skills can increase confidence and reduce pressure in high-risk situations. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/alcohol_refusal.pdf?raw=true)
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/no.jpg?raw=true){fig-align="center"}
 
@@ -81,7 +81,9 @@ How confident did it feel (0–10)? **\_\_\_\_\_**
 
 If they keep insisting, what will you say?
 
-> 
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -100,11 +102,15 @@ What will you do immediately after refusing?
 
 -   What felt strong about your response?
 
-> 
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 -   What could be improved?
 
-> 
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -113,5 +119,7 @@ What will you do immediately after refusing?
 
 Next time I’m offered a drink, I will try:
 
-> 
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 :::

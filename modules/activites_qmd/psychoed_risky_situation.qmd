@@ -69,8 +69,8 @@ Again, this happens. The important part is recognizing it and taking steps to pr
 
 -   **Have an Exit Strategy:** Know when and how you can remove yourself from a risky situation if it becomes too tempting.
 
-::: callout
+::: {.callout-note}
 ## Remember
 
-Risky situations are a normal part of life, and encountering them doesn’t mean failure. By recognizing your personal triggers, planning in advance, and using effective coping strategies, you can navigate these situations safely. Each time you handle a risky situation successfully, your confidence and ability to stay sober grows stronger.
+Risky situations are a normal part of life, and encountering them doesn’t mean failure. By recognizing your personal triggers, planning in advance, and using effective coping strategies, you can navigate these situations safely. Each time you handle a risky situation successfully, your confidence and ability to stay sober grow stronger.
 :::

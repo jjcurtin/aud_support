@@ -2,9 +2,9 @@
 format: html
 ---
 
-# Thought Stopping
+# Thought-Stopping
 
-To sustain recovery, it is necessary to interrupt the [trigger → thought → craving → use](trigger_thought_craving_reading.html) sequence. **Thought stopping** provides a tool for disrupting the process.
+To sustain recovery, it is necessary to interrupt the [trigger → thought → craving → use](trigger_thought_craving_reading.html) sequence. **Thought-stopping** provides a tool for disrupting the process.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/thought_stopping_1.png?raw=true)
 
@@ -20,7 +20,7 @@ Imagine a scene in which you deny the power of thoughts of drinking. For example
 
 #### 2. Snapping
 
-Wear a rubberband loosely on your wrist. Each time you become aware of thoughts of drinking, snap the rubberband and say **“No!”** to the thoughts as you make yourself think about another subject. Have a subject ready that is meaningful and interesting to you.
+Wear a rubber band loosely on your wrist. Each time you become aware of thoughts of drinking, snap the rubber band and say **“No!”** to the thoughts as you make yourself think about another subject. Have a subject ready that is meaningful and interesting to you.
 
 #### 3. Relaxation
 
@@ -30,7 +30,7 @@ Feelings of hollowness, heaviness, and cramping in the stomach are cravings. The
 
 Talking to another person provides an outlet for your feelings and allows you to hear your thinking process. Have phone numbers of supportive, available people with you always, so you can use them when you need them.
 
-::: callout
+::: {.callout-tip}
 ### Tip
 
 Thought-stopping is a skill that improves with practice. The earlier you catch a thought, the easier it is to stop before it grows into a craving. Make these exercises part of your daily routine to strengthen your ability to respond to triggers and maintain control over your recovery.

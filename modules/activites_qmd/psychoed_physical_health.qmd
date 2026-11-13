@@ -4,7 +4,7 @@ format: html
 
 # Physical Health and Recovery
 
-Recovery isn’t just about changing your drinking, it’s also about taking care of your body. When your physical health is neglected, you’re more vulnerable to stress, low mood, and cravings—all of which can increase the risk of a lapse.
+Recovery isn’t just about changing your drinking—it’s also about taking care of your body. When your physical health is neglected, you’re more vulnerable to stress, low mood, and cravings—all of which can increase the risk of a lapse.
 
 On the other hand, paying attention to your physical health is one of the most powerful tools you have for relapse prevention. When your body feels strong, rested, and supported, you have more energy, clearer thinking, and a stronger ability to cope with triggers. Good health creates a solid foundation for recovery, acting like a shield to protect you from the stress and discomfort that often drive slips and lapses.
 
@@ -24,7 +24,7 @@ Think of it this way: recovery is like climbing a mountain. If you’re sleep-de
 
 Sleep plays a critical role in preventing lapses:
 
--   **Improves Self-Control and Decision-Making:** Sleep strengthens the brain areas responsible for impulse control and planning. When well-rested, it’s easier to resist urges and make choices that support recovery.
+-   **Improves Self-Control and Decision-Making:** Sleep strengthens the brain areas responsible for impulse control and planning. When you’re well-rested, it’s easier to resist urges and make choices that support recovery.
 
 -   **Regulates Mood:** Poor sleep increases anxiety, irritability, and depression—all common triggers for drinking. Consistent rest stabilizes your mood and helps you manage stress without alcohol.
 
@@ -46,7 +46,7 @@ Sleep plays a critical role in preventing lapses:
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/running.png?raw=true){fig-align="center"}
 
-::: callout
+::: {.callout-note}
 ## Remember
 
 Protecting your physical health is more than self-care and relapse prevention. By keeping your body strong, rested, and nourished, you make it harder for stress, fatigue, and cravings to pull you back toward alcohol. Each healthy choice is another layer of defense that supports long-term recovery.

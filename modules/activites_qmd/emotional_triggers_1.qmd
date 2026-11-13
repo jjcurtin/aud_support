@@ -21,7 +21,7 @@ The intense irritability experienced in the early stages of recovery can result 
 
 Maintaining abstinence is a real accomplishment. Usually people in recovery feel justifiably good and proud about what they have been able to achieve. Sometimes people in recovery feel as if they have to give up good times and good things. Recovery seems like a jail sentence, something to be endured. This reverses the actual state of recovery: drinking begins to look good and recovery seems bad. This upside-down situation quickly leads to relapse.
 
-::: callout
+::: {.callout-warning title="Red Flag Emotions"}
 **It is important to be aware of these red flag emotions. Allowing yourself to be flooded with these powerful negative emotions is allowing yourself to be swept rapidly toward relapse.**
 
 -   Have some of these emotional states been a trigger for you in the past?

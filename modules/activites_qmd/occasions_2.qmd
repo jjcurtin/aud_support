@@ -4,7 +4,7 @@ format: html
 
 # Special Occasions and Drinking Associations
 
-Many people associate alcohol with celebration, relief, or connection. Over time, the brain links these experiences with drinking, which can make certain events feel risky, even when you are committed to sobriety. This is why occasions like birthdays, holidays, paydays, and reunions often require extra preparation.
+Many people associate alcohol with celebration, relief, or connection. Over time, the brain links these experiences with drinking, which can make certain events feel risky, even when you are committed to sobriety. This is why occasions like birthdays, holidays, paydays, and reunions often require extra preparation. 
 
 Recovery does NOT mean avoiding [enjoyable experiences](psychoed_pleasant_event.html). It means creating new rituals so that meaningful moments stay enjoyable without alcohol. With repetition, these new patterns become natural.
 
@@ -22,6 +22,8 @@ Before each upcoming event:
 :::
 
 ## Occasion Planning Worksheet
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/occasions_2.pdf?raw=true)
 
 1.  Old alcohol pattern: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -47,7 +49,7 @@ Before each upcoming event:
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/holiday.png?raw=true){fig-align="center"}
 
-::: callout
+::: {.callout-warning}
 ## High-Risk Awareness
 
 Watch for these situations during events:

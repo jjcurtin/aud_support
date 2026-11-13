@@ -5,9 +5,9 @@ embed-resources: TRUE
 
 # Recovery Planning Worksheet
 
-Recovery requires specific actions and behavioral changes in many areas of life. Even after treatment, it is important to continue to set new goals and plan for a different lifestyle.
+Recovery requires specific actions and behavioral changes in many areas of life. Even after treatment, it is important to continue to set new goals and plan for a different lifestyle. 
 
-This guide will help you develop a plan and identify the steps necessary for reaching your goals. Use the table below to write your current status and your goals for each area of life, along with the steps you will take and when you plan to take them.
+This guide will help you develop a plan and identify the steps necessary for reaching your goals. Use the table below to write your current status and your goals for each area of life, along with the steps you will take and when you plan to take them. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/recovery_planning.pdf?raw=true)
 
 | **Subject** | **Where are you now?** | **Where would you like to be?** | **What steps do you need to take?** | **When?** |
 |---------------|---------------|---------------|---------------|---------------|

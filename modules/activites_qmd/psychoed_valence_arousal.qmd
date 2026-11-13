@@ -43,7 +43,7 @@ Being aware of your emotions and how they influence cravings can help you antici
 
 -   **Plan Ahead for High-Risk Emotions:** Anticipate situations that often produce strong negative emotions, such as conflicts, stressful tasks, or loneliness, and have strategies ready to cope.
 
-::: callout
+::: {.callout-note}
 ## Remember
 
 Negative emotions are a normal part of life, but they can increase the risk of cravings and lapses if not managed effectively. By recognizing emotional triggers and using coping strategies, you can protect your recovery and maintain control over your choices. Each time you respond to negative emotions without drinking, you strengthen both your confidence and your long-term sobriety.

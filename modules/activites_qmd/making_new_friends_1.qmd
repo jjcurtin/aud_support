@@ -49,6 +49,8 @@ Social network change is a high-impact recovery intervention. Increasing contact
 -   “That discomfort does NOT mean…”\
 :::
 
-**Remember: Friendships rarely form instantly. Progress looks like showing up again, recognizing familiar faces, short conversations, and gradual comfort.**
+::: {.callout-note title="Remember"}
+Friendships rarely form instantly. Progress looks like showing up again, recognizing familiar faces, short conversations, and gradual comfort.
+:::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/bench.png?raw=true){fig-align="center"}

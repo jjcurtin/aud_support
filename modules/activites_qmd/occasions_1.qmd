@@ -7,7 +7,7 @@ embed-resources: TRUE
 
 Special occasions and the [celebrations](psychoed_pleasant_event.html) that come with them can be challenging for people in recovery. Many factors can increase the risk of relapse during this time.
 
-Think of a recent or upcoming holiday, celebration, or special event and then review the list below and check any items that may affect your recovery during this type of event.
+Think of a recent or upcoming holiday, celebration, or special event and then review the list below and check any items that may affect your recovery during this type of event. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/occasions_1.pdf?raw=true)
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/birthdayhat.png?raw=true){fig-align="center"}
 
@@ -67,7 +67,7 @@ This occasion is creating a **high-risk period** for relapse.
 
 -   **Action needed:** Increase structure, support, and monitoring immediately.
 
-::: callout
+::: {.callout-tip}
 ## Protecting Your Recovery
 
 During high-risk times:

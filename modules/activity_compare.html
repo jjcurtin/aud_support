@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Activity Compare</title>
+<style>
+  :root { --red:#C5050C; --ink:#121212; --muted:#585758; --line:#CFCFCF; --soft:#F3F3F3; --blue:#036796; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); background:#fff; }
+  header { display:flex; align-items:center; gap:12px; flex-wrap:wrap; padding:10px 14px; border-bottom:3px solid var(--red); }
+  h1 { font-size:16px; margin:0 8px 0 0; }
+  .muted { color:var(--muted); font-size:13px; }
+  button { font:inherit; padding:6px 12px; border:1px solid var(--line); border-radius:6px; background:#fff; cursor:pointer; }
+  button:hover { border-color:var(--ink); }
+  button.primary { background:var(--red); color:#fff; border-color:var(--red); }
+  button.on { background:var(--ink); color:#fff; border-color:var(--ink); }
+  main { display:grid; grid-template-columns: 1fr 1.3fr; gap:14px; padding:12px 14px; }
+  .now { font-size:20px; font-weight:700; }
+  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:8px 0; }
+  label { font-size:13px; font-weight:600; display:block; margin:8px 0 4px; }
+  input[type=text], textarea, select { width:100%; font:inherit; padding:6px 8px; border:1px solid var(--line); border-radius:6px; }
+  textarea { min-height:70px; resize:vertical; }
+  a { color:var(--blue); }
+  .links a { display:block; font-size:13px; word-break:break-all; }
+  .status { font-size:13px; margin-top:6px; min-height:1.2em; }
+  .warn { color:var(--red); font-weight:600; }
+  .bar { height:6px; background:var(--soft); border-radius:3px; overflow:hidden; margin-top:4px; }
+  .bar > div { height:100%; background:var(--red); width:0; }
+  kbd { border:1px solid var(--line); border-bottom-width:2px; border-radius:4px; padding:0 4px; font-size:12px; }
+  @media (max-width: 700px) { main { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Activity compare</h1>
+  <button id="openStar">1. Open STAR window (left)</button>
+  <button id="openDio">2. Open dionysus window (right)</button>
+  <span class="muted">Shrink this window to a strip at the bottom of the screen. <kbd>Alt</kbd>+<kbd>→</kbd> next, <kbd>Alt</kbd>+<kbd>←</kbd> back.</span>
+</header>
+<main>
+  <section>
+    <div class="muted">Activity <span id="pos"></span> of <span id="total"></span> · <span id="done"></span> reviewed</div>
+    <div class="bar"><div id="prog"></div></div>
+    <div class="now" id="name"></div>
+    <div class="row">
+      <button id="prev">← Previous</button>
+      <button id="next" class="primary">Next →</button>
+      <select id="jump" aria-label="Jump to activity" style="width:auto;max-width:260px"></select>
+    </div>
+    <div class="links">
+      <a id="starLink" target="star_win"></a>
+      <a id="dioLink" target="dio_win"></a>
+    </div>
+    <div class="status" id="status"></div>
+  </section>
+  <section>
+    <label for="better">Which better?</label>
+    <div class="row" id="quick">
+      <button data-v="STAR">STAR</button>
+      <button data-v="dionysus">dionysus</button>
+      <button data-v="same">Same</button>
+    </div>
+    <input type="text" id="better" placeholder="or type your own">
+    <label for="notes">Notes</label>
+    <textarea id="notes"></textarea>
+    <div class="row">
+      <button id="csv">Download notes as CSV</button>
+      <span class="muted">Same row order as your spreadsheet, so you can paste the two columns into “which better?” and “notes”.</span>
+    </div>
+  </section>
+</main>
+<script>
+const ROWS = [{"name": "12_step_alternative", "star": "https://starstudy.wisc.edu/12_step_alternative", "dio": "https://dionysus.psych.wisc.edu/star_study/12_step_alternative.html", "better": "overall dionysus is better. I wonder if we should make more use of red backgrounds in headers", "notes": ""}, {"name": "12_step_intro", "star": "https://starstudy.wisc.edu/12_step_intro", "dio": "https://dionysus.psych.wisc.edu/star_study/12_step_intro.html", "better": "", "notes": ""}, {"name": "12_step_sponsor", "star": "https://starstudy.wisc.edu/12_step_sponsor", "dio": "https://dionysus.psych.wisc.edu/star_study/12_step_sponsor.html", "better": "", "notes": ""}, {"name": "alcohol_refusal", "star": "https://starstudy.wisc.edu/alcohol_refusal", "dio": "https://dionysus.psych.wisc.edu/star_study/alcohol_refusal.html", "better": "", "notes": "added worksheet, needs fixing of the \">\" prompt. Recommend answer lines as used elsewhere"}, {"name": "alcohol_script_1", "star": "https://starstudy.wisc.edu/alcohol_script_1", "dio": "https://dionysus.psych.wisc.edu/star_study/alcohol_script_1.html", "better": "", "notes": "needed answer lines"}, {"name": "alcohol_script_2", "star": "https://starstudy.wisc.edu/alcohol_script_2", "dio": "https://dionysus.psych.wisc.edu/star_study/alcohol_script_2.html", "better": "", "notes": "inconsistent use of answer lines - below vs beside the quesiton"}, {"name": "anger", "star": "https://starstudy.wisc.edu/anger", "dio": "https://dionysus.psych.wisc.edu/star_study/anger.html", "better": "", "notes": ""}, {"name": "assertiveness", "star": "https://starstudy.wisc.edu/assertiveness", "dio": "https://dionysus.psych.wisc.edu/star_study/assertiveness.html", "better": "", "notes": ""}, {"name": "body_scan", "star": "https://starstudy.wisc.edu/body_scan", "dio": "https://dionysus.psych.wisc.edu/star_study/body_scan.html", "better": "", "notes": ""}, {"name": "boredom", "star": "https://starstudy.wisc.edu/boredom", "dio": "https://dionysus.psych.wisc.edu/star_study/boredom.html", "better": "", "notes": ""}, {"name": "compassionate_u_turn", "star": "https://starstudy.wisc.edu/compassionate_u_turn", "dio": "https://dionysus.psych.wisc.edu/star_study/compassionate_u_turn.html", "better": "", "notes": ""}, {"name": "considering_self_help_groups", "star": "https://starstudy.wisc.edu/considering_self_help_groups", "dio": "https://dionysus.psych.wisc.edu/star_study/considering_self_help_groups.html", "better": "", "notes": ""}, {"name": "craving_log", "star": "https://starstudy.wisc.edu/craving_log", "dio": "https://dionysus.psych.wisc.edu/star_study/craving_log.html", "better": "", "notes": ""}, {"name": "craving_plan", "star": "https://starstudy.wisc.edu/craving_plan", "dio": "https://dionysus.psych.wisc.edu/star_study/craving_plan.html", "better": "", "notes": ""}, {"name": "craving_triggers", "star": "https://starstudy.wisc.edu/craving_triggers", "dio": "https://dionysus.psych.wisc.edu/star_study/craving_triggers.html", "better": "", "notes": ""}, {"name": "daily_review", "star": "https://starstudy.wisc.edu/daily_review", "dio": "https://dionysus.psych.wisc.edu/star_study/daily_review.html", "better": "", "notes": ""}, {"name": "decisional_balance", "star": "https://starstudy.wisc.edu/decisional_balance", "dio": "https://dionysus.psych.wisc.edu/star_study/decisional_balance.html", "better": "", "notes": ""}, {"name": "depression", "star": "https://starstudy.wisc.edu/depression", "dio": "https://dionysus.psych.wisc.edu/star_study/depression.html", "better": "", "notes": ""}, {"name": "emergency_plan", "star": "https://starstudy.wisc.edu/emergency_plan", "dio": "https://dionysus.psych.wisc.edu/star_study/emergency_plan.html", "better": "", "notes": ""}, {"name": "emotional_avoidance_1", "star": "https://starstudy.wisc.edu/emotional_avoidance_1", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_avoidance_1.html", "better": "", "notes": ""}, {"name": "emotional_avoidance_2", "star": "https://starstudy.wisc.edu/emotional_avoidance_2", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_avoidance_2.html", "better": "", "notes": ""}, {"name": "emotional_buildup", "star": "https://starstudy.wisc.edu/emotional_buildup", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_buildup.html", "better": "", "notes": ""}, {"name": "emotional_locs", "star": "https://starstudy.wisc.edu/emotional_locs", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_locs.html", "better": "", "notes": ""}, {"name": "emotional_triggers_1", "star": "https://starstudy.wisc.edu/emotional_triggers_1", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_triggers_1.html", "better": "", "notes": ""}, {"name": "emotional_triggers_2", "star": "https://starstudy.wisc.edu/emotional_triggers_2", "dio": "https://dionysus.psych.wisc.edu/star_study/emotional_triggers_2.html", "better": "", "notes": ""}, {"name": "emotions", "star": "https://starstudy.wisc.edu/emotions", "dio": "https://dionysus.psych.wisc.edu/star_study/emotions.html", "better": "", "notes": ""}, {"name": "exit_plan", "star": "https://starstudy.wisc.edu/exit_plan", "dio": "https://dionysus.psych.wisc.edu/star_study/exit_plan.html", "better": "", "notes": ""}, {"name": "finances", "star": "https://starstudy.wisc.edu/finances", "dio": "https://dionysus.psych.wisc.edu/star_study/finances.html", "better": "", "notes": ""}, {"name": "friends", "star": "https://starstudy.wisc.edu/friends", "dio": "https://dionysus.psych.wisc.edu/star_study/friends.html", "better": "", "notes": ""}, {"name": "grounding", "star": "https://starstudy.wisc.edu/grounding", "dio": "https://dionysus.psych.wisc.edu/star_study/grounding.html", "better": "", "notes": ""}, {"name": "halt", "star": "https://starstudy.wisc.edu/halt", "dio": "https://dionysus.psych.wisc.edu/star_study/halt.html", "better": "", "notes": ""}, {"name": "illness", "star": "https://starstudy.wisc.edu/illness", "dio": "https://dionysus.psych.wisc.edu/star_study/illness.html", "better": "", "notes": ""}, {"name": "internal_triggers", "star": "https://starstudy.wisc.edu/internal_triggers", "dio": "https://dionysus.psych.wisc.edu/star_study/internal_triggers.html", "better": "", "notes": ""}, {"name": "irrelevant_decisions", "star": "https://starstudy.wisc.edu/irrelevant_decisions", "dio": "https://dionysus.psych.wisc.edu/star_study/irrelevant_decisions.html", "better": "", "notes": ""}, {"name": "justification_celebration", "star": "https://starstudy.wisc.edu/justification_celebration", "dio": "https://dionysus.psych.wisc.edu/star_study/justification_celebration.html", "better": "", "notes": ""}, {"name": "justification_emotions", "star": "https://starstudy.wisc.edu/justification_emotions", "dio": "https://dionysus.psych.wisc.edu/star_study/justification_emotions.html", "better": "", "notes": ""}, {"name": "justification_reading", "star": "https://starstudy.wisc.edu/justification_reading", "dio": "https://dionysus.psych.wisc.edu/star_study/justification_reading.html", "better": "", "notes": ""}, {"name": "justification_testing", "star": "https://starstudy.wisc.edu/justification_testing", "dio": "https://dionysus.psych.wisc.edu/star_study/justification_testing.html", "better": "", "notes": ""}, {"name": "making_new_friends_1", "star": "https://starstudy.wisc.edu/making_new_friends_1", "dio": "https://dionysus.psych.wisc.edu/star_study/making_new_friends_1.html", "better": "", "notes": ""}, {"name": "making_new_friends_2", "star": "https://starstudy.wisc.edu/making_new_friends_2", "dio": "https://dionysus.psych.wisc.edu/star_study/making_new_friends_2.html", "better": "", "notes": ""}, {"name": "mindful_breathing", "star": "https://starstudy.wisc.edu/mindful_breathing", "dio": "https://dionysus.psych.wisc.edu/star_study/mindful_breathing.html", "better": "", "notes": ""}, {"name": "mindfulness_reading", "star": "https://starstudy.wisc.edu/mindfulness_reading", "dio": "https://dionysus.psych.wisc.edu/star_study/mindfulness_reading.html", "better": "", "notes": ""}, {"name": "motivation_for_recovery", "star": "https://starstudy.wisc.edu/motivation_for_recovery", "dio": "https://dionysus.psych.wisc.edu/star_study/motivation_for_recovery.html", "better": "", "notes": ""}, {"name": "noticing_walk", "star": "https://starstudy.wisc.edu/noticing_walk", "dio": "https://dionysus.psych.wisc.edu/star_study/noticing_walk.html", "better": "", "notes": ""}, {"name": "occasions_1", "star": "https://starstudy.wisc.edu/occasions_1", "dio": "https://dionysus.psych.wisc.edu/star_study/occasions_1.html", "better": "", "notes": ""}, {"name": "occasions_2", "star": "https://starstudy.wisc.edu/occasions_2", "dio": "https://dionysus.psych.wisc.edu/star_study/occasions_2.html", "better": "", "notes": ""}, {"name": "one_day_at_a_time", "star": "https://starstudy.wisc.edu/one_day_at_a_time", "dio": "https://dionysus.psych.wisc.edu/star_study/one_day_at_a_time.html", "better": "", "notes": ""}, {"name": "overconfidence", "star": "https://starstudy.wisc.edu/overconfidence", "dio": "https://dionysus.psych.wisc.edu/star_study/overconfidence.html", "better": "", "notes": ""}, {"name": "physical_activity", "star": "https://starstudy.wisc.edu/physical_activity", "dio": "https://dionysus.psych.wisc.edu/star_study/physical_activity.html", "better": "", "notes": ""}, {"name": "prep_plan", "star": "https://starstudy.wisc.edu/prep_plan", "dio": "https://dionysus.psych.wisc.edu/star_study/prep_plan.html", "better": "", "notes": ""}, {"name": "progressive_muscle_relaxation", "star": "https://starstudy.wisc.edu/progressive_muscle_relaxation", "dio": "https://dionysus.psych.wisc.edu/star_study/progressive_muscle_relaxation.html", "better": "", "notes": ""}, {"name": "psychoed_abstinence_goal", "star": "https://starstudy.wisc.edu/psychoed_abstinence_goal", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_abstinence_goal.html", "better": "", "notes": ""}, {"name": "psychoed_craving", "star": "https://starstudy.wisc.edu/psychoed_craving", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_craving.html", "better": "", "notes": ""}, {"name": "psychoed_future_efficacy", "star": "https://starstudy.wisc.edu/psychoed_future_efficacy", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_future_efficacy.html", "better": "", "notes": ""}, {"name": "psychoed_past_use", "star": "https://starstudy.wisc.edu/psychoed_past_use", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_past_use.html", "better": "", "notes": ""}, {"name": "psychoed_physical_health", "star": "https://starstudy.wisc.edu/psychoed_physical_health", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_physical_health.html", "better": "", "notes": ""}, {"name": "psychoed_pleasant_event", "star": "https://starstudy.wisc.edu/psychoed_pleasant_event", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_pleasant_event.html", "better": "", "notes": ""}, {"name": "psychoed_relationships", "star": "https://starstudy.wisc.edu/psychoed_relationships", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_relationships.html", "better": "", "notes": ""}, {"name": "psychoed_routine", "star": "https://starstudy.wisc.edu/psychoed_routine", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_routine.html", "better": "", "notes": ""}, {"name": "psychoed_risky_situation", "star": "https://starstudy.wisc.edu/psychoed_risky_situation", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_risky_situation.html", "better": "", "notes": ""}, {"name": "psychoed_stressful_event", "star": "https://starstudy.wisc.edu/psychoed_stressful_event", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_stressful_event.html", "better": "", "notes": ""}, {"name": "psychoed_support_seeking", "star": "https://starstudy.wisc.edu/psychoed_support_seeking", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_support_seeking.html", "better": "", "notes": ""}, {"name": "psychoed_valence_arousal", "star": "https://starstudy.wisc.edu/psychoed_valence_arousal", "dio": "https://dionysus.psych.wisc.edu/star_study/psychoed_valence_arousal.html", "better": "", "notes": ""}, {"name": "reasons_for_abstinence", "star": "https://starstudy.wisc.edu/reasons_for_abstinence", "dio": "https://dionysus.psych.wisc.edu/star_study/reasons_for_abstinence.html", "better": "", "notes": ""}, {"name": "recognizing_stress", "star": "https://starstudy.wisc.edu/recognizing_stress", "dio": "https://dionysus.psych.wisc.edu/star_study/recognizing_stress.html", "better": "", "notes": ""}, {"name": "recovery_checklist", "star": "https://starstudy.wisc.edu/recovery_checklist", "dio": "https://dionysus.psych.wisc.edu/star_study/recovery_checklist.html", "better": "", "notes": ""}, {"name": "recovery_planning", "star": "https://starstudy.wisc.edu/recovery_planning", "dio": "https://dionysus.psych.wisc.edu/star_study/recovery_planning.html", "better": "", "notes": ""}, {"name": "recreation", "star": "https://starstudy.wisc.edu/recreation", "dio": "https://dionysus.psych.wisc.edu/star_study/recreation.html", "better": "", "notes": ""}, {"name": "reducing_stress", "star": "https://starstudy.wisc.edu/reducing_stress", "dio": "https://dionysus.psych.wisc.edu/star_study/reducing_stress.html", "better": "", "notes": ""}, {"name": "relapse_analysis_1", "star": "https://starstudy.wisc.edu/relapse_analysis_1", "dio": "https://dionysus.psych.wisc.edu/star_study/relapse_analysis_1.html", "better": "", "notes": ""}, {"name": "relapse_analysis_2", "star": "https://starstudy.wisc.edu/relapse_analysis_2", "dio": "https://dionysus.psych.wisc.edu/star_study/relapse_analysis_2.html", "better": "", "notes": ""}, {"name": "relapse_drift_reading", "star": "https://starstudy.wisc.edu/relapse_drift_reading", "dio": "https://dionysus.psych.wisc.edu/star_study/relapse_drift_reading.html", "better": "", "notes": ""}, {"name": "relapse_drift_worksheet_1", "star": "https://starstudy.wisc.edu/relapse_drift_worksheet_1", "dio": "https://dionysus.psych.wisc.edu/star_study/relapse_drift_worksheet_1.html", "better": "", "notes": ""}, {"name": "relapse_drift_worksheet_2", "star": "https://starstudy.wisc.edu/relapse_drift_worksheet_2", "dio": "https://dionysus.psych.wisc.edu/star_study/relapse_drift_worksheet_2.html", "better": "", "notes": ""}, {"name": "repairing_relationships", "star": "https://starstudy.wisc.edu/repairing_relationships", "dio": "https://dionysus.psych.wisc.edu/star_study/repairing_relationships.html", "better": "", "notes": ""}, {"name": "restaurants", "star": "https://starstudy.wisc.edu/restaurants", "dio": "https://dionysus.psych.wisc.edu/star_study/restaurants.html", "better": "", "notes": ""}, {"name": "risky_locations", "star": "https://starstudy.wisc.edu/risky_locations", "dio": "https://dionysus.psych.wisc.edu/star_study/risky_locations.html", "better": "", "notes": ""}, {"name": "scheduling_reading", "star": "https://starstudy.wisc.edu/scheduling_reading", "dio": "https://dionysus.psych.wisc.edu/star_study/scheduling_reading.html", "better": "", "notes": ""}, {"name": "scheduling_worksheet", "star": "https://starstudy.wisc.edu/scheduling_worksheet", "dio": "https://dionysus.psych.wisc.edu/star_study/scheduling_worksheet.html", "better": "", "notes": ""}, {"name": "scripts_evening_out", "star": "https://starstudy.wisc.edu/scripts_evening_out", "dio": "https://dionysus.psych.wisc.edu/star_study/scripts_evening_out.html", "better": "", "notes": ""}, {"name": "scripts_weekend", "star": "https://starstudy.wisc.edu/scripts_weekend", "dio": "https://dionysus.psych.wisc.edu/star_study/scripts_weekend.html", "better": "", "notes": ""}, {"name": "scripts_work", "star": "https://starstudy.wisc.edu/scripts_work", "dio": "https://dionysus.psych.wisc.edu/star_study/scripts_work.html", "better": "", "notes": ""}, {"name": "self_care", "star": "https://starstudy.wisc.edu/self_care", "dio": "https://dionysus.psych.wisc.edu/star_study/self_care.html", "better": "", "notes": ""}, {"name": "self_talk", "star": "https://starstudy.wisc.edu/self_talk", "dio": "https://dionysus.psych.wisc.edu/star_study/self_talk.html", "better": "", "notes": ""}, {"name": "smart_not_strong", "star": "https://starstudy.wisc.edu/smart_not_strong", "dio": "https://dionysus.psych.wisc.edu/star_study/smart_not_strong.html", "better": "", "notes": ""}, {"name": "spirituality", "star": "https://starstudy.wisc.edu/spirituality", "dio": "https://dionysus.psych.wisc.edu/star_study/spirituality.html", "better": "", "notes": ""}, {"name": "staying_busy", "star": "https://starstudy.wisc.edu/staying_busy", "dio": "https://dionysus.psych.wisc.edu/star_study/staying_busy.html", "better": "", "notes": ""}, {"name": "taking_care_of_self", "star": "https://starstudy.wisc.edu/taking_care_of_self", "dio": "https://dionysus.psych.wisc.edu/star_study/taking_care_of_self.html", "better": "", "notes": ""}, {"name": "thought_stopping_1", "star": "https://starstudy.wisc.edu/thought_stopping_1", "dio": "https://dionysus.psych.wisc.edu/star_study/thought_stopping_1.html", "better": "", "notes": ""}, {"name": "thought_stopping_2", "star": "https://starstudy.wisc.edu/thought_stopping_2", "dio": "https://dionysus.psych.wisc.edu/star_study/thought_stopping_2.html", "better": "", "notes": ""}, {"name": "three_conscious_breaths", "star": "https://starstudy.wisc.edu/three_conscious_breaths", "dio": "https://dionysus.psych.wisc.edu/star_study/three_conscious_breaths.html", "better": "", "notes": ""}, {"name": "tracking_progress", "star": "https://starstudy.wisc.edu/tracking_progress", "dio": "https://dionysus.psych.wisc.edu/star_study/tracking_progress.html", "better": "", "notes": ""}, {"name": "trigger_behavior_record", "star": "https://starstudy.wisc.edu/trigger_behavior_record", "dio": "https://dionysus.psych.wisc.edu/star_study/trigger_behavior_record.html", "better": "", "notes": ""}, {"name": "trigger_mapping_1", "star": "https://starstudy.wisc.edu/trigger_mapping_1", "dio": "https://dionysus.psych.wisc.edu/star_study/trigger_mapping_1.html", "better": "", "notes": ""}, {"name": "trigger_thought_craving_reading", "star": "https://starstudy.wisc.edu/trigger_thought_craving_reading", "dio": "https://dionysus.psych.wisc.edu/star_study/trigger_thought_craving_reading.html", "better": "", "notes": ""}, {"name": "triggers", "star": "https://starstudy.wisc.edu/triggers", "dio": "https://dionysus.psych.wisc.edu/star_study/triggers.html", "better": "", "notes": ""}, {"name": "urge_surfing", "star": "https://starstudy.wisc.edu/urge_surfing", "dio": "https://dionysus.psych.wisc.edu/star_study/urge_surfing.html", "better": "", "notes": ""}, {"name": "urge_surfing_practice", "star": "https://starstudy.wisc.edu/urge_surfing_practice", "dio": "https://dionysus.psych.wisc.edu/star_study/urge_surfing_practice.html", "better": "", "notes": ""}, {"name": "weekend_plans", "star": "https://starstudy.wisc.edu/weekend_plans", "dio": "https://dionysus.psych.wisc.edu/star_study/weekend_plans.html", "better": "", "notes": ""}, {"name": "work", "star": "https://starstudy.wisc.edu/work", "dio": "https://dionysus.psych.wisc.edu/star_study/work.html", "better": "", "notes": ""}];
+const KEY = 'activity-compare-v1';
+let saved = {};
+try { saved = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { saved = {}; }
+const get = (r) => saved[r.name] || { better: r.better, notes: r.notes };
+const persist = () => { try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch (e) {} };
+
+let i = 0;
+try { i = Math.min(ROWS.length - 1, Math.max(0, +(localStorage.getItem(KEY + '-pos') || 0))); } catch (e) {}
+let starWin = null, dioWin = null;
+const $ = (id) => document.getElementById(id);
+
+ROWS.forEach((r, k) => { const o = document.createElement('option'); o.value = k; o.textContent = (k + 1) + '. ' + r.name; $('jump').appendChild(o); });
+$('total').textContent = ROWS.length;
+
+function geom(side) {
+  const W = screen.availWidth, H = screen.availHeight;
+  const h = Math.max(400, H - 230);       // leave a strip at the bottom for this page
+  const w = Math.floor(W / 2);
+  return `popup=yes,width=${w},height=${h},left=${side === 'L' ? 0 : w},top=0`;
+}
+function openWin(which) {
+  const r = ROWS[i];
+  const w = which === 'star' ? window.open(r.star, 'star_win', geom('L')) : window.open(r.dio, 'dio_win', geom('R'));
+  if (!w) { $('status').innerHTML = '<span class="warn">The browser blocked the pop-up. Allow pop-ups for this page (icon at the right end of the address bar), then click again.</span>'; return; }
+  if (which === 'star') starWin = w; else dioWin = w;
+  $('status').textContent = '';
+  window.focus();
+}
+$('openStar').onclick = () => openWin('star');
+$('openDio').onclick = () => openWin('dio');
+
+function saveCurrent() {
+  const r = ROWS[i];
+  saved[r.name] = { better: $('better').value, notes: $('notes').value };
+  persist();
+}
+function show() {
+  const r = ROWS[i], s = get(r);
+  $('pos').textContent = i + 1;
+  $('name').textContent = r.name;
+  $('jump').value = i;
+  $('starLink').href = r.star; $('starLink').textContent = 'STAR: ' + r.star;
+  $('dioLink').href = r.dio;  $('dioLink').textContent = 'dionysus: ' + r.dio;
+  $('better').value = s.better; $('notes').value = s.notes;
+  document.querySelectorAll('#quick button').forEach(b => b.classList.toggle('on', b.dataset.v === s.better));
+  const done = ROWS.filter(x => (get(x).better || '').trim()).length;
+  $('done').textContent = done;
+  $('prog').style.width = (100 * done / ROWS.length) + '%';
+  try { localStorage.setItem(KEY + '-pos', i); } catch (e) {}
+  // load both windows if they are open
+  let missing = [];
+  if (starWin && !starWin.closed) starWin.location.href = r.star; else missing.push('STAR');
+  if (dioWin && !dioWin.closed) dioWin.location.href = r.dio; else missing.push('dionysus');
+  $('status').innerHTML = missing.length ? `<span class="warn">${missing.join(' and ')} window not open — use the buttons at the top.</span>` : '';
+}
+function go(k) { saveCurrent(); i = Math.min(ROWS.length - 1, Math.max(0, k)); show(); }
+$('next').onclick = () => go(i + 1);
+$('prev').onclick = () => go(i - 1);
+$('jump').onchange = (e) => go(+e.target.value);
+$('better').oninput = $('notes').oninput = () => { saveCurrent(); const done = ROWS.filter(x => (get(x).better || '').trim()).length; $('done').textContent = done; $('prog').style.width = (100 * done / ROWS.length) + '%'; };
+document.querySelectorAll('#quick button').forEach(b => b.onclick = () => { $('better').value = b.dataset.v; saveCurrent(); show(); });
+document.addEventListener('keydown', (e) => {
+  if (e.altKey && e.key === 'ArrowRight') { e.preventDefault(); go(i + 1); }
+  if (e.altKey && e.key === 'ArrowLeft')  { e.preventDefault(); go(i - 1); }
+});
+$('csv').onclick = () => {
+  saveCurrent();
+  const q = (s) => '"' + String(s || '').replace(/"/g, '""') + '"';
+  const lines = ['activity,which better?,notes'].concat(ROWS.map(r => { const s = get(r); return [q(r.name), q(s.better), q(s.notes)].join(','); }));
+  const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv' });
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'activity_compare_notes.csv'; a.click();
+};
+show();
+</script>
+</body>
+</html>

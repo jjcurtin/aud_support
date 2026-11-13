@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # One Day at a Time
 
-Thinking too far into the future can trigger overwhelm (“I can’t do this forever”).The one day at a time approach reduces that pressure by narrowing your focus to **what you can control right now**.
+Thinking too far into the future can trigger overwhelm (“I can’t do this forever”). The one day at a time approach reduces that pressure by narrowing your focus to **what you can control right now**. 
 
 This is NOT avoidance. It is a skillful shift in focus. Instead of solving long-term sobriety all at once, you build it through small, repeatable daily actions.
 
@@ -17,6 +17,8 @@ Over time, these daily commitments become the foundation of long-term recovery.
 
 ::: callout
 ### Daily Commitment Card
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/one_day_at_a_time.pdf?raw=true)
 
 Today, I will:
 

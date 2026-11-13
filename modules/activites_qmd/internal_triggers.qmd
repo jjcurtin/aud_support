@@ -24,7 +24,7 @@ In many recovery approaches that focus on thoughts and behaviors, internal trigg
 
 ## Noticing Practice
 
-Complete this practice exercise whenever you notice urges or strong emotions today,
+Complete this practice exercise whenever you notice urges or strong emotions today:
 
 | What I noticed inside me | Intensity (0-10) | What I did instead of drinking | Result after 20 minutes |
 |----|----|----|----|
@@ -44,4 +44,6 @@ What helps lower it, even slightly?
 What early signs can I watch for next time?
 :::
 
-**Remember you don’t have to eliminate internal triggers. You can learn to recognize them early and respond intentionally instead of automatically.**
+::: {.callout-note title="Remember"}
+You don’t have to eliminate internal triggers. You can learn to recognize them early and respond intentionally instead of automatically.
+:::

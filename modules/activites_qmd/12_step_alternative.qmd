@@ -52,6 +52,8 @@ What matters most:
 -   When I will go: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 -   Support person I can contact: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Remember: There are many pathways to recovery—the key is finding one that keeps you connected and supported.**
+::: {.callout-note title="Remember"}
+There are many pathways to recovery—the key is finding one that keeps you connected and supported.
+:::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/supportgroup.png?raw=true){fig-align="center"}

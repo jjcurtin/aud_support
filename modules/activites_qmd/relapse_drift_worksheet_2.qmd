@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Recovery Re-Engagement Plan
 
-When [relapse drift](relapse_drift_reading.html) begins, the most effective response is quick, deliberate re-engagement with structure and support. Waiting to feel motivated often increases risk. In recovery, action comes first — motivation usually follows.
+When [relapse drift](relapse_drift_reading.html) begins, the most effective response is quick, deliberate re-engagement with structure and support. Waiting to feel motivated often increases risk. In recovery, action comes first — motivation usually follows. 
 
 A strong re-engagement plan is:
 
@@ -23,6 +23,8 @@ A strong re-engagement plan is:
 
 ### Re-Engagement Plan
 
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/relapse_drift_2.pdf?raw=true)
+
 | Area | What has drifted? | My corrective action (specific & measurable) | Deadline | Completed |
 |-------------|-------------|--------------------|-------------|-------------|
 | Daily schedule |  |  |  |  |
@@ -31,7 +33,7 @@ A strong re-engagement plan is:
 | Sleep / physical health |  |  |  |  |
 | Other |  |  |  |  |
 
-::: callout
+::: {.callout-warning}
 ## High-Risk Signals to Watch For
 
 -   Skipping routines or appointments\
@@ -44,7 +46,7 @@ If you notice two or more signals, increase support immediately.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/mooring2.jpeg?raw=true){fig-align="center"}
 
-::: callout
+::: {.callout-tip}
 ### Try This
 
 Treat this as an experiment in regaining control:

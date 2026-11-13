@@ -27,7 +27,7 @@ Use this table to sort stressors into what you can and cannot control and respon
 |  |  |  |  |
 |  |  |  |  |
 
-::: callout-important
+::: {.callout-tip}
 ### Practice Plan
 
 -   Apply this in real situations, not just on paper.

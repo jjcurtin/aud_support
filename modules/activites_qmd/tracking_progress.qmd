@@ -13,6 +13,7 @@ It is important for both you and your counselor to know where you are in the rec
 
 -   Recovery can feel very long unless you measure progress in smaller, more manageable steps.
 
+
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/growth.png?raw=true){fig-align="center"}
 
 ### Instructions
@@ -26,6 +27,9 @@ It is important for both you and your counselor to know where you are in the rec
 4.  Continue this exercise to stay motivated and track your long-term progress.
 
 ### My Abstinence Calendar
+
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/tracking_progress.pdf?raw=true)
+
 
 Month: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Year: \_\_\_\_\_\_\_\_\_\_\_\_
 

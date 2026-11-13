@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Urge Surfing
 
-Urge surfing is a technique for managing your unwanted behaviors. Rather than giving into an urge, you will ride it out, like a surfer riding a wave. After a short time, the urge will pass on its own.
+Urge surfing is a technique for managing your unwanted behaviors. Rather than giving in to an urge, you will ride it out, like a surfer riding a wave. After a short time, the urge will pass on its own.
 
 This technique can be used to stop or reduce alcohol use, emotional reactions such as "blowing up" when angry, and other unwanted behaviors.
 

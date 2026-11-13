@@ -25,7 +25,7 @@ Use this exercise to connect what matters most to one concrete step.
 
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-::: callout
+::: {.callout-tip}
 ### Make It Stick
 
 -   Write your answer to #1 somewhere visible (phone, notes, wallet)

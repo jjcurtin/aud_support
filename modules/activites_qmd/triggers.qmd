@@ -9,7 +9,7 @@ Triggers are people, places, objects, feelings, and times that can cause craving
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sparks.jpg?raw=true){fig-align="center"}
 
-::: callout
+::: {.callout-note}
 ### An Example
 
 If every Friday night someone cashes a paycheck, goes out with friends, and drinks, the triggers might include:
@@ -41,7 +41,9 @@ Stopping the craving process is an important part of treatment. The best way to 
 
 *Example: Schedule exercise or a 12-Step/mutual-help meeting for Friday nights.*
 
-**Remember:** Triggers affect your brain and cause cravings even if you’ve decided to stop drinking. Your intentions must translate into behavior changes that help you avoid triggers.
+::: {.callout-note title="Remember"}
+Triggers affect your brain and cause cravings even if you’ve decided to stop drinking. Your intentions must translate into behavior changes that help you avoid triggers.
+:::
 
 ::: callout
 ### Reflection

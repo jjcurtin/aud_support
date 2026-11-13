@@ -13,14 +13,16 @@ This tool is most effective when you compare **short-term and long-term** benefi
 
 ## Decisional Balance Worksheet
 
-|                 | Benefits / Pros | Costs / Cons |
-|-----------------|-----------------|--------------|
-| **Recovery**    |                 |              |
-|                 |                 |              |
-| **Alcohol Use** |                 |              |
-|                 |                 |              |
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/decisional_balance.pdf?raw=true)
 
-::: callout-important
+|             | Benefits / Pros | Costs / Cons |
+|-------------|-----------------|--------------|
+| Recovery    |                 |              |
+| Alcohol Use |                 |              |
+
+: {.tall-cells tbl-colwidths="[20,40,40]"}
+
+::: {.callout-tip}
 ### Tips
 
 -   Work through this in real-life situations rather than only reading it.

@@ -31,7 +31,7 @@ Effective daily strategies:
 
 ## Emotional Pressure Gauge
 
-Check-in with your pressure level today.
+Check in with your pressure level today.
 
 1.  My pressure level (0-10): \_\_\_\_\_
 
@@ -41,7 +41,7 @@ Check-in with your pressure level today.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/pressure.png?raw=true){fig-align="center"}
 
-::: callout
+::: {.callout-tip}
 ## Quick Reset Strategy
 
 When pressure spikes:

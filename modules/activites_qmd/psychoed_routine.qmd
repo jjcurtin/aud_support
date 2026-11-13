@@ -45,8 +45,8 @@ Building a recovery-friendly routine isn’t about rigidity—it’s about creat
 
 -   **Prepare for Changes:** Anticipate routine disruptions—holidays, travel, or social events—and plan strategies to stay on track.
 
-::: callout
+::: {.callout-note}
 ## Remember
 
-A consistent routine is like a safety net for recovery. It supports your physical health, strengthens coping skills, and reduces exposure to triggers. Each day you maintain structure, even small habits, you reinforce your ability to stay sober, manage cravings, and navigate life with confidence.
+A consistent routine is like a safety net for recovery. It supports your physical health, strengthens coping skills, and reduces exposure to triggers. Each day you maintain structure, even through small habits, you reinforce your ability to stay sober, manage cravings, and navigate life with confidence.
 :::
