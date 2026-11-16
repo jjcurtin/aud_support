@@ -14,20 +14,20 @@ This works because urges shift over time. When you stop reinforcing urges with d
 ::: callout
 ### Instructions
 
-Use this script during a craving. Stay with each step for 30-60 seconds.
+Use this script during a craving. Stay with each step for 30–60 seconds.
 
 1.  Name the urge: "I am noticing a strong urge to drink."
 2.  Notice where it shows up in your body.
 3.  Breathe slowly and describe sensations without judging.
 4.  Remind yourself: "This wave will pass."
-5.  Stay with the urge for 2-3 minutes, then choose a safe action.
+5.  Stay with the urge for 2–3 minutes, then choose a safe action.
 :::
 
 ### Practice Record
 
 [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/urge_surfing_practice.pdf?raw=true)
 
-| Trigger | Peak intensity (0-10) | Minutes until it eased | Safe action I chose |
+| Trigger | Peak intensity (0–10) | Minutes until it eased | Safe action I chose |
 |------------------|------------------|------------------|------------------|
 |         |                       |                        |                     |
 |         |                       |                        |                     |

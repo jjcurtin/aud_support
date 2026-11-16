@@ -60,9 +60,7 @@ Examples:
 When the old script shows up, I will:
 
 1.  Notice it
-
 2.  Say my new script
-
 3.  Do this action: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### 6. Mental Rehearsal

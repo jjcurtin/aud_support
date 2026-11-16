@@ -28,7 +28,6 @@ The goal of review is not to judge your day, but to find out useful information.
 : {tbl-colwidths="[40,60]"}
 
 -   **Has this challenge shown up before?**
-
 -   **What response tends to work best?**
 
 ### Reset for Tomorrow

@@ -70,5 +70,5 @@ If symptoms continue or worsen:
 ------------------------------------------------------------------------
 
 ::: {.callout-note title="Remember"}
-Depression is a signal to respond, not something to ignore or face alone
+Depression is a signal to respond, not something to ignore or face alone.
 :::

@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Overconfidence and Recovery
 
-Overconfidence is a common and often subtle risk in recovery from alcohol use disorder. It typically appears as thoughts like: *“I’ve got this under control now,” “Just one wouldn’t be a big deal,” “I’m not like I used to be”*
+Overconfidence is a common and often subtle risk in recovery from alcohol use disorder. It typically appears as thoughts like: *“I’ve got this under control now,” “Just one wouldn’t be a big deal,” “I’m not like I used to be”*.
 
 After a period of stability, it’s natural to feel stronger and more capable. Progress is real, but overconfidence can lead to underestimating risk.
 

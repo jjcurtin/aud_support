@@ -28,7 +28,7 @@ Over time, regular activity builds resilience, routine, and a reliable alternati
 
 Create a range of options so you have something to match your energy and situation.
 
-| Low-effort options (5-15 min) | Moderate options (20-40 min) | Social options |
+| Low-effort options (5–15 min) | Moderate options (20–40 min) | Social options |
 |------------------------|------------------------|------------------------|
 |                               |                              |                |
 |                               |                              |                |
@@ -41,12 +41,9 @@ Create a range of options so you have something to match your energy and situati
 
 Think of this as practice for real-life moments when motivation is low and urges are high.
 
--   Schedule three activity sessions this week (At least one from each column).
-
+-   Schedule three activity sessions this week (at least one from each column).
 -   Treat each session as a planned response, not just exercise
-
 -   Focus on showing up, not doing it perfectly
-
 -   If motivation is low, start smaller (even 5 minutes). Starting is the most important step.
 
 **Remember: Repetition builds confidence and makes healthy responses easier to access under stress.**

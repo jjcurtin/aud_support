@@ -39,7 +39,7 @@ HALT works as a preventive scan for high-risk states. Catching these states earl
 -   **Tired** → Rest, hydrate, reduce stimulation\
 :::
 
-## Quick re-check
+## Quick Re-Check
 
 After taking action:
 

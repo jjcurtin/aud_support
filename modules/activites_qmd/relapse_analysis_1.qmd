@@ -13,15 +13,13 @@ A lapse back to alcohol use does not begin when you take a drink of alcohol. Oft
 ### Instructions
 
 -   Think back to the week leading up to your last lapse.
-
 -   Fill in each category with the events, behaviors, and thoughts you experienced.
-
 -   Reflect on your feelings about each event.
 :::
 
 [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/relapse_analysis_1.pdf?raw=true)
 
-| **Category** | **Events** | **Patterns of Behavior** | Feelings About the Events |
+| **Category** | **Events** | **Patterns of Behavior** | **Feelings About the Events** |
 |-------------------|------------------|------------------|------------------|
 | Work / Career Events |  |  |  |
 | Personal Events |  |  |  |

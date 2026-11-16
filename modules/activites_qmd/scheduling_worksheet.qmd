@@ -11,13 +11,9 @@ embed-resources: TRUE
 This worksheet is designed to help you [plan and track your day](scheduling_reading.html). Use it to build [structure](psychoed_routine.html), balance responsibilities, and make time for recovery activities. Schedule your day for today or tomorrow. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/scheduling.pdf?raw=true)
 
 1.  Start with sleep. Write down the hours you plan to sleep (from \_\_\_ to \_\_\_). Make sure you are getting enough rest.
-
 2.  Fill in each hour. Write what you plan to do during each time block (work, appointments, meals, exercise, recovery activities, relaxation, etc.).
-
 3.  Be realistic. Don’t overload your schedule. Include time for self-care and breaks.
-
 4.  Use the Notes section. Add anything you need to remember about the day, such as special tasks or reflections.
-
 5.  Use the Reminders section. Write important things you want to carry with you (affirmations, goals, triggers to avoid, support contacts).
 :::
 

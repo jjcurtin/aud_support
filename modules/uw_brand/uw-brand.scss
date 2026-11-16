@@ -314,7 +314,9 @@ div.sourceCode { background: $uw-contrast-light; border: 1px solid $uw-contrast-
 .uw-global-bar {
   border-bottom: 1px solid $uw-contrast-light;
   padding: .5rem 0;
-  .uw-global-name-link {
+  .uw-wide { display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+  // "Staff Login" sits at the right of the top bar, like the live site's secondary menu
+  .uw-global-name-link, .uw-staff-login {
     font-family: $uw-font-text;
     font-size: .8125rem;
     font-weight: 500;
@@ -362,6 +364,7 @@ div.sourceCode { background: $uw-contrast-light; border: 1px solid $uw-contrast-
 }
 .uw-nav-list { display: flex; flex-wrap: wrap; gap: 0 1.6rem; }
 .uw-nav-list > li { position: relative; }
+.uw-nav-list > li.uw-nav-secondary { display: none; }  // Staff Login: shown only in the phone menu
 
 .uw-nav-list > li > a,
 .uw-sub-toggle {
@@ -439,6 +442,9 @@ div.sourceCode { background: $uw-contrast-light; border: 1px solid $uw-contrast-
 @media (max-width: 767.98px) {
   .uw-nav .uw-wide { padding: 0; }
   .uw-nav-toggle { display: flex; }
+  .uw-global-bar .uw-staff-login { display: none; }
+  .uw-nav-list > li.uw-nav-secondary { display: block; border-top: 2px solid rgba(255, 255, 255, .6); }
+  .uw-nav-list > li.uw-nav-secondary > a { text-transform: none; font-weight: 400; }
   .uw-nav-list {
     display: none;
     flex-direction: column;

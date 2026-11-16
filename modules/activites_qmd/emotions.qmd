@@ -10,14 +10,11 @@ embed-resources: TRUE
 You don’t need to eliminate emotions, but it’s important to understand and respond to them effectively.
 
 ::: callout
-## Reflect on these Questions
+## Reflect on These Questions
 
 -   What emotions have you noticed recently?
-
 -   Are there feelings you avoid or minimize?
-
 -   How does stress show up physically for you? What about anger, anxiety, and sadness?
-
 -   When you feel strong emotions, what do you usually do?
 :::
 

@@ -24,9 +24,7 @@ The goal is to understand when avoidance is helpful—and when it might be holdi
 ### 1. The Place
 
 -   **Place I avoid:**
-
 -   **Emotions it brings up:**
-
 -   **Intensity (0–10):**
 
 ### 2. What Feels Hard
@@ -47,13 +45,11 @@ The goal is to understand when avoidance is helpful—and when it might be holdi
 ### 4. Short-Term vs Long-Term
 
 -   Short-term benefit of avoiding:
-
 -   Long-term cost of avoiding:
 
-## 5. Reflection
+### 5. Reflection
 
 -   Is this avoidance helping me right now?
-
 -   Might this change in the future?
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/window.jpg?raw=true){fig-align="center"}

@@ -27,13 +27,9 @@ Define your early warning system:
 I will leave when I reach:
 
 -   [ ] Level 4\
-
 -   [ ] Level 5\
-
 -   [ ] Level 6\
-
 -   [ ] Level 7\
-
 -   [ ] Other: \_\_\_\_\_\_\_
 
 **Why this level?**

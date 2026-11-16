@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-## Personal Emergency Plan
+# Personal Emergency Plan
 
 Use this worksheet to prepare for [high-risk situations](psychoed_risky_situation.html). Review it regularly and use it during moments of craving or stress. 
 

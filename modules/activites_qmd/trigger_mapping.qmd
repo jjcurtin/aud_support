@@ -35,13 +35,13 @@ Select all that apply:
 
 ## 3. Thoughts in the Moment
 
-What went through your mind?
+-   **What went through your mind?**
 
 ------------------------------------------------------------------------
 
 ## 4. Feelings 
 
-What were you feeling? Rate the intensity (0-10).
+What were you feeling? Rate the intensity (0–10).
 
 | Emotion | Rating (0–10) |
 |---------|---------------|
@@ -76,41 +76,35 @@ Describe briefly:
 Select any that apply:
 
 -   [ ] Called/texted someone\
-
 -   [ ] Had a non-alcoholic drink\
-
 -   [ ] Left early\
-
 -   [ ] Distracted myself\
-
 -   [ ] Urge surfing\
-
 -   [ ] Deep breathing\
-
 -   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
 
--   **Effectiveness (0–10):** \_\_\_\_\_
+**Effectiveness (0–10):** \_\_\_\_\_
 
 ------------------------------------------------------------------------
 
 ## 8. Outcome
 
 -   **How did you feel afterward?**
-
 -   **Any consequences (positive or negative)?**
 
 ------------------------------------------------------------------------
 
 ## 9. What Helped / What Didn’t
 
-### What helped:
-
-### What didn’t help:
+-   **What helped:**\
+-   **What didn’t help:**
 
 ------------------------------------------------------------------------
 
-::: callout
 ## 10. Plan for Next Time
+
+::: callout
+### Three things I'll do differently next time
 
 1.  
 

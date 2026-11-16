@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-## Alcohol Scripts in the Workplace
+# Alcohol Scripts in the Workplace
 
 ::: {.callout-note appearance="simple"}
 “Alcohol scripts” are automatic beliefs and habits about when, why, and how we drink. In work contexts, they’re often shaped by:
@@ -34,7 +34,7 @@ For people choosing abstinence:
 
 ### 1. Identify a High-Risk Work Situation
 
-Think of a specific moment where you feel the urge to drink. *Examples: after a long day, difficult meeting, happy hour, travel*
+Think of a specific moment where you feel the urge to drink. *Examples: after a long day, difficult meeting, happy hour, travel.*
 
 Write your scenario: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -67,7 +67,6 @@ Pause and separate the urge from the need.
 Reflect honestly:
 
 -   What happens when I follow this script and drink?
-
 -   What are the short-term vs. longer-term effects?
 
 ### 5. Challenge the Script
@@ -78,7 +77,7 @@ Reflect honestly:
 
 ### 6. Create an Abstinence-Supporting Script
 
-Replace the old thought with one aligned to your goal. *Examples: “Drinking won’t actually fix this—I need real rest,” “This urge will pass, even if it’s uncomfortable,” “I don’t drink, especially when I’m stressed,” “I can unwind without alcohol”*
+Replace the old thought with one aligned to your goal. *Examples: “Drinking won’t actually fix this—I need real rest,” “This urge will pass, even if it’s uncomfortable,” “I don’t drink, especially when I’m stressed,” “I can unwind without alcohol.”*
 
 My new script: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
