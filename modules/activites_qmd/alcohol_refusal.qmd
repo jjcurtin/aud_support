@@ -23,7 +23,7 @@ Describe a realistic scenario where you might be offered a drink:
 
 ## 2. Pressure Level
 
--   How much pressure do you expect (0–10)? **\_\_\_\_\_**
+-   How much pressure do you expect (0–10)? []{.blank}
 
 What type of pressure?
 
@@ -31,7 +31,7 @@ What type of pressure?
 -   [ ] Social (“Everyone’s doing it”)\
 -   [ ] Persistent (“Come on, just one”)\
 -   [ ] Subtle/implicit\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ Check what approach you used:
 -   [ ] Deflection (“I’ve got an early morning”)\
 -   [ ] Humor\
 -   [ ] Change the subject\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Check what approach you used:
 -   [ ] Relaxed posture\
 -   [ ] No apologizing
 
-How confident did it feel (0–10)? **\_\_\_\_\_**
+How confident did it feel (0–10)? []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ What will you do immediately after refusing?
 -   [ ] Get a non-alcoholic drink\
 -   [ ] Talk to someone supportive\
 -   [ ] Change activity/location\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 

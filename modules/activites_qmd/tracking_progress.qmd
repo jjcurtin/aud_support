@@ -26,7 +26,7 @@ It is important for both you and your counselor to know where you are in the rec
 [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/tracking_progress.pdf?raw=true)
 
 
-Month: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Year: \_\_\_\_\_\_\_\_\_\_\_\_
+Month: []{.blank} Year: []{.blank}
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|

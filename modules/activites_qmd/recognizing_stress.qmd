@@ -15,18 +15,18 @@ Stress occurs when the demands you place on yourself (or those placed on you) be
 
 Place a ✔ next to any of the symptoms you have experienced in the past 30 days.
 
-☐ Sleep problems (difficulty falling asleep, waking during the night, nightmares, waking too early)\
-☐ Headaches\
-☐ Stomach problems\
-☐ Chronic illness\
-☐ Fatigue (feeling very tired)\
-☐ Moodiness\
-☐ Irritability\
-☐ Difficulty concentrating\
-☐ General dissatisfaction with life\
-☐ Feeling overwhelmed
+-   [ ] Sleep problems (difficulty falling asleep, waking during the night, nightmares, waking too early)\
+-   [ ] Headaches\
+-   [ ] Stomach problems\
+-   [ ] Chronic illness\
+-   [ ] Fatigue (feeling very tired)\
+-   [ ] Moodiness\
+-   [ ] Irritability\
+-   [ ] Difficulty concentrating\
+-   [ ] General dissatisfaction with life\
+-   [ ] Feeling overwhelmed
 
-Total number of items checked: \_\_\_\_\_\_\_
+Total number of items checked: []{.blank}
 
 If you checked two or more items, you may need to make changes in your life to reduce your stress level. Becoming aware of stress is the first step toward managing it.
 

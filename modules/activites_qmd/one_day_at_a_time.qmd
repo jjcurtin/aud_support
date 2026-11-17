@@ -40,7 +40,7 @@ Today, I will:
 
 **5. Complete this sentence:**
 
--   “Today, I only need to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”
+-   “Today, I only need to []{.blank}.”
 :::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/sunrise.jpg?raw=true){fig-align="center"}

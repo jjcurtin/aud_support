@@ -27,7 +27,7 @@ Think of a recent or upcoming holiday, celebration, or special event and then re
 -   [ ] Frustration from lack of time to meet responsibilities\
 -   [ ] Coping with high-risk celebrations (e.g., New Year’s Eve)\
 -   [ ] Extra free time without structure\
--   [ ] **Other:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] **Other:** []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Think of a recent or upcoming holiday, celebration, or special event and then re
 
 Count the number of items you checked:
 
-**Total: \_\_\_\_\_\_**
+**Total:** []{.blank}
 
 ------------------------------------------------------------------------
 

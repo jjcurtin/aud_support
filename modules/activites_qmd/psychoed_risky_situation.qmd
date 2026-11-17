@@ -5,9 +5,9 @@ embed-resources: TRUE
 
 # Risky Situations and Recovery
 
-In recovery, some situations naturally increase the chance of cravings, slips, or lapses. These are often called risky situations—moments, environments, or experiences that can challenge your sobriety. Recognizing these situations and preparing for them is a key part of staying committed to recovery.
+In recovery, some situations naturally increase the chance of cravings, slips, or lapses. These are often called risky situations — moments, environments, or experiences that can challenge your sobriety. Recognizing these situations and preparing for them is a key part of staying committed to recovery.
 
-Risky situations don’t mean you have to avoid life or stop enjoying yourself—they simply signal when extra planning, awareness, and coping strategies are needed.
+Risky situations don’t mean you have to avoid life or stop enjoying yourself — they simply signal when extra planning, awareness, and coping strategies are needed.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/tightrope.png?raw=true){fig-align="center"}
 

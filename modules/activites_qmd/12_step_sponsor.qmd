@@ -60,7 +60,7 @@ You choose a sponsor by simply asking, but it’s important to choose carefully.
 - Is someone you respect and relate to  
 
 
-::: {.callout-important}
+::: {.callout-tip}
 
 ### Getting Started
 
@@ -70,7 +70,7 @@ You choose a sponsor by simply asking, but it’s important to choose carefully.
 
 - Ask when you feel ready  
 
-**Important: Choose someone you are not romantically interested in.**
+**Important:** Choose someone you are not romantically interested in.
 
 :::
 

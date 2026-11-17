@@ -5,14 +5,15 @@ embed-resources: TRUE
 
 # Alcohol Scripts in the Workplace
 
-::: {.callout-note appearance="simple"}
 “Alcohol scripts” are automatic beliefs and habits about when, why, and how we drink. In work contexts, they’re often shaped by:
 
 -   Workplace culture (happy hours, client events)
 -   Social expectations (“this is how we network”)
 -   Stress and emotional fatigue
 
+::: {.callout-note appearance="simple"}
 A common pattern is: **Trigger (stress) → Thought (“I need a drink”) → Behavior (drinking) → Short-term relief**
+:::
 
 This pattern is powerful because:
 
@@ -27,7 +28,6 @@ For people choosing abstinence:
 -   Replace drinking with healthier coping strategies
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/workstress.png?raw=true){fig-align="center"}
-:::
 
 [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/scripts_work.pdf?raw=true)
 
@@ -36,31 +36,31 @@ For people choosing abstinence:
 
 Think of a specific moment where you feel the urge to drink. *Examples: after a long day, difficult meeting, happy hour, travel.*
 
-Write your scenario: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Write your scenario: []{.blank .full}
 
 ### 2. Notice the Alcohol Script
 
 What automatic thought shows up? Check or add your own:
 
-☐ “I deserve a drink after today”\
-☐ “This is how I unwind”\
-☐ “I can’t relax without it”\
-☐ “It would be awkward not to drink”\
-☐ “Just one won’t hurt”\
-☐ “Everyone else is doing it”\
-☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] “I deserve a drink after today”\
+-   [ ] “This is how I unwind”\
+-   [ ] “I can’t relax without it”\
+-   [ ] “It would be awkward not to drink”\
+-   [ ] “Just one won’t hurt”\
+-   [ ] “Everyone else is doing it”\
+-   [ ] Other: []{.blank}
 
 ### 3. Identify the Underlying Need
 
 Pause and separate the urge from the need.
 
-☐ Stress relief\
-☐ Emotional release\
-☐ Rest\
-☐ Connection\
-☐ Reward\
-☐ Escape\
-☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Stress relief\
+-   [ ] Emotional release\
+-   [ ] Rest\
+-   [ ] Connection\
+-   [ ] Reward\
+-   [ ] Escape\
+-   [ ] Other: []{.blank}
 
 ### 4. Understand the Cycle
 
@@ -77,9 +77,9 @@ Reflect honestly:
 
 ### 6. Create an Abstinence-Supporting Script
 
-Replace the old thought with one aligned to your goal. *Examples: “Drinking won’t actually fix this—I need real rest,” “This urge will pass, even if it’s uncomfortable,” “I don’t drink, especially when I’m stressed,” “I can unwind without alcohol.”*
+Replace the old thought with one aligned to your goal. *Examples: “Drinking won’t actually fix this — I need real rest,” “This urge will pass, even if it’s uncomfortable,” “I don’t drink, especially when I’m stressed,” “I can unwind without alcohol.”*
 
-My new script: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+My new script: []{.blank .medium}
 
 ### 7. Plan a Replacement Action
 
@@ -87,17 +87,17 @@ Choose a specific, go-to alternative for that situation.
 
 After work stress:
 
-☐ Take a 10–15 minute decompression break (walk, music, silence)\
-☐ Shower or change environments to signal “work is done”
+-   [ ] Take a 10–15 minute decompression break (walk, music, silence)\
+-   [ ] Shower or change environments to signal “work is done”
 
 Social/work events:
 
-☐ Bring/order a non-alcoholic drink immediately\
-☐ Prepare a simple response (“I don’t drink”)
+-   [ ] Bring/order a non-alcoholic drink immediately\
+-   [ ] Prepare a simple response (“I don’t drink”)
 
 Emotional overload:
 
-☐ Call/text someone\
-☐ Journal or vent briefly
+-   [ ] Call/text someone\
+-   [ ] Journal or vent briefly
 
-My replacement action: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+My replacement action: []{.blank .medium}

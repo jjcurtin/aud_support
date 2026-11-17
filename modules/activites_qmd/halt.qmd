@@ -44,10 +44,10 @@ HALT works as a preventive scan for high-risk states. Catching these states earl
 After taking action:
 
 -   New levels (0–10):
-    -   Hungry: \_\_\_\_\_
-    -   Angry: \_\_\_\_\_
-    -   Lonely: \_\_\_\_\_
-    -   Tired: \_\_\_\_\_
+    -   Hungry: []{.blank}
+    -   Angry: []{.blank}
+    -   Lonely: []{.blank}
+    -   Tired: []{.blank}
 -   What changed?
 
 ::: {.callout-note title="Remember"}

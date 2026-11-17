@@ -1,0 +1,500 @@
+---
+format: html
+embed-resources: TRUE
+---
+
+# Activity Style Guide
+
+This page is a template and style guide for writing new STAR activities. Every section shows a rule, the markdown to type, and what it looks like on the page. Copy the pieces you need into a new file in `modules/activites_qmd/`, then delete the guide text.
+
+To preview any activity (including this one) with the UW styling, run this in R from the repo root (section 10 covers publishing all activities):
+
+``` r
+source("modules/render_uw.R")
+render_uw("modules/activites_qmd/my_new_activity.qmd")
+
+# or preview this guide:
+render_uw("modules/activity_template.qmd")
+```
+
+::: {.callout-note title="Quick Checklist"}
+1.  One `#` title, then `##` numbered sections, all at the same level.
+2.  Worksheet pages have a PDF link near the word "worksheet."
+3.  One `------` line = red section divider. Two or more under a heading = writing lines.
+4.  Worksheet lists are tight; reading-page lists are loose.
+5.  Checklists contain only `- [ ]` items.
+6.  Use the callout color that matches the job (see the table in section 6).
+7.  End with a "Remember" box if the page has a key takeaway.
+8.  Title Case headings, en dashes for ranges (0–10), spaced em dashes between clauses (pause — then breathe), blank lines (`[]{.blank}`, `.medium`, `.full`) instead of underscores, and say "drinking," not "using."
+:::
+
+------------------------------------------------------------------------
+
+## 1. Page Structure
+
+Every activity follows the same order. Use only the parts the activity needs.
+
+``` markdown
+---
+format: html
+embed-resources: TRUE
+---
+
+# Activity Title
+
+Intro paragraph: why this matters for recovery (2–4 sentences).
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/IMAGE.png?raw=true){fig-align="center"}
+
+------------------------------------------------------------------------
+
+## 1. First Section
+
+...
+
+------------------------------------------------------------------------
+
+## 2. Second Section
+
+...
+
+::: {.callout-note title="Remember"}
+One-sentence takeaway.
+:::
+```
+
+-   **The title** is the only `#` heading on the page. It gets the large title with the red bar. Don't start a page at `##`.
+-   **The intro** is plain text, not a box. If you want to set apart a short framing paragraph, use a simple note box (section 6).
+-   **The image** goes after the intro, before the first section. Don't put an image between a heading and the list that belongs to it.
+-   **The closing "Remember" box** goes last.
+
+------------------------------------------------------------------------
+
+## 2. Headings
+
+-   **Title Case.** Capitalize every word except *a, an, the, and, but, or,* and short prepositions (*to, of, in, on, at, for, by*). Capitalize the first and last word always. Longer words like *About* and *These* are capitalized.
+    -   ✓ "Reflect on These Questions", "Alcohol Scripts About the Weekend", "Do I Need to Write Down My Schedule?", "Quick Re-Check"
+    -   ✗ "Reflect on these questions", "Do I Need To Write…"
+-   **No period** at the end of a heading.
+-   **Numbered sections** are written into the heading (`## 1. Situation`) and every item in the series uses the same heading level. Don't mix `##` and `###` within one numbered series.
+-   **A numbered heading never goes inside a box.** If the section needs a box, put the numbered heading above it and give the box its own smaller `###` heading:
+
+``` markdown
+## 10. Plan for Next Time
+
+::: callout
+### Three Things I'll Do Differently Next Time
+
+1.  
+
+    ------------------------------------------------------------------------
+:::
+```
+
+------------------------------------------------------------------------
+
+## 3. Dividers and Writing Lines
+
+The same markdown line, `------`, is used two ways. The page styling decides which is which by where it sits:
+
+| What you type | What it becomes |
+|---------------------------------------|---------------------------------|
+| A **single** `------` on its own line | A **red divider** between sections |
+| **Two or more** `------` right after a heading | **Gray writing lines** (no divider) |
+| Two or more `------` after text, when the next thing is a heading, box, or end of page | All but the last are writing lines; the **last** becomes the red divider |
+| `------` inside a list item or a box | Always a writing line |
+
+: {tbl-colwidths="[50,50]"}
+
+**Writing lines under a heading:**
+
+``` markdown
+### Reasons for Not Drinking
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+```
+
+### Reasons for Not Drinking
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+**Numbered answer lines.** Put the line inside the numbered item (indent it 4 spaces under a blank number). Don't use `>` as a prompt or rows of underscores.
+
+``` markdown
+Write 2–3 ways you could say no:
+
+1.  
+
+    ------------------------------------------------------------------------
+
+2.  
+
+    ------------------------------------------------------------------------
+```
+
+Write 2–3 ways you could say no:
+
+1.  
+
+    ------------------------------------------------------------------------
+
+2.  
+
+    ------------------------------------------------------------------------
+
+**Fill-in blanks.** Don't type underscores for blanks; they don't fit on small phone screens. Use a blank line instead:
+
+-   `[]{.blank}` gives a short line inside the text, for one-word or number answers: Other: []{.blank}
+-   `[]{.blank .medium}` gives a longer line right after a prompt, for a phrase or one-sentence answer. Use it after a colon, question mark or instruction.
+-   `[]{.blank .full}` gives a full-width line on its own row, when a paragraph or several answers are expected. Stack two or three for more room.
+
+``` markdown
+I will sleep from []{.blank} to []{.blank}
+
+I commit to prioritizing my recovery by: []{.blank .medium}
+
+Describe a time this happened:
+
+[]{.blank .full}
+[]{.blank .full}
+```
+
+I will sleep from []{.blank} to []{.blank}
+
+I commit to prioritizing my recovery by: []{.blank .medium}
+
+Describe a time this happened:
+
+[]{.blank .full}
+[]{.blank .full}
+
+Both kinds shrink to fit the screen, so they never stick out past the edge on a phone.
+
+**Rating scales.** For a 0–10 rating the reader marks or circles, use a row of numbered boxes with the end labels underneath, instead of typing "None 1 2 3 … 10 Extremely High" on one line. Copy this block and change only the two labels. Keep long labels short or split them with `<br>`.
+
+````markdown
+```{=html}
+<div class="uw-scale">
+  <div class="uw-scale-bar"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div>
+  <div class="uw-scale-anchors"><span class="lo">None</span><span class="hi">Extremely<br>High</span></div>
+</div>
+```
+````
+
+```{=html}
+<div class="uw-scale">
+  <div class="uw-scale-bar"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div>
+  <div class="uw-scale-anchors"><span class="lo">None</span><span class="hi">Extremely<br>High</span></div>
+</div>
+```
+
+------------------------------------------------------------------------
+
+## 4. Lists
+
+### Tight on Worksheets, Loose on Reading Pages
+
+-   **Worksheets and exercises** (anything the reader fills in): no blank lines between list items.
+-   **Reading pages** (the `psychoed_*` pages and pages with "reading" in the name): one blank line between items.
+-   **Exception:** if any item has a second paragraph or a sub-list, the list must be loose wherever it is.
+-   Be consistent within a page.
+
+``` markdown
+Tight (worksheet):
+
+-   Pause
+-   Name the feeling
+-   Choose one small release action
+
+Loose (reading page):
+
+-   Cravings are common early in recovery.
+
+-   Most cravings pass within 15–30 minutes.
+
+-   Each craving you ride out weakens the habit.
+```
+
+Tight (worksheet):
+
+-   Pause
+-   Name the feeling
+-   Choose one small release action
+
+Loose (reading page):
+
+-   Cravings are common early in recovery.
+
+-   Most cravings pass within 15–30 minutes.
+
+-   Each craving you ride out weakens the habit.
+
+### Checklists
+
+Every item in a checklist must be a checkbox, or the bullets come back. Put any non-checkbox line (a rating, a "Describe briefly:" prompt) **after** the list as its own line. No periods at the end of checklist items.
+
+``` markdown
+-   [ ] Called/texted someone\
+-   [ ] Left early\
+-   [ ] Urge surfing\
+-   [ ] Other: []{.blank}
+
+**Effectiveness (0–10):** []{.blank}
+```
+
+-   [ ] Called/texted someone\
+-   [ ] Left early\
+-   [ ] Urge surfing\
+-   [ ] Other: []{.blank}
+
+**Effectiveness (0–10):** []{.blank}
+
+### Prompts Under a Numbered Section
+
+When a section has sub-prompts, make them **bold bullets**, not small headings or plain lines:
+
+``` markdown
+## 9. What I Learned
+
+-   **What helped:**\
+-   **What didn't help:**
+```
+
+-   **What helped:**\
+-   **What didn't help:**
+
+------------------------------------------------------------------------
+
+## 5. Worksheet PDF Links
+
+If the activity has a matching PDF in `modules/worksheets/`, link to it with this exact sentence:
+
+``` markdown
+[Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/FILE_NAME.pdf?raw=true)
+```
+
+-   The PDF file name should match the activity file name (`craving_log.qmd` → `craving_log.pdf`). Keep the `?raw=true` at the end.
+-   **Placement:** put the link next to where the page talks about the worksheet: at the end of the sentence that mentions "worksheet," or on its own line **just below** the heading of the worksheet section. Not at the top of the page, and not above the heading.
+-   If the sentence before it ends in a colon (it introduces a list), put the link on its own line after the list instead.
+
+------------------------------------------------------------------------
+
+## 6. Callout Boxes
+
+Use boxes sparingly: they should set something apart, not hold the whole page. Pick the color by the job the box does.
+
+| Type | Color | Use it for | Markdown |
+|------------------|------------------|------------------|------------------|
+| Plain | Gray with red bar | Reflection questions, examples, a short exercise | `::: callout` |
+| Tip | Green | Practical tips, strategies, "try this" steps | `::: {.callout-tip}` |
+| Note | Blue | Key ideas on reading pages; the closing "Remember" | `::: {.callout-note}` |
+| Warning | Gold | Red flags, common triggers, risk warnings | `::: {.callout-warning}` |
+| Important | Red | Crisis steps or must-follow rules (use rarely) | `::: {.callout-important}` |
+
+: {tbl-colwidths="[14,18,40,28]"}
+
+### Box Titles
+
+-   A `###` heading as the first line of a box becomes its title.
+-   Or set the title in the opening line: `::: {.callout-tip title="Tips for Effective Scripts"}`.
+-   A colored box with no title shows a default label ("Tip", "Note"). If you don't want a title, add `appearance="simple"`.
+
+### Examples
+
+``` markdown
+::: callout
+### Reflect on These Questions
+
+-   What emotions have you noticed recently?
+-   Are there feelings you avoid or minimize?
+:::
+```
+
+::: callout
+### Reflect on These Questions
+
+-   What emotions have you noticed recently?
+-   Are there feelings you avoid or minimize?
+:::
+
+``` markdown
+::: {.callout-tip title="Tips for Effective Scripts"}
+-   Keep it short (1 sentence)
+-   Use a calm, steady tone
+:::
+```
+
+::: {.callout-tip title="Tips for Effective Scripts"}
+-   Keep it short (1 sentence)
+-   Use a calm, steady tone
+:::
+
+``` markdown
+::: {.callout-warning title="Common Triggers"}
+-   Seeing other people drinking
+-   Stress at the end of the workday
+:::
+```
+
+::: {.callout-warning title="Common Triggers"}
+-   Seeing other people drinking
+-   Stress at the end of the workday
+:::
+
+``` markdown
+::: {.callout-important}
+### If You Are in Crisis
+
+Call or text **988** any time, day or night.
+:::
+```
+
+::: {.callout-important}
+### If You Are in Crisis
+
+Call or text **988** any time, day or night.
+:::
+
+**Untitled framing note** (for a short intro idea you want set apart):
+
+``` markdown
+::: {.callout-note appearance="simple"}
+Recognizing early signs allows you to respond before things get worse.
+:::
+```
+
+::: {.callout-note appearance="simple"}
+Recognizing early signs allows you to respond before things get worse.
+:::
+
+### The "Remember" Box
+
+A page's key takeaway goes in a blue box titled "Remember," at the end of the page. Don't write "**Remember:**" as bold text in the page, and don't repeat the word inside the box.
+
+``` markdown
+::: {.callout-note title="Remember"}
+Awareness creates a pause. That pause creates choice.
+:::
+```
+
+::: {.callout-note title="Remember"}
+Awareness creates a pause. That pause creates choice.
+:::
+
+### Box Don'ts
+
+-   Don't box some worksheet sections and not others. Either all similar sections are boxed, or (usually better) none are.
+-   Don't put two boxes right next to each other. Combine them or put text between them.
+-   Don't box the intro paragraph. Keep it as plain text and box only a short key point if needed.
+-   Keep a related question with its box: if a box lists suggestions, put the "Which of these might work for you?" question at the bottom inside the box.
+
+------------------------------------------------------------------------
+
+## 7. Tables
+
+Use pipe tables. Set column widths (percentages that add to 100) on a line right after the table:
+
+``` markdown
+| Question                         | My Reflection |
+|----------------------------------|---------------|
+| What challenge showed up today?  |               |
+| How did I respond?               |               |
+
+: {tbl-colwidths="[40,60]"}
+```
+
+| Question                         | My Reflection |
+|----------------------------------|---------------|
+| What challenge showed up today?  |               |
+| How did I respond?               |               |
+
+: {tbl-colwidths="[40,60]"}
+
+-   Bold the header cells consistently: either all or none.
+-   For tables people write in, add `.tall-cells` to give the empty cells more room: `: {.tall-cells tbl-colwidths="[20,40,40]"}`.
+-   Match the column layout of the PDF worksheet when there is one.
+
+------------------------------------------------------------------------
+
+## 8. Images and Links
+
+**Images** come from the repo's images folder through GitHub, centered:
+
+``` markdown
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/IMAGE.png?raw=true){fig-align="center"}
+```
+
+**Links to other activities** use the activity's file name with `.html`, so they work on both the study site and Dionysus:
+
+``` markdown
+Some decisions [do not seem directly relevant to drinking](irrelevant_decisions.html), but nonetheless move you closer to drinking.
+```
+
+The file name must match the name in `modules/activities.csv` exactly, or the page won't be found.
+
+------------------------------------------------------------------------
+
+## 9. Writing Style
+
+**Wording**
+
+-   Write about **alcohol and drinking**: "thoughts about drinking," "when you were drinking," "people who drink heavily." Avoid "drugs," "using," "substances," and "substance use."
+-   Speak to the reader as "you." Keep sentences short and plain.
+
+**Spelling and hyphens**
+
+| Use | Not |
+|----------------------------------|----------------------------------|
+| 12-Step (programs, meetings, sponsor) | 12-step, twelve step |
+| Thought-stopping | thought stopping, Thought Stopping |
+| alcohol-free | alcohol free |
+| one-day-at-a-time approach | one day at a time approach |
+| faraway | far away (as an adjective) |
+
+: {tbl-colwidths="[50,50]"}
+
+**Punctuation**
+
+-   **Ranges** use an en dash (–), not a hyphen: 0–10, 5–15 minutes, 2–3 times a week. On Windows, type Alt+0150, or copy one from this page.
+-   **Dashes between clauses** use an em dash (—) with a space on each side: *Take an easy breath — three slow, deep breaths.* On Windows, type Alt+0151. Don't use a hyphen or an en dash here, and don't leave out the spaces.
+-   **Examples lines** end with a period when more text follows: `*Examples: anxiety, boredom, relief.* What are you concerned might happen?`
+-   **Series of quoted examples** are separated by commas inside the quotes: *“I can enjoy this without drinking,” “I don’t have to do what others are doing,” “I care more about how I feel tomorrow.”*
+-   **Every sentence ends with a period**, including the last line of a box.
+-   **Checklist items** have no period at the end.
+-   **Brand and program names** are capitalized: Headspace, SMART Recovery, Alcoholics Anonymous.
+
+------------------------------------------------------------------------
+
+## 10. Rendering and Publishing
+
+Run these in R with the `aud_support` project open, so paths start from the repo root.
+
+**Preview one page.** The page is saved to `modules/activities_uw_html/`:
+
+``` r
+source("modules/render_uw.R")
+render_uw("modules/activites_qmd/my_new_activity.qmd")
+```
+
+**Publish all activities to Dionysus:**
+
+``` r
+source("modules/render_uw.R")
+render_uw_dir(out_dir = "W:/star_study") #note assumes you have \\dionysus.psych.wisc.edu\web mapped to W:
+```
+
+-   This renders every `.qmd` in `modules/activites_qmd/` and writes the `.html` pages to `out_dir`, replacing the old ones. Without `out_dir`, the pages go to `modules/activities_uw_html/`.
+-   All 100 activities take several minutes.
+-   When it finishes, it prints how many pages rendered and how many failed, and returns a table with one row per file. If any failed, the `error` column says why.
+
+::: {.callout-note title="Remember"}
+When in doubt, find an existing activity that does the same kind of thing and match it.
+:::

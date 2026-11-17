@@ -20,9 +20,9 @@ Go for a walk outside by yourself for 15–20 minutes.
 ::: callout
 #### Step 1: Choose Your Focus
 
-☐ Sounds (noticing near, medium, and faraway sounds)\
-☐ Smells (pleasant and unpleasant)\
-☐ Sights (colors, shapes, sizes, contrasts, sky, ground, surroundings)
+-   [ ] Sounds (noticing near, medium, and faraway sounds)\
+-   [ ] Smells (pleasant and unpleasant)\
+-   [ ] Sights (colors, shapes, sizes, contrasts, sky, ground, surroundings)
 
 You may choose one focus area or explore all three during your walk.
 

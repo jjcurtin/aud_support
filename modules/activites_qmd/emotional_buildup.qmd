@@ -33,7 +33,7 @@ Effective daily strategies:
 
 Check in with your pressure level today.
 
-1.  My pressure level (0–10): \_\_\_\_\_
+1.  My pressure level (0–10): []{.blank}
 2.  What is driving it?
 3.  What is one release action I can take?
 

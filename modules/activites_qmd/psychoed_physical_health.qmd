@@ -4,7 +4,7 @@ format: html
 
 # Physical Health and Recovery
 
-Recovery isn’t just about changing your drinking—it’s also about taking care of your body. When your physical health is neglected, you’re more vulnerable to stress, low mood, and cravings—all of which can increase the risk of a lapse.
+Recovery isn’t just about changing your drinking — it’s also about taking care of your body. When your physical health is neglected, you’re more vulnerable to stress, low mood, and cravings — all of which can increase the risk of a lapse.
 
 On the other hand, paying attention to your physical health is one of the most powerful tools you have for relapse prevention. When your body feels strong, rested, and supported, you have more energy, clearer thinking, and a stronger ability to cope with triggers. Good health creates a solid foundation for recovery, acting like a shield to protect you from the stress and discomfort that often drive slips and lapses.
 
@@ -26,7 +26,7 @@ Sleep plays a critical role in preventing lapses:
 
 -   **Improves Self-Control and Decision-Making:** Sleep strengthens the brain areas responsible for impulse control and planning. When you’re well-rested, it’s easier to resist urges and make choices that support recovery.
 
--   **Regulates Mood:** Poor sleep increases anxiety, irritability, and depression—all common triggers for drinking. Consistent rest stabilizes your mood and helps you manage stress without alcohol.
+-   **Regulates Mood:** Poor sleep increases anxiety, irritability, and depression — all common triggers for drinking. Consistent rest stabilizes your mood and helps you manage stress without alcohol.
 
 -   **Supports Physical Recovery:** Sleep repairs the body, balances hormones, and restores energy, reducing the temptation to use alcohol as a quick fix.
 
@@ -36,7 +36,7 @@ Sleep plays a critical role in preventing lapses:
 
 -   **Sleep as a Priority:** Keep a consistent bedtime, avoid screens before bed, and aim for restorative rest.
 
--   **Eat Balanced Meals:** Don’t skip meals—steady nutrition keeps your energy and mood stable.
+-   **Eat Balanced Meals:** Don’t skip meals — steady nutrition keeps your energy and mood stable.
 
 -   **Move Your Body:** Exercise reduces cravings, lowers stress, and boosts confidence. Even 10–15 minutes a day helps.
 

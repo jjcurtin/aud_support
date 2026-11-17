@@ -5,7 +5,7 @@ embed-resources: TRUE
 
 # Choosing Your Next Step
 
-::: callout
+::: {.callout-note appearance="simple"}
 Recovery is not about forcing yourself into difficult situations. It’s about making intentional choices.
 
 You can either:
@@ -14,9 +14,9 @@ You can either:
 -   Begin gradual, supported re-engagement
 
 Both paths are valid depending on your readiness.
+:::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/startingline.jpg?raw=true){fig-align="center"}
-:::
 
 
 [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/emotional_avoidance_2.pdf?raw=true)
@@ -25,7 +25,12 @@ Both paths are valid depending on your readiness.
 
 How ready do you feel to face this place?
 
--   0 (not ready) → 10 (ready): \_\_\_\_\_
+```{=html}
+<div class="uw-scale">
+  <div class="uw-scale-bar"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div>
+  <div class="uw-scale-anchors"><span class="lo">Not ready</span><span class="hi">Ready</span></div>
+</div>
+```
 
 Why this number?
 
@@ -60,8 +65,8 @@ If you are somewhat ready, choose one:
 
 Complete this sentence:
 
-> “If I feel overwhelmed, I will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ immediately.”
+> “If I feel overwhelmed, I will []{.blank} immediately.”
 
 ### 5. Confidence Check
 
-How confident do you feel about your plan (0–10)? \_\_\_\_\_
+How confident do you feel about your plan (0–10)? []{.blank}

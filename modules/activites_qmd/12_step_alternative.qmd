@@ -54,14 +54,14 @@ What matters most:
 
 ## Your Plan
 
--   Meeting type I will try: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Meeting type I will try: []{.blank}
 
--   When I will go: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   When I will go: []{.blank}
 
--   Support person I can contact: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Support person I can contact: []{.blank}
 
 ::: {.callout-note title="Remember"}
-There are many pathways to recovery—the key is finding one that keeps you connected and supported.
+There are many pathways to recovery — the key is finding one that keeps you connected and supported.
 :::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/supportgroup.png?raw=true){fig-align="center"}

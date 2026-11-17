@@ -7,9 +7,9 @@ embed-resources: TRUE
 
 As you work on changing your drinking, it’s normal to have urges or cravings for alcohol. A craving is when you feel the strong urge to drink, even though you don’t want to. This can show up as thoughts, emotions, or physical sensations that pull you toward drinking, even if part of you wants to stay sober.
 
-![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/underwater.png?raw=true){fig-align="center"}
-
 **Good news:** Cravings are short-lived, predictable, and controllable. With practice, they will get weaker, and you'll feel more confident in handling them when they pop up.
+
+![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/underwater.png?raw=true){fig-align="center"}
 
 ### What Is a Craving?
 
@@ -59,14 +59,14 @@ When you feel a craving, remember: it’s temporary and you can control how you 
 
 2.  **Distract Yourself**: Do something else to take your mind off the craving, like going for a walk, calling a friend, or reading a book.
 
-3.  **Urge Surfing**: Imagine the craving is like a wave—let it build, but know it will crash and pass.
+3.  **Urge Surfing**: Imagine the craving is like a wave — let it build, but know it will crash and pass.
 
 4.  **Reach Out**: Talk to someone you trust, like a sponsor or a friend. Sometimes, just sharing how you feel can help.
 
 ::: {.callout-note}
 ### Remember
 
-It’s completely normal to experience cravings in recovery. But the more you practice coping with them, the easier it will get. Cravings are like visitors—they come and go. With time and practice, you will get better at handling them.
+It’s completely normal to experience cravings in recovery. But the more you practice coping with them, the easier it will get. Cravings are like visitors — they come and go. With time and practice, you will get better at handling them.
 
 By staying sober, even when cravings are strong, you’ll find that the cravings become less powerful and easier to ignore. You’ve got this!
 :::

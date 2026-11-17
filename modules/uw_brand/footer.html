@@ -40,5 +40,15 @@
     }
     document.addEventListener('click', function (e) { if (!e.target.closest('.uw-has-sub')) closeSubs(); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeSubs(); });
+
+    // Wide tables: wrap each in a box that scrolls sideways on small screens,
+    // so the rest of the page doesn't scroll with it
+    Array.prototype.forEach.call(document.querySelectorAll('main table'), function (t) {
+      if (t.parentNode.classList.contains('table-responsive')) return;
+      var w = document.createElement('div');
+      w.className = 'table-responsive';
+      t.parentNode.insertBefore(w, t);
+      w.appendChild(t);
+    });
   })();
 </script>

@@ -18,9 +18,9 @@ In high-risk environments (like bars or parties), scripts can activate quickly a
 
 ### 1. Identify the Situation
 
--   **Risky environment:**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
--   **When do you go there?**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
--   **Who are you usually with?**\ \_\_\_\_\_\_\_\_\_\_\_\_\_ 
+-   **Risky environment:** []{.blank}
+-   **When do you go there?** []{.blank}
+-   **Who are you usually with?** []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Check any that apply:
 -   [ ] “I’ll feel more comfortable if I drink.”\
 -   [ ] “Just one won’t hurt.”\
 -   [ ] “I deserve this.”\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Put your typical thought into one sentence:
 ### 4. Notice the Impact
 
 -   When this thought shows up, what do you tend to do?\
--   How strong is the urge that follows (0–10)? **\_\_\_\_\_**
+-   How strong is the urge that follows (0–10)? []{.blank}
 
 ------------------------------------------------------------------------
 

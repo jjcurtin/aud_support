@@ -34,7 +34,7 @@ The goal of review is not to judge your day, but to find out useful information.
 
 **Complete this sentence:**
 
-> “Tomorrow, when \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ happens, I will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”
+> “Tomorrow, when []{.blank} happens, I will []{.blank}.”
 
 ::: callout
 ### If today didn’t go as planned:

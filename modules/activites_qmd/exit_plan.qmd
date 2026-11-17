@@ -30,7 +30,7 @@ I will leave when I reach:
 -   [ ] Level 5\
 -   [ ] Level 6\
 -   [ ] Level 7\
--   [ ] Other: \_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 **Why this level?**
 
@@ -40,7 +40,7 @@ I will leave when I reach:
 
 Complete this sentence:
 
-“If I notice \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, I will leave immediately.”
+“If I notice []{.blank}, I will leave immediately.”
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ When I hit my threshold:
 
 ### Step 1: Internal Decision (no debate)
 
-I remind myself: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+I remind myself: []{.blank .medium}
 
 ### Step 2: Quick Exit Behavior
 
@@ -59,7 +59,7 @@ Choose your default action:
 -   [ ] Stand up and gather belongings\
 -   [ ] Walk directly to exit\
 -   [ ] Text/call ride\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Pick ONE simple phrase you will always use:
 -   [ ] “I’ve got to head out.”\
 -   [ ] “Early morning tomorrow.”\
 -   [ ] “Not feeling great, I’m leaving.”\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ Check any that apply to you:
 -   [ ] “I don’t want to be rude.”\
 -   [ ] “I can handle it.”\
 -   [ ] Waiting for a ‘perfect’ moment.\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ::: callout
 ## Exit Rehearsal

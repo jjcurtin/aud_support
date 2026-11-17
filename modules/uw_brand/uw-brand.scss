@@ -159,6 +159,37 @@ li > hr:only-child {
 ul > li:has(> ol:only-child) { list-style: none; }
 ul > li > ol:only-child { padding-left: 0; }
 
+// Fill-in blanks, in place of underscores:
+//   []{.blank}        short line inside the text (Other: ___, 0–10: ___)
+//   []{.blank .medium} longer line after a prompt (a phrase or one sentence)
+//   []{.blank .full}  full-width line on its own row (longer answers)
+// Both are capped at the width of the screen, so they never overflow.
+.blank {
+  display: inline-block;
+  width: 7em;
+  max-width: 100%;
+  height: 1.2em;
+  border-bottom: 1px solid $uw-border;
+  vertical-align: baseline;
+}
+.blank.medium { width: 18em; }   // []{.blank .medium}  one-line answer right after a prompt
+.blank.full {
+  display: block;
+  width: 100%;
+  height: 1.9rem;
+}
+
+// 0–10 rating scale (see reasons_for_abstinence): a row of numbered boxes
+// with bold end labels left-aligned under 0 and right-aligned under 10
+.uw-scale { max-width: 38rem; margin: 1rem 0 1.5rem; }
+.uw-scale-bar, .uw-scale-anchors { display: grid; grid-template-columns: repeat(11, 1fr); }
+.uw-scale-bar { border: 1px solid $uw-border; border-radius: .375rem; overflow: hidden; }
+.uw-scale-bar span { text-align: center; padding: .6rem 0; border-right: 1px solid $uw-border; font-size: 1.0625rem; }
+.uw-scale-bar span:last-child { border-right: 0; }
+.uw-scale-anchors span { font-weight: 700; font-size: .75rem; line-height: 1.2; margin-top: .375rem; white-space: nowrap; }
+.uw-scale-anchors .lo { grid-column: 1; justify-self: start; }
+.uw-scale-anchors .hi { grid-column: 11; justify-self: end; text-align: right; }
+
 // `------` used between sections (tagged by uw-dividers.lua): UW red
 hr.uw-divider {
   border-top: 2px solid $uw-red;

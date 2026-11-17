@@ -29,7 +29,7 @@ Select all that apply:
 -   [ ] Environmental (smell, music, location)\
 -   [ ] Routine/Habit (after work, weekends, celebrations)\
 -   [ ] Thought-based (e.g., “I deserve a drink”)\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ What were you feeling? Rate the intensity (0–10).
 
 ## 5. Urge Level
 
--   Rate your urge to drink (0–10): **\_\_\_\_\_**
+-   Rate your urge to drink (0–10): []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Select one or more:
 -   [ ] Did not drink\
 -   [ ] Left situation\
 -   [ ] Used coping skill\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 Describe briefly:
 
@@ -81,9 +81,9 @@ Select any that apply:
 -   [ ] Distracted myself\
 -   [ ] Urge surfing\
 -   [ ] Deep breathing\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
-**Effectiveness (0–10):** \_\_\_\_\_
+**Effectiveness (0–10):** []{.blank}
 
 ------------------------------------------------------------------------
 

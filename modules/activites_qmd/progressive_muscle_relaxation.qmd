@@ -15,6 +15,8 @@ PMR is a body-based calming tool that can reduce the body's stress mode (fight-o
 
 **Practice with this seven-minute [guided PMR video](https://www.youtube.com/watch?v=rJ-i1BVLawc) by Headspace.**
 
+::: {.callout-tip}
 *Pay attention to how your body feels before and after. Even a small drop in tension is progress.*
+:::
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/relaxation.jpg?raw=true){fig-align="center"}

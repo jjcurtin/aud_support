@@ -7,7 +7,7 @@ embed-resources: TRUE
 
 A daily routine, including your regular patterns of sleep, work, meals, exercise, and leisure, plays a central role in recovery. Stable routines create structure, reduce stress, and make it easier to avoid situations that trigger cravings or lapses. Without routine, it’s easy to feel overwhelmed, bored, or unprepared, which can increase the risk of returning to old drinking habits.
 
-Building a recovery-friendly routine isn’t about rigidity—it’s about creating consistency and predictability in your life to support sobriety.
+Building a recovery-friendly routine isn’t about rigidity — it’s about creating consistency and predictability in your life to support sobriety.
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/routine.jpg?raw=true){fig-align="center"}
 
@@ -43,7 +43,7 @@ Building a recovery-friendly routine isn’t about rigidity—it’s about creat
 
 -   **Balance Work and Leisure:** Avoid overloading yourself, which can cause stress, but also avoid too much unstructured time, which can invite cravings.
 
--   **Prepare for Changes:** Anticipate routine disruptions—holidays, travel, or social events—and plan strategies to stay on track.
+-   **Prepare for Changes:** Anticipate routine disruptions — holidays, travel, or social events — and plan strategies to stay on track.
 
 ::: {.callout-note}
 ## Remember

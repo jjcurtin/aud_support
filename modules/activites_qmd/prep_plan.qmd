@@ -20,9 +20,9 @@ Use this worksheet before entering a [risky situation](psychoed_risky_situation.
 
 ## 2. Risk Level
 
--   How risky does this feel (0–10)? **\_\_\_\_\_**
+-   How risky does this feel (0–10)? []{.blank}
 
-Why? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Why? []{.blank .medium}
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Check all that apply:
 -   [ ] Time of day\
 -   [ ] Alcohol availability\
 -   [ ] Social pressure\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ My goal is:
 -   [ ] Stay sober\
 -   [ ] Limit time there\
 -   [ ] Practice coping skills\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
@@ -76,22 +76,22 @@ What will you do if urges arise?
 
 ## 6. Drink Plan
 
--   What will you drink instead? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
--   How will you decline alcohol? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+-   What will you drink instead? []{.blank}\
+-   How will you decline alcohol? []{.blank}\
 
 ------------------------------------------------------------------------
 
 ## 7. Support System
 
--   Who can you contact if needed? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
--   Will someone attend with you? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Who can you contact if needed? []{.blank}\
+-   Will someone attend with you? []{.blank}
 
 ------------------------------------------------------------------------
 
 ## 8. Time Limit
 
--   Planned arrival: \_\_\_\_\_\_\_\_\_\_\
--   Planned departure: \_\_\_\_\_\_\_\_\_\_
+-   Planned arrival: []{.blank}\
+-   Planned departure: []{.blank}
 
 ![](https://github.com/jjcurtin/aud_support/blob/main/modules/images/timer.png?raw=true){fig-align="center"}
 
@@ -105,12 +105,12 @@ What will signal it’s time to leave?
 -   [ ] Stress or anxiety\
 -   [ ] Social pressure\
 -   [ ] Fatigue\
--   [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   [ ] Other: []{.blank}
 
 ------------------------------------------------------------------------
 
 ## 10. Commitment
 
-I commit to prioritizing my recovery by: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+I commit to prioritizing my recovery by: []{.blank .medium}
 
 ------------------------------------------------------------------------
