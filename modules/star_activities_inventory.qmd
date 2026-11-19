@@ -1,0 +1,124 @@
+---
+title: "STAR Recovery Activities Inventory"
+from: markdown+autolink_bare_uris
+format:
+  html:
+    embed-resources: true
+    page-layout: full
+    include-in-header:
+      text: |
+        <style>
+          main.content { grid-column: screen-start-inset / screen-end-inset !important; }
+          main table { font-size: 0.85rem; }
+          main table { display: block; overflow-x: auto; }
+          main table td:first-child, main table td:last-child { white-space: nowrap; }
+          main table a { word-break: normal; overflow-wrap: normal; }
+        </style>
+---
+
+Source: `modules/activities.csv` and the `#` heading of each activity qmd (aud_support repo). Features are the model features each activity is assigned to. URLs are the rendered pages on Dionysus.
+
+| activity_qmd | activity_name | type | features_gps | features_ema | url |
+|---|---|---|---|---|---|
+| 12_step_alternative.qmd | Alternatives to 12-Step Programs | psychoed reading | locs_aa |  | https://dionysus.psych.wisc.edu/star_study/12_step_alternative.html |
+| 12_step_intro.qmd | Introduction to 12-Step Programs | psychoed reading | locs_aa |  | https://dionysus.psych.wisc.edu/star_study/12_step_intro.html |
+| 12_step_sponsor.qmd | Introduction to Sponsors | psychoed reading | locs_aa |  | https://dionysus.psych.wisc.edu/star_study/12_step_sponsor.html |
+| alcohol_refusal.qmd | Refusal Skills Practice | exercise* | locs_alcohol |  | https://dionysus.psych.wisc.edu/star_study/alcohol_refusal.html |
+| alcohol_script_1.qmd | Noticing Alcohol Scripts | worksheet* | locs_alcohol, locs_avoid, locs_drank, locs_risk | past_risky, future_risky | https://dionysus.psych.wisc.edu/star_study/alcohol_script_1.html |
+| alcohol_script_2.qmd | Rewriting Alcohol Scripts | worksheet* | locs_alcohol, locs_avoid, locs_drank, locs_risk | past_risky, future_risky | https://dionysus.psych.wisc.edu/star_study/alcohol_script_2.html |
+| anger.qmd | Managing Anger |  |  | activated_na | https://dionysus.psych.wisc.edu/star_study/anger.html |
+| assertiveness.qmd | Assertiveness in Recovery | exercise* | locs_alcohol, locs_drank, locs_risk, locs_friends | future_risky | https://dionysus.psych.wisc.edu/star_study/assertiveness.html |
+| body_scan.qmd | Noticing Physical Sensations | exercise* | locs_emotion_mixed | craving, activated_na | https://dionysus.psych.wisc.edu/star_study/body_scan.html |
+| boredom.qmd | Understanding Boredom in Recovery | worksheet | locs_emotion_pleas | pleasant_events, deactivated_na | https://dionysus.psych.wisc.edu/star_study/boredom.html |
+| compassionate_u_turn.qmd | Compassionate U-Turn |  |  | past_use | https://dionysus.psych.wisc.edu/star_study/compassionate_u_turn.html |
+| considering_self_help_groups.qmd | Self-Help Groups |  | locs_aa |  | https://dionysus.psych.wisc.edu/star_study/considering_self_help_groups.html |
+| craving_log.qmd | Urges Log | worksheet |  | craving | https://dionysus.psych.wisc.edu/star_study/craving_log.html |
+| craving_plan.qmd | Craving Plan | exercise |  | craving | https://dionysus.psych.wisc.edu/star_study/craving_plan.html |
+| craving_triggers.qmd | Craving Triggers | exercise |  | craving | https://dionysus.psych.wisc.edu/star_study/craving_triggers.html |
+| daily_review.qmd | Daily Reflection | worksheet* |  | efficacy_motivation, abstinence_goal | https://dionysus.psych.wisc.edu/star_study/daily_review.html |
+| decisional_balance.qmd | Pros and Cons of Alcohol Use vs. Recovery | worksheet* | locs_alcohol, locs_drank | efficacy_motivation, abstinence_goal, past_use | https://dionysus.psych.wisc.edu/star_study/decisional_balance.html |
+| depression.qmd | Coping With Depression in Recovery | exercise* |  | pleasant_events, deactivated_na | https://dionysus.psych.wisc.edu/star_study/depression.html |
+| emergency_plan.qmd | Personal Emergency Plan | worksheet | locs_alcohol, locs_avoid, locs_drank, locs_risk, evenings_out | future_risky | https://dionysus.psych.wisc.edu/star_study/emergency_plan.html |
+| emotional_avoidance_1.qmd | Understanding Emotional Avoidance | worksheet* | locs_emotion_pleas, locs_emotion_unpleas |  | https://dionysus.psych.wisc.edu/star_study/emotional_avoidance_1.html |
+| emotional_avoidance_2.qmd | Choosing Your Next Step | worksheet* | locs_emotion_pleas, locs_emotion_unpleas |  | https://dionysus.psych.wisc.edu/star_study/emotional_avoidance_2.html |
+| emotional_buildup.qmd | Emotional Buildup | exercise* | locs_emotion_mixed | past_stressors, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/emotional_buildup.html |
+| emotional_locs.qmd | Reflecting on Decisions: Emotional Places | exercise* | locs_emotion_mixed |  | https://dionysus.psych.wisc.edu/star_study/emotional_locs.html |
+| emotional_triggers_1.qmd | Emotional Triggers |  | locs_emotion_mixed | past_stressors, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/emotional_triggers_1.html |
+| emotional_triggers_2.qmd | Understanding Emotions |  | locs_emotion_mixed | past_stressors, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/emotional_triggers_2.html |
+| emotions.qmd | Understanding Your Feelings |  | locs_emotion_mixed | activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/emotions.html |
+| exit_plan.qmd | Exit Plan | worksheet* | locs_alcohol, locs_avoid, locs_drank, locs_risk | future_risky | https://dionysus.psych.wisc.edu/star_study/exit_plan.html |
+| finances.qmd | Finances and Recovery |  | locs_work |  | https://dionysus.psych.wisc.edu/star_study/finances.html |
+| friends.qmd | Reflecting on Decisions: Time with Friends | exercise* | locs_friends |  | https://dionysus.psych.wisc.edu/star_study/friends.html |
+| grounding.qmd | 5-4-3-2-1 Grounding Exercise | exercise | locs_emotion_mixed | past_stressors, future_stressors, activated_na | https://dionysus.psych.wisc.edu/star_study/grounding.html |
+| halt.qmd | HALT: Hungry, Angry, Lonely, Tired | worksheet* | locs_aa | past_stressors, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/halt.html |
+| illness.qmd | Illness |  | locs_healthcare |  | https://dionysus.psych.wisc.edu/star_study/illness.html |
+| internal_triggers.qmd | Internal Triggers | exercise* | locs_emotion_mixed | craving, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/internal_triggers.html |
+| irrelevant_decisions.qmd | Seemingly Irrelevant Decisions | psychoed reading | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_emotion_pleas, locs_emotion_unpleas, locs_risk, locs_friends, locs_home, locs_restaurant, locs_work, evenings_out, day_of_week, location_variance | past_risky, future_risky, future_stressors | https://dionysus.psych.wisc.edu/star_study/irrelevant_decisions.html |
+| justification_celebration.qmd | Exploring Relapse Justifications: Celebrating | exercise* | locs_alcohol, locs_drank, locs_risk | past_risky, future_risky | https://dionysus.psych.wisc.edu/star_study/justification_celebration.html |
+| justification_emotions.qmd | Exploring Relapse Justifications: Negative Emotions | exercise* | locs_emotion_mixed | activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/justification_emotions.html |
+| justification_reading.qmd | Relapse Justification | psychoed reading* | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_risk, evenings_out | efficacy_motivation, past_risky, future_risky, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/justification_reading.html |
+| justification_testing.qmd | Exploring Relapse Justifications: Testing | exercise* | locs_alcohol, locs_avoid, locs_drank, locs_risk, evenings_out | past_risky | https://dionysus.psych.wisc.edu/star_study/justification_testing.html |
+| making_new_friends_1.qmd | Making New Friends in Recovery | exercise* | locs_friends | pleasant_events | https://dionysus.psych.wisc.edu/star_study/making_new_friends_1.html |
+| making_new_friends_2.qmd | Making New Friends |  | locs_friends | pleasant_events | https://dionysus.psych.wisc.edu/star_study/making_new_friends_2.html |
+| mindful_breathing.qmd | Mindful Breathing | exercise | locs_emotion_mixed | past_stressors, future_stressors, activated_na | https://dionysus.psych.wisc.edu/star_study/mindful_breathing.html |
+| mindfulness_reading.qmd | Introduction to Mindfulness | psychoed reading | locs_emotion_mixed | past_stressors, future_stressors, activated_na | https://dionysus.psych.wisc.edu/star_study/mindfulness_reading.html |
+| motivation_for_recovery.qmd | Motivation for Recovery | exercise* |  | efficacy_motivation | https://dionysus.psych.wisc.edu/star_study/motivation_for_recovery.html |
+| noticing_walk.qmd | Noticing Walk | exercise | locs_emotion_mixed | past_stressors, future_stressors, activated_na | https://dionysus.psych.wisc.edu/star_study/noticing_walk.html |
+| occasions_1.qmd | Special Occasions and Recovery | worksheet* |  | future_risky | https://dionysus.psych.wisc.edu/star_study/occasions_1.html |
+| occasions_2.qmd | Special Occasions and Drinking Associations | worksheet* |  | future_risky, pleasant_events | https://dionysus.psych.wisc.edu/star_study/occasions_2.html |
+| one_day_at_a_time.qmd | One Day at a Time | worksheet* |  | efficacy_motivation, abstinence_goal, past_use | https://dionysus.psych.wisc.edu/star_study/one_day_at_a_time.html |
+| overconfidence.qmd | Overconfidence and Recovery |  | locs_alcohol, locs_avoid, locs_drank |  | https://dionysus.psych.wisc.edu/star_study/overconfidence.html |
+| physical_activity.qmd | Physical Activity for Recovery Stability | exercise* | locs_healthcare |  | https://dionysus.psych.wisc.edu/star_study/physical_activity.html |
+| prep_plan.qmd | Planning for Risky Situations | worksheet* | locs_alcohol, locs_avoid, locs_drank, locs_risk, evenings_out | future_risky | https://dionysus.psych.wisc.edu/star_study/prep_plan.html |
+| progressive_muscle_relaxation.qmd | Progressive Muscle Relaxation | exercise* |  | craving, past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/progressive_muscle_relaxation.html |
+| psychoed_abstinence_goal.qmd | Understanding Ambivalence About Abstinence | psychoed reading |  | abstinence_goal | https://dionysus.psych.wisc.edu/star_study/psychoed_abstinence_goal.html |
+| psychoed_craving.qmd | Understanding Cravings | psychoed reading |  | craving | https://dionysus.psych.wisc.edu/star_study/psychoed_craving.html |
+| psychoed_future_efficacy.qmd | Building Confidence in Recovery | psychoed reading |  | efficacy_motivation | https://dionysus.psych.wisc.edu/star_study/psychoed_future_efficacy.html |
+| psychoed_past_use.qmd | Slips or Lapses in Recovery | psychoed reading |  | past_use | https://dionysus.psych.wisc.edu/star_study/psychoed_past_use.html |
+| psychoed_physical_health.qmd | Physical Health and Recovery | psychoed reading | locs_healthcare |  | https://dionysus.psych.wisc.edu/star_study/psychoed_physical_health.html |
+| psychoed_pleasant_event.qmd | Pleasant Events and Celebration | psychoed reading |  | pleasant_events | https://dionysus.psych.wisc.edu/star_study/psychoed_pleasant_event.html |
+| psychoed_relationships.qmd | Relationships | psychoed reading | locs_friends |  | https://dionysus.psych.wisc.edu/star_study/psychoed_relationships.html |
+| psychoed_risky_situation.qmd | Risky Situations and Recovery | psychoed reading | locs_alcohol, locs_avoid, locs_drank, locs_risk, locs_restaurant, evenings_out, day_of_week | past_risky, future_risky | https://dionysus.psych.wisc.edu/star_study/psychoed_risky_situation.html |
+| psychoed_routine.qmd | Routine and Recovery | psychoed reading | locs_home, location_variance |  | https://dionysus.psych.wisc.edu/star_study/psychoed_routine.html |
+| psychoed_stressful_event.qmd | Stress and Recovery | psychoed reading | locs_work | past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/psychoed_stressful_event.html |
+| psychoed_support_seeking.qmd | Support Seeking in Recovery | psychoed reading | locs_aa |  | https://dionysus.psych.wisc.edu/star_study/psychoed_support_seeking.html |
+| psychoed_valence_arousal.qmd | Emotions and Recovery | psychoed reading | locs_emotion_mixed, locs_emotion_pleas, locs_emotion_unpleas | activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/psychoed_valence_arousal.html |
+| reasons_for_abstinence.qmd | Reasons for Not Drinking | worksheet |  | efficacy_motivation, abstinence_goal, past_use | https://dionysus.psych.wisc.edu/star_study/reasons_for_abstinence.html |
+| recognizing_stress.qmd | Recognizing Stress | exercise* |  | past_stressors | https://dionysus.psych.wisc.edu/star_study/recognizing_stress.html |
+| recovery_checklist.qmd | Reflecting on Your Recovery Journey | worksheet |  | efficacy_motivation | https://dionysus.psych.wisc.edu/star_study/recovery_checklist.html |
+| recovery_planning.qmd | Recovery Planning Worksheet | worksheet |  | efficacy_motivation, abstinence_goal | https://dionysus.psych.wisc.edu/star_study/recovery_planning.html |
+| recreation.qmd | Recreational Activities | exercise* |  | pleasant_events, deactivated_na | https://dionysus.psych.wisc.edu/star_study/recreation.html |
+| reducing_stress.qmd | Reducing Stress | exercise* |  | past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/reducing_stress.html |
+| relapse_analysis_1.qmd | Relapse Analysis Activity | worksheet |  | past_use | https://dionysus.psych.wisc.edu/star_study/relapse_analysis_1.html |
+| relapse_analysis_2.qmd | Relapse Analysis Activity | worksheet |  | past_use | https://dionysus.psych.wisc.edu/star_study/relapse_analysis_2.html |
+| relapse_drift_reading.qmd | Relapse Drift: Reading and Self-Assessment | psychoed reading | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_risk, locs_home, locs_restaurant, locs_work, evenings_out, location_variance | efficacy_motivation, past_risky, future_risky, past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/relapse_drift_reading.html |
+| relapse_drift_worksheet_1.qmd | Interrupting Relapse Drift | worksheet | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_risk, locs_home, locs_restaurant, locs_work, evenings_out, location_variance | efficacy_motivation, past_risky, future_risky, past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/relapse_drift_worksheet_1.html |
+| relapse_drift_worksheet_2.qmd | Recovery Re-Engagement Plan | worksheet | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_risk, locs_home, locs_restaurant, locs_work, evenings_out, location_variance | efficacy_motivation, past_risky, future_risky, past_stressors, future_stressors | https://dionysus.psych.wisc.edu/star_study/relapse_drift_worksheet_2.html |
+| repairing_relationships.qmd | Repairing Relationships |  | locs_aa, locs_friends |  | https://dionysus.psych.wisc.edu/star_study/repairing_relationships.html |
+| restaurants.qmd | Reflecting on Decisions: Restaurants | exercise* | locs_restaurant |  | https://dionysus.psych.wisc.edu/star_study/restaurants.html |
+| risky_locations.qmd | Reflecting on Decisions: Risky Locations | exercise | locs_alcohol, locs_avoid, locs_drank, locs_risk, locs_home, evenings_out, location_variance | future_risky, future_stressors | https://dionysus.psych.wisc.edu/star_study/risky_locations.html |
+| scheduling_reading.qmd | The Importance of Scheduling | psychoed reading | locs_home, day_of_week, location_variance |  | https://dionysus.psych.wisc.edu/star_study/scheduling_reading.html |
+| scheduling_worksheet.qmd | Scheduling Worksheet | worksheet | locs_home, day_of_week, location_variance |  | https://dionysus.psych.wisc.edu/star_study/scheduling_worksheet.html |
+| scripts_evening_out.qmd | Alcohol Scripts in Nighttime Settings | exercise* | evenings_out |  | https://dionysus.psych.wisc.edu/star_study/scripts_evening_out.html |
+| scripts_weekend.qmd | Alcohol Scripts About the Weekend | exercise* | day_of_week |  | https://dionysus.psych.wisc.edu/star_study/scripts_weekend.html |
+| scripts_work.qmd | Alcohol Scripts in the Workplace | worksheet* | locs_work |  | https://dionysus.psych.wisc.edu/star_study/scripts_work.html |
+| self_care.qmd | Self-Care as Relapse Prevention | exercise* | locs_healthcare |  | https://dionysus.psych.wisc.edu/star_study/self_care.html |
+| self_talk.qmd | Self-Talk | exercise |  | efficacy_motivation, craving | https://dionysus.psych.wisc.edu/star_study/self_talk.html |
+| smart_not_strong.qmd | Smart, Not Strong | worksheet* | locs_alcohol, locs_avoid, locs_drank, locs_risk, locs_home, evenings_out, location_variance | past_risky, future_risky | https://dionysus.psych.wisc.edu/star_study/smart_not_strong.html |
+| spirituality.qmd | Spirituality and Meaning |  |  | efficacy_motivation | https://dionysus.psych.wisc.edu/star_study/spirituality.html |
+| staying_busy.qmd | Staying Busy with Purpose |  | day_of_week | deactivated_na | https://dionysus.psych.wisc.edu/star_study/staying_busy.html |
+| taking_care_of_self.qmd | Taking Care of Yourself | exercise* | locs_healthcare |  | https://dionysus.psych.wisc.edu/star_study/taking_care_of_self.html |
+| thought_stopping_1.qmd | Thought-Stopping | worksheet |  | craving | https://dionysus.psych.wisc.edu/star_study/thought_stopping_1.html |
+| thought_stopping_2.qmd | Thought-Stopping Continued | worksheet |  | craving | https://dionysus.psych.wisc.edu/star_study/thought_stopping_2.html |
+| three_conscious_breaths.qmd | Take Three Conscious Breaths | exercise | locs_emotion_mixed | past_stressors, future_stressors, activated_na | https://dionysus.psych.wisc.edu/star_study/three_conscious_breaths.html |
+| tracking_progress.qmd | Tracking Progress | worksheet |  | efficacy_motivation, past_use | https://dionysus.psych.wisc.edu/star_study/tracking_progress.html |
+| trigger_behavior_record.qmd | Tracking Triggers, Thoughts, and Behaviors | worksheet |  | efficacy_motivation, past_use | https://dionysus.psych.wisc.edu/star_study/trigger_behavior_record.html |
+| trigger_mapping.qmd | Trigger Mapping | worksheet* | locs_alcohol, locs_drank |  | https://dionysus.psych.wisc.edu/star_study/trigger_mapping.html |
+| trigger_thought_craving_reading.qmd | Trigger-Thought-Craving-Use | psychoed reading |  | craving | https://dionysus.psych.wisc.edu/star_study/trigger_thought_craving_reading.html |
+| triggers.qmd | Understanding and Identifying Triggers | exercise | locs_alcohol, locs_avoid, locs_drank, locs_emotion_mixed, locs_risk, locs_home, locs_restaurant, locs_work, evenings_out, day_of_week, location_variance | craving, past_risky, future_risky, past_stressors, future_stressors, past_use, activated_na, deactivated_na | https://dionysus.psych.wisc.edu/star_study/triggers.html |
+| urge_surfing.qmd | Urge Surfing | reading and reflection |  | craving | https://dionysus.psych.wisc.edu/star_study/urge_surfing.html |
+| urge_surfing_practice.qmd | Urge Surfing Practice | exercise |  | craving | https://dionysus.psych.wisc.edu/star_study/urge_surfing_practice.html |
+| weekend_plans.qmd | Reflecting on Decisions: Weekend Plans | exercise | day_of_week |  | https://dionysus.psych.wisc.edu/star_study/weekend_plans.html |
+| work.qmd | Reflecting on Decisions: Work | exercise* | locs_work |  | https://dionysus.psych.wisc.edu/star_study/work.html |
+
+\* guessed from similar
