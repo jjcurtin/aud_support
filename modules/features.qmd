@@ -1,72 +1,61 @@
 ---
-title: "features"
+title: "Feature Categories"
 format: html
 ---
 
-## Feature categories
 
-<!--JC still needs to update his script to separate locs_emotion feats and combine locs_risk-->
+Higher scores on these features are risks unless otherwise noted at protective.  Feature names are aligned with direction that feature is scored.
 
-<!--combining recs for efficacy motivation recent and week-->
+1.  Time at locations with alcohol
 
+2.  Time at locations to avoid
 
-1.  Locations with alcohol
+3.  Time at locations with past drinking
 
-2.  Locations to avoid
+4.  Locations with mixed emotions 
 
-3.  Locations with past drinking
+5.  Time at locations with pleasant emotions (protective)
 
-4.  Locations with mixed emotions (still currently mixed with next two loc emotion feats)
+6.  Time at locations with unpleasant emotions (protective)
 
-5.  Locations with pleasant emotions (not going to pleasant is risk)
+7.  Time at locations that are risky
 
-6.  Locations with unpleasant emotions (NOTgoing to unpleasant is risk)
+8.  Time at locations with AA (protective)
 
-7.  Locations that are risky
+9.  Time at locations with friends (protective)
 
-8.  AA (protective)
-
-9.  Friends (protective)
-
-
-10. Healthcare (protective)
+10. Time at locations with Healthcare (protective)
 
 11. Time at home (protective)
 
-12. Restaurants
+12. Time at restaurants
 
 13. Time at work
 
+14. Self-report of LOW future efficacy/motivation (NOTE: High scores on item 10 from survey mean LOW motivation/efficacy) 
 
-14. Future efficacy/motivation
+15. Self-report of abstinence goal
 
-15. Abstinence goal
+16. Self-report of craving
 
-16. Craving
+17. Self-report of past risky situations
 
-17. Past risky situations
+18. Self-report of future risky situations
 
-18. Future risky situations
+19. Self-report of past stressors or hassles
 
-19. Past stressors or hassles
+20. Self-report of future stressors or hassles
 
-20. Future stressors or hassles
+21. Self-report of pleasant events (protective)
 
+22. Self-report of past use
 
-21. Highly pleasant events (risk factor)
+23. Self-report of activated negative affect (e.g., high scores: angry, low scores: relaxed)
 
+24. Self-report of activated positive affect (protective;  e.g., high scores:elated, low scores: depressed)
 
-22. Average pleasant events (protective)
+25. Time in evenings out of home
 
+26. Day of week (i.e., weekends are risk)
 
-23. Past use
-
-24. Activated negative affect (angry)
-
-25. Deactivated negative affect (depressed)
-
-26. Evenings out
-
-27. Day of week
-
-28. Location variance (risk)
+27. Location variance (risk)
