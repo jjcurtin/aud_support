@@ -4,7 +4,7 @@ format: html
 ---
 
 
-Higher scores on these features are risks unless otherwise noted at protective.  Feature names are aligned with direction that feature is scored.
+Higher scores on these features are risks unless otherwise noted as protective.  Feature names are aligned with direction that feature is scored.
 
 1.  Time at locations with alcohol
 
@@ -34,7 +34,7 @@ Higher scores on these features are risks unless otherwise noted at protective. 
 
 14. Self-report of LOW future efficacy/motivation (NOTE: High scores on item 10 from survey mean LOW motivation/efficacy) 
 
-15. Self-report of abstinence goal
+15. Self-report of abstinence goal (protective)
 
 16. Self-report of craving
 
