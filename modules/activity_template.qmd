@@ -5,13 +5,13 @@ embed-resources: TRUE
 
 # Activity Style Guide
 
-This page is a template and style guide for writing new STAR activities. Every section shows a rule, the markdown to type, and what it looks like on the page. Copy the pieces you need into a new file in `modules/activites_qmd/`, then delete the guide text.
+This page is a template and style guide for writing new STAR activities. Every section shows a rule, the markdown to type, and what it looks like on the page. Copy the pieces you need into a new file in `modules/activities_qmd/`, then delete the guide text.
 
 To preview any activity (including this one) with the UW styling, run this in R from the repo root (section 10 covers publishing all activities):
 
 ``` r
 source("modules/render_uw.R")
-render_uw("modules/activites_qmd/my_new_activity.qmd")
+render_uw("modules/activities_qmd/my_new_activity.qmd")
 
 # or preview this guide:
 render_uw("modules/activity_template.qmd")
@@ -481,7 +481,7 @@ Run these in R with the `aud_support` project open, so paths start from the repo
 
 ``` r
 source("modules/render_uw.R")
-render_uw("modules/activites_qmd/my_new_activity.qmd")
+render_uw("modules/activities_qmd/my_new_activity.qmd")
 ```
 
 **Publish all activities to Dionysus:**
@@ -491,7 +491,7 @@ source("modules/render_uw.R")
 render_uw_dir(out_dir = "W:/star_study") #note assumes you have \\dionysus.psych.wisc.edu\web mapped to W:
 ```
 
--   This renders every `.qmd` in `modules/activites_qmd/` and writes the `.html` pages to `out_dir`, replacing the old ones. Without `out_dir`, the pages go to `modules/activities_uw_html/`.
+-   This renders every `.qmd` in `modules/activities_qmd/` and writes the `.html` pages to `out_dir`, replacing the old ones. Without `out_dir`, the pages go to `modules/activities_uw_html/`.
 -   All 100 activities take several minutes.
 -   When it finishes, it prints how many pages rendered and how many failed, and returns a table with one row per file. If any failed, the `error` column says why.
 

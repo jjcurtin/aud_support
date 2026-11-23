@@ -20,8 +20,8 @@
 #
 # Usage (from the aud_support project root):
 #   source("modules/render_uw.R")
-#   render_uw("modules/activites_qmd/urge_surfing_practice.qmd")
-#   render_uw_dir("modules/activites_qmd")            # all qmd files
+#   render_uw("modules/activities_qmd/urge_surfing_practice.qmd")
+#   render_uw_dir("modules/activities_qmd")            # all qmd files
 # ---------------------------------------------------------------------------
 
 library(purrr)
@@ -165,7 +165,7 @@ render_uw <- function(input,
 }
 
 #' Render every qmd in a folder; returns a tibble of results
-render_uw_dir <- function(in_dir = file.path("modules", "activites_qmd"),
+render_uw_dir <- function(in_dir = file.path("modules", "activities_qmd"),
                           out_dir = uw_defaults$out_dir,
                           pattern = "\\.qmd$",
                           ...) {
@@ -187,6 +187,6 @@ render_uw_dir <- function(in_dir = file.path("modules", "activites_qmd"),
 
 # Example -------------------------------------------------------------------
 # source("modules/render_uw.R")
-# render_uw("modules/activites_qmd/urge_surfing_practice.qmd", quiet = FALSE)
+# render_uw("modules/activities_qmd/urge_surfing_practice.qmd", quiet = FALSE)
 # results <- render_uw_dir()
 # results |> dplyr::filter(!is.na(error))
