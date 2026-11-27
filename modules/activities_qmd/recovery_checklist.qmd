@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Reflecting on Your Recovery Journey
+# Recovery Progress Checklist
 
 This activity gives you a chance to notice the changes you’ve already made in your recovery. By checking the behaviors you practice and thinking about new actions you might try, you can celebrate your progress and identify areas to focus on next. Use this worksheet as a guide to reflect on what’s working well and where you might want to grow.
 

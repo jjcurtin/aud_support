@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Exploring Relapse Justifications: Negative Emotions
+# Exploring Justifications for Drinking: Negative Emotions
 
 Relapse doesn’t begin with drinking — it begins with thinking. By learning to recognize and challenge [relapse justifications](justification_reading.html) early, you can interrupt the process and protect your recovery.
 

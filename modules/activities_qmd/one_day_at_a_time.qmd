@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# One Day at a Time
+# Daily Commitment Card
 
 Thinking too far into the future can trigger overwhelm (“I can’t do this forever”). The one-day-at-a-time approach reduces that pressure by narrowing your focus to **what you can control right now**. 
 

@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Daily Reflection
+# Learning From the Day
 
 Recovery strengthens when daily planning is paired with daily review. Review helps you learn from real situations and prevents small slips from turning into larger setbacks. 
 

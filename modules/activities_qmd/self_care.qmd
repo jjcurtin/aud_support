@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Self-Care as Relapse Prevention
+# Covering the Basics: Sleep, Food, and Rest
 
 [Self-care](psychoed_physical_health.html) is not indulgence; it is risk management. Sleep loss, poor nutrition, inactivity, and chronic stress increase emotional reactivity and cravings. When baseline health drops, relapse risk rises.
 

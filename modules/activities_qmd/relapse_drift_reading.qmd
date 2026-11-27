@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Relapse Drift: Reading and Self-Assessment
+# Noticing Drift in Recovery: Reading and Self-Assessment
 
 Relapse is usually a process, not a single event. Many people notice a gradual "drift" first: less structure, fewer recovery contacts, more secrecy, more risky environments, and more permission-giving thoughts. Catching drift early is one of the most effective prevention skills.
 

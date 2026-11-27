@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Relapse Justification
+# Justifications for Drinking
 
 Once a person decides not to drink alcohol anymore, how do they end up drinking again? Do relapses happen completely by accident? Or are there warning signs and ways to avoid relapse?
 

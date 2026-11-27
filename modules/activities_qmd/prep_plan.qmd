@@ -3,7 +3,7 @@ format: html
 embed-resources: TRUE
 ---
 
-# Planning for Risky Situations
+# Planning Ahead for Challenging Events
 
 Use this worksheet before entering a [risky situation](psychoed_risky_situation.html) to reduce risk and increase control. [Click here to open this worksheet as a PDF.](https://github.com/jjcurtin/aud_support/blob/main/modules/worksheets/prep_plan.pdf?raw=true)
 
