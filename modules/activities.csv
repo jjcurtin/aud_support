@@ -9,7 +9,7 @@ anger,,,,,,,,,,,,,,,,,,,,,,,12,,,,,,,matrix,TRUE
 assertiveness,17,,16,,,,14,,6,,,,,,,,,14,,,,,,,,,,,,matrix,TRUE
 body_scan,,,,13,,,,,,,,,,,,16,,,,,,,8,,,,,,,matrix,TRUE
 boredom,,,,,5,,,,,,,,,,,,,,,,2,,,3,,,,,worksheet,matrix,TRUE
-compassionate_u_turn,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,TRUE
+compassionate_u_turn,,,,,,,,,,,,,,,9,,,,,,,4,,,,,,,,,TRUE
 considering_self_help_groups,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 craving_log,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,worksheet,cbt coping skills,TRUE
 craving_plan,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
@@ -41,7 +41,7 @@ making_new_friends_1,,,,,,,,,2,,,,,,,,,,,,3,,,,,,,,,matrix,TRUE
 making_new_friends_2,,,,,,,,,5,,,,,,,,,,,,6,,,,,,,,,,TRUE
 mindful_breathing,,,,5,,,,,,,,,,,,,,,3,3,,,6,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
 mindfulness_reading,,,,2,,,,,,,,,,,,,,,2,2,,,2,,,,,,psychoed reading,SST,FALSE
-motivation_for_recovery,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,matrix,TRUE
+motivation_for_recovery,,,,,,,,,,,,,,13,7,,,,,,,,,,,,,,,matrix,TRUE
 noticing_walk,,,,4,,,,,,,,,,,,,,,6,6,,,3,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
 occasions_1,,,,,,,,,,,,,,,,,,17,,,,,,,,,,,,matrix,TRUE
 occasions_2,,,,,,,,,,,,,,,,,,18,,,7,,,,,,,,,matrix,TRUE
@@ -52,7 +52,7 @@ prep_plan,8,6,7,,,,6,,,,,,,,,,,6,,,,,,,6,,,,,,TRUE
 progressive_muscle_relaxation,,,,,,,,,,,,,,,,18,,,14,12,,,,,,,,,,,TRUE
 psychoed_abstinence_goal,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_craving,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
-psychoed_future_efficacy,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
+psychoed_future_efficacy,,,,,,,,,,,,,,1,8,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_past_use,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_physical_health,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,psychoed reading,LLM-assisted,FALSE
 psychoed_pleasant_event,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,psychoed reading,LLM-assisted,FALSE
@@ -84,13 +84,13 @@ scripts_work,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,TRUE
 self_care,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 self_talk,,,,,,,,,,,,,,8,,3,,,,,,,,,,,,,exercise,cbt coping skills,TRUE
 smart_not_strong,10,8,9,,,,8,,,,7,,,,,,3,8,,,,,,,7,,7,,,matrix,TRUE
-spirituality,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,matrix,TRUE
+spirituality,,,,,,,,,,,,,,15,10,,,,,,,,,,,,,,,matrix,TRUE
 staying_busy,,,,,,,,,,,,,,,,,,,,,,,,8,,4,,,,matrix,TRUE
 taking_care_of_self,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,matrix,TRUE
 thought_stopping_1,,,,,,,,,,,,,,,,6,,,,,,,,,,,,after trigger_thought_craving_reading.qmd,worksheet,matrix,TRUE
 thought_stopping_2,,,,,,,,,,,,,,,,9,,,,,,,,,,,,after thought_stopping_1.qmd,worksheet,matrix,TRUE
 three_conscious_breaths,,,,9,,,,,,,,,,,,,,,5,5,,,4,,,,,after mindfulness_reading.qmd,exercise,SST,TRUE
-tracking_progress,,,,,,,,,,,,,,5,,,,,,,,3,,,,,,,worksheet,matrix,TRUE
+tracking_progress,,,,,,,,,,,,,,5,11,,,,,,,3,,,,,,,worksheet,matrix,TRUE
 trigger_behavior_record,,,,,,,,,,,,,,7,,,,,,,,7,,,,,,,worksheet,cbt coping skills,TRUE
 trigger_mapping,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE
 trigger_thought_craving_reading,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,psychoed reading,matrix,FALSE
