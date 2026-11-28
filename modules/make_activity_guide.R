@@ -1,4 +1,4 @@
-# mak_activity_guide.R --------------------------------------------------------
+# make_activity_guide.R --------------------------------------------------------
 # Builds a readable PDF guide to the recovery activities from the two files
 # the code uses, so the guide is never out of date:
 #   modules/activity_descriptions.csv  title, type, url, involves, benefits
@@ -16,7 +16,7 @@
 # tidyverse.
 #
 # Usage (from the aud_support project root):
-#   source("modules/mak_activity_guide.R")
+#   source("modules/make_activity_guide.R")
 # -----------------------------------------------------------------------------
 
 library(tidyverse)
